@@ -95,6 +95,10 @@ Every program claim must carry one of these statuses:
 - **NQ:** the proposed type-separated exact causal frontier failed its offline
   two-case parity gate. The observation history was observation→observation;
   the effect history was effect→observation. The rule changed only one case.
+- **LR:** one passive model-managed exact-residency interface elicited no
+  management action in two calls. The actor reread resident candidate bytes;
+  after a small rejection receipt accumulated, the compact pending-result
+  control packet was 45 tokens over capacity and was never model-visible.
 
 ### Mechanisms insufficient alone on the tested trajectory
 
@@ -129,7 +133,8 @@ These are local boundaries, not universal impossibility results.
   multiple same-type observations without recreating growing chronology;
 - **IN:** bounded model-authored working notes as behavioral continuity state;
 - **UT:** specialized note compaction;
-- **UT:** model-managed exact residency;
+- **IN:** model-managed exact residency beyond the tested passive optional
+  interface;
 - **UT:** source-bound semantic digests;
 - **UT:** deterministic chronology folding beyond exact-body replacement;
 - **UT:** bounded semantic control/progress state; and
@@ -452,6 +457,39 @@ third focus placement, richer residency directory, or additional one-shot
 host-selected subset is selected. The next distinct branch is ongoing
 model-managed exact residency.
 
+### Experiment M4 — optional model-managed exact residency
+
+Status: completed; no residency action and terminal control-packet censoring.
+
+Use the one authentic post-R033 effect trajectory from Q5. Preserve the exact
+task, candidate, four governing sources, candidate suffix, R033 observation,
+model/runtime, tools, 20,992-token prompt allowance, and 4,096-token response
+reserve. Keep the admitted patch effect externally exact. Add only a compact
+mechanical object directory and `workspace_open`, `workspace_release`, and
+`workspace_pin`; automatic eviction remains disabled. Recompose a fresh exact
+workspace after each action for at most six calls.
+
+Observed result: call 1 used 20,583 prompt tokens and requested a whole-file
+read of the target, which was rejected by the inherited 12,000-byte transfer
+limit. The 227-token exact rejection result entered call 2 at 20,935 tokens.
+Call 2 requested R031 even though those bytes were already resident within the
+candidate suffix. The exact R031 result required 23,923 tokens if resident and
+was kept external pending. Its compact next control packet was 21,037 tokens,
+45 above the frozen allowance, so no third call occurred. Workspace actions:
+0; mutations: 0; submissions: 0.
+
+This is a local negative for passive optional controls and a reachability
+qualification for the interface. It does not test the quality of Qwen's
+retention preferences because no workspace choice occurred and the model never
+saw the pending-result state. Do not repair this run by post-hoc label shaving.
+A new model-managed formulation would need a prospectively guaranteed control
+margin or a separately isolated maintenance decision.
+
+M4 closes the immediate exact-layout sequence. The next distinct candidate is
+source-bound semantic digestion at the repeated-source reopen boundary, using
+a simple bounded text surface rather than another strict JSON frontier. No
+measured successor is active.
+
 ## Result-dependent routing
 
 The program is adaptive rather than a fixed eight-experiment queue.
@@ -466,6 +504,7 @@ The program is adaptive rather than a fixed eight-experiment queue.
 | Compact currentness reduces resident rereads | recurrent compact-directory transfer before adding semantic state |
 | A recently delivered effect/observation is displaced | bounded exact causal frontier |
 | A legible exact workspace still has selection pressure | model-managed exact residency |
+| Passive optional workspace controls are unused or become unreachable under pressure | stop directory tuning; require a guaranteed control margin or separate maintenance mode before another model-managed test |
 | A bounded note is reliable and exact residency is legible | fixed-total-budget substitutive note test |
 | A useful note fills and replacement value is established | specialized note compaction |
 | Stable evidence remains resident but acquisition continues without progress | bounded control/progress state |
@@ -500,6 +539,11 @@ Give the actor exact object identities, sizes, residency, and a hard workspace
 budget plus `OPEN`, `PIN`, and `RELEASE`. The host owns bytes and enforcement;
 the model owns only retention preference. This tests semantic residency
 selection without semantic compression.
+
+The first passive optional formulation did not reach that comparison: no
+management action occurred and the pending-result control state was censored.
+Any successor must first prove that the management surface remains reachable
+after ordinary result accumulation; another richer directory is ineligible.
 
 ### C. Bounded model-authored working note
 

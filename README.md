@@ -18,14 +18,13 @@ Claim-level custody and promotion status are recorded in
 Each measured experiment remains a separately frozen, auditable repository.
 Adding a candidate mechanism here does not authorize or promote it.
 
-Current route: frontier-interface tuning is closed after the final
-closure-safe qualification failed 0/2 under its frozen complete-object gate.
-The H08 two-case design also failed parity because type-separated observation
-and effect slots change only the effect case. Its one-case diagnostic then
-failed the exact capacity gate before inference: preserving both complete
-updates produced 21,113 prompt tokens, 121 beyond the frozen allowance. A
-post-hoc minimal deterministic label still missed by 23 tokens, so the result
-was not merely verbose custody metadata. Zero GPU calls were made.
-Host-selected exact-layout tuning is now closed at these
-endpoints. Ongoing model-managed exact residency remains the next distinct
-candidate branch, but no successor is active.
+Current route: host-selected exact-layout and frontier-schema tuning are
+closed at the tested endpoints. The first passive model-managed exact-residency
+formulation also failed to qualify an ongoing policy: Qwen made no residency
+action in two calls, reread exact bytes already resident, and the compact state
+announcing its later pending result was itself 45 tokens over the frozen
+allowance. The model never saw that pending state, so this is not a FIFO
+comparison or a general disproof of model-managed residency.
+
+The next distinct candidate is source-bound semantic digestion at the observed
+repeated-source reopen boundary. No measured successor is active.

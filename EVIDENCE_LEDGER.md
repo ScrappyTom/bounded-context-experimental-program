@@ -29,9 +29,10 @@ hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
 | E16 | LR | closure-safe structured-frontier expression | All 10 returned prose values were complete and all 8 handles were exact, but both calls length-terminated; one object omitted a required field and one used 331 tokens with wrong keys. The runtime grammar omitted declared string-length bounds. | 0/2 complete interface acceptance; no actor calls. This closes local schema-expression tuning without isolating model semantics from the live schema/provider path. | [closed-frontier result](https://github.com/ScrappyTom/qwen38-closed-frontier-expression-qualification-v0/commit/cde5d344f81ae3af6bc5e4c3838454b7b9a0d758) |
 | E17 | NQ | type-separated exact causal slots | Offline audit found observation→observation displacement in one case and effect→observation displacement in the other. One observation slot plus one effect slot changes only the latter. | Planned two-case causal contrast ineligible; zero GPU calls. | [H08 eligibility audit](audits/H08_EXACT_CAUSAL_FRONTIER_ELIGIBILITY.md) |
 | E18 | AF | one-case exact effect + observation co-residency | The donor baseline reproduced at 19,790 prompt tokens (+1,202 headroom). The frozen complete-effect treatment produced 21,113 (-121); even a post-hoc minimal deterministic label remained at 21,015 (-23). | Physical eligibility only; zero model calls and no behavioral conclusion. Fitting requires another packet-content change. | [cross-type capacity audit](https://github.com/ScrappyTom/qwen38-cross-type-update-residency-v0/commit/7911cd88f82871e9176098e46913298b9cd28fa9) |
+| E19 | LR | optional model-managed exact residency | In one trajectory Qwen made no `OPEN`/`RELEASE`/`PIN` action and instead requested candidate bytes already resident. After a 227-token rejection receipt accumulated, the compact packet announcing a later pending exact result was 45 tokens over the allowance and was not sent. | One trajectory and one passive interface. The model never saw the pending-result state, so selection quality versus FIFO was not tested. | [model-managed result](https://github.com/ScrappyTom/qwen38-model-managed-exact-residency-v0/commit/bac9f52b38da0bccfeb65ae57b513e758f9e91db) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
-| H03 | UT | model-managed exact residency | Model retention choices may improve on FIFO under a hard exact budget. | Requires a stable exact-state baseline and observed selection pressure. | — |
+| H03 | IN | model-managed exact residency | The tested passive optional directory/action interface did not elicit a residency choice before capacity censoring. | Does not compare model selection with FIFO: no management action occurred and the pending-result control packet was never model-visible. | E19 |
 | H04 | UT | source-bound digest | A version-bound digest may reduce repeated raw reopening without unacceptable semantic loss. | Requires an observed source-specific reopen cost. | — |
 | H05 | UT | progress/frontier state | Bounded model-authored progress may improve acquisition stopping or closure. | Requires reasonably stable evidence residency first. | — |
 | H06 | UT | bounded decomposition | Fresh bounded task frames may scale beyond one global working set. | Must independently test cross-frame integration quality. | — |
@@ -82,7 +83,19 @@ or shortening the effect would have added a second treatment. Zero model/GPU
 calls were made. A post-hoc minimal deterministic label remained 23 tokens over
 capacity, ruling out the obvious verbose-wrapper explanation.
 
-Fixed host-selected layout tuning is now closed at these endpoints. No deeper
-recent-N causal tail is selected. Ongoing model-managed exact residency under
-a hard host-enforced budget remains the next distinct candidate branch, but no
-experiment is active after this blocker.
+Fixed host-selected layout tuning is closed at these endpoints. No deeper
+recent-N causal tail is selected.
+
+H03's first ongoing model-managed formulation is also complete. The actor used
+0/2 measured decisions for residency management, reread exact candidate bytes
+already resident, and then could not be shown the pending-result state because
+the compact packet was 45 tokens over the frozen allowance. This is a local
+negative for passive optional controls and an apparatus reachability limit,
+not a comparison of model-selected residency with FIFO.
+
+Do not repair H03 by merely shrinking labels or adding another directory. A
+future management study would need a prospectively guaranteed control margin
+or a separately isolated maintenance decision and would be a new treatment.
+The next distinct candidate branch is H04 source-bound semantic digestion at
+the already observed repeated-source reopen boundary. No measured experiment
+is active.
