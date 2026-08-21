@@ -85,6 +85,9 @@ Every program claim must carry one of these statuses:
 - **LR:** accumulating both model-selected exact target spans still produced no
   construction. The observation actor expanded to nonresident R028–R029; the
   effect actor repeated the immediately preceding second focus exactly.
+- **LR:** a lightly structured frontier schema repaired normal output closure
+  and the 320-token bound in 2/2 maintenance cases, but direct audit found six
+  incomplete prose fields and one truncated exact handle.
 
 ### Mechanisms insufficient alone on the tested trajectory
 
@@ -106,14 +109,16 @@ Every program claim must carry one of these statuses:
 - **LR:** two accumulated exact focus spans were also insufficient at the
   tested endpoints. Placement-only focus tuning is closed by its frozen stop
   rule.
+- **LR:** syntactic and token closure of a structured semantic object did not
+  ensure closed semantic phrasing or valid references.
 
 These are local boundaries, not universal impossibility results.
 
 ### Untested or unresolved
 
-- **CH:** whether a lightly structured, grammar-constrained model-authored work
-  frontier can be expressed reliably inside the unchanged 320-token accepted
-  semantic-state budget;
+- **CH:** whether terminal-closure constraints and mechanically enumerated
+  complete handles can repair the observed frontier-content defect without
+  violating the unchanged 320-token budget;
 - **CH:** whether separate bounded latest-effect and latest-observation slots
   preserve exact causal continuity better than one replaceable update slot;
 - **IN:** bounded model-authored working notes as behavioral continuity state;
@@ -305,7 +310,7 @@ resident rerequest.
 
 ### Qualification Q2 — bounded structured frontier expression
 
-Status: selected as an interface qualification only.
+Status: completed; mechanical closure positive, semantic closure negative.
 
 Reuse the two byte-exact maintenance inputs from Q1 so that the comparison is
 against the failed raw-text expression protocol rather than against a changed
@@ -324,6 +329,35 @@ records before a separate fixed-budget utility treatment may be designed. A
 mixed or failed result defers this formulation rather than triggering template
 tuning on the same histories.
 
+Observed result: both schema-conforming outputs stopped normally at 209 and 277
+exact tokens. Direct audit nevertheless found six of eight prose fields ending
+as incomplete phrases and one of seven handles truncated to a source-path
+prefix. The output surface is not utility-ready unchanged.
+
+### Qualification Q3 — closure-safe bounded frontier expression
+
+Status: selected as the final expression-interface repair on these histories.
+
+Reuse Q2's exact two maintenance inputs and hold the model, seeds, sampler,
+reasoning setting, 512-token completion allowance, 320-token accepted-object
+budget, one-attempt policy, and zero retries fixed.
+
+Change only the structured output interface:
+
+- every model-authored prose value must terminate with punctuation inside its
+  field bound; and
+- every handle must be selected from a deterministic enum of complete exact
+  hashes, locators, or source paths already present in that cell's input.
+
+The host may mechanically extract, sort, hash, and expose the handle catalog;
+it may not rank handles or add semantic advice. Make two maintenance calls and
+no actor calls.
+
+Qualification requires 2/2 mechanical acceptance, direct semantic closure in
+both records, and no invalid handle. Any failure closes this interface branch
+without another schema variant. A pass permits design—not automatic execution—
+of one fixed-budget frontier-utility comparison.
+
 ## Result-dependent routing
 
 The program is adaptive rather than a fixed eight-experiment queue.
@@ -334,6 +368,7 @@ The program is adaptive rather than a fixed eight-experiment queue.
 | Exact resident bytes are requested despite explicit compact currentness | model-selected exact focus relocation before semantic compression |
 | A single recent exact focus shifts demand to complementary resident bytes | one accumulated-focus stop-test; then close exact-focus tuning if demand shifts again |
 | Accumulated focus still shifts or repeats | close placement tuning; qualify one bounded structured frontier interface before any semantic utility test |
+| Structured frontier closes mechanically but clips fields/handles | one terminal-closure and enumerated-handle qualification; then stop interface tuning |
 | Compact currentness reduces resident rereads | recurrent compact-directory transfer before adding semantic state |
 | A recently delivered effect/observation is displaced | bounded exact causal frontier |
 | A legible exact workspace still has selection pressure | model-managed exact residency |

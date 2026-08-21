@@ -18,8 +18,8 @@ Claim-level custody and promotion status are recorded in
 Each measured experiment remains a separately frozen, auditable repository.
 Adding a candidate mechanism here does not authorize or promote it.
 
-Current route: accumulated exact focus did not converge on construction. One
-actor expanded to older nonresident target regions and one immediately
-repeated the newly delivered focus. Placement-only focus tuning is closed.
-The active successor is an interface qualification—not a task-benefit test—for
-a tightly bounded, lightly structured model-authored work frontier.
+Current route: lightly structured frontier output passed the 320-token
+mechanical gate in 2/2 cases, but hard character ceilings left 6/8 prose fields
+incomplete and truncated 1/7 exact handles. One final closure-safe expression
+qualification is active; it is not a task-benefit test, and failure closes
+frontier-interface tuning on these histories.

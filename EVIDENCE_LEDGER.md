@@ -25,6 +25,7 @@ hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
 | E12 | LR | compact exact-workspace directory | Both treated actors still requested exact target bytes already resident in `OBJECT005`. One repeated historical `R033`; one displaced it to a broader resident `R032+R033` line read. | Two different endpoint types, one decision each; the latest-user-turn presentation is one directory formulation. | [workspace-directory result](https://github.com/ScrappyTom/qwen38-exact-workspace-directory-v0/commit/801c1bf3d9daa8739629df86bf260d4ad08e3311) |
 | E13 | LR | model-selected exact focus relocation | Both formerly duplicate result packets became feasible with the selected bytes present exactly once. Neither actor mutated or submitted; each next requested a complementary or adjacent target span already resident in the exact residual state. | Two different endpoint types, one decision each. The treatment also replaced the wrapper and removed the stale directory, so it isolates a compound exact representation change rather than placement alone. | [focus-relocation result](https://github.com/ScrappyTom/qwen38-exact-focus-relocation-v0/commit/1fc4bccadab37de5ab051e60248df6ed3353b4b3) |
 | E14 | LR | accumulated model-selected exact focus | Both second reads crossed a new model boundary without duplication. The observation actor then requested nonresident target lines 547–619; the effect actor repeated the just-delivered second focus exactly. Neither mutated or submitted. | Two different endpoint types, one decision each. This closes the predeclared placement-only focus route at these endpoints, not every exact-state representation. | [accumulated-focus result](https://github.com/ScrappyTom/qwen38-accumulated-exact-focus-v0/commit/6bed7b208174646b803405fdce1a83a9432fba88) |
+| E15 | LR | bounded structured-frontier expression | Strict field/item bounds produced valid, normally stopped 209- and 277-token JSON objects where raw freeform outputs had length-ended at 512 tokens. Direct audit found 6/8 incomplete prose fields and one truncated handle. | Interface mechanics only; no actor calls. Mechanical closure did not establish semantic closure or utility readiness. | [frontier-expression result](https://github.com/ScrappyTom/qwen38-bounded-frontier-expression-qualification-v0/commit/3cf5ab005128b95c7af9f24d7d018eab548e6b98) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | UT | model-managed exact residency | Model retention choices may improve on FIFO under a hard exact budget. | Requires a stable exact-state baseline and observed selection pressure. | — |
@@ -35,7 +36,8 @@ hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
 | H08 | CH | bounded exact causal frontier | Separate latest-effect and latest-observation residency may avoid continuity loss caused by one replaceable latest-update slot. | Addresses mechanically explicit update displacement, not semantic importance or general memory. | E09 |
 | H09 | LR | model-selected exact focus relocation | The tested one-span relocation restored exact result delivery without duplication but did not produce task action; demand shifted to complementary or adjacent resident target bytes in 2/2 cases. | Does not establish that every focus placement fails. Wrapper replacement and stale-directory removal were held as declared parts of this formulation. | E12–E13 |
 | H10 | LR | accumulated model-selected exact focus | The two-span focus set remained physically operable but did not converge on task action: demand expanded outside the set in one case and immediately repeated within it in one. | Placement-only focus tuning is closed at these endpoints. Does not adjudicate semantic continuity or legitimate need for the novel read. | E13–E14 |
-| H11 | CH | bounded structured frontier expression | A lightly structured, grammar-constrained work-frontier record may give Qwen a reliable bounded semantic output surface where freeform notes failed to close. | Qualification first: expression reliability only, no actor benefit claim. Reuse the exact prior maintenance inputs and retain the 320-token accepted bound. | E10–E11, E14 |
+| H11 | LR | bounded structured frontier expression | The tested schema qualified syntactic/token closure in 2/2 cases but migrated failure to clipped semantic fields and one invalid handle. | No actor calls; not utility-ready unchanged. | E10–E11, E15 |
+| H12 | CH | closure-safe structured frontier expression | Terminally closed prose fields plus mechanically enumerated exact handles may retain bounded closure without clipped statements or invalid references. | One final interface qualification on the same exact inputs. Failure or semantic clipping defers this branch; no further schema tuning. | E15 |
 
 ## Active selection
 
@@ -53,18 +55,23 @@ H10 is complete. Its stop rule fired: one action displaced to earlier
 nonresident target material and one repeated the just-delivered focus. No third
 focus placement is selected.
 
-H11 is the sole active qualification. Reuse the two exact maintenance inputs
-from the raw-text bounded-note qualification. Change only the semantic output
-interface to a small, lightly structured JSON frontier with mechanically
-bounded fields. Retain the 512-token generation allowance and accept only a
-valid, grounded record no larger than 320 exact model tokens. Make two
-maintenance calls, no actor calls, one attempt, and zero retries.
+H11 is complete. It passed its frozen mechanical gate in 2/2 cases, but direct
+audit found clipped semantic phrases and one truncated source-path handle. It
+does not authorize an actor comparison unchanged.
 
-This qualification tests whether a bounded semantic primitive can be expressed
-reliably; it does not test whether a frontier improves task behavior. Require
-2/2 accepted records before separately freezing any utility experiment. A
-mixed or failed result defers this frontier formulation.
+H12 is the sole active qualification. Reuse the same two exact maintenance
+inputs, 512-token allowance, 320-token accepted bound, model, and seeds. Require
+semantic strings to end with terminal punctuation and restrict handle output to
+a deterministic enum of complete exact identifiers already present in each
+input. Make two maintenance calls, no actor calls, one attempt, and zero
+retries.
+
+This is the last schema-expression repair on these histories. Require 2/2
+mechanically accepted frontiers, 2/2 directly closed semantic records, and only
+valid exact handles before considering a separately frozen utility design. Any
+failure, clipping, or invalid handle defers the frontier branch without another
+template variant.
 
 H08 remains recorded for the separate displaced-update pressure. No frontier
 utility treatment, note compaction, substitutive note, model-managed residency,
-digest, or decomposition treatment is selected by this route.
+digest, or decomposition treatment is selected yet.
