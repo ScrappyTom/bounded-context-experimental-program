@@ -24,6 +24,7 @@ hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
 | E11 | LR | raw-text bounded-note expression | Both exact maintenance cases consumed all 512 completion tokens, exceeded the unchanged 320-token accepted-note budget, and ended by length; 0/2 notes qualified. | Interface reliability only; there were no actor calls and no note-utility test. | [expression qualification](https://github.com/ScrappyTom/qwen38-bounded-note-expression-qualification-v0/commit/5d86bf237201169b80b02e2fedcfdb4fe7ab94b1) |
 | E12 | LR | compact exact-workspace directory | Both treated actors still requested exact target bytes already resident in `OBJECT005`. One repeated historical `R033`; one displaced it to a broader resident `R032+R033` line read. | Two different endpoint types, one decision each; the latest-user-turn presentation is one directory formulation. | [workspace-directory result](https://github.com/ScrappyTom/qwen38-exact-workspace-directory-v0/commit/801c1bf3d9daa8739629df86bf260d4ad08e3311) |
 | E13 | LR | model-selected exact focus relocation | Both formerly duplicate result packets became feasible with the selected bytes present exactly once. Neither actor mutated or submitted; each next requested a complementary or adjacent target span already resident in the exact residual state. | Two different endpoint types, one decision each. The treatment also replaced the wrapper and removed the stale directory, so it isolates a compound exact representation change rather than placement alone. | [focus-relocation result](https://github.com/ScrappyTom/qwen38-exact-focus-relocation-v0/commit/1fc4bccadab37de5ab051e60248df6ed3353b4b3) |
+| E14 | LR | accumulated model-selected exact focus | Both second reads crossed a new model boundary without duplication. The observation actor then requested nonresident target lines 547–619; the effect actor repeated the just-delivered second focus exactly. Neither mutated or submitted. | Two different endpoint types, one decision each. This closes the predeclared placement-only focus route at these endpoints, not every exact-state representation. | [accumulated-focus result](https://github.com/ScrappyTom/qwen38-accumulated-exact-focus-v0/commit/6bed7b208174646b803405fdce1a83a9432fba88) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | UT | model-managed exact residency | Model retention choices may improve on FIFO under a hard exact budget. | Requires a stable exact-state baseline and observed selection pressure. | — |
@@ -33,7 +34,8 @@ hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
 | H07 | LR | compact exact-workspace directory | The tested 117–118-token identity/range directory was insufficient: resident exact rerequests persisted in 2/2 cases. | Does not test every directory placement or richer semantic index. | E09–E12 |
 | H08 | CH | bounded exact causal frontier | Separate latest-effect and latest-observation residency may avoid continuity loss caused by one replaceable latest-update slot. | Addresses mechanically explicit update displacement, not semantic importance or general memory. | E09 |
 | H09 | LR | model-selected exact focus relocation | The tested one-span relocation restored exact result delivery without duplication but did not produce task action; demand shifted to complementary or adjacent resident target bytes in 2/2 cases. | Does not establish that every focus placement fails. Wrapper replacement and stale-directory removal were held as declared parts of this formulation. | E12–E13 |
-| H10 | CH | accumulated model-selected exact focus | Retaining the first and second model-selected target spans as a bounded nonduplicated recent exact focus set may satisfy the local target-window demand exposed by E13. | One bounded stop-test only. If demand shifts again or cycles without mutation, exact-focus tuning stops; no semantic importance claim is permitted. | E13 |
+| H10 | LR | accumulated model-selected exact focus | The two-span focus set remained physically operable but did not converge on task action: demand expanded outside the set in one case and immediately repeated within it in one. | Placement-only focus tuning is closed at these endpoints. Does not adjudicate semantic continuity or legitimate need for the novel read. | E13–E14 |
+| H11 | CH | bounded structured frontier expression | A lightly structured, grammar-constrained work-frontier record may give Qwen a reliable bounded semantic output surface where freeform notes failed to close. | Qualification first: expression reliability only, no actor benefit claim. Reuse the exact prior maintenance inputs and retain the 320-token accepted bound. | E10–E11, E14 |
 
 ## Active selection
 
@@ -47,18 +49,22 @@ H09 is complete. Exact focus delivery was mechanically successful, but the
 behavioral demand moved to another resident target span in both cases and no
 candidate action followed.
 
-H10 is the sole active behavioral experiment. Start from the two accepted
-resident-read endpoints in E13. Preserve the first exact focus, move the newly
-selected complementary/adjacent bytes out of the residual target object, and
-deliver them once as a second recent exact focus result. Preserve every other
-exact byte, version, prior observation/effect, tool, and budget. Make one next
-actor decision per endpoint.
+H10 is complete. Its stop rule fired: one action displaced to earlier
+nonresident target material and one repeated the just-delivered focus. No third
+focus placement is selected.
 
-This is a stop-test for the exact-focus route. A mutation is a bounded local
-lead. Another resident rerequest, cycling between focus spans, invalid action,
-or further displacement closes this route without tuning placement or adding a
-third focus experiment.
+H11 is the sole active qualification. Reuse the two exact maintenance inputs
+from the raw-text bounded-note qualification. Change only the semantic output
+interface to a small, lightly structured JSON frontier with mechanically
+bounded fields. Retain the 512-token generation allowance and accept only a
+valid, grounded record no larger than 320 exact model tokens. Make two
+maintenance calls, no actor calls, one attempt, and zero retries.
 
-H08 remains recorded for the separate displaced-update pressure. No structured
-note, note compaction, substitutive note, model-managed residency, digest,
-progress state, or decomposition treatment is selected by this route.
+This qualification tests whether a bounded semantic primitive can be expressed
+reliably; it does not test whether a frontier improves task behavior. Require
+2/2 accepted records before separately freezing any utility experiment. A
+mixed or failed result defers this frontier formulation.
+
+H08 remains recorded for the separate displaced-update pressure. No frontier
+utility treatment, note compaction, substitutive note, model-managed residency,
+digest, or decomposition treatment is selected by this route.

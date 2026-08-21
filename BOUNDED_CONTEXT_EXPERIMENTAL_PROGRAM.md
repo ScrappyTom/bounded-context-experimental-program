@@ -82,6 +82,9 @@ Every program claim must carry one of these statuses:
   next decision in both cases requested complementary or adjacent target bytes
   already resident in the exact residual state. Neither actor mutated or
   submitted.
+- **LR:** accumulating both model-selected exact target spans still produced no
+  construction. The observation actor expanded to nonresident R028–R029; the
+  effect actor repeated the immediately preceding second focus exactly.
 
 ### Mechanisms insufficient alone on the tested trajectory
 
@@ -100,14 +103,17 @@ Every program claim must carry one of these statuses:
 - **LR:** one recent exact focus span was insufficient to turn the selected
   target bytes into construction; reread demand moved to another resident
   target span.
+- **LR:** two accumulated exact focus spans were also insufficient at the
+  tested endpoints. Placement-only focus tuning is closed by its frozen stop
+  rule.
 
 These are local boundaries, not universal impossibility results.
 
 ### Untested or unresolved
 
-- **CH:** whether accumulating the two model-selected target spans as a bounded
-  nonduplicated recent exact focus set converges toward task action or merely
-  moves the reread boundary again;
+- **CH:** whether a lightly structured, grammar-constrained model-authored work
+  frontier can be expressed reliably inside the unchanged 320-token accepted
+  semantic-state budget;
 - **CH:** whether separate bounded latest-effect and latest-observation slots
   preserve exact causal continuity better than one replaceable update slot;
 - **IN:** bounded model-authored working notes as behavioral continuity state;
@@ -268,7 +274,7 @@ limit.
 
 ### Experiment M3 — accumulated model-selected exact focus
 
-Status: selected as one bounded stop-test.
+Status: completed; placement-only focus tuning closed.
 
 Use the two accepted resident-read endpoints from M2. Keep the first exact
 focus result. Remove the newly selected span from its earlier residual target
@@ -290,6 +296,34 @@ class. Mutation is a bounded local lead. Any further resident rerequest,
 focus-to-focus cycle, invalid action, or displacement closes exact-focus tuning
 at this boundary; it does not authorize a third placement variant.
 
+Observed result: both exact second reads were delivered without duplication.
+The observation actor requested nonresident target lines `547–619` (R028–R029),
+while the effect actor repeated `read_lines 860–937`, exactly the second focus
+that had just crossed the model boundary. Neither mutated or submitted. The
+route stop rule is therefore satisfied through displacement and immediate
+resident rerequest.
+
+### Qualification Q2 — bounded structured frontier expression
+
+Status: selected as an interface qualification only.
+
+Reuse the two byte-exact maintenance inputs from Q1 so that the comparison is
+against the failed raw-text expression protocol rather than against a changed
+task state. Replace only the output interface with a lightly structured JSON
+record whose fields cover current objective, established points, unresolved
+work, next progress event, and exact handles. Constrain field lengths and item
+counts mechanically.
+
+Keep the 512-token generation allowance and the 320-exact-token acceptance
+bound. Use one attempt and zero retries. Measure normal stop, schema validity,
+token count, grounding, qualification preservation, fabrication, and handle
+validity. Make no ordinary actor call.
+
+This result cannot establish semantic-state benefit. Require 2/2 accepted
+records before a separate fixed-budget utility treatment may be designed. A
+mixed or failed result defers this formulation rather than triggering template
+tuning on the same histories.
+
 ## Result-dependent routing
 
 The program is adaptive rather than a fixed eight-experiment queue.
@@ -299,6 +333,7 @@ The program is adaptive rather than a fixed eight-experiment queue.
 | A bounded freeform note cannot be expressed reliably | defer notes or separately test a constrained note-maintenance protocol |
 | Exact resident bytes are requested despite explicit compact currentness | model-selected exact focus relocation before semantic compression |
 | A single recent exact focus shifts demand to complementary resident bytes | one accumulated-focus stop-test; then close exact-focus tuning if demand shifts again |
+| Accumulated focus still shifts or repeats | close placement tuning; qualify one bounded structured frontier interface before any semantic utility test |
 | Compact currentness reduces resident rereads | recurrent compact-directory transfer before adding semantic state |
 | A recently delivered effect/observation is displaced | bounded exact causal frontier |
 | A legible exact workspace still has selection pressure | model-managed exact residency |
