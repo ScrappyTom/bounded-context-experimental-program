@@ -18,7 +18,9 @@ Claim-level custody and promotion status are recorded in
 Each measured experiment remains a separately frozen, auditable repository.
 Adding a candidate mechanism here does not authorize or promote it.
 
-Current route: the compact exact-workspace directory was insufficient in both
-tested endpoint types. The active successor is a one-step, model-selected exact
-focus relocation that moves requested resident bytes to the recent result
-position without duplication or semantic compression.
+Current route: a one-step exact focus relocation made each otherwise
+infeasible duplicate result visible, but both actors then requested a
+complementary or adjacent span already resident elsewhere in the exact target
+state. The active successor accumulates that second model-selected span in a
+bounded, nonduplicated recent exact focus set. It is the stop-test for whether
+this line converges toward action or merely moves the reread boundary again.

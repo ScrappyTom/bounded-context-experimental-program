@@ -77,6 +77,11 @@ Every program claim must carry one of these statuses:
 - **LR:** a compact mechanically derived exact-workspace directory did not
   prevent resident exact rerequests. The effect case repeated `R033` exactly;
   the observation case shifted to a broader resident `R032+R033` line range.
+- **LR:** relocating those requested bytes into one recent exact focus result
+  restored otherwise infeasible result delivery without duplication, but the
+  next decision in both cases requested complementary or adjacent target bytes
+  already resident in the exact residual state. Neither actor mutated or
+  submitted.
 
 ### Mechanisms insufficient alone on the tested trajectory
 
@@ -92,13 +97,17 @@ Every program claim must carry one of these statuses:
   semantic-continuity benefit.
 - **LR:** an explicit 117–118-token identity/range directory was insufficient
   to turn resident exact availability into use without another read request.
+- **LR:** one recent exact focus span was insufficient to turn the selected
+  target bytes into construction; reread demand moved to another resident
+  target span.
 
 These are local boundaries, not universal impossibility results.
 
 ### Untested or unresolved
 
-- **CH:** whether exact bytes selected by a resident rerequest become usable
-  when relocated once into a recent focus result rather than duplicated;
+- **CH:** whether accumulating the two model-selected target spans as a bounded
+  nonduplicated recent exact focus set converges toward task action or merely
+  moves the reread boundary again;
 - **CH:** whether separate bounded latest-effect and latest-observation slots
   preserve exact causal continuity better than one replaceable update slot;
 - **IN:** bounded model-authored working notes as behavioral continuity state;
@@ -220,6 +229,14 @@ therefore insufficient in this presentation.
 
 ### Experiment M2 — model-selected exact focus relocation
 
+Status: completed. Both ordinary duplicate packets were capacity-infeasible,
+while both deduplicated focus packets fit and crossed a new model boundary. The
+observation case then requested the entire complementary `R031` residual; the
+effect case requested the adjacent tail spanning the end of `R031` and all of
+`R032`. Both requested bytes already existed elsewhere in the same prompt. No
+mutation, submission, or candidate change occurred. This exact formulation is
+therefore a mechanical delivery positive and a task-behavior negative.
+
 Use the two accepted resident-read endpoints produced by M1. For each endpoint,
 the ordinary next packet appends the exact result while leaving the same bytes
 inside `OBJECT005`; measure that duplicate packet mechanically as the control.
@@ -249,6 +266,30 @@ admission/effect, novel acquisition, another resident rerequest, and invalid
 action separated. One measured next-decision call per endpoint is the initial
 limit.
 
+### Experiment M3 — accumulated model-selected exact focus
+
+Status: selected as one bounded stop-test.
+
+Use the two accepted resident-read endpoints from M2. Keep the first exact
+focus result. Remove the newly selected span from its earlier residual target
+body and deliver the identical bytes once as a second recent exact focus
+result. The observation packet thereby presents target lines `740–970` as two
+recent exact focus objects. The effect packet presents lines `860–1018` as two
+recent exact focus objects while retaining lines `740–859` exactly in the
+residual target object.
+
+Selection is still entirely model-authored through the accepted literal read;
+the host performs only exact range validation, partitioning, hashing, and
+relocation. Preserve the prior observation/effect, current candidate, four
+governing sources, task, tools, model profile, and response reserve. No summary,
+importance label, completeness claim, action recommendation, or semantic note
+is allowed. Make one next actor decision per endpoint.
+
+The primary result is again the next action's byte-level residency and action
+class. Mutation is a bounded local lead. Any further resident rerequest,
+focus-to-focus cycle, invalid action, or displacement closes exact-focus tuning
+at this boundary; it does not authorize a third placement variant.
+
 ## Result-dependent routing
 
 The program is adaptive rather than a fixed eight-experiment queue.
@@ -257,6 +298,7 @@ The program is adaptive rather than a fixed eight-experiment queue.
 |---|---|
 | A bounded freeform note cannot be expressed reliably | defer notes or separately test a constrained note-maintenance protocol |
 | Exact resident bytes are requested despite explicit compact currentness | model-selected exact focus relocation before semantic compression |
+| A single recent exact focus shifts demand to complementary resident bytes | one accumulated-focus stop-test; then close exact-focus tuning if demand shifts again |
 | Compact currentness reduces resident rereads | recurrent compact-directory transfer before adding semantic state |
 | A recently delivered effect/observation is displaced | bounded exact causal frontier |
 | A legible exact workspace still has selection pressure | model-managed exact residency |
