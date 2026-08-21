@@ -27,6 +27,7 @@ hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
 | E14 | LR | accumulated model-selected exact focus | Both second reads crossed a new model boundary without duplication. The observation actor then requested nonresident target lines 547–619; the effect actor repeated the just-delivered second focus exactly. Neither mutated or submitted. | Two different endpoint types, one decision each. This closes the predeclared placement-only focus route at these endpoints, not every exact-state representation. | [accumulated-focus result](https://github.com/ScrappyTom/qwen38-accumulated-exact-focus-v0/commit/6bed7b208174646b803405fdce1a83a9432fba88) |
 | E15 | LR | bounded structured-frontier expression | Strict field/item bounds produced valid, normally stopped 209- and 277-token JSON objects where raw freeform outputs had length-ended at 512 tokens. Direct audit found 6/8 incomplete prose fields and one truncated handle. | Interface mechanics only; no actor calls. Mechanical closure did not establish semantic closure or utility readiness. | [frontier-expression result](https://github.com/ScrappyTom/qwen38-bounded-frontier-expression-qualification-v0/commit/3cf5ab005128b95c7af9f24d7d018eab548e6b98) |
 | E16 | LR | closure-safe structured-frontier expression | All 10 returned prose values were complete and all 8 handles were exact, but both calls length-terminated; one object omitted a required field and one used 331 tokens with wrong keys. The runtime grammar omitted declared string-length bounds. | 0/2 complete interface acceptance; no actor calls. This closes local schema-expression tuning without isolating model semantics from the live schema/provider path. | [closed-frontier result](https://github.com/ScrappyTom/qwen38-closed-frontier-expression-qualification-v0/commit/cde5d344f81ae3af6bc5e4c3838454b7b9a0d758) |
+| E17 | NQ | type-separated exact causal slots | Offline audit found observation→observation displacement in one case and effect→observation displacement in the other. One observation slot plus one effect slot changes only the latter. | Planned two-case causal contrast ineligible; zero GPU calls. | [H08 eligibility audit](audits/H08_EXACT_CAUSAL_FRONTIER_ELIGIBILITY.md) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | UT | model-managed exact residency | Model retention choices may improve on FIFO under a hard exact budget. | Requires a stable exact-state baseline and observed selection pressure. | — |
@@ -34,7 +35,7 @@ hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
 | H05 | UT | progress/frontier state | Bounded model-authored progress may improve acquisition stopping or closure. | Requires reasonably stable evidence residency first. | — |
 | H06 | UT | bounded decomposition | Fresh bounded task frames may scale beyond one global working set. | Must independently test cross-frame integration quality. | — |
 | H07 | LR | compact exact-workspace directory | The tested 117–118-token identity/range directory was insufficient: resident exact rerequests persisted in 2/2 cases. | Does not test every directory placement or richer semantic index. | E09–E12 |
-| H08 | CH | bounded exact causal frontier | Separate latest-effect and latest-observation residency may avoid continuity loss caused by one replaceable latest-update slot. | Active mechanical qualification; addresses explicit update displacement, not semantic importance or general memory. | E09 |
+| H08 | NQ | bounded exact causal frontier | Separate latest-effect and latest-observation residency would preserve the effect case's patch receipt but is a no-op for the observation case's same-type displacement. | The planned two-case design failed parity before GPU. A one-case test or deeper fixed tail would be a new design. | E09, E17 |
 | H09 | LR | model-selected exact focus relocation | The tested one-span relocation restored exact result delivery without duplication but did not produce task action; demand shifted to complementary or adjacent resident target bytes in 2/2 cases. | Does not establish that every focus placement fails. Wrapper replacement and stale-directory removal were held as declared parts of this formulation. | E12–E13 |
 | H10 | LR | accumulated model-selected exact focus | The two-span focus set remained physically operable but did not converge on task action: demand expanded outside the set in one case and immediately repeated within it in one. | Placement-only focus tuning is closed at these endpoints. Does not adjudicate semantic continuity or legitimate need for the novel read. | E13–E14 |
 | H11 | LR | bounded structured frontier expression | The tested schema qualified syntactic/token closure in 2/2 cases but migrated failure to clipped semantic fields and one invalid handle. | No actor calls; not utility-ready unchanged. | E10–E11, E15 |
@@ -66,17 +67,14 @@ closed, but neither complete object qualified; the runtime-generated grammar
 also omitted declared string-length limits. No further frontier-schema repair
 or utility treatment is selected.
 
-H08 is now the sole active mechanical qualification. First reconstruct the two
-E09 displaced-update endpoints and prove offline that update type is explicit,
-that one replaceable latest-update slot displaced a still-relevant opposite-type
-update, and that separate exact `latest_observation` and `latest_effect` slots
-fit without reducing the frozen response reserve. The host may classify only by
-literal admitted action/result type and current candidate binding; it may not
-infer semantic importance.
+H08 stopped at its offline parity gate. The observation case displaced R030
+with another accepted observation (R033), while the effect case displaced an
+admitted patch effect with R033. Separate one-deep observation/effect slots are
+therefore a no-op in the first case and an active treatment only in the second.
+Zero GPU calls were made.
 
-If both cases qualify, freeze a short comparison against the existing exact
-recomposition baseline. Preserve current candidate/world, exact backing,
-ordinary tools, model/runtime, and hard envelope. A same-type update may replace
-its own slot but must not evict the opposite type. Do not add a semantic note,
-working-set policy, digest, or progress state. Stop before GPU if the two
-endpoints do not instantiate the same mechanical displacement rule.
+No experiment is active. The next decision is material: accept a one-case
+cross-type slot test; define and justify a deeper fixed exact causal tail that
+can retain multiple same-type observations; or move to model-managed exact
+residency. Do not infer or tune the depth from the desired retention of R030
+without a prospective rule and capacity audit.

@@ -92,6 +92,9 @@ Every program claim must carry one of these statuses:
   exact handles locally, but both calls length-terminated and 0/2 complete
   objects qualified. The live generated grammar omitted declared string-length
   bounds, so frontier schema-expression tuning is closed without a utility test.
+- **NQ:** the proposed type-separated exact causal frontier failed its offline
+  two-case parity gate. The observation history was observation→observation;
+  the effect history was effect→observation. The rule changed only one case.
 
 ### Mechanisms insufficient alone on the tested trajectory
 
@@ -120,8 +123,10 @@ These are local boundaries, not universal impossibility results.
 
 ### Untested or unresolved
 
-- **CH:** whether separate bounded latest-effect and latest-observation slots
-  preserve exact causal continuity better than one replaceable update slot;
+- **NQ:** one latest-effect plus one latest-observation slot did not qualify as
+  a two-case test because only the effect history had cross-type displacement;
+- **UT:** whether a prospectively justified deeper exact causal tail can retain
+  multiple same-type observations without recreating growing chronology;
 - **IN:** bounded model-authored working notes as behavioral continuity state;
 - **UT:** specialized note compaction;
 - **UT:** model-managed exact residency;
@@ -370,7 +375,7 @@ tuning and does not qualify a utility comparison.
 
 ### Qualification Q4 — bounded exact causal frontier
 
-Status: selected for offline boundary qualification.
+Status: stopped at offline parity gate; no GPU calls.
 
 Reconstruct the two E09 endpoints where a newly delivered observation or
 admitted effect replaced the single latest-update slot and an opposite-type
@@ -393,6 +398,18 @@ mechanical displacement rule, reconstruct exactly, preserve the frozen response
 reserve, and fit with both slots. If they do not, stop rather than combine two
 different treatments. If they qualify, freeze one short ordinary continuation
 per endpoint against the existing recurrent exact-recomposition baseline.
+
+Observed eligibility result: the observation case replaced inherited R030
+(`accepted_observation`) with R033 (`accepted_observation`). One observation
+slot would still drop R030. The effect case replaced the inherited patch receipt
+(`admitted_candidate_effect`) with R033 (`accepted_observation`), so separate
+type slots would preserve it. The planned rule was therefore active in only one
+case. The two-case experiment is ineligible and no capacity render or measured
+call followed.
+
+This exposes a genuine design fork rather than an implementation defect. A
+one-case cross-type test, a deeper fixed causal tail, and model-managed exact
+residency answer different questions. None is selected automatically.
 
 ## Result-dependent routing
 

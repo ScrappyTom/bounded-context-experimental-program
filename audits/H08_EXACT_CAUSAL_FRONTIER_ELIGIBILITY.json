@@ -1,0 +1,29 @@
+{
+  "schema_version": "h08-exact-causal-frontier-eligibility-v0",
+  "date": "2026-08-21",
+  "donor_repository": "ScrappyTom/qwen38-recurrent-exact-state-recomposition-v0",
+  "donor_commit": "c22cff99a0a1111215940c478db50e5762f1c5d3",
+  "planned_rule": "one latest_observation slot plus one latest_effect slot",
+  "cases": [
+    {
+      "case": "observation-r030-s314159",
+      "prior_update_type": "accepted_observation",
+      "replacement_update_type": "accepted_observation",
+      "prior_update_sha256": "3c5f15b96aae08c8666d6bb4a1e51e10eb9169a0e37e60a759bf1b03e4282b43",
+      "replacement_update_sha256": "12a19a70f28994d3690009c5d6b6be2f4d377f78e9fcac47cfa04ed9cb73b79a",
+      "planned_rule_changes_residency": false
+    },
+    {
+      "case": "effect-patch-s42",
+      "prior_update_type": "admitted_candidate_effect",
+      "replacement_update_type": "accepted_observation",
+      "prior_update_sha256": "490422fb8536197ceec05f8b5bfd5c82aba28fc026453487a6ab3418ed02348a",
+      "replacement_update_sha256": "d3d7da126c00dff655fd918648a5ef624afb8e62ed4cb001f2045e0b8efe9e8b",
+      "planned_rule_changes_residency": true
+    }
+  ],
+  "same_treatment_in_both_cases": false,
+  "eligible_for_planned_two_case_gpu_test": false,
+  "gpu_calls_made": 0,
+  "stop_reason": "The proposed type-separated slots are a no-op for observation-to-observation displacement and active only for effect-to-observation displacement."
+}

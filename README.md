@@ -19,9 +19,9 @@ Each measured experiment remains a separately frozen, auditable repository.
 Adding a candidate mechanism here does not authorize or promote it.
 
 Current route: the final closure-safe frontier qualification failed 0/2 under
-its frozen complete-object gate. Returned prose and handles were locally
-complete, but both calls length-terminated and the live grammar/provider path
-did not reliably enforce the declared bounded object. Frontier-interface
-tuning is closed. The next active question is the mechanical H08 boundary:
-whether separate exact observation and effect slots prevent one update type
-from displacing the other.
+its frozen complete-object gate, so frontier-interface tuning is closed. The
+H08 offline gate then found that the two proposed donor cases do not share one
+treatment: type-separated observation and effect slots change only the effect
+case. No H08 GPU run was eligible. The program is paused at a genuine choice
+between a one-case cross-type test, a deeper fixed exact causal tail, and
+model-managed exact residency.
