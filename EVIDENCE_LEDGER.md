@@ -6,6 +6,9 @@ This ledger separates mechanical facts, local results, candidate hypotheses,
 and untested mechanisms. Links identify immutable result commits; the linked
 repositories remain the authoritative raw custody.
 
+Status key: `AF` = apparatus fact; `LR` = bounded local result; `CH` = candidate
+hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
+
 | ID | Status | Boundary / operation | Supported statement | Claim limit | Evidence |
 |---|---|---|---|---|---|
 | E01 | AF | exact external custody | Exact parent objects, requests, results, candidates, hashes, and replay bindings can be materialized in standalone successors without modifying donors. | Custody fact, not behavioral benefit. | [outline-demotion audit](https://github.com/ScrappyTom/qwen38-structural-outline-demotion-v0/commit/76dd220d5217f6147c98b00fd1a783782eaf404f) |
@@ -17,8 +20,9 @@ repositories remain the authoritative raw custody.
 | E07 | LR | chronology-free exact reentry | A fresh exact packet produced one admitted grounded mutation in two seeds. | Mixed, seed-sensitive result; both continuations again hit result-delivery pressure. | [exact-reentry result](https://github.com/ScrappyTom/qwen38-exact-construction-reentry-v0/commit/68a4b0b04c4557dcc459b42822e804f241565757) |
 | E08 | LR | recurrent exact-current-state replacement | Both authentic pending updates entered call 1, and both diagnostic update types carried at least one later measured result through another recomposition. | Different update types, not replicated seeds; one large duplicate result still overflowed. | [recurrent-state result](https://github.com/ScrappyTom/qwen38-recurrent-exact-state-recomposition-v0/commit/c22cff99a0a1111215940c478db50e5762f1c5d3) |
 | E09 | LR | exact-state representation use | Qwen repeatedly reacquired omitted updates and requested exact bytes already resident; a resident suffix rematerialization then exceeded the replacement budget. | Local evidence against this standing-set/one-slot representation, not against all exact recomposition. | [recurrent-state audit](https://github.com/ScrappyTom/qwen38-recurrent-exact-state-recomposition-v0/commit/c22cff99a0a1111215940c478db50e5762f1c5d3) |
+| E10 | LR | one-shot bounded freeform note | One of two maintenance calls produced a valid 234-token note; the other exhausted its frozen 384-token completion allowance mid-JSON. The valid-note actor immediately requested a resident exact result whose delivery exceeded both ordinary and recomposed envelopes. | Three measured calls only. The predeclared three-actor-call behavioral comparison was not evaluable in either case. | [bounded-note result](https://github.com/ScrappyTom/qwen38-bounded-freeform-note-v0/commit/46f50817e11d1b990cbf906e9af0f74a15740137) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
-| H02 | CH | bounded working note | A model-authored replacement note may preserve continuity beyond exact state alone and reduce redundant reacquisition. | Earned next experiment; must beat the exact no-note incumbent without becoming authoritative. | E09 |
+| H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | UT | model-managed exact residency | Model retention choices may improve on FIFO under a hard exact budget. | Requires a stable exact-state baseline and observed selection pressure. | — |
 | H04 | UT | source-bound digest | A version-bound digest may reduce repeated raw reopening without unacceptable semantic loss. | Requires an observed source-specific reopen cost. | — |
 | H05 | UT | progress/frontier state | Bounded model-authored progress may improve acquisition stopping or closure. | Requires reasonably stable evidence residency first. | — |
@@ -26,14 +30,15 @@ repositories remain the authoritative raw custody.
 
 ## Active selection
 
-`H02` is the only active next mechanism. Its control is the completed H01
-no-note run at commit `c22cff99a0a1111215940c478db50e5762f1c5d3`.
+No successor is currently selected.
 
-The treatment must add one bounded, replaceable, non-authoritative model-authored
-continuity note while preserving the same exact current-state substrate. It
-must separately account for note-production calls, note token cost, continuity,
-resident-byte requests, reacquisition, recurrent result delivery, mutation,
-artifact quality, and failure migration.
+The H02 run reached a design fork rather than an empirical promotion boundary.
+A mechanically constrained note-output repair would retest expression; replacing
+exact resident material with the note would test a hybrid representation; and
+moving to H03 would test explicit model-managed exact residency. Those are
+different interventions and cannot be chosen from this censored comparison.
 
 No structured note, note-compaction policy, digest, model-managed residency,
-progress state, or decomposition treatment is currently selected or promoted.
+progress state, or decomposition treatment is selected or promoted. Further
+measured inference requires an explicit choice of which unresolved mechanism to
+isolate next.
