@@ -32,6 +32,8 @@ Every program claim must carry one of these statuses:
   treatment, and seed set. It does not automatically transfer.
 - **CH — candidate hypothesis:** an interpretation earned strongly enough to
   justify a bounded test.
+- **IN — inconclusive treatment:** a measured formulation was censored or
+  underexposed before its planned behavioral comparison became evaluable.
 - **UT — untested mechanism:** plausible design idea with no earned result.
 
 “Supported” without one of these scopes is not sufficient for promotion.
@@ -59,6 +61,16 @@ Every program claim must carry one of these statuses:
 - **LR:** chronology-free exact reentry produced one admitted, grounded mutation
   in two seeds. The other seed requested an omitted target region whose result
   could no longer fit. Both endpoints again reached result-delivery pressure.
+- **LR:** recurrent chronology-free exact-state replacement carried both an
+  inherited observation and an inherited candidate effect into new decisions,
+  and recurrently carried at least one later result in each diagnostic case.
+- **LR:** that exact-state representation was not a stable working state. The
+  actor requested exact bytes already resident, and the single latest-update
+  slot displaced recently delivered observations and effects.
+- **IN:** an additive one-shot freeform-note treatment did not produce an
+  evaluable three-call comparison. One note exhausted its frozen completion
+  allowance mid-JSON; the one valid note was followed by a resident exact read
+  whose result could not fit even after recomposition.
 
 ### Mechanisms insufficient alone on the tested trajectory
 
@@ -68,18 +80,26 @@ Every program claim must carry one of these statuses:
   preserve it through several ordinary action/result pairs.
 - **LR:** 12 additional physically feasible decisions per seed did not produce
   mutation under recurrent oldest-first reduction.
+- **LR:** exact current-state replacement alone did not make current residency
+  behaviorally legible or preserve more than one exact recent update.
+- **IN:** the tested additive one-shot note formulation did not establish a
+  semantic-continuity benefit.
 
 These are local boundaries, not universal impossibility results.
 
 ### Untested or unresolved
 
-- **UT:** recurrent deterministic exact-current-state recomposition;
-- **UT:** bounded model-authored working notes;
+- **CH:** whether Qwen can reliably express a nonempty freeform note within a
+  hard exact-token bound when JSON closure is removed as a failure amplifier;
+- **CH:** whether a compact mechanical directory of current exact residency and
+  region coverage reduces requests for bytes already present in the packet;
+- **CH:** whether separate bounded latest-effect and latest-observation slots
+  preserve exact causal continuity better than one replaceable update slot;
+- **IN:** bounded model-authored working notes as behavioral continuity state;
 - **UT:** specialized note compaction;
 - **UT:** model-managed exact residency;
 - **UT:** source-bound semantic digests;
 - **UT:** deterministic chronology folding beyond exact-body replacement;
-- **UT:** an exact causal frontier;
 - **UT:** bounded semantic control/progress state; and
 - **UT:** bounded phase decomposition with explicit recomposition review.
 
@@ -135,68 +155,50 @@ exact external custody
 
 Optional semantic state is not part of the incumbent.
 
-## Immediate experiment: recurrent exact-state recomposition
+## Immediate sequence
 
-Provisional name: `qwen38-recurrent-exact-state-recomposition-v0`
+### Qualification Q1 — bounded-note expression
 
-### Question
-
-Can a deterministic, chronology-free current-state projection repeatedly carry
-new observations and admitted effects across model decision boundaries without
-preserving the construction transcript?
-
-### Authentic diagnostic cases
-
-These are two different update types, not replicated seeds of one endpoint.
-
-1. **Observation reentry — seed 314159:** R030 was accepted by the host but not
-   delivered because the prospective next prompt exceeded the frozen reserve.
-2. **Effect reentry — seed 42:** a patch was admitted and changed the candidate,
-   but the exact patch result could not enter another model invocation.
-
-### Frozen operation
-
-At an authentic prospective delivery overflow:
+This is an apparatus qualification, not a claim that notes improve task work.
+Reuse the two exact H02 maintenance histories and change only the expression
+protocol:
 
 ```text
-accepted observation or effect
-  -> update exact externally custodied current state
-  -> mechanically render a fresh current-state projection
-  -> include the exact new observation/effect or an exact mechanically
-     normalized receipt plus current bytes
-  -> omit prior resident action chronology
-  -> execute the next ordinary decision
-  -> repeat only at the next qualified overflow
+exact maintenance input
+  -> same model and seed
+  -> raw note text, no JSON wrapper
+  -> generation allowance larger than the accepted note budget
+  -> mechanically accept only nonempty output <=320 exact model tokens
 ```
 
-The current projection may contain only predeclared mechanically selected
-objects. It must not add a summary, sufficiency claim, task-progress judgment,
-or recommendation.
+Use one attempt, zero retries, no host truncation, and no actor continuation.
+Record normal-stop rate, accepted bounded-note rate, exact token count, direct
+factual/qualification audit, fabrication, cost, and cache behavior. A larger
+generation allowance diagnoses closure separately; it does not relax the
+320-token accepted-note bound.
 
-### Necessary apparatus qualification
+### Experiment M1 — compact exact-workspace directory
 
-The seed-42 mutation changed the candidate. Its inherited structural outline
-and region bindings are stale. The successor must regenerate structural
-identity mechanically against the exact current candidate or use another
-predeclared exact current-candidate representation. It must never present
-old-hash regions as current.
+The next behavioral experiment uses the two recurrent exact-state call-2
+decision packets. They are different endpoint types, not replicate seeds, but
+both historical actors requested `R033` while its exact bytes were already
+resident.
 
-The two cases have different current candidates and update types. Measures and
-claims must be reported separately; their joint presence does not establish
-replication.
+Starting from each byte-exact packet, append one deterministic compact directory
+derived only from the packet itself. It may identify current candidate/version,
+resident object IDs, exact candidate line and region coverage, current latest
+update, and the external-history handle. It must not summarize content, score
+importance, claim sufficiency, recommend an action, or say not to reread.
 
-### Primary gates
+The directory must fit within the tighter historical call-2 headroom while
+preserving the frozen 4,096-token response reserve. Prefer <=128 exact model
+tokens. The primary result is the first action's byte-level residency class,
+not merely whether the action key changes. Novel acquisition, mutation,
+submission, invalid action, and capacity remain separate outcomes.
 
-1. **Update delivery:** the pending observation/effect appears byte-exactly in
-   a later actual model invocation.
-2. **Recurrent absorption:** at least one later accepted observation or effect
-   also crosses a subsequent model boundary after another qualified
-   recomposition.
-3. **Task progress:** mutation, candidate effect, review, repair, or submission
-   is reported separately from capacity success.
-
-The historical unrecomposed states are physical censored controls, not model
-behavior.
+The historical call-2 actions are immutable observed controls. One measured
+call per case is sufficient for the primary contrast; any short continuation
+must be separately frozen before outcomes are visible.
 
 ## Result-dependent routing
 
@@ -204,7 +206,12 @@ The program is adaptive rather than a fixed eight-experiment queue.
 
 | Observed residual pressure | Next isolated candidate |
 |---|---|
-| Recomposition loses orientation or governing relationships | bounded freeform note |
+| A bounded freeform note cannot be expressed reliably | defer notes or separately test a constrained note-maintenance protocol |
+| Exact resident bytes are requested despite explicit compact currentness | exact causal frontier or semantic continuity, selected by whether the requested bytes were resident or displaced |
+| Compact currentness reduces resident rereads | recurrent compact-directory transfer before adding semantic state |
+| A recently delivered effect/observation is displaced | bounded exact causal frontier |
+| A legible exact workspace still has selection pressure | model-managed exact residency |
+| A bounded note is reliable and exact residency is legible | fixed-total-budget substitutive note test |
 | A useful note fills and replacement value is established | specialized note compaction |
 | Stable evidence remains resident but acquisition continues without progress | bounded control/progress state |
 | Repeated raw reopening dominates | model-managed residency or source-bound digest, chosen by the exact pressure |

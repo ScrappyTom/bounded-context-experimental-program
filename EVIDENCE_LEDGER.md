@@ -27,18 +27,22 @@ hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
 | H04 | UT | source-bound digest | A version-bound digest may reduce repeated raw reopening without unacceptable semantic loss. | Requires an observed source-specific reopen cost. | — |
 | H05 | UT | progress/frontier state | Bounded model-authored progress may improve acquisition stopping or closure. | Requires reasonably stable evidence residency first. | — |
 | H06 | UT | bounded decomposition | Fresh bounded task frames may scale beyond one global working set. | Must independently test cross-frame integration quality. | — |
+| H07 | CH | compact exact-workspace directory | A small mechanically generated currentness/residency index may reduce requests for exact bytes already present in a dense current-state packet. | Must add no semantic recommendation and must be tested at exact resident-rerequest boundaries. | E09–E10 |
+| H08 | CH | bounded exact causal frontier | Separate latest-effect and latest-observation residency may avoid continuity loss caused by one replaceable latest-update slot. | Addresses mechanically explicit update displacement, not semantic importance or general memory. | E09 |
 
 ## Active selection
 
-No successor is currently selected.
+Two ordered activities are selected, with different epistemic roles.
 
-The H02 run reached a design fork rather than an empirical promotion boundary.
-A mechanically constrained note-output repair would retest expression; replacing
-exact resident material with the note would test a hybrid representation; and
-moving to H03 would test explicit model-managed exact residency. Those are
-different interventions and cannot be chosen from this censored comparison.
+1. Qualify raw-text bounded-note expression against the same two exact H02
+   maintenance inputs. This is an apparatus screen only: accepted output must be
+   nonempty and <=320 exact model tokens; there is no actor continuation and no
+   note-benefit claim.
+2. Run H07 at the two byte-exact recurrent-state call-2 boundaries where the
+   historical action requested resident `R033`. The sole treatment is a compact
+   mechanically derived current-workspace directory.
 
-No structured note, note-compaction policy, digest, model-managed residency,
-progress state, or decomposition treatment is selected or promoted. Further
-measured inference requires an explicit choice of which unresolved mechanism to
-isolate next.
+H08 is recorded but not yet selected. No structured note, note compaction,
+substitutive note, model-managed residency, digest, progress state, or
+decomposition treatment is promoted or authorized by this route. Result-based
+routing resumes only after the selected activities are sealed and audited.
