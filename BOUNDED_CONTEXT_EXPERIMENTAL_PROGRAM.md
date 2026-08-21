@@ -74,6 +74,9 @@ Every program claim must carry one of these statuses:
 - **LR:** removing JSON framing did not qualify the freeform-note primitive.
   Both exact maintenance cases used the full 512-token allowance, exceeded the
   unchanged 320-token note budget, and ended by length rather than normal stop.
+- **LR:** a compact mechanically derived exact-workspace directory did not
+  prevent resident exact rerequests. The effect case repeated `R033` exactly;
+  the observation case shifted to a broader resident `R032+R033` line range.
 
 ### Mechanisms insufficient alone on the tested trajectory
 
@@ -87,13 +90,15 @@ Every program claim must carry one of these statuses:
   behaviorally legible or preserve more than one exact recent update.
 - **IN:** the tested additive one-shot note formulation did not establish a
   semantic-continuity benefit.
+- **LR:** an explicit 117–118-token identity/range directory was insufficient
+  to turn resident exact availability into use without another read request.
 
 These are local boundaries, not universal impossibility results.
 
 ### Untested or unresolved
 
-- **CH:** whether a compact mechanical directory of current exact residency and
-  region coverage reduces requests for bytes already present in the packet;
+- **CH:** whether exact bytes selected by a resident rerequest become usable
+  when relocated once into a recent focus result rather than duplicated;
 - **CH:** whether separate bounded latest-effect and latest-observation slots
   preserve exact causal continuity better than one replaceable update slot;
 - **IN:** bounded model-authored working notes as behavioral continuity state;
@@ -186,7 +191,7 @@ mechanism and is not selected.
 
 ### Experiment M1 — compact exact-workspace directory
 
-The next behavioral experiment uses the two recurrent exact-state call-2
+Status: completed. The experiment used the two recurrent exact-state call-2
 decision packets. They are different endpoint types, not replicate seeds, but
 both historical actors requested `R033` while its exact bytes were already
 resident.
@@ -207,6 +212,43 @@ The historical call-2 actions are immutable observed controls. One measured
 call per case is sufficient for the primary contrast; any short continuation
 must be separately frozen before outcomes are visible.
 
+Observed result: both treated actions requested content already present in the
+same prompt. Seed 42 repeated `read_region R033`; seed 314159 changed to
+`read_lines 864–970`, the fully resident `R032+R033` span. The directory did not
+improve the byte-level primary result. Identity/range currentness alone is
+therefore insufficient in this presentation.
+
+### Experiment M2 — model-selected exact focus relocation
+
+Use the two accepted resident-read endpoints produced by M1. For each endpoint,
+the ordinary next packet appends the exact result while leaving the same bytes
+inside `OBJECT005`; measure that duplicate packet mechanically as the control.
+
+The sole treatment is deterministic exact relocation:
+
+```text
+accepted request for bytes already resident in OBJECT005
+  -> remove that exact nonoverlapping span from the earlier OBJECT005 body
+  -> preserve its path, candidate version, range, and hash
+  -> deliver the unchanged exact bytes as the recent accepted result
+  -> update only mechanical inventory fields
+  -> one next actor decision
+```
+
+The prior latest observation/effect, four governing source objects, task,
+candidate identity, tools, model profile, and response reserve remain resident
+and unchanged. The selected bytes must be present exactly once, not summarized.
+Selection comes only from the model's literal accepted read action. No host
+relevance score, sufficiency claim, progress advice, or instruction to mutate is
+permitted.
+
+The primary feasibility gate is that the deduplicated focus packet fits while
+the ordinary duplicate packet does not or is materially larger. The behavioral
+measure is the next action's byte-level residency class, with mutation,
+admission/effect, novel acquisition, another resident rerequest, and invalid
+action separated. One measured next-decision call per endpoint is the initial
+limit.
+
 ## Result-dependent routing
 
 The program is adaptive rather than a fixed eight-experiment queue.
@@ -214,7 +256,7 @@ The program is adaptive rather than a fixed eight-experiment queue.
 | Observed residual pressure | Next isolated candidate |
 |---|---|
 | A bounded freeform note cannot be expressed reliably | defer notes or separately test a constrained note-maintenance protocol |
-| Exact resident bytes are requested despite explicit compact currentness | exact causal frontier or semantic continuity, selected by whether the requested bytes were resident or displaced |
+| Exact resident bytes are requested despite explicit compact currentness | model-selected exact focus relocation before semantic compression |
 | Compact currentness reduces resident rereads | recurrent compact-directory transfer before adding semantic state |
 | A recently delivered effect/observation is displaced | bounded exact causal frontier |
 | A legible exact workspace still has selection pressure | model-managed exact residency |

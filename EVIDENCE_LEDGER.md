@@ -22,26 +22,32 @@ hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
 | E09 | LR | exact-state representation use | Qwen repeatedly reacquired omitted updates and requested exact bytes already resident; a resident suffix rematerialization then exceeded the replacement budget. | Local evidence against this standing-set/one-slot representation, not against all exact recomposition. | [recurrent-state audit](https://github.com/ScrappyTom/qwen38-recurrent-exact-state-recomposition-v0/commit/c22cff99a0a1111215940c478db50e5762f1c5d3) |
 | E10 | LR | one-shot bounded freeform note | One of two maintenance calls produced a valid 234-token note; the other exhausted its frozen 384-token completion allowance mid-JSON. The valid-note actor immediately requested a resident exact result whose delivery exceeded both ordinary and recomposed envelopes. | Three measured calls only. The predeclared three-actor-call behavioral comparison was not evaluable in either case. | [bounded-note result](https://github.com/ScrappyTom/qwen38-bounded-freeform-note-v0/commit/46f50817e11d1b990cbf906e9af0f74a15740137) |
 | E11 | LR | raw-text bounded-note expression | Both exact maintenance cases consumed all 512 completion tokens, exceeded the unchanged 320-token accepted-note budget, and ended by length; 0/2 notes qualified. | Interface reliability only; there were no actor calls and no note-utility test. | [expression qualification](https://github.com/ScrappyTom/qwen38-bounded-note-expression-qualification-v0/commit/5d86bf237201169b80b02e2fedcfdb4fe7ab94b1) |
+| E12 | LR | compact exact-workspace directory | Both treated actors still requested exact target bytes already resident in `OBJECT005`. One repeated historical `R033`; one displaced it to a broader resident `R032+R033` line read. | Two different endpoint types, one decision each; the latest-user-turn presentation is one directory formulation. | [workspace-directory result](https://github.com/ScrappyTom/qwen38-exact-workspace-directory-v0/commit/801c1bf3d9daa8739629df86bf260d4ad08e3311) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | UT | model-managed exact residency | Model retention choices may improve on FIFO under a hard exact budget. | Requires a stable exact-state baseline and observed selection pressure. | — |
 | H04 | UT | source-bound digest | A version-bound digest may reduce repeated raw reopening without unacceptable semantic loss. | Requires an observed source-specific reopen cost. | — |
 | H05 | UT | progress/frontier state | Bounded model-authored progress may improve acquisition stopping or closure. | Requires reasonably stable evidence residency first. | — |
 | H06 | UT | bounded decomposition | Fresh bounded task frames may scale beyond one global working set. | Must independently test cross-frame integration quality. | — |
-| H07 | CH | compact exact-workspace directory | A small mechanically generated currentness/residency index may reduce requests for exact bytes already present in a dense current-state packet. | Must add no semantic recommendation and must be tested at exact resident-rerequest boundaries. | E09–E10 |
+| H07 | LR | compact exact-workspace directory | The tested 117–118-token identity/range directory was insufficient: resident exact rerequests persisted in 2/2 cases. | Does not test every directory placement or richer semantic index. | E09–E12 |
 | H08 | CH | bounded exact causal frontier | Separate latest-effect and latest-observation residency may avoid continuity loss caused by one replaceable latest-update slot. | Addresses mechanically explicit update displacement, not semantic importance or general memory. | E09 |
+| H09 | CH | model-selected exact focus relocation | A literal read of already-resident bytes can select a recent exact focus projection while the earlier duplicate is removed. | Must preserve every exact byte/version and prior update; tests placement/accessibility, not semantic importance. | E12 |
 
 ## Active selection
 
 The note-expression qualification is complete and did not qualify freeform
 bounded notes: 0/2 outputs met the frozen bound. Freeform-note work is deferred.
 
-H07 is the sole active behavioral experiment. Run it at the two byte-exact
-recurrent-state call-2 boundaries where the historical action requested resident
-`R033`. The sole treatment is a compact mechanically derived current-workspace
-directory.
+H07 is complete. It changed one action but improved neither case under the
+byte-level primary measure: both requested resident exact bytes.
 
-H08 is recorded but not yet selected. No structured note, note compaction,
-substitutive note, model-managed residency, digest, progress state, or
-decomposition treatment is promoted or authorized by this route. Result-based
-routing resumes only after the selected activities are sealed and audited.
+H09 is the sole active behavioral experiment. Use the two exact accepted
+resident-read endpoints from E12. Preserve the complete current exact state and
+the prior observation/effect, move the literally requested bytes from their
+earlier candidate-suffix copy into the recent accepted-result position, and
+make one next actor decision. The same bytes must occur exactly once; no
+semantic summary or host importance claim is allowed.
+
+H08 remains recorded for the separate displaced-update pressure. No structured
+note, note compaction, substitutive note, model-managed residency, digest,
+progress state, or decomposition treatment is selected by this route.
