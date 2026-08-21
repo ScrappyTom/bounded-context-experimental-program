@@ -21,8 +21,9 @@ Adding a candidate mechanism here does not authorize or promote it.
 Current route: frontier-interface tuning is closed after the final
 closure-safe qualification failed 0/2 under its frozen complete-object gate.
 The H08 two-case design also failed parity because type-separated observation
-and effect slots change only the effect case. One cheap, one-trajectory
-cross-type effect-retention diagnostic is selected to close that exact
-question. After it, host-selected exact-layout tuning closes at these
-endpoints; the next program branch is ongoing model-managed exact residency,
-not a deeper fixed recent-N causal tail.
+and effect slots change only the effect case. Its one-case diagnostic then
+failed the exact capacity gate before inference: preserving both complete
+updates produced 21,113 prompt tokens, 121 beyond the frozen allowance. Zero
+GPU calls were made. Host-selected exact-layout tuning is now closed at these
+endpoints. Ongoing model-managed exact residency remains the next distinct
+candidate branch, but no successor is active.

@@ -413,7 +413,7 @@ residency answer different questions. None is selected automatically.
 
 ### Qualification Q5 — one-case cross-type effect retention
 
-Status: selected as a terminal, descriptive exact-layout diagnostic.
+Status: complete at offline capacity gate; no model call.
 
 Use only the E08 effect trajectory. At the exact post-R033 recomposition
 boundary, preserve both mechanically typed updates:
@@ -432,6 +432,13 @@ different exact object.
 This test asks only whether retaining a candidate-changing effect across a
 later observation changes continuation at this one boundary. It cannot earn a
 transfer, recurrence, or general causal-frontier claim.
+
+Observed result: the exact donor baseline reproduced at 19,790 prompt tokens
+with +1,202 headroom after the frozen response reserve. Retaining the complete
+accepted patch receipt alongside exact R033 added 1,323 prompt tokens, yielding
+21,113 and -121 headroom. The treatment was therefore ineligible without
+removing or changing another object. No model/GPU call occurred. This is a
+physical eligibility result, not evidence about actor use of effect continuity.
 
 After Q5, no further experiment may merely change where the host places exact
 information at the E08/E12/E13/E14 endpoints unless it addresses a pressure

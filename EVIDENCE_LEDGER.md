@@ -28,6 +28,7 @@ hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
 | E15 | LR | bounded structured-frontier expression | Strict field/item bounds produced valid, normally stopped 209- and 277-token JSON objects where raw freeform outputs had length-ended at 512 tokens. Direct audit found 6/8 incomplete prose fields and one truncated handle. | Interface mechanics only; no actor calls. Mechanical closure did not establish semantic closure or utility readiness. | [frontier-expression result](https://github.com/ScrappyTom/qwen38-bounded-frontier-expression-qualification-v0/commit/3cf5ab005128b95c7af9f24d7d018eab548e6b98) |
 | E16 | LR | closure-safe structured-frontier expression | All 10 returned prose values were complete and all 8 handles were exact, but both calls length-terminated; one object omitted a required field and one used 331 tokens with wrong keys. The runtime grammar omitted declared string-length bounds. | 0/2 complete interface acceptance; no actor calls. This closes local schema-expression tuning without isolating model semantics from the live schema/provider path. | [closed-frontier result](https://github.com/ScrappyTom/qwen38-closed-frontier-expression-qualification-v0/commit/cde5d344f81ae3af6bc5e4c3838454b7b9a0d758) |
 | E17 | NQ | type-separated exact causal slots | Offline audit found observation→observation displacement in one case and effect→observation displacement in the other. One observation slot plus one effect slot changes only the latter. | Planned two-case causal contrast ineligible; zero GPU calls. | [H08 eligibility audit](audits/H08_EXACT_CAUSAL_FRONTIER_ELIGIBILITY.md) |
+| E18 | AF | one-case exact effect + observation co-residency | The donor baseline reproduced at 19,790 prompt tokens (+1,202 headroom). Adding the complete exact patch receipt alongside exact R033 produced 21,113 (-121), so the one-change treatment was capacity-ineligible. | Physical eligibility only; zero model calls and no behavioral conclusion. | [cross-type capacity audit](https://github.com/ScrappyTom/qwen38-cross-type-update-residency-v0/commit/6001a46186514f26fe38184f85d4bd604bb6ca1b) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | UT | model-managed exact residency | Model retention choices may improve on FIFO under a hard exact budget. | Requires a stable exact-state baseline and observed selection pressure. | — |
@@ -40,7 +41,7 @@ hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
 | H10 | LR | accumulated model-selected exact focus | The two-span focus set remained physically operable but did not converge on task action: demand expanded outside the set in one case and immediately repeated within it in one. | Placement-only focus tuning is closed at these endpoints. Does not adjudicate semantic continuity or legitimate need for the novel read. | E13–E14 |
 | H11 | LR | bounded structured frontier expression | The tested schema qualified syntactic/token closure in 2/2 cases but migrated failure to clipped semantic fields and one invalid handle. | No actor calls; not utility-ready unchanged. | E10–E11, E15 |
 | H12 | LR | closure-safe structured frontier expression | Returned prose and handles were locally complete, but neither full object closed under the frozen interface; both length-terminated and the live grammar omitted declared length limits. | 0/2 complete acceptance. Frontier schema-expression tuning is closed; utility was not tested. | E15–E16 |
-| H13 | UT | one-case cross-type effect retention | Keeping the latest admitted candidate effect resident alongside a later accepted observation may change continuation where generic latest-update replacement displaced the effect. | Selected one-trajectory diagnostic only; cannot establish transfer or a general exact causal frontier. | E08–E09, E17 |
+| H13 | NQ | one-case cross-type effect retention | The complete exact effect and observation could not co-reside with the inherited standing set under the frozen envelope. | Behavioral utility untested; changing another object would be a different treatment. | E08–E09, E17–E18 |
 
 ## Active selection
 
@@ -74,11 +75,13 @@ admitted patch effect with R033. Separate one-deep observation/effect slots are
 therefore a no-op in the first case and an active treatment only in the second.
 Zero GPU calls were made.
 
-H13 is selected as a cheap terminal diagnostic of that active effect case. It
-must preserve the exact patch effect alongside exact R033 without deleting a
-different object, preserve the response reserve, and use no more than three
-ordinary calls. Its scope is descriptive even if behavior improves.
+H13 stopped at its exact capacity gate. The historical donor packet reproduced
+at 19,790 prompt tokens; the two-complete-update treatment required 21,113,
+leaving -121 headroom after the unchanged reserve. Removing a different object
+or shortening the effect would have added a second treatment. Zero model/GPU
+calls were made.
 
-After H13, fixed host-selected layout tuning closes at these endpoints. No
-deeper recent-N causal tail is selected. The next distinct program branch is
-ongoing model-managed exact residency under a hard host-enforced budget.
+Fixed host-selected layout tuning is now closed at these endpoints. No deeper
+recent-N causal tail is selected. Ongoing model-managed exact residency under
+a hard host-enforced budget remains the next distinct candidate branch, but no
+experiment is active after this blocker.
