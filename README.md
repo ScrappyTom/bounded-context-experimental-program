@@ -18,8 +18,10 @@ Claim-level custody and promotion status are recorded in
 Each measured experiment remains a separately frozen, auditable repository.
 Adding a candidate mechanism here does not authorize or promote it.
 
-Current route: lightly structured frontier output passed the 320-token
-mechanical gate in 2/2 cases, but hard character ceilings left 6/8 prose fields
-incomplete and truncated 1/7 exact handles. One final closure-safe expression
-qualification is active; it is not a task-benefit test, and failure closes
-frontier-interface tuning on these histories.
+Current route: the final closure-safe frontier qualification failed 0/2 under
+its frozen complete-object gate. Returned prose and handles were locally
+complete, but both calls length-terminated and the live grammar/provider path
+did not reliably enforce the declared bounded object. Frontier-interface
+tuning is closed. The next active question is the mechanical H08 boundary:
+whether separate exact observation and effect slots prevent one update type
+from displacing the other.

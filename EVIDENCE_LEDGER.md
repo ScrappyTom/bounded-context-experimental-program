@@ -26,6 +26,7 @@ hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
 | E13 | LR | model-selected exact focus relocation | Both formerly duplicate result packets became feasible with the selected bytes present exactly once. Neither actor mutated or submitted; each next requested a complementary or adjacent target span already resident in the exact residual state. | Two different endpoint types, one decision each. The treatment also replaced the wrapper and removed the stale directory, so it isolates a compound exact representation change rather than placement alone. | [focus-relocation result](https://github.com/ScrappyTom/qwen38-exact-focus-relocation-v0/commit/1fc4bccadab37de5ab051e60248df6ed3353b4b3) |
 | E14 | LR | accumulated model-selected exact focus | Both second reads crossed a new model boundary without duplication. The observation actor then requested nonresident target lines 547–619; the effect actor repeated the just-delivered second focus exactly. Neither mutated or submitted. | Two different endpoint types, one decision each. This closes the predeclared placement-only focus route at these endpoints, not every exact-state representation. | [accumulated-focus result](https://github.com/ScrappyTom/qwen38-accumulated-exact-focus-v0/commit/6bed7b208174646b803405fdce1a83a9432fba88) |
 | E15 | LR | bounded structured-frontier expression | Strict field/item bounds produced valid, normally stopped 209- and 277-token JSON objects where raw freeform outputs had length-ended at 512 tokens. Direct audit found 6/8 incomplete prose fields and one truncated handle. | Interface mechanics only; no actor calls. Mechanical closure did not establish semantic closure or utility readiness. | [frontier-expression result](https://github.com/ScrappyTom/qwen38-bounded-frontier-expression-qualification-v0/commit/3cf5ab005128b95c7af9f24d7d018eab548e6b98) |
+| E16 | LR | closure-safe structured-frontier expression | All 10 returned prose values were complete and all 8 handles were exact, but both calls length-terminated; one object omitted a required field and one used 331 tokens with wrong keys. The runtime grammar omitted declared string-length bounds. | 0/2 complete interface acceptance; no actor calls. This closes local schema-expression tuning without isolating model semantics from the live schema/provider path. | [closed-frontier result](https://github.com/ScrappyTom/qwen38-closed-frontier-expression-qualification-v0/commit/cde5d344f81ae3af6bc5e4c3838454b7b9a0d758) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | UT | model-managed exact residency | Model retention choices may improve on FIFO under a hard exact budget. | Requires a stable exact-state baseline and observed selection pressure. | — |
@@ -33,11 +34,11 @@ hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
 | H05 | UT | progress/frontier state | Bounded model-authored progress may improve acquisition stopping or closure. | Requires reasonably stable evidence residency first. | — |
 | H06 | UT | bounded decomposition | Fresh bounded task frames may scale beyond one global working set. | Must independently test cross-frame integration quality. | — |
 | H07 | LR | compact exact-workspace directory | The tested 117–118-token identity/range directory was insufficient: resident exact rerequests persisted in 2/2 cases. | Does not test every directory placement or richer semantic index. | E09–E12 |
-| H08 | CH | bounded exact causal frontier | Separate latest-effect and latest-observation residency may avoid continuity loss caused by one replaceable latest-update slot. | Addresses mechanically explicit update displacement, not semantic importance or general memory. | E09 |
+| H08 | CH | bounded exact causal frontier | Separate latest-effect and latest-observation residency may avoid continuity loss caused by one replaceable latest-update slot. | Active mechanical qualification; addresses explicit update displacement, not semantic importance or general memory. | E09 |
 | H09 | LR | model-selected exact focus relocation | The tested one-span relocation restored exact result delivery without duplication but did not produce task action; demand shifted to complementary or adjacent resident target bytes in 2/2 cases. | Does not establish that every focus placement fails. Wrapper replacement and stale-directory removal were held as declared parts of this formulation. | E12–E13 |
 | H10 | LR | accumulated model-selected exact focus | The two-span focus set remained physically operable but did not converge on task action: demand expanded outside the set in one case and immediately repeated within it in one. | Placement-only focus tuning is closed at these endpoints. Does not adjudicate semantic continuity or legitimate need for the novel read. | E13–E14 |
 | H11 | LR | bounded structured frontier expression | The tested schema qualified syntactic/token closure in 2/2 cases but migrated failure to clipped semantic fields and one invalid handle. | No actor calls; not utility-ready unchanged. | E10–E11, E15 |
-| H12 | CH | closure-safe structured frontier expression | Terminally closed prose fields plus mechanically enumerated exact handles may retain bounded closure without clipped statements or invalid references. | One final interface qualification on the same exact inputs. Failure or semantic clipping defers this branch; no further schema tuning. | E15 |
+| H12 | LR | closure-safe structured frontier expression | Returned prose and handles were locally complete, but neither full object closed under the frozen interface; both length-terminated and the live grammar omitted declared length limits. | 0/2 complete acceptance. Frontier schema-expression tuning is closed; utility was not tested. | E15–E16 |
 
 ## Active selection
 
@@ -59,19 +60,23 @@ H11 is complete. It passed its frozen mechanical gate in 2/2 cases, but direct
 audit found clipped semantic phrases and one truncated source-path handle. It
 does not authorize an actor comparison unchanged.
 
-H12 is the sole active qualification. Reuse the same two exact maintenance
-inputs, 512-token allowance, 320-token accepted bound, model, and seeds. Require
-semantic strings to end with terminal punctuation and restrict handle output to
-a deterministic enum of complete exact identifiers already present in each
-input. Make two maintenance calls, no actor calls, one attempt, and zero
-retries.
+H12 is complete and failed its predeclared 2/2 gate. Both calls used the full
+512-token allowance. All returned prose values and handle strings were locally
+closed, but neither complete object qualified; the runtime-generated grammar
+also omitted declared string-length limits. No further frontier-schema repair
+or utility treatment is selected.
 
-This is the last schema-expression repair on these histories. Require 2/2
-mechanically accepted frontiers, 2/2 directly closed semantic records, and only
-valid exact handles before considering a separately frozen utility design. Any
-failure, clipping, or invalid handle defers the frontier branch without another
-template variant.
+H08 is now the sole active mechanical qualification. First reconstruct the two
+E09 displaced-update endpoints and prove offline that update type is explicit,
+that one replaceable latest-update slot displaced a still-relevant opposite-type
+update, and that separate exact `latest_observation` and `latest_effect` slots
+fit without reducing the frozen response reserve. The host may classify only by
+literal admitted action/result type and current candidate binding; it may not
+infer semantic importance.
 
-H08 remains recorded for the separate displaced-update pressure. No frontier
-utility treatment, note compaction, substitutive note, model-managed residency,
-digest, or decomposition treatment is selected yet.
+If both cases qualify, freeze a short comparison against the existing exact
+recomposition baseline. Preserve current candidate/world, exact backing,
+ordinary tools, model/runtime, and hard envelope. A same-type update may replace
+its own slot but must not evict the opposite type. Do not add a semantic note,
+working-set policy, digest, or progress state. Stop before GPU if the two
+endpoints do not instantiate the same mechanical displacement rule.

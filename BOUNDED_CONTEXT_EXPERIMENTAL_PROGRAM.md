@@ -88,6 +88,10 @@ Every program claim must carry one of these statuses:
 - **LR:** a lightly structured frontier schema repaired normal output closure
   and the 320-token bound in 2/2 maintenance cases, but direct audit found six
   incomplete prose fields and one truncated exact handle.
+- **LR:** the final closure-safe frontier surface returned complete prose and
+  exact handles locally, but both calls length-terminated and 0/2 complete
+  objects qualified. The live generated grammar omitted declared string-length
+  bounds, so frontier schema-expression tuning is closed without a utility test.
 
 ### Mechanisms insufficient alone on the tested trajectory
 
@@ -116,9 +120,6 @@ These are local boundaries, not universal impossibility results.
 
 ### Untested or unresolved
 
-- **CH:** whether terminal-closure constraints and mechanically enumerated
-  complete handles can repair the observed frontier-content defect without
-  violating the unchanged 320-token budget;
 - **CH:** whether separate bounded latest-effect and latest-observation slots
   preserve exact causal continuity better than one replaceable update slot;
 - **IN:** bounded model-authored working notes as behavioral continuity state;
@@ -336,7 +337,7 @@ prefix. The output surface is not utility-ready unchanged.
 
 ### Qualification Q3 — closure-safe bounded frontier expression
 
-Status: selected as the final expression-interface repair on these histories.
+Status: completed; 0/2 complete objects qualified, interface branch closed.
 
 Reuse Q2's exact two maintenance inputs and hold the model, seeds, sampler,
 reasoning setting, 512-token completion allowance, 320-token accepted-object
@@ -357,6 +358,41 @@ Qualification requires 2/2 mechanical acceptance, direct semantic closure in
 both records, and no invalid handle. Any failure closes this interface branch
 without another schema variant. A pass permits design—not automatic execution—
 of one fixed-budget frontier-utility comparison.
+
+Observed result: all ten returned prose values ended as complete punctuated
+thoughts and all eight handle strings were complete exact catalog members.
+Nevertheless both calls exhausted the 512-token generation allowance. The
+observation object omitted its required unresolved field; the effect object
+used alternate keys and 331 visible tokens. The runtime-generated grammar
+contained fixed keys, punctuation, and handle enums but omitted declared
+`maxLength` constraints. No actor call occurred. This closes frontier-schema
+tuning and does not qualify a utility comparison.
+
+### Qualification Q4 — bounded exact causal frontier
+
+Status: selected for offline boundary qualification.
+
+Reconstruct the two E09 endpoints where a newly delivered observation or
+admitted effect replaced the single latest-update slot and an opposite-type
+update was subsequently reacquired or no longer co-resident. Classify update
+type only from literal admitted action/result records and bind each exact value
+to its candidate/world version.
+
+The candidate representation has two replaceable exact slots:
+
+- `latest_observation`; and
+- `latest_effect`.
+
+A same-type update replaces only its own slot. Neither slot may evict the other.
+All older exact history remains externally custodied and reopenable. No
+semantic summary, relevance score, note, progress field, or model-controlled
+residency decision is added.
+
+Before measured calls, require both endpoints to instantiate the same
+mechanical displacement rule, reconstruct exactly, preserve the frozen response
+reserve, and fit with both slots. If they do not, stop rather than combine two
+different treatments. If they qualify, freeze one short ordinary continuation
+per endpoint against the existing recurrent exact-recomposition baseline.
 
 ## Result-dependent routing
 
