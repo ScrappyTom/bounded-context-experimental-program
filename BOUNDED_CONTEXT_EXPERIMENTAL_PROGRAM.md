@@ -71,6 +71,9 @@ Every program claim must carry one of these statuses:
   evaluable three-call comparison. One note exhausted its frozen completion
   allowance mid-JSON; the one valid note was followed by a resident exact read
   whose result could not fit even after recomposition.
+- **LR:** removing JSON framing did not qualify the freeform-note primitive.
+  Both exact maintenance cases used the full 512-token allowance, exceeded the
+  unchanged 320-token note budget, and ended by length rather than normal stop.
 
 ### Mechanisms insufficient alone on the tested trajectory
 
@@ -89,8 +92,6 @@ These are local boundaries, not universal impossibility results.
 
 ### Untested or unresolved
 
-- **CH:** whether Qwen can reliably express a nonempty freeform note within a
-  hard exact-token bound when JSON closure is removed as a failure amplifier;
 - **CH:** whether a compact mechanical directory of current exact residency and
   region coverage reduces requests for bytes already present in the packet;
 - **CH:** whether separate bounded latest-effect and latest-observation slots
@@ -159,7 +160,8 @@ Optional semantic state is not part of the incumbent.
 
 ### Qualification Q1 — bounded-note expression
 
-This is an apparatus qualification, not a claim that notes improve task work.
+Status: completed; 0/2 accepted bounded notes. This is an apparatus
+qualification, not a claim that notes improve task work.
 Reuse the two exact H02 maintenance histories and change only the expression
 protocol:
 
@@ -176,6 +178,11 @@ Record normal-stop rate, accepted bounded-note rate, exact token count, direct
 factual/qualification audit, fabrication, cost, and cache behavior. A larger
 generation allowance diagnoses closure separately; it does not relax the
 320-token accepted-note bound.
+
+Observed result: both calls produced grounded-looking raw text but consumed all
+512 completion tokens and exceeded the 320-token bound. Freeform notes are
+deferred. Structured or transactional note maintenance would be a different
+mechanism and is not selected.
 
 ### Experiment M1 — compact exact-workspace directory
 

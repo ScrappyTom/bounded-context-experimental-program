@@ -21,6 +21,7 @@ hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
 | E08 | LR | recurrent exact-current-state replacement | Both authentic pending updates entered call 1, and both diagnostic update types carried at least one later measured result through another recomposition. | Different update types, not replicated seeds; one large duplicate result still overflowed. | [recurrent-state result](https://github.com/ScrappyTom/qwen38-recurrent-exact-state-recomposition-v0/commit/c22cff99a0a1111215940c478db50e5762f1c5d3) |
 | E09 | LR | exact-state representation use | Qwen repeatedly reacquired omitted updates and requested exact bytes already resident; a resident suffix rematerialization then exceeded the replacement budget. | Local evidence against this standing-set/one-slot representation, not against all exact recomposition. | [recurrent-state audit](https://github.com/ScrappyTom/qwen38-recurrent-exact-state-recomposition-v0/commit/c22cff99a0a1111215940c478db50e5762f1c5d3) |
 | E10 | LR | one-shot bounded freeform note | One of two maintenance calls produced a valid 234-token note; the other exhausted its frozen 384-token completion allowance mid-JSON. The valid-note actor immediately requested a resident exact result whose delivery exceeded both ordinary and recomposed envelopes. | Three measured calls only. The predeclared three-actor-call behavioral comparison was not evaluable in either case. | [bounded-note result](https://github.com/ScrappyTom/qwen38-bounded-freeform-note-v0/commit/46f50817e11d1b990cbf906e9af0f74a15740137) |
+| E11 | LR | raw-text bounded-note expression | Both exact maintenance cases consumed all 512 completion tokens, exceeded the unchanged 320-token accepted-note budget, and ended by length; 0/2 notes qualified. | Interface reliability only; there were no actor calls and no note-utility test. | [expression qualification](https://github.com/ScrappyTom/qwen38-bounded-note-expression-qualification-v0/commit/5d86bf237201169b80b02e2fedcfdb4fe7ab94b1) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | UT | model-managed exact residency | Model retention choices may improve on FIFO under a hard exact budget. | Requires a stable exact-state baseline and observed selection pressure. | — |
@@ -32,15 +33,13 @@ hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
 
 ## Active selection
 
-Two ordered activities are selected, with different epistemic roles.
+The note-expression qualification is complete and did not qualify freeform
+bounded notes: 0/2 outputs met the frozen bound. Freeform-note work is deferred.
 
-1. Qualify raw-text bounded-note expression against the same two exact H02
-   maintenance inputs. This is an apparatus screen only: accepted output must be
-   nonempty and <=320 exact model tokens; there is no actor continuation and no
-   note-benefit claim.
-2. Run H07 at the two byte-exact recurrent-state call-2 boundaries where the
-   historical action requested resident `R033`. The sole treatment is a compact
-   mechanically derived current-workspace directory.
+H07 is the sole active behavioral experiment. Run it at the two byte-exact
+recurrent-state call-2 boundaries where the historical action requested resident
+`R033`. The sole treatment is a compact mechanically derived current-workspace
+directory.
 
 H08 is recorded but not yet selected. No structured note, note compaction,
 substitutive note, model-managed residency, digest, progress state, or
