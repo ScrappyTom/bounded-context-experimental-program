@@ -439,6 +439,11 @@ accepted patch receipt alongside exact R033 added 1,323 prompt tokens, yielding
 21,113 and -121 headroom. The treatment was therefore ineligible without
 removing or changing another object. No model/GPU call occurred. This is a
 physical eligibility result, not evidence about actor use of effect continuity.
+A post-hoc CPU-only sensitivity audit reduced the added representation to a
+minimal deterministic label plus the complete exact effect; it still required
+21,015 tokens and left -23 headroom. Fitting therefore requires changing or
+removing pre-existing packet content, not merely deleting optional added
+custody fields.
 
 After Q5, no further experiment may merely change where the host places exact
 information at the E08/E12/E13/E14 endpoints unless it addresses a pressure

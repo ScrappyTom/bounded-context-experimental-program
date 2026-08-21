@@ -23,7 +23,9 @@ closure-safe qualification failed 0/2 under its frozen complete-object gate.
 The H08 two-case design also failed parity because type-separated observation
 and effect slots change only the effect case. Its one-case diagnostic then
 failed the exact capacity gate before inference: preserving both complete
-updates produced 21,113 prompt tokens, 121 beyond the frozen allowance. Zero
-GPU calls were made. Host-selected exact-layout tuning is now closed at these
+updates produced 21,113 prompt tokens, 121 beyond the frozen allowance. A
+post-hoc minimal deterministic label still missed by 23 tokens, so the result
+was not merely verbose custody metadata. Zero GPU calls were made.
+Host-selected exact-layout tuning is now closed at these
 endpoints. Ongoing model-managed exact residency remains the next distinct
 candidate branch, but no successor is active.
