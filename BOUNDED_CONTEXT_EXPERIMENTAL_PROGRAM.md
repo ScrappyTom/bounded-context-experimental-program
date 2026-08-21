@@ -411,6 +411,35 @@ This exposes a genuine design fork rather than an implementation defect. A
 one-case cross-type test, a deeper fixed causal tail, and model-managed exact
 residency answer different questions. None is selected automatically.
 
+### Qualification Q5 — one-case cross-type effect retention
+
+Status: selected as a terminal, descriptive exact-layout diagnostic.
+
+Use only the E08 effect trajectory. At the exact post-R033 recomposition
+boundary, preserve both mechanically typed updates:
+
+- the latest admitted candidate effect (the exact accepted patch receipt); and
+- the latest accepted observation (the exact R033 result).
+
+Hold every other exact packet component, tool, model/runtime setting, context
+limit, and 4,096-token response reserve fixed. The historical comparison is
+the donor call in which R033 was resident but the patch effect had been
+displaced and the actor requested target lines 740–1018. The treatment may run
+at most three ordinary actor calls, one attempt, zero retries. It is eligible
+only if the two updates co-reside under the frozen envelope without removing a
+different exact object.
+
+This test asks only whether retaining a candidate-changing effect across a
+later observation changes continuation at this one boundary. It cannot earn a
+transfer, recurrence, or general causal-frontier claim.
+
+After Q5, no further experiment may merely change where the host places exact
+information at the E08/E12/E13/E14 endpoints unless it addresses a pressure
+not already instantiated there. In particular, no deeper fixed recent-N tail,
+third focus placement, richer residency directory, or additional one-shot
+host-selected subset is selected. The next distinct branch is ongoing
+model-managed exact residency.
+
 ## Result-dependent routing
 
 The program is adaptive rather than a fixed eight-experiment queue.
@@ -434,6 +463,15 @@ The program is adaptive rather than a fixed eight-experiment queue.
 | Recomposition is stable and task work progresses | close transfer before added mechanism |
 
 No downstream branch is authorized merely because it appears in this table.
+
+### Exact-layout stopping rule
+
+Host-selected exact layout is no longer an open-ended tuning surface at the
+current endpoints. A proposed study is ineligible if its only novelty is a
+different fixed subset, ordering, directory, focus span, or tail depth over the
+same E08/E12/E13/E14 material. Eligibility requires a new mechanically
+demonstrated pressure not covered by those results. Q5 is the sole exception,
+predeclared to close the specific cross-type effect-displacement question.
 
 ## Candidate mechanism families
 

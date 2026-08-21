@@ -40,6 +40,7 @@ hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
 | H10 | LR | accumulated model-selected exact focus | The two-span focus set remained physically operable but did not converge on task action: demand expanded outside the set in one case and immediately repeated within it in one. | Placement-only focus tuning is closed at these endpoints. Does not adjudicate semantic continuity or legitimate need for the novel read. | E13–E14 |
 | H11 | LR | bounded structured frontier expression | The tested schema qualified syntactic/token closure in 2/2 cases but migrated failure to clipped semantic fields and one invalid handle. | No actor calls; not utility-ready unchanged. | E10–E11, E15 |
 | H12 | LR | closure-safe structured frontier expression | Returned prose and handles were locally complete, but neither full object closed under the frozen interface; both length-terminated and the live grammar omitted declared length limits. | 0/2 complete acceptance. Frontier schema-expression tuning is closed; utility was not tested. | E15–E16 |
+| H13 | UT | one-case cross-type effect retention | Keeping the latest admitted candidate effect resident alongside a later accepted observation may change continuation where generic latest-update replacement displaced the effect. | Selected one-trajectory diagnostic only; cannot establish transfer or a general exact causal frontier. | E08–E09, E17 |
 
 ## Active selection
 
@@ -73,8 +74,11 @@ admitted patch effect with R033. Separate one-deep observation/effect slots are
 therefore a no-op in the first case and an active treatment only in the second.
 Zero GPU calls were made.
 
-No experiment is active. The next decision is material: accept a one-case
-cross-type slot test; define and justify a deeper fixed exact causal tail that
-can retain multiple same-type observations; or move to model-managed exact
-residency. Do not infer or tune the depth from the desired retention of R030
-without a prospective rule and capacity audit.
+H13 is selected as a cheap terminal diagnostic of that active effect case. It
+must preserve the exact patch effect alongside exact R033 without deleting a
+different object, preserve the response reserve, and use no more than three
+ordinary calls. Its scope is descriptive even if behavior improves.
+
+After H13, fixed host-selected layout tuning closes at these endpoints. No
+deeper recent-N causal tail is selected. The next distinct program branch is
+ongoing model-managed exact residency under a hard host-enforced budget.
