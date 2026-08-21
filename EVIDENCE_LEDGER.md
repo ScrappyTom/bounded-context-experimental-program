@@ -15,8 +15,10 @@ repositories remain the authoritative raw custody.
 | E05 | LR | FIFO/oldest-first lifecycle | One seed entered an exact period-three reopen loop; the other shifted toward repeated reopens. | Diagnostic local churn, not proof that every reopen was irrational. | [horizon result](https://github.com/ScrappyTom/qwen38-recurrent-context-reduction-horizon-v0/commit/f52642ec85efdc8f7196515503a0312af7c38d78) |
 | E06 | AF | late-history counterfactual | Remaining exact-body demotion could not make all four governing documents co-resident in late history, while a fresh exact set fit. | Physical counterfactual only; no model call. | [construction-set audit](https://github.com/ScrappyTom/qwen38-recurrent-context-reduction-horizon-v0/commit/daa5978f817bf21189870e7306eb19e235421424) |
 | E07 | LR | chronology-free exact reentry | A fresh exact packet produced one admitted grounded mutation in two seeds. | Mixed, seed-sensitive result; both continuations again hit result-delivery pressure. | [exact-reentry result](https://github.com/ScrappyTom/qwen38-exact-construction-reentry-v0/commit/68a4b0b04c4557dcc459b42822e804f241565757) |
-| H01 | CH | recurrent exact-current-state replacement | Repeated recomposition may carry observations/effects without resident construction chronology. | Earned next experiment, not yet tested. | E06–E07 |
-| H02 | UT | bounded working note | A model-authored replacement note may preserve continuity beyond exact state alone. | Requires H01 control and observed orientation loss. | — |
+| E08 | LR | recurrent exact-current-state replacement | Both authentic pending updates entered call 1, and both diagnostic update types carried at least one later measured result through another recomposition. | Different update types, not replicated seeds; one large duplicate result still overflowed. | [recurrent-state result](https://github.com/ScrappyTom/qwen38-recurrent-exact-state-recomposition-v0/commit/c22cff99a0a1111215940c478db50e5762f1c5d3) |
+| E09 | LR | exact-state representation use | Qwen repeatedly reacquired omitted updates and requested exact bytes already resident; a resident suffix rematerialization then exceeded the replacement budget. | Local evidence against this standing-set/one-slot representation, not against all exact recomposition. | [recurrent-state audit](https://github.com/ScrappyTom/qwen38-recurrent-exact-state-recomposition-v0/commit/c22cff99a0a1111215940c478db50e5762f1c5d3) |
+| H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
+| H02 | CH | bounded working note | A model-authored replacement note may preserve continuity beyond exact state alone and reduce redundant reacquisition. | Earned next experiment; must beat the exact no-note incumbent without becoming authoritative. | E09 |
 | H03 | UT | model-managed exact residency | Model retention choices may improve on FIFO under a hard exact budget. | Requires a stable exact-state baseline and observed selection pressure. | — |
 | H04 | UT | source-bound digest | A version-bound digest may reduce repeated raw reopening without unacceptable semantic loss. | Requires an observed source-specific reopen cost. | — |
 | H05 | UT | progress/frontier state | Bounded model-authored progress may improve acquisition stopping or closure. | Requires reasonably stable evidence residency first. | — |
@@ -24,10 +26,14 @@ repositories remain the authoritative raw custody.
 
 ## Active selection
 
-`H01` is the only active next mechanism. The two exact diagnostic cases are
-observation delivery after seed 314159's R030 request and effect delivery after
-seed 42's admitted patch. They must be reported as distinct update types, not
-as replicated seeds.
+`H02` is the only active next mechanism. Its control is the completed H01
+no-note run at commit `c22cff99a0a1111215940c478db50e5762f1c5d3`.
 
-No semantic note, digest, model-managed residency, progress state, or
-decomposition treatment is currently selected or promoted.
+The treatment must add one bounded, replaceable, non-authoritative model-authored
+continuity note while preserving the same exact current-state substrate. It
+must separately account for note-production calls, note token cost, continuity,
+resident-byte requests, reacquisition, recurrent result delivery, mutation,
+artifact quality, and failure migration.
+
+No structured note, note-compaction policy, digest, model-managed residency,
+progress state, or decomposition treatment is currently selected or promoted.
