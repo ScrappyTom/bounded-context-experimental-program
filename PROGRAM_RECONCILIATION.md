@@ -12,18 +12,20 @@ The program has enough component evidence to stop searching the current donor
 trajectories for a slightly better exact layout, eviction prompt, digest format,
 frontier schema, or maintenance dialogue.
 
-The strongest earned system is smaller than the context-manager concept that
-motivated the work:
+The strongest earned result is a mechanical safety and lifecycle substrate,
+not a reliable end-to-end task-performance architecture:
 
 ```text
 exact external custody
 + ordinary chronology while healthy
 + host-owned response and control reserves
-+ minimum-necessary deterministic pressure relief
++ deterministic first-fit pressure relief under a frozen scan order
 + exact reopen on actor demand
 + bounded exact phase reentry when chronology becomes the burden
-+ independent candidate/task/evidence-bound evaluation
 ```
+
+Independent candidate/task/evidence-bound evaluation is mandatory common
+governance, not part of the runtime treatment.
 
 This is an experimental incumbent, not a promoted general architecture. The
 next high-value question is whether these pieces improve complete operation on
@@ -91,11 +93,14 @@ Host-owned mechanical responsibilities:
 
 - exact custody, versions, hashes, and reopenability;
 - prompt accounting and prospective capacity checks;
-- response and maintenance/control reserves;
-- minimum amount of pressure relief;
+- response reserve and the treatment's exactly preflighted transition reserve;
+- deterministic first-fit pressure relief with immediate stop at feasibility;
 - deterministic receipt substitution and admission;
-- exact current-world and phase reentry mechanics; and
-- candidate/task/evidence-bound evaluation and readiness reconciliation.
+- exact current-world and phase reentry mechanics.
+
+Common experimental governance owns candidate/task/evidence-bound evaluation,
+readiness reconciliation, replay, and adjudication lineage. It scores both arms
+identically and is not model-visible in scout v0.
 
 Model-owned semantic responsibilities:
 
@@ -128,11 +133,19 @@ extensible prompt-tuning program.
 
 ## Next program phase
 
-The next candidate is whole-method validation of
-`MINIMAL_EARNED_POLICY_V0.md` on fresh trajectories. It should compare ordinary
+The next candidate is `qwen38-fresh-task-whole-method-scout-v0`, governed by
+`MINIMAL_RUNTIME_POLICY_V0.md` and
+`MANDATORY_EXPERIMENTAL_GOVERNANCE.md`. It should compare ordinary
 bounded chronology against the smallest evidence-backed host policy on at least
 one large-document research/writing task and one multi-file code task, with two
 frozen seeds per condition if preflight supports the design.
+
+The scout is an initial system test, not architecture validation. Control and
+treatment share the same accessible world, permissions, exogenous phase inputs,
+and evaluator; their endogenous reads, observations, mutations, and effects may
+diverge. Treatment reentry may not add post-outcome investigator-selected
+evidence. A valid negative or harmful first seed does not cancel the second
+frozen seed.
 
 This document does not freeze those tasks or authorize GPU calls. Task
 construction, independent evaluation contracts, call ceilings, model profiles,

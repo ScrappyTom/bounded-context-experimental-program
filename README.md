@@ -18,10 +18,19 @@ The dynamic research frame is defined in
 [SYSTEMS_INFORMATION_ECONOMICS.md](SYSTEMS_INFORMATION_ECONOMICS.md).
 The current planned-versus-learned and loose-ends audit is
 [PROGRAM_RECONCILIATION.md](PROGRAM_RECONCILIATION.md). The smallest policy
-candidate earned for whole-method testing is
-[MINIMAL_EARNED_POLICY_V0.md](MINIMAL_EARNED_POLICY_V0.md).
+candidate earned for whole-method testing is indexed in
+[MINIMAL_EARNED_POLICY_V0.md](MINIMAL_EARNED_POLICY_V0.md), with runtime and
+common governance separated into
+[MINIMAL_RUNTIME_POLICY_V0.md](MINIMAL_RUNTIME_POLICY_V0.md) and
+[MANDATORY_EXPERIMENTAL_GOVERNANCE.md](MANDATORY_EXPERIMENTAL_GOVERNANCE.md).
 The learned-first narrative covering the full experiment sequence is
 [FULL_EXPERIMENT_SEQUENCE_WRITEUP.md](FULL_EXPERIMENT_SEQUENCE_WRITEUP.md).
+The one-time machine aggregate and recomputation receipt are
+[PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
+[PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
+All 22 cited experiment commit bindings were also resolved through the named
+local Git repositories in
+[PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
 [NEXT_EXPERIMENT_S3_LOSSY_DIGEST_UTILITY.md](NEXT_EXPERIMENT_S3_LOSSY_DIGEST_UTILITY.md).
 
@@ -100,8 +109,11 @@ immediately requested the same released source and neither preserved the
 incumbent next decision. See the
 [sealed standalone result](https://github.com/ScrappyTom/qwen38-dedicated-workspace-maintenance-v0/commit/44bade979d0ba1f1a2df3f2c919146c29d4c6868).
 No local mechanism-tuning successor is selected. The next candidate program
-phase is offline design of a fresh-task whole-method comparison using the
-minimal earned policy. No task bank, run schedule, or GPU call is authorized.
+phase is offline design of `qwen38-fresh-task-whole-method-scout-v0` using the
+minimal earned policy. The reliable incumbent is a mechanical
+safety/lifecycle substrate, not an end-to-end architecture. No GPU call is
+authorized until task geometry, phase parity, evaluators, exact transition
+reserve, and resource ceilings pass offline qualification.
 
 The program also treats protected management/control headroom as a host-owned
 apparatus invariant.

@@ -1,0 +1,284 @@
+{
+  "schema_version": "program-stage-aggregate-v1",
+  "scope": "parent bank plus 26 successor stages through E34",
+  "parent_bank": {
+    "repository": "ScrappyTom/custody-cards-experimental-workbench",
+    "result_commit": "40f9afdde",
+    "exact_replayed_requests": 42,
+    "included_in_follow_on_totals": false
+  },
+  "declared_totals": {
+    "successor_stages": 26,
+    "follow_on_model_calls": 84,
+    "follow_on_serialized_tokens": 1637191,
+    "unique_cited_experiment_commits": 22
+  },
+  "stages": [
+    {
+      "stage_id": "S01",
+      "name": "structural outline demotion audit and continuation",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-structural-outline-demotion-v0", "result_commit": "76dd220d5217f6147c98b00fd1a783782eaf404f", "count_as_experiment_commit": true}],
+      "model_calls": 4,
+      "serialized_tokens": 75411,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "mechanical capacity positive; strict behavioral causal contrast ineligible"
+    },
+    {
+      "stage_id": "S02",
+      "name": "strict post-delivery outline-demotion eligibility",
+      "stage_type": "eligibility",
+      "sources": [{"repository": "ScrappyTom/qwen38-structural-outline-demotion-post-delivery-v1", "result_commit": "b9099b3a2559ea29846874beac3991eab363e3f4", "count_as_experiment_commit": true}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "no eligible fork; zero GPU calls"
+    },
+    {
+      "stage_id": "S03",
+      "name": "minimum versus aggressive pressure-boundary reduction",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-context-reduction-pressure-boundary-v0", "result_commit": "ab0e21b201d04521a43f83c223a364bca35a7b86", "count_as_experiment_commit": true}],
+      "model_calls": 6,
+      "serialized_tokens": 105381,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "deterministic first-fit preserved both historical decisions; aggressive reduction preserved neither"
+    },
+    {
+      "stage_id": "S04",
+      "name": "short recurrent context reduction",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-recurrent-context-reduction-v0", "result_commit": "9a42b85b4d9fd25bd873d45c08a403c2ca1ff96e", "count_as_experiment_commit": true}],
+      "model_calls": 6,
+      "serialized_tokens": 120251,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "recurrent delivery positive; acquisition and reopen behavior only"
+    },
+    {
+      "stage_id": "S05",
+      "name": "twelve-decision recurrent reduction horizon",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-recurrent-context-reduction-horizon-v0", "result_commit": "f52642ec85efdc8f7196515503a0312af7c38d78", "count_as_experiment_commit": true}],
+      "model_calls": 24,
+      "serialized_tokens": 478929,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "physical operability sustained; no construction; late reopen churn"
+    },
+    {
+      "stage_id": "S06",
+      "name": "late-history construction-set counterfactual",
+      "stage_type": "offline_audit",
+      "sources": [{"repository": "ScrappyTom/qwen38-recurrent-context-reduction-horizon-v0", "result_commit": "daa5978f817bf21189870e7306eb19e235421424", "count_as_experiment_commit": true}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "late chronology prevents co-residency; fresh exact set fits"
+    },
+    {
+      "stage_id": "S07",
+      "name": "chronology-free exact construction reentry",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-exact-construction-reentry-v0", "result_commit": "68a4b0b04c4557dcc459b42822e804f241565757", "count_as_experiment_commit": true}],
+      "model_calls": 7,
+      "serialized_tokens": 134214,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "mixed action result; one admitted grounded mutation"
+    },
+    {
+      "stage_id": "S08",
+      "name": "recurrent exact-current-state replacement",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-recurrent-exact-state-recomposition-v0", "result_commit": "c22cff99a0a1111215940c478db50e5762f1c5d3", "count_as_experiment_commit": true}],
+      "model_calls": 9,
+      "serialized_tokens": 179658,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "update delivery positive; exact working state unstable"
+    },
+    {
+      "stage_id": "S09",
+      "name": "one-shot bounded freeform note",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-bounded-freeform-note-v0", "result_commit": "46f50817e11d1b990cbf906e9af0f74a15740137", "count_as_experiment_commit": true}],
+      "model_calls": 3,
+      "serialized_tokens": 62525,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "note validity and capacity dominated; utility comparison not evaluable"
+    },
+    {
+      "stage_id": "S10",
+      "name": "raw-text bounded-note expression qualification",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-bounded-note-expression-qualification-v0", "result_commit": "5d86bf237201169b80b02e2fedcfdb4fe7ab94b1", "count_as_experiment_commit": true}],
+      "model_calls": 2,
+      "serialized_tokens": 42897,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "zero of two bounded raw notes accepted"
+    },
+    {
+      "stage_id": "S11",
+      "name": "compact exact-workspace directory",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-exact-workspace-directory-v0", "result_commit": "801c1bf3d9daa8739629df86bf260d4ad08e3311", "count_as_experiment_commit": true}],
+      "model_calls": 2,
+      "serialized_tokens": 40766,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "resident exact rerequests persisted in both cases"
+    },
+    {
+      "stage_id": "S12",
+      "name": "model-selected exact focus relocation",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-exact-focus-relocation-v0", "result_commit": "1fc4bccadab37de5ab051e60248df6ed3353b4b3", "count_as_experiment_commit": true}],
+      "model_calls": 2,
+      "serialized_tokens": 40877,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "result delivery restored; demand moved to complementary resident spans"
+    },
+    {
+      "stage_id": "S13",
+      "name": "accumulated two-span exact focus",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-accumulated-exact-focus-v0", "result_commit": "6bed7b208174646b803405fdce1a83a9432fba88", "count_as_experiment_commit": true}],
+      "model_calls": 2,
+      "serialized_tokens": 41055,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "placement route closed; no convergence to task action"
+    },
+    {
+      "stage_id": "S14",
+      "name": "bounded structured-frontier expression",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-bounded-frontier-expression-qualification-v0", "result_commit": "3cf5ab005128b95c7af9f24d7d018eab548e6b98", "count_as_experiment_commit": true}],
+      "model_calls": 2,
+      "serialized_tokens": 42395,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "mechanical closure passed; semantic fields and one handle clipped"
+    },
+    {
+      "stage_id": "S15",
+      "name": "closure-safe structured-frontier expression",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-closed-frontier-expression-qualification-v0", "result_commit": "cde5d344f81ae3af6bc5e4c3838454b7b9a0d758", "count_as_experiment_commit": true}],
+      "model_calls": 2,
+      "serialized_tokens": 43814,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "zero of two complete interfaces accepted; schema tuning closed"
+    },
+    {
+      "stage_id": "S16",
+      "name": "exact causal-slot parity and capacity qualification",
+      "stage_type": "eligibility",
+      "sources": [
+        {"repository": "ScrappyTom/bounded-context-experimental-program", "result_commit": "28d1a710cb18948ea840cd11e718e3991933467d", "count_as_experiment_commit": false},
+        {"repository": "ScrappyTom/qwen38-cross-type-update-residency-v0", "result_commit": "7911cd88f82871e9176098e46913298b9cd28fa9", "count_as_experiment_commit": true}
+      ],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "two-case parity failed; one-case exact treatment capacity-ineligible"
+    },
+    {
+      "stage_id": "S17",
+      "name": "passive model-managed exact residency",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-model-managed-exact-residency-v0", "result_commit": "bac9f52b38da0bccfeb65ae57b513e758f9e91db", "count_as_experiment_commit": true}],
+      "model_calls": 2,
+      "serialized_tokens": 41552,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "no residency action; management packet became unreachable"
+    },
+    {
+      "stage_id": "S18",
+      "name": "source-bound digest production and prospective qualification",
+      "stage_type": "measured",
+      "sources": [
+        {"repository": "ScrappyTom/qwen38-source-bound-semantic-digest-v0", "result_commit": "014494d9ac0fe349a1cfef6dfd64262c356c0b14", "count_as_experiment_commit": true},
+        {"repository": "ScrappyTom/qwen38-source-digest-actor-utility-v0", "result_commit": "d9336f5681ecffb8d322802c01ebaf8bb480f750", "count_as_experiment_commit": true}
+      ],
+      "model_calls": 2,
+      "serialized_tokens": 14214,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "bounded expression replicated; strict fidelity and actor utility not qualified"
+    },
+    {
+      "stage_id": "S19",
+      "name": "deliberately lossy source-digest utility",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-lossy-source-digest-utility-v0", "result_commit": "0081896cd5914acb14a155eb41342ffd3e788957", "count_as_experiment_commit": true}],
+      "model_calls": 2,
+      "serialized_tokens": 41036,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "behaviorally active; short-horizon marginal utility negative"
+    },
+    {
+      "stage_id": "S20",
+      "name": "bounded progress-state utility and corrected disposition",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-bounded-progress-state-utility-v0", "result_commit": "a3422cca49cb882ec252ba84903b856ba3cafc24", "count_as_experiment_commit": true}],
+      "model_calls": 3,
+      "serialized_tokens": 59617,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "behaviorally active; premature closure on strong-partial candidate"
+    },
+    {
+      "stage_id": "S21",
+      "name": "progress-state close-transfer eligibility",
+      "stage_type": "eligibility",
+      "sources": [{"repository": "ScrappyTom/bounded-context-experimental-program", "result_commit": "a69dd40e9b2ddc418444b68a423c349f36817f6e", "count_as_experiment_commit": false}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "no matching ready and not-ready donor pair"
+    },
+    {
+      "stage_id": "S22",
+      "name": "candidate-bound adjudication consistency",
+      "stage_type": "reconciliation",
+      "sources": [{"repository": "ScrappyTom/bounded-context-experimental-program", "result_commit": "d6e0ef39a2879b8cfa8e890e0fe307053a8096c2", "count_as_experiment_commit": false}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "supersession encoded; zero active adjudication conflicts"
+    },
+    {
+      "stage_id": "S23",
+      "name": "prior-program overlap reconciliation",
+      "stage_type": "reconciliation",
+      "sources": [{"repository": "ScrappyTom/bounded-context-experimental-program", "result_commit": "a4afd8bb75ab54ef59eb5e109e14f619662a6a39", "count_as_experiment_commit": false}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "duplicate routes stopped; phase reentry reclassified as previously tested"
+    },
+    {
+      "stage_id": "S24",
+      "name": "cross-study information-economics episode ledger",
+      "stage_type": "offline_audit",
+      "sources": [{"repository": "ScrappyTom/bounded-context-experimental-program", "result_commit": "98ba407af00a4341f9e7895e056be42016d57b31", "count_as_experiment_commit": false}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "no global representation winner; dedicated maintenance selected for qualification"
+    },
+    {
+      "stage_id": "S25",
+      "name": "dedicated workspace-maintenance eligibility",
+      "stage_type": "eligibility",
+      "sources": [{"repository": "ScrappyTom/bounded-context-experimental-program", "result_commit": "23d2fcb460d664ff41d45cd1d436a711756b541b", "count_as_experiment_commit": false}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "two authentic boundaries eligible with protected maintenance headroom"
+    },
+    {
+      "stage_id": "S26",
+      "name": "dedicated workspace maintenance",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-dedicated-workspace-maintenance-v0", "result_commit": "44bade979d0ba1f1a2df3f2c919146c29d4c6868", "count_as_experiment_commit": true}],
+      "model_calls": 4,
+      "serialized_tokens": 72599,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "reachability and feasibility passed; selection utility negative"
+    }
+  ]
+}

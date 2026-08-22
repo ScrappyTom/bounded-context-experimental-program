@@ -206,7 +206,7 @@ reopens, or fast submission.
 ## Program scale and experimental discipline
 
 The original parent bank contained 42 exactly replayed model requests. The
-published standalone sequence represented another 84 measured model calls
+parent bank plus 26 successor stages represented another 84 measured model calls
 across 19 call-bearing result stages, including the four imported outline-
 continuation calls. Their published totals sum to 1,637,191 serialized tokens.
 Zero-call eligibility, capacity, reconciliation, and cross-study audits are not
@@ -726,18 +726,23 @@ The smallest evidence-backed incumbent is:
 exact external custody
 + ordinary chronology while healthy
 + host-owned response and control reserves
-+ minimum-necessary deterministic relief of old delivered exact-backed results
++ deterministic first-fit relief of old delivered exact-backed results under a
+  frozen scan order, stopping immediately at feasibility
 + exact reopen in response to actor demand
 + bounded exact phase reentry when chronology becomes the burden
-+ independent candidate/task/evidence-bound evaluation
 ```
+
+Independent candidate/task/evidence-bound evaluation applies identically to
+both arms as experimental governance; it is not part of the runtime treatment.
 
 The default does not include a digest, working note, progress state,
 model-managed eviction layer, automatic semantic summary, relevance scorer, or
 learned phase router.
 
-This policy is specified in [MINIMAL_EARNED_POLICY_V0.md](MINIMAL_EARNED_POLICY_V0.md).
-Its status is “candidate for whole-method validation,” not “promoted
+This policy is indexed in [MINIMAL_EARNED_POLICY_V0.md](MINIMAL_EARNED_POLICY_V0.md)
+and split between `MINIMAL_RUNTIME_POLICY_V0.md` and
+`MANDATORY_EXPERIMENTAL_GOVERNANCE.md`. Its status is “candidate for a
+fresh-task whole-method scout,” not “promoted
 architecture.”
 
 ## Remaining uncertainty
@@ -769,7 +774,10 @@ incumbent, not from the infinite space of plausible prompt and memory variants.
 The mechanism-scouting phase is closed. The local audit found all 24 relevant
 repositories clean, published, and synchronized with their upstream branches.
 There is no unresolved custody, replay, publication, or adjudication issue that
-blocks offline design of a fresh-task whole-method experiment.
+blocks offline design of a fresh-task whole-method scout. The exact sequence
+aggregate is machine-readable in `PROGRAM_STAGE_AGGREGATE.json`; its frozen
+recomputation receipt records 26 successor stages, 84 follow-on model calls,
+1,637,191 follow-on serialized tokens, and 22 unique cited experiment commits.
 
 No new experiment, task bank, call ceiling, or GPU run is authorized by this
 write-up.
