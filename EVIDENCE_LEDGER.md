@@ -97,5 +97,13 @@ Do not repair H03 by merely shrinking labels or adding another directory. A
 future management study would need a prospectively guaranteed control margin
 or a separately isolated maintenance decision and would be a new treatment.
 The next distinct candidate branch is H04 source-bound semantic digestion at
-the already observed repeated-source reopen boundary. No measured experiment
-is active.
+the already observed repeated-source reopen boundary. Seed 42 horizon call 10
+is selected because it literally repeats the call-7 source reopen after the
+same exact result was demoted. Qualification begins with one bounded digest
+production call; actor utility is conditional on normal bounded closure and a
+direct source-fidelity audit.
+
+Control-plane reachability is now a common apparatus invariant. Preflight must
+prove that a pressure notification and its maintenance operation remain
+admissible after the worst frozen ordinary-result sequence, using a
+prospectively derived reserve rather than a post-hoc threshold.

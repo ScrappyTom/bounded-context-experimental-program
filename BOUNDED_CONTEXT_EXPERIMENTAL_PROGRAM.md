@@ -179,6 +179,28 @@ resident budget, note size, source-version change, candidate-hash change, or a
 fixed reopen-churn threshold. “The model seems confused” and “construction
 should start” are semantic triggers and require separate qualification.
 
+### Control-plane reachability
+
+Management is itself a bounded operation. Every apparatus must reserve enough
+model-visible capacity to state the mechanical pressure condition and admit the
+operation required to recover from it. A treatment is not recurrently usable
+merely because its initial packet and one isolated maintenance packet fit.
+
+Before measured calls, preflight the worst permitted ordinary-result sequence
+leading into maintenance and prove:
+
+```text
+ordinary work ceiling
++ pressure notification
++ maintenance request/response allowance
+<= hard context envelope
+```
+
+The host owns this safety invariant. Model judgment may select semantic
+retention, but it is not responsible for preventing the management interface
+from becoming unreachable. The reserve size must be derived prospectively from
+the frozen maintenance surface, not selected after observing an outcome.
+
 ## Experimental incumbent
 
 Until another mechanism beats it, the incumbent is:
@@ -490,6 +512,38 @@ source-bound semantic digestion at the repeated-source reopen boundary, using
 a simple bounded text surface rather than another strict JSON frontier. No
 measured successor is active.
 
+### Experiment S1 — one source-bound semantic digest
+
+Status: selected for standalone qualification and conditional utility testing.
+
+Use seed 42 call 10 from the recurrent-reduction horizon as the authentic
+boundary. The historical actor reopened
+`large-world-source-navigation-v0/.../RESULTS.md` at call 7, the host later
+demoted its exact result, and call 10 requested the identical source again on
+an unchanged candidate. This supplies a literal handle-only baseline and an
+exact repeated-reopen cost.
+
+Stage A is one specialized source-digestion call. Input only the authoritative
+task, exact source identity/version, the complete exact source, a plain-text
+format, and a frozen digest budget. Output is a lossy, non-authoritative digest
+only. The host supplies the exact source handle and binding separately; the
+model need not copy hashes or paths. No JSON schema or task action is allowed.
+
+Stage B is eligible only if Stage A ends normally, stays within its exact token
+budget, contains no fabricated identity, and passes direct source-fidelity
+audit. Freeze the resulting digest. At the exact historical call-10 packet,
+preserve the source's existing exact reopen receipt and append only the bound
+digest. Keep exact reopening available. Compare the first actor action with the
+historical exact reopen and allow at most one additional ordinary decision only
+when the first result is delivered under the frozen envelope.
+
+Primary utility measure: whether the first actor decision still reopens the
+digested source. Secondary measures: qualification preservation, different raw
+reopens, mutation/submission, result delivery, capacity, digest-production
+cost, and total calls/tokens. A changed action is not automatically an
+improvement. No note, progress state, workspace manager, or additional digest
+is allowed.
+
 ## Result-dependent routing
 
 The program is adaptive rather than a fixed eight-experiment queue.
@@ -609,6 +663,8 @@ separate outcome classes.
 ## Shared metrics
 
 - prompt tokens, response reserve, headroom, resident exact/semantic tokens;
+- ordinary-work ceiling, protected control headroom, pressure-notification
+  cost, and maintenance request/response allowance;
 - tokens replaced and added, recomposition count, and result/effect crossings;
 - cached and uncached prompt tokens, prefill/generation/wall time;
 - unique exact objects, reopens, repeat reopens, re-demotion, and turnover;

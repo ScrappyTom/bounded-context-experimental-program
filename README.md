@@ -26,5 +26,8 @@ announcing its later pending result was itself 45 tokens over the frozen
 allowance. The model never saw that pending state, so this is not a FIFO
 comparison or a general disproof of model-managed residency.
 
-The next distinct candidate is source-bound semantic digestion at the observed
-repeated-source reopen boundary. No measured successor is active.
+The next distinct candidate is source-bound semantic digestion at seed 42's
+first literal repeat-reopen boundary. The program now also treats protected
+management/control headroom as a host-owned apparatus invariant. Digest
+production must qualify in one bounded plain-text maintenance call before any
+actor utility test.
