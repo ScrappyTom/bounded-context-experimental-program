@@ -1,0 +1,210 @@
+# Systems model for bounded information economics
+
+Date: 2026-08-21
+
+Status: program-level research frame; not a promoted runtime architecture
+
+## Why this frame is needed
+
+Bounded context is not a stationary storage-allocation problem. The value of a
+resident object depends on the current task phase, candidate state, other
+resident objects, recent actions, available tools, remaining capacity, and the
+actor's next decision. An intervention changes the actor's behavior; that
+behavior changes future information demand, residency, cache reuse, and
+pressure. Costs and values are therefore path-dependent and partly endogenous.
+
+The program has not demonstrated mathematical chaos, and should not claim it.
+It has demonstrated seed sensitivity, failure migration, feedback, changing
+bottlenecks, working-set churn, and stage-dependent representation value. The
+appropriate working description is an adaptive, non-stationary,
+path-dependent system with endogenous feedback.
+
+Systems thinking does not replace narrow causal experiments. It prevents a
+locally clean experiment from optimizing the wrong layer or treating a
+component's isolated score as a context-independent property.
+
+## Dynamic state
+
+At model decision `t`, record a state vector conceptually containing:
+
+- authoritative task and current candidate/world identity;
+- exact resident objects and their sizes/versions;
+- resident semantic derivatives and known loss records;
+- exact externally available objects and reopen handles;
+- recent observations, admitted effects, and unresolved results;
+- chronology/control representation;
+- prompt occupancy, response reserve, and protected control headroom;
+- task phase or operational regime, when mechanically declared;
+- calls, latency, cache state, and remaining authorization; and
+- observed actor demand, including novel reads, reopens, mutations, and review.
+
+The value of object `o` is conditional:
+
+```text
+value(o, t | current state, co-resident set, task regime)
+```
+
+not an intrinsic permanent score. An old object may still be part of the active
+working set. A newly produced digest may be valuable only after the raw source
+leaves residency. A structural outline may be useful during acquisition and
+expensive during construction. A missing exact detail may be harmless until a
+review or mutation makes it decisive.
+
+## Transition and feedback
+
+Each host or model operation changes the next state:
+
+```text
+current bounded state
+    -> host representation/maintenance operation
+    -> model decision
+    -> admitted action or observation
+    -> new exact and semantic demand
+    -> changed residency, capacity, cache, and task state
+```
+
+Important feedback loops already observed include:
+
+- demotion frees capacity, the actor reopens information, and capacity fills;
+- history grows, useful exact evidence loses co-residency, and reopening churn
+  increases;
+- exact reentry removes history, changes orientation, and can create a mutation
+  opportunity;
+- optional management controls consume prompt space but may not activate before
+  the control surface becomes unreachable; and
+- semantic compression lowers resident cost while introducing task-dependent
+  loss that may or may not cause later exact recovery.
+
+## Information-economic objective
+
+The objective is not minimum resident tokens, maximum eviction, perfect digest
+recall, or zero reopening. It is cumulative useful work under bounded resources
+and acceptable risk.
+
+A conceptual accounting objective is:
+
+```text
+maximize cumulative task progress and artifact quality
+
+subject to:
+    hard context, response, and control reserves
+    exact custody and version integrity
+    bounded calls and retries
+    acceptable semantic error and recovery
+
+while accounting for:
+    resident token cost
+    semantic-derivative production cost
+    exact reopen/fault-in cost
+    cache invalidation and prefill latency
+    maintenance/control cost
+    action opportunity cost
+    downstream error and repair cost
+```
+
+No scalar weights are currently earned. Report the cost vector and behavior
+separately rather than inventing one aggregate score. A later decision analysis
+may compare Pareto-dominant policies only where outcome quality is commensurate.
+
+## Regimes and phase dependence
+
+At minimum, distinguish these operational regimes when they are mechanically
+observable or frozen by design:
+
+1. **Navigation/acquisition:** structural addressability and exact fault-in may
+   have high value.
+2. **Pressure response:** minimum-necessary capacity relief and protected
+   control bandwidth dominate.
+3. **Construction/effect uptake:** current candidate state, governing evidence,
+   and recent effects may dominate old acquisition chronology.
+4. **Review/closure:** exact qualifications, check results, candidate identity,
+   and unresolved defects may regain value.
+
+Do not infer a phase from vague model behavior. Experiments may freeze a phase
+boundary from exact events or compare policies at an authentic pressure state.
+
+## Hard invariants versus economic variables
+
+### Hard disqualification
+
+These protect custody, recoverability, and a usable control plane:
+
+- wrong object, source, candidate, or version binding;
+- fabricated exact identity;
+- contradiction or material causal reversal presented as source truth;
+- semantic derivative presented as authoritative exact state;
+- unavailable or invalid exact reopen path;
+- violation of context, response, or protected control reserve;
+- unbounded representation growth;
+- unauthorized call, retry, mutation, or post-outcome treatment change; and
+- apparatus/runtime/replay failure.
+
+### Measured loss and cost
+
+These may be harmful, harmless, or useful depending on configuration and time;
+record them rather than automatically censoring behavior:
+
+- omitted source detail or count;
+- delayed or immediate exact reopen;
+- subordinate qualification loss without contradiction;
+- digest production cost;
+- cache/prefill disruption;
+- working-set turnover;
+- additional acquisition;
+- altered action timing; and
+- repair or artifact-quality changes.
+
+An omission becomes a hard failure only when the treatment claims exactness,
+creates a contradiction/material reversal, makes recovery impossible, or the
+experiment prospectively defines that detail as safety-critical for the tested
+operation.
+
+## Experimental consequences
+
+Every new experiment should still isolate one policy or representation change,
+but must also declare:
+
+- the dynamic state and regime where the change occurs;
+- why the object's marginal value or cost may differ there;
+- the feedback horizon observed after the change;
+- which costs are one-time, resident, recurrent, or switching costs;
+- the known semantic-loss vector;
+- the exact recovery path;
+- immediate and cumulative outcomes; and
+- the boundary conditions under which the result might reverse.
+
+Prefer one clean primary decision plus a short predeclared continuation when
+feedback is the research question. Do not use an arbitrarily long rollout to
+hide an ambiguous first effect, and do not use a one-turn test when the claimed
+mechanism is amortization, recovery, or lifecycle stability.
+
+## Current layered candidate—not architecture
+
+The evidence motivates, but does not promote, this decomposition:
+
+```text
+exact external custody
+    + mechanical current state
+    + selected exact working objects
+    + source/version-bound lossy semantic derivatives
+    + protected host-owned control capacity
+    -> bounded actor context
+    -> exact reopen and maintenance on demand
+```
+
+Mechanical state should carry exact candidate/version/effect/check facts where
+the host can establish them. Source digests may be better suited to meaning,
+relationships, qualifications, and unresolved implications. This division is a
+hypothesis earned by the observed compression pattern, not a fixed four-field
+prompt or a complete context manager.
+
+## Immediate next experiment
+
+The next selected study is a deliberately lossy digest-utility test. It uses the
+sealed 218-token seed-314159 digest without reclassifying its failed 6/6 gate.
+The known omissions are treatment metadata. The experiment asks whether that
+non-authoritative, reopenable derivative changes short-horizon actor behavior
+and total information cost at the authentic call-12 repeat-reopen boundary.
+
+This is the first explicit test under the systems frame. It remains one source,
+one task, and one trajectory; it cannot promote the layered candidate.

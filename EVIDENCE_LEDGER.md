@@ -35,7 +35,7 @@ hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | IN | model-managed exact residency | The tested passive optional directory/action interface did not elicit a residency choice before capacity censoring. | Does not compare model selection with FIFO: no management action occurred and the pending-result control packet was never model-visible. | E19 |
-| H04 | IN | source-bound digest | Two independent seeds produced complete bounded text digests. The first gate was invalid; the corrected source-located gate preserved 5/6 critical items and stopped before actor utility. | One exact source across two trajectories; no actor saw a digest. Strict retention, behavioral benefit, total cost, and transfer remain untested. | E20–E21 |
+| H04 | CH | source-bound digest as lossy semantic cache | Two independent seeds produced complete bounded text digests. The corrected source-located audit preserved 5/6 critical items with no fabrication or reversal. This earns a utility test where omission is recorded and exact reopen remains available. | One exact source across two trajectories; no actor has seen a digest. Behavioral benefit, amortization, quality effects, and transfer remain untested. | E20–E21 |
 | H05 | UT | progress/frontier state | Bounded model-authored progress may improve acquisition stopping or closure. | Requires reasonably stable evidence residency first. | — |
 | H06 | UT | bounded decomposition | Fresh bounded task frames may scale beyond one global working set. | Must independently test cross-frame integration quality. | — |
 | H07 | LR | compact exact-workspace directory | The tested 117–118-token identity/range directory was insufficient: resident exact rerequests persisted in 2/2 cases. | Does not test every directory placement or richer semantic index. | E09–E12 |
@@ -127,7 +127,22 @@ did not run. Do not tune the same prompt, merge endpoint facts after generation,
 or weaken the gate around this output. Bounded plain-text expression now has a
 two-seed local positive; full critical-detail retention and utility do not.
 
-No measured successor is active.
+The frozen S2 stop is not retroactively changed. The program has reoriented the
+next question: a source digest is a lossy, non-authoritative cache over exact
+custody, not a standalone exact replacement. Its non-contradictory omissions
+are therefore recorded economic/risk variables unless an exact downstream
+operation prospectively makes them safety-critical.
+
+S3 is selected for offline design. It will freeze the existing 218-token digest
+and its known two-detail omission as the treatment at the byte-exact seed-314159
+call-12 repeat-reopen boundary. Exact reopen remains available. The first actor
+decision is primary; only a different valid first action permits up to two
+additional decisions for delayed reopen and downstream-quality observation.
+Production cost is charged in full. No GPU call is authorized by this ledger.
+
+Implementation contract: `NEXT_EXPERIMENT_S3_LOSSY_DIGEST_UTILITY.md`.
+
+The dynamic frame is recorded in `SYSTEMS_INFORMATION_ECONOMICS.md`.
 
 Control-plane reachability remains a common apparatus invariant. Preflight must
 prove that a pressure notification and its maintenance operation remain

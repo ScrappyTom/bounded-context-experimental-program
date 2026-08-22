@@ -14,6 +14,12 @@ on one task and model profile. The current question is:
 > continuity to do useful work without rebuilding an indefinitely growing
 > transcript?
 
+This is an information-economics question, not only a representation question.
+The marginal value and cost of information change with task phase, candidate
+state, co-resident evidence, remaining capacity, recent actions, cache state,
+and the actor's own future demand. Interventions alter that demand and therefore
+alter the future system they are evaluated in.
+
 The durable external system may preserve all authoritative bytes, versions,
 events, effects, hashes, and bindings. Model-facing residency remains bounded.
 Any sustainable candidate must therefore replace resident state, recompose a
@@ -21,6 +27,8 @@ bounded state, decompose work, or combine mechanisms that have independently
 earned a role.
 
 The research program does not choose that architecture in advance.
+The dynamic frame and accounting rules are maintained in
+`SYSTEMS_INFORMATION_ECONOMICS.md`.
 
 ## Epistemic labels
 
@@ -99,6 +107,10 @@ Every program claim must carry one of these statuses:
   management action in two calls. The actor reread resident candidate bytes;
   after a small rejection receipt accumulated, the compact pending-result
   control packet was 45 tokens over capacity and was never model-visible.
+- **LR:** two independent seeds produced complete bounded plain-text semantic
+  digests of one 8,063-byte source at 190 and 218 tokens without fabrication or
+  material reversal. The prospectively source-located second audit preserved
+  5/6 declared items and omitted two exact endpoint details.
 
 ### Mechanisms insufficient alone on the tested trajectory
 
@@ -135,7 +147,8 @@ These are local boundaries, not universal impossibility results.
 - **UT:** specialized note compaction;
 - **IN:** model-managed exact residency beyond the tested passive optional
   interface;
-- **UT:** source-bound semantic digests;
+- **CH:** source-bound semantic digests as deliberately lossy, version-bound,
+  reopenable caches; expression is locally positive, actor utility is untested;
 - **UT:** deterministic chronology folding beyond exact-body replacement;
 - **UT:** bounded semantic control/progress state; and
 - **UT:** bounded phase decomposition with explicit recomposition review.
@@ -150,9 +163,25 @@ merely appended. A sustainable mechanism must eventually:
 2. **recompose state** — rebuild a bounded current state from exact custody; or
 3. **decompose work** — split the task into bounded frames and reconcile them.
 
+## Systems orientation
+
+The program treats bounded context as an adaptive, non-stationary,
+path-dependent system with endogenous feedback. It does not claim mathematical
+chaos. A representation's value is conditional on the current regime and
+co-resident configuration; production, reopening, cache loss, maintenance, and
+downstream error are distinct costs that occur on different timescales.
+
+The optimization target is cumulative useful work and artifact quality under
+hard capacity, custody, control, and authorization constraints—not minimum
+tokens, maximum eviction, zero reopening, or perfect semantic recall in
+isolation.
+
+See `SYSTEMS_INFORMATION_ECONOMICS.md` for the dynamic state model, feedback
+loops, hard invariants, loss accounting, and regime map.
+
 ## Experimental axes
 
-Every experiment must state three things independently.
+Every experiment must state at least five things independently.
 
 ### Representation
 
@@ -178,6 +207,22 @@ Prefer mechanically auditable triggers: prospective context overflow, a fixed
 resident budget, note size, source-version change, candidate-hash change, or a
 fixed reopen-churn threshold. “The model seems confused” and “construction
 should start” are semantic triggers and require separate qualification.
+
+### Regime and configuration
+
+At what task phase and co-resident configuration is the treatment applied?
+Declare the exact candidate/world state, resident exact and semantic objects,
+known pending observations/effects, capacity state, and any mechanically frozen
+phase boundary. Do not assume an object's value transfers unchanged from
+navigation to construction or review.
+
+### Feedback horizon and economics
+
+How long must the continuation run to expose the claimed mechanism? Record
+immediate behavior separately from recurrent or amortized effects. Classify
+costs as production, resident, reopening, switching/cache, control, or
+downstream error/repair costs. A one-turn result cannot establish amortization;
+an open-ended rollout cannot replace a clean primary decision.
 
 ### Control-plane reachability
 
@@ -587,6 +632,116 @@ retention or behavioral utility. Do not repair S2 by prompt tuning, output
 post-processing, or rubric relaxation on the observed source. A new digest
 formulation would need a separately motivated treatment and fresh freeze.
 
+The S2 stop remains correct under its frozen 6/6 rule. The systems reorientation
+changes the next question, not that historical result: the 6/6 gate tested
+whether the digest could stand in for every declared critical proposition. The
+candidate architecture instead treats a digest as lossy, non-authoritative,
+version-bound, and exactly reopenable. Non-contradictory omission should
+therefore become a measured loss variable unless the omitted fact is
+prospectively safety-critical for the downstream operation.
+
+### Experiment S3 — deliberately lossy digest utility
+
+Status: selected for offline design and preflight; no GPU calls authorized by
+this program document.
+
+The implementation contract is
+`NEXT_EXPERIMENT_S3_LOSSY_DIGEST_UTILITY.md`.
+
+Use the exact 218-token seed-314159 digest sealed at commit
+`d9336f5681ecffb8d322802c01ebaf8bb480f750` in
+`ScrappyTom/qwen38-source-digest-actor-utility-v0`. Do not call it a 6/6 digest
+or regenerate it. Its known loss record is part of the frozen experimental
+characterization:
+
+- preserved: 32-call exhaustion, zero exact atlas reads, no submission,
+  cumulative-navigation diagnosis, capability limits, active-surface relation,
+  downstream uncertainty, and no-promotion scope;
+- omitted: explicit no-candidate-change and no-check facts; and
+- fabricated or reversed: none.
+
+The authentic control is seed 314159 horizon call 12, where the exact source
+body was nonresident, the exact reopen receipt remained available, and the
+historical actor requested that same 8,063-byte source again. The historical
+packet used 19,686 prompt tokens and retained 1,306 tokens of headroom after the
+frozen 4,096-token response reserve.
+
+The treatment begins from the byte-identical call-12 packet and adds only:
+
+- the frozen digest bytes;
+- exact source path/commit/blob/digest bindings;
+- `lossy_non_authoritative: true`;
+- confirmation that the unchanged exact reopen action remains available.
+
+The known-loss record remains investigator-visible custody; do not reveal its
+contents to the actor or use it as semantic compensation.
+
+Do not add the omitted facts back as host semantic prose, remove any existing
+actor context, alter tools, change the sampler/reasoning mode, or reduce the
+response reserve. Exact tokenizer preflight must prove the treated packet fits.
+
+#### Hard eligibility gates
+
+- byte-exact donor reconstruction and digest custody;
+- correct source/version/digest binding;
+- no fabricated identity, contradiction, or material causal reversal in the
+  frozen digest;
+- explicit lossy/non-authoritative status;
+- unchanged exact reopen path;
+- unchanged context, response, and protected control reserves;
+- one attempt, zero retries, deterministic replay; and
+- a frozen action/result continuation path before inference.
+
+The known two-detail omission is recorded but is not a hard gate because the
+digest is not presented as exact or authoritative and reopening remains legal.
+
+#### Continuation
+
+Primary observation is the first actor decision. If it immediately reopens the
+digested source, record `immediate_raw_reopen` and stop the cell. If it chooses a
+different admitted action, execute and deliver that action through the inherited
+exact executor and minimum-necessary pressure rule, then allow at most two more
+actor decisions to observe delayed reopen, useful continuation, mutation, or
+semantic error. Maximum: three actor calls; one attempt; zero retries.
+
+This conditional horizon prevents extra calls from disguising an immediate
+failure while still testing the feedback claim when the digest initially
+substitutes for raw access.
+
+#### Outcomes and economics
+
+Primary:
+
+- immediate same-source raw reopen versus a different valid first action.
+
+Secondary:
+
+- call of first delayed raw reopen;
+- novel acquisition, another duplicate read, mutation, submission, and result
+  delivery;
+- actor claim or artifact error traceable to a known or newly observed digest
+  omission;
+- prompt/cache/latency effects by call;
+- exact source tokens/bytes faulted back in;
+- digest resident tokens; and
+- total cost including the already incurred 6,902 prompt + 219 completion
+  tokens and 16,070 ms used to produce the digest.
+
+Avoiding reopen is not sufficient for success. A useful local result requires a
+different valid action without material semantic degradation; a later justified
+reopen may represent healthy hierarchical recovery. Any mutation must be
+reviewed against the exact source and task out of band.
+
+#### Claim limit
+
+S3 is a descriptive intervention on one selected digest, source, task, and
+trajectory. Because the digest artifact and its loss pattern are already known,
+the result cannot establish general digest reliability or transfer. It tests
+whether this explicitly lossy derivative has local actor utility and whether
+its production/residency cost begins to amortize over a short feedback horizon.
+S3 does not repair or requalify S2 under the former 6/6 rule; it assigns the
+sealed artifact a different, prospectively declared architectural role.
+
 ## Result-dependent routing
 
 The program is adaptive rather than a fixed eight-experiment queue.
@@ -606,6 +761,8 @@ The program is adaptive rather than a fixed eight-experiment queue.
 | A useful note fills and replacement value is established | specialized note compaction |
 | Stable evidence remains resident but acquisition continues without progress | bounded control/progress state |
 | Repeated raw reopening dominates | model-managed residency or source-bound digest, chosen by the exact pressure |
+| A bounded source digest is non-contradictory but omits exact details | record the loss; test utility with exact reopen intact unless the omission is safety-critical for that operation |
+| A digest avoids immediate reopen but changes downstream quality | short feedback continuation plus exact artifact/source audit; do not score reopen avoidance alone |
 | Mechanical event overhead remains dominant | chronology folding or exact causal frontier |
 | No useful exact working set can fit | bounded decomposition and later integration audit |
 | Recomposition is stable and task work progresses | close transfer before added mechanism |
@@ -655,6 +812,12 @@ Bind a lossy model-authored digest to one exact source identity and version,
 retain an exact reopen handle, and invalidate it mechanically on source change.
 Test only where repeated raw source reopening is an observed cost.
 
+Do not require the digest to reproduce mechanically available exact state or
+every source proposition unless the proposed downstream operation depends on
+that detail as a hard safety condition. Record known omissions and evaluate
+their realized downstream cost. The digest's economic role is cheap resident
+semantic orientation with exact recovery—not authoritative replacement.
+
 ### E. Deterministic chronology folding
 
 Normalize repeated access events, superseded versions, and candidate lineage
@@ -686,6 +849,10 @@ hold fixed task, exact world/candidate, model package, quantization, runtime,
 template, sampler, reasoning setting, tools, hard context, response reserve,
 one attempt, and zero retries unless one item is explicitly the treatment.
 
+Each treatment must also state the operational regime, co-resident
+configuration, known semantic-loss vector, feedback horizon, and boundary
+conditions under which the intervention's value could reverse.
+
 Record:
 
 - exact pressure and capacity predicate;
@@ -696,14 +863,22 @@ Record:
 - ordinary continuation behavior;
 - exact candidate transitions;
 - cache, latency, and token cost;
+- one-time production, resident, reopen, switching/cache, and control costs;
+- immediate behavior separately from cumulative continuation behavior;
 - direct terminal artifact review; and
 - failure migration.
 
-For source-bound semantic derivatives, every critical fidelity criterion must
-also record an exact source/version binding and a byte-span, line-span, or
-literal source locator that supports it. A criterion that depends on other
-trajectory context belongs to the downstream utility audit and is eligible
-only when that context is model-visible there.
+For source-bound semantic derivatives, every audited fact must record an exact
+source/version binding and a byte-span, line-span, or literal source locator
+that supports it. A criterion that depends on other trajectory context belongs
+to downstream utility evaluation and is eligible only when that context is
+model-visible there.
+
+Separate hard semantic gates from measured loss. Fabrication, contradiction,
+material causal reversal, wrong binding, false authority, or broken exact
+recovery are hard failures. Non-contradictory omission, delayed reopen, and
+subordinate qualification loss are measured variables unless prospectively
+declared safety-critical for the exact downstream operation.
 
 Capacity, orientation, acquisition, delivery, action onset, action admission,
 effect, effect uptake, verification, artifact quality, closure, and cost remain
@@ -720,7 +895,12 @@ separate outcome classes.
 - novel acquisition, reacquisition, mutation, effect uptake, review,
   submission, and rejected actions;
 - note/digest size and rewrites when applicable;
-- stale claims, lost qualifications, unresolved-item and handle retention; and
+- semantic-derivative production tokens/calls/time and estimated reuse needed
+  for amortization;
+- immediate and delayed reopen, avoided raw bytes/tokens, and exact recovery;
+- stale claims, known omissions, contradictions, lost qualifications,
+  unresolved-item and handle retention;
+- regime/configuration, feedback-horizon length, and cumulative useful actions;
 - substantive mutation, source grounding, integration, repair, and closure.
 
 ## Interpretation rules
@@ -732,6 +912,17 @@ separate outcome classes.
   movement without commensurate progress.
 - Maximum token removal is not the objective. Minimize resident cost subject to
   useful behavior, response reserve, and exact recovery.
+- Perfect semantic recall is not the default requirement for an explicitly
+  lossy, non-authoritative, reopenable derivative. Score realized error and
+  recovery as well as omission.
+- Reopen avoidance is not sufficient for benefit. A later exact reopen may be
+  healthy when precision becomes decision-relevant.
+- Production cost and switching/cache cost count even when the resulting
+  resident representation is small.
+- A local component result is conditional on its regime and co-resident
+  configuration; do not promote it as an intrinsic context-independent value.
+- Immediate and cumulative outcomes must be reported separately when the
+  mechanism claims amortization, lifecycle stability, or recovery.
 - A two-case result over different endpoint types is not seed replication.
 
 ## Promotion rule
@@ -741,6 +932,11 @@ positive effect, known trigger and preconditions, clear owner, bounded resident
 cost, exact recovery, acceptable semantic and cache/latency cost, downstream
 artifact or meaningful operability benefit, and a close transfer beyond one
 exact trajectory.
+
+For adaptive policies, promotion also requires a bounded feedback rule, known
+failure/reversal regimes, cumulative cost accounting, and evidence that local
+savings are not merely displaced into reopening, maintenance, repair, or
+quality loss later in the trajectory.
 
 Mechanisms may remain scope-specific. No general controller, universal
 semantic graph, permanent four-dimensional prompt, host relevance scorer,
