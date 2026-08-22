@@ -60,5 +60,12 @@ blocked and consumed zero GPU calls. Any later continuation must freeze
 candidate readiness independently before treatment and test false-closure risk,
 not merely behavior change.
 
+A program-wide offline adjudication audit now locks the candidate/task/rubric
+lineage. It found 60 machine-scored occurrences covering 22 unique candidates
+in the older Qwen3.8 bank with zero score conflicts, plus four records for the
+standalone navigation candidate: three active strong-partial judgments and the
+superseded H05 13/13 judgment. See
+[ARTIFACT_ADJUDICATION_CONSISTENCY_AUDIT.md](audits/ARTIFACT_ADJUDICATION_CONSISTENCY_AUDIT.md).
+
 The program also treats protected management/control headroom as a host-owned
 apparatus invariant.

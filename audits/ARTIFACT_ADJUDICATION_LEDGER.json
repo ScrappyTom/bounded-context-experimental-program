@@ -1,0 +1,92 @@
+{
+  "schema_version": "artifact-adjudication-ledger-v0",
+  "date": "2026-08-22",
+  "source_repository_root": "E:\\",
+  "identity_rule": {
+    "artifact": "candidate/tree identity plus exact file hashes where available",
+    "task": "authoritative task family and version",
+    "evaluation": "rubric/evaluator identity plus declared evidence coverage",
+    "conflict": "different active quality classes for the same candidate and task require an explicit reconciled explanation"
+  },
+  "records": [
+    {
+      "record_id": "navigation-exact-reentry-direct-audit",
+      "candidate_hash": "38893b4df5afc252a356ff5ab79a1dcda6330b7934a252a67d2759499eb4aac6",
+      "artifact_file_hashes": {
+        "QWEN_RELATION_ACTION_WORKING_MODEL.md": "888c142abcad4c3bd9081960bdb18b7402be6415c03b456033ed3c7aed134d39"
+      },
+      "task_id": "qwen-relation-action-working-model-update-v0",
+      "task_binding": "exact-construction-reentry frozen task and four governing sources",
+      "evaluation_basis_id": "navigation-direct-contract-v0",
+      "evidence_coverage": "written task, four exact governing sources, exact candidate bytes",
+      "quality_class": "strong_partial",
+      "score": {"met": 10, "partial": 2, "total": 12},
+      "status": "active",
+      "source_repository": "qwen38-exact-construction-reentry-v0",
+      "source_commit": "68a4b0b04c4557dcc459b42822e804f241565757",
+      "source_path": "TERMINAL_ARTIFACT_REVIEW.json",
+      "source_blob_oid": "7bee6bd1b940f5cabaf1dd3ca081f08ba7639781"
+    },
+    {
+      "record_id": "navigation-recurrent-state-inherited-audit",
+      "candidate_hash": "38893b4df5afc252a356ff5ab79a1dcda6330b7934a252a67d2759499eb4aac6",
+      "artifact_file_hashes": {
+        "QWEN_RELATION_ACTION_WORKING_MODEL.md": "888c142abcad4c3bd9081960bdb18b7402be6415c03b456033ed3c7aed134d39"
+      },
+      "task_id": "qwen-relation-action-working-model-update-v0",
+      "task_binding": "inherited exact-construction-reentry task and candidate",
+      "evaluation_basis_id": "navigation-direct-contract-v0",
+      "evidence_coverage": "inherited frozen direct adjudication; no new artifact review",
+      "quality_class": "strong_partial",
+      "score": {"met": 10, "partial": 2, "total": 12},
+      "status": "active",
+      "source_repository": "qwen38-recurrent-exact-state-recomposition-v0",
+      "source_commit": "c22cff99a0a1111215940c478db50e5762f1c5d3",
+      "source_path": "RESULTS.md",
+      "source_blob_oid": "612a0b85039cca4e8a5a43d0348ed81cc3656062"
+    },
+    {
+      "record_id": "navigation-h05-original-coarse-review",
+      "candidate_hash": "38893b4df5afc252a356ff5ab79a1dcda6330b7934a252a67d2759499eb4aac6",
+      "artifact_file_hashes": {
+        "QWEN_RELATION_ACTION_WORKING_MODEL.md": "888c142abcad4c3bd9081960bdb18b7402be6415c03b456033ed3c7aed134d39"
+      },
+      "task_id": "qwen-relation-action-working-model-update-v0",
+      "task_binding": "H05 exact donor packet",
+      "evaluation_basis_id": "h05-coarse-direct-review-v0",
+      "evidence_coverage": "headline facts and selected written criteria; failed prior-hash reconciliation",
+      "quality_class": "complete",
+      "score": {"met": 13, "partial": 0, "total": 13},
+      "status": "superseded",
+      "superseded_by": "navigation-h05-corrected-reconciliation",
+      "source_repository": "qwen38-bounded-progress-state-utility-v0",
+      "source_commit": "b2cbf89fb09267831cc3e67869ff0860fa72ba09",
+      "source_path": "VERIFICATION.json",
+      "source_blob_oid": "c1ee542536d87258eab2822df89d5dc3a30ab503"
+    },
+    {
+      "record_id": "navigation-h05-corrected-reconciliation",
+      "candidate_hash": "38893b4df5afc252a356ff5ab79a1dcda6330b7934a252a67d2759499eb4aac6",
+      "artifact_file_hashes": {
+        "QWEN_RELATION_ACTION_WORKING_MODEL.md": "888c142abcad4c3bd9081960bdb18b7402be6415c03b456033ed3c7aed134d39"
+      },
+      "task_id": "qwen-relation-action-working-model-update-v0",
+      "task_binding": "H05 exact candidate hash reconciled to frozen donor adjudication",
+      "evaluation_basis_id": "navigation-direct-contract-v0",
+      "evidence_coverage": "written task, four exact governing sources, exact candidate bytes, prior disposition lineage",
+      "quality_class": "strong_partial",
+      "score": {"met": 10, "partial": 2, "total": 12},
+      "status": "active",
+      "source_repository": "qwen38-bounded-progress-state-utility-v0",
+      "source_commit": "a3422cca49cb882ec252ba84903b856ba3cafc24",
+      "source_path": "POSTHOC_ARTIFACT_DISPOSITION_CORRECTION.json",
+      "source_blob_oid": "18cfa1faa9904b93b7fb0ae0b507f441cd496b08"
+    }
+  ],
+  "older_bank_scan": {
+    "repository": "E:\\research-state-integration-2026-08-18",
+    "expected_commit": "b7e12ab21cec1ef8215e97dc9890924721651f1d",
+    "root": "experiments",
+    "record_shape": "objects containing terminal_candidate_id, terminal_passed_count, case_count, and task"
+  }
+}

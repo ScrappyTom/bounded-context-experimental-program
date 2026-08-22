@@ -307,3 +307,10 @@ actually appropriate.
 H05 also adds a measurement invariant: candidate readiness must be adjudicated
 independently and hash-bound before a semantic control treatment is scored.
 Otherwise a strong action contrast can be mistaken for useful progress.
+
+The subsequent no-GPU consistency audit generalized that invariant. Artifact
+identity, task version, rubric/evaluator, and evidence coverage form the
+economic accounting key. A lower-cost terminal action is not a benefit when an
+unreconciled or coarser disposition has mislabeled the artifact. Corrections
+remain in the ledger as explicit supersessions so that attractive historical
+claims cannot silently become active again.

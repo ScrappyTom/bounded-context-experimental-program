@@ -873,6 +873,20 @@ same E08/E12/E13/E14 material. Eligibility requires a new mechanically
 demonstrated pressure not covered by those results. Q5 is the sole exception,
 predeclared to close the specific cross-type effect-displacement question.
 
+### Artifact-adjudication consistency rule
+
+Artifact quality and closure utility must be bound to the exact candidate/tree,
+authoritative task version, evaluator/rubric, and evidence coverage. Before a
+new disposition is accepted, search the donor lineage for prior judgments of
+the same candidate and task. Preserve corrections as explicit supersessions;
+do not silently upgrade or overwrite an older judgment.
+
+An unexplained active conflict is an apparatus stop condition. Submission,
+fewer calls, or changed behavior cannot be scored as useful progress until the
+candidate's independently frozen readiness disposition is reconciled. The
+current reusable audit is
+`audits/ARTIFACT_ADJUDICATION_CONSISTENCY_AUDIT.md`.
+
 ## Candidate mechanism families
 
 ### A. Deterministic exact-state recomposition
