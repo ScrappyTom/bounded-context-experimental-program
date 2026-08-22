@@ -2,7 +2,7 @@
 
 Date: 2026-08-22
 
-Status: complete offline analysis; no GPU calls
+Status: complete offline analysis; selected routing executed and superseded by E34
 
 ## Question
 
@@ -77,7 +77,9 @@ All deliverables are now materialized under `analysis/`. The validated v0
 contains 29 episodes, 11 declared comparisons, 12 pinned source objects, and a
 deterministic receipt. The selected route is offline eligibility/preflight for
 a dedicated maintenance-only workspace-selection call with protected control
-headroom; measured inference remains unauthorized.
+headroom. That route was subsequently qualified, authorized, and completed as
+E33–E34. Reachability passed and local selection utility did not. Current
+routing is recorded in `PROGRAM_RECONCILIATION.md`.
 
 ## Stop rules
 

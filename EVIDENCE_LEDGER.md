@@ -221,3 +221,10 @@ standalone run is complete (E34). Capacity safety and selection reachability
 passed; local working-set utility did not. No successor is selected. The next
 route, if authorized later, must address a distinct residual pressure rather
 than reword this manager or adjust its labels.
+
+The current mechanism-scouting phase is now closed. The loose-ends audit found
+no unpublished local experiment branch or unresolved custody/adjudication issue
+that blocks a system-level comparison. Scientifically open variants are not
+treated as research debts. The next candidate phase is offline qualification
+of fresh whole trajectories under `MINIMAL_EARNED_POLICY_V0.md`; no experiment
+or GPU run is authorized by that designation.

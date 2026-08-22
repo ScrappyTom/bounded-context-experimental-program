@@ -391,3 +391,41 @@ working set under a hard budget better than the host's incumbent mechanical
 rule? The host must reserve enough capacity for that control operation; the
 model may express semantic retention preference but cannot own hard-overflow
 safety.
+
+## Allocation-question resolution and program phase
+
+The dedicated study answered that routing question locally. Guaranteed
+headroom made the control operation reachable and both managers returned
+feasible release sets. They nevertheless removed 6,527 and 6,956 prompt tokens
+for deficits of only 394 and 1,045, preserved 0/2 incumbent next decisions, and
+caused 2/2 immediate requests for the released source.
+
+The result separates three properties:
+
+```text
+control-plane reachability    passed
+mechanical feasibility        passed
+next-decision workspace value failed locally
+```
+
+It also exposes cross-mode instability: the maintenance role's prediction of
+future value was contradicted by the ordinary actor one decision later. This
+does not prove that every constrained or persistent model-managed cache policy
+must fail. It is enough to reject open-ended model-owned eviction as the
+current routing default.
+
+The systems ownership split is therefore firmer:
+
+- the host owns exact custody, accounting, response/control reserves, minimum
+  relief, reversible receipt substitution, and phase/reentry mechanics;
+- the actor reveals information demand through ordinary reads and reopens and
+  owns task interpretation and work; and
+- optional semantic investments require an observed state-specific benefit and
+  cannot self-authorize artifact readiness.
+
+The program now moves from component scouting to candidate-system validation.
+`PROGRAM_RECONCILIATION.md` records the loose-ends audit and planned-versus-
+learned synthesis. `MINIMAL_EARNED_POLICY_V0.md` defines the smallest incumbent
+eligible for a fresh whole-method comparison. Logical uncertainty about notes,
+digests, progress state, alternative eviction objectives, and automatic phase
+selection remains; none is automatically the next experiment.

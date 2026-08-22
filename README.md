@@ -16,19 +16,23 @@ Claim-level custody and promotion status are recorded in
 [EVIDENCE_LEDGER.md](EVIDENCE_LEDGER.md).
 The dynamic research frame is defined in
 [SYSTEMS_INFORMATION_ECONOMICS.md](SYSTEMS_INFORMATION_ECONOMICS.md).
+The current planned-versus-learned and loose-ends audit is
+[PROGRAM_RECONCILIATION.md](PROGRAM_RECONCILIATION.md). The smallest policy
+candidate earned for whole-method testing is
+[MINIMAL_EARNED_POLICY_V0.md](MINIMAL_EARNED_POLICY_V0.md).
 The completed S3 treatment contract is preserved in
 [NEXT_EXPERIMENT_S3_LOSSY_DIGEST_UTILITY.md](NEXT_EXPERIMENT_S3_LOSSY_DIGEST_UTILITY.md).
 
 Each measured experiment remains a separately frozen, auditable repository.
 Adding a candidate mechanism here does not authorize or promote it.
 
-Current route: host-selected exact-layout and frontier-schema tuning are
-closed at the tested endpoints. The first passive model-managed exact-residency
-formulation also failed to qualify an ongoing policy: Qwen made no residency
-action in two calls, reread exact bytes already resident, and the compact state
-announcing its later pending result was itself 45 tokens over the frozen
-allowance. The model never saw that pending state, so this is not a FIFO
-comparison or a general disproof of model-managed residency.
+Current route: component scouting is closed at the tested endpoints. This
+includes host-selected exact-layout and frontier-schema tuning and the current
+model-owned eviction route. Passive workspace controls did not activate before
+censoring; dedicated maintenance made selection reachable, but both managers
+over-released and both next actors immediately requested the released source.
+This is not a universal disproof of model-managed residency. It is enough to
+stop treating another manager prompt as the default next experiment.
 
 Two independent seeds produced complete bounded source digests through the
 simple text surface (190 and 218 tokens). S3 then placed the known-lossy
@@ -93,7 +97,9 @@ but the managers removed far more than necessary; both subsequent actors
 immediately requested the same released source and neither preserved the
 incumbent next decision. See the
 [sealed standalone result](https://github.com/ScrappyTom/qwen38-dedicated-workspace-maintenance-v0/commit/44bade979d0ba1f1a2df3f2c919146c29d4c6868).
-No successor is selected.
+No local mechanism-tuning successor is selected. The next candidate program
+phase is offline design of a fresh-task whole-method comparison using the
+minimal earned policy. No task bank, run schedule, or GPU call is authorized.
 
 The program also treats protected management/control headroom as a host-owned
 apparatus invariant.

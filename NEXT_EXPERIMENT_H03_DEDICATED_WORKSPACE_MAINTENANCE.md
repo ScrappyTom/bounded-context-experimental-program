@@ -1,7 +1,7 @@
 # H03 successor: dedicated exact-workspace maintenance mode
 
 Date: 2026-08-22  
-Status: selected for standalone implementation and offline preflight; GPU not yet authorized
+Status: completed; sealed local negative for one-shot selection utility
 
 ## Research question
 
@@ -115,3 +115,16 @@ Implement and qualify the standalone apparatus first. Then present exact source
 locks, manager/actor packet counts, fake-model results, schedule, maximum call
 cost, and this forecast. Do not launch measured inference without explicit user
 authorization for the frozen commit.
+
+## Completed disposition
+
+The standalone apparatus was frozen at
+`a2a4284a6f3b1d4044e6b22333a20c97065b3600` and the authorized four-call run is
+sealed at
+[`44bade979d0ba1f1a2df3f2c919146c29d4c6868`](https://github.com/ScrappyTom/qwen38-dedicated-workspace-maintenance-v0/commit/44bade979d0ba1f1a2df3f2c919146c29d4c6868).
+
+Both manager outputs were valid and made the pending result model-visible.
+They released 6,527 and 6,956 prompt tokens for deficits of 394 and 1,045;
+both ordinary actors immediately requested the same released source and 0/2
+preserved the incumbent next decision. The experiment solved reachability, not
+selection utility. No prompt-tuning successor is selected.

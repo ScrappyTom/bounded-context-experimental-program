@@ -3,6 +3,12 @@
 Date: 2026-08-22  
 Status: complete offline analysis; zero GPU calls
 
+> Routing update, 2026-08-22: this report is a frozen pre-E34 analysis. Its
+> selected dedicated-maintenance question was subsequently qualified and run.
+> E34 solved reachability but produced local negative workspace-selection
+> utility. Current routing is superseded by `PROGRAM_RECONCILIATION.md`; the
+> episode findings below remain unchanged.
+
 ## Result
 
 The cross-study ledger validates 29 unique boundary × condition episodes from

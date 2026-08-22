@@ -1,6 +1,6 @@
 # Experimental program for bounded context management
 
-Date: 2026-08-21
+Date: 2026-08-22
 
 Status: living research program; candidate mechanisms are not architecture
 
@@ -107,6 +107,10 @@ Every program claim must carry one of these statuses:
   management action in two calls. The actor reread resident candidate bytes;
   after a small rejection receipt accumulated, the compact pending-result
   control packet was 45 tokens over capacity and was never model-visible.
+- **LR:** a later dedicated maintenance-only interface made selection reachable
+  and feasible in 2/2 seeds, but the managers released 6,527 and 6,956 prompt
+  tokens for deficits of only 394 and 1,045. Both next actors immediately
+  requested the same released source and 0/2 preserved the incumbent decision.
 - **LR:** two independent seeds produced complete bounded plain-text semantic
   digests of one 8,063-byte source at 190 and 218 tokens without fabrication or
   material reversal. The prospectively source-located second audit preserved
@@ -157,6 +161,9 @@ Every program claim must carry one of these statuses:
   rule.
 - **LR:** syntactic and token closure of a structured semantic object did not
   ensure closed semantic phrasing or valid references.
+- **LR:** making model-owned residency selection a guaranteed, dedicated task
+  solved control-plane reachability but did not produce locally useful
+  selection. Reachability alone was not the missing ingredient.
 
 These are local boundaries, not universal impossibility results.
 
@@ -168,8 +175,10 @@ These are local boundaries, not universal impossibility results.
   multiple same-type observations without recreating growing chronology;
 - **IN:** bounded model-authored working notes as behavioral continuity state;
 - **UT:** specialized note compaction;
-- **IN:** model-managed exact residency beyond the tested passive optional
-  interface;
+- **LR:** passive and dedicated one-shot model-managed residency are locally
+  negative or inconclusive as complete policies. Persistent negotiation and a
+  host-enumerated minimal-choice tie-break remain logically untested, but the
+  current model-owned eviction route is closed rather than automatically tuned;
 - **LR:** source-bound semantic digestion has positive bounded-expression
   evidence but a local negative first utility test; cross-source, cross-regime,
   repeated-use, and transfer value remain unresolved;
@@ -282,13 +291,18 @@ Until another mechanism beats it, the incumbent is:
 ```text
 exact external custody
 + ordinary chronology while it fits
-+ minimum-necessary mechanical pressure response
-+ exact reentry when history itself becomes the burden
++ host-owned response and control reserves
++ minimum-necessary deterministic pressure response
++ exact reopen on actor demand
++ exact bounded reentry when history itself becomes the burden
++ independent candidate/task/evidence-bound evaluation
 ```
 
 Optional semantic state is not part of the incumbent.
+The exact policy candidate and whole-method comparison boundary are specified
+in `MINIMAL_EARNED_POLICY_V0.md`.
 
-## Immediate sequence
+## Completed mechanism-scouting sequence
 
 ### Qualification Q1 — bounded-note expression
 
@@ -854,7 +868,10 @@ and made zero GPU calls.
 
 ## Result-dependent routing
 
-The program is adaptive rather than a fixed eight-experiment queue.
+The table below preserves the adaptive routing logic used during component
+scouting. E34 has now closed its last selected branch. It is not a queue of
+remaining obligations; current routing is governed by
+`PROGRAM_RECONCILIATION.md`.
 
 | Observed residual pressure | Next isolated candidate |
 |---|---|
@@ -948,6 +965,28 @@ preserved the incumbent next decision. Dedicated mode therefore solved the
 control-plane race but did not produce a stable or minimum-necessary working
 set in this formulation. No prompt-tuning successor is selected.
 
+### Program-phase disposition after E34
+
+The program has completed the current mechanism-scouting phase. Unknown
+variants remain, but there is no unresolved custody, replay, adjudication, or
+same-boundary causal obligation that must be completed before a whole-method
+test. In particular:
+
+- fixed host-selected exact-layout tuning is closed at the current endpoints;
+- structured-frontier interface repair is closed;
+- immediate digest tuning is closed after negative local utility;
+- generic progress/readiness prompting is blocked by readiness-safety and donor
+  eligibility;
+- open-ended model-owned eviction is closed as the current route after passive
+  and dedicated formulations; and
+- deeper recent-`N` tails are deferred because they risk restating accumulated
+  chronology without a principled boundary.
+
+The next candidate phase is offline qualification of fresh whole trajectories
+against the minimal earned policy. This is a compound system test, not another
+claim that one representation is globally best. No GPU calls are authorized by
+this routing decision.
+
 ## Candidate mechanism families
 
 ### A. Deterministic exact-state recomposition
@@ -964,10 +1003,16 @@ budget plus `OPEN`, `PIN`, and `RELEASE`. The host owns bytes and enforcement;
 the model owns only retention preference. This tests semantic residency
 selection without semantic compression.
 
-The first passive optional formulation did not reach that comparison: no
-management action occurred and the pending-result control state was censored.
-Any successor must first prove that the management surface remains reachable
-after ordinary result accumulation; another richer directory is ineligible.
+The passive optional formulation did not reach selection because no management
+action occurred and the pending-result state was censored. A later dedicated
+mode guaranteed reachability and returned feasible choices, but both choices
+over-released and both next actors immediately requested the released source.
+This closes open-ended model-owned eviction as the current program route.
+
+A future host-enumerated minimal-feasible-choice treatment would be
+scientifically distinct because the host would own the required amount and the
+model would only break semantic ties. It is not selected unless a fresh
+whole-method failure isolates release identity as the dominant bottleneck.
 
 ### C. Bounded model-authored working note
 
