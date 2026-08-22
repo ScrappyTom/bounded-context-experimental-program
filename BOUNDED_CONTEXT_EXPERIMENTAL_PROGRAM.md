@@ -111,6 +111,10 @@ Every program claim must carry one of these statuses:
   digests of one 8,063-byte source at 190 and 218 tokens without fabrication or
   material reversal. The prospectively source-located second audit preserved
   5/6 declared items and omitted two exact endpoint details.
+- **LR:** the first deliberately lossy digest-utility intervention changed the
+  immediate exact recovery but did not reduce raw demand or improve the
+  artifact. The actor reopened a paired 5,299-byte audit, then made the exact
+  historical 8,063-byte source reopen one call later.
 
 ### Mechanisms insufficient alone on the tested trajectory
 
@@ -147,8 +151,9 @@ These are local boundaries, not universal impossibility results.
 - **UT:** specialized note compaction;
 - **IN:** model-managed exact residency beyond the tested passive optional
   interface;
-- **CH:** source-bound semantic digests as deliberately lossy, version-bound,
-  reopenable caches; expression is locally positive, actor utility is untested;
+- **LR:** source-bound semantic digestion has positive bounded-expression
+  evidence but a local negative first utility test; cross-source, cross-regime,
+  repeated-use, and transfer value remain unresolved;
 - **UT:** deterministic chronology folding beyond exact-body replacement;
 - **UT:** bounded semantic control/progress state; and
 - **UT:** bounded phase decomposition with explicit recomposition review.
@@ -642,8 +647,8 @@ prospectively safety-critical for the downstream operation.
 
 ### Experiment S3 — deliberately lossy digest utility
 
-Status: selected for offline design and preflight; no GPU calls authorized by
-this program document.
+Status: completed; the digest altered the first action but did not establish
+short-horizon utility.
 
 The implementation contract is
 `NEXT_EXPERIMENT_S3_LOSSY_DIGEST_UTILITY.md`.
@@ -762,6 +767,28 @@ The exact historical response is not a simultaneous randomized control. Its
 behavior is the local baseline; historical latency and cache statistics are
 descriptive. The selected digest and boundary make S3 hypothesis-generating,
 not an independent estimate of effect frequency.
+
+#### Observed result
+
+The sealed run used two of three authorized actor calls with zero retries. The
+218-token digest increased the historical packet by 720 prompt tokens. On call
+1, Qwen3.8 reopened the same study's 5,299-byte
+`DIRECT_TRANSCRIPT_AUDIT.md`, not the digested `RESULTS.md`. The inherited
+minimum-necessary rule recovered 1,482 tokens and delivered that result. On
+call 2, Qwen3.8 made the byte-identical historical whole-source reopen of the
+8,063-byte `RESULTS.md`, triggering the frozen delayed-same-source stop.
+
+No mutation or submission occurred and the candidate remained byte-identical.
+The two actor calls consumed 40,950 prompt plus 86 completion tokens. Digest
+production cost 7,121 serialized tokens and its resident packet cost was 720
+tokens. The treatment avoided no raw exact recovery and introduced one
+additional duplicate exact recovery before returning to the historical request.
+
+Supported: the digest was behaviorally active but had no positive measured
+marginal value at this selected boundary. Not supported: source digests
+generally fail, the omitted endpoint facts caused the reads, or no longer-run
+reuse value exists. No semantic-cache mechanism is promoted and no successor is
+selected automatically.
 
 ## Result-dependent routing
 

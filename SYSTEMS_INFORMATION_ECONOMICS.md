@@ -237,13 +237,27 @@ relationships, qualifications, and unresolved implications. This division is a
 hypothesis earned by the observed compression pattern, not a fixed four-field
 prompt or a complete context manager.
 
-## Immediate next experiment
+## Latest systems-frame experiment
 
-The next selected study is a deliberately lossy digest-utility test. It uses the
-sealed 218-token seed-314159 digest without reclassifying its failed 6/6 gate.
-The known omissions are treatment metadata. The experiment asks whether that
-non-authoritative, reopenable derivative changes short-horizon actor behavior
-and total information cost at the authentic call-12 repeat-reopen boundary.
+S3 tested the sealed 218-token seed-314159 digest without reclassifying its
+failed 6/6 gate. The known omissions remained treatment metadata, exact reopen
+remained available, and the full production cost was charged.
 
-This is the first explicit test under the systems frame. It remains one source,
-one task, and one trajectory; it cannot promote the layered candidate.
+The derivative changed the first information-demand event but did not lower
+total recovery cost: Qwen3.8 first reopened a paired audit from the same study,
+then made the exact historical whole-source reopen one call later. The digest
+added 720 resident prompt tokens, the two actor calls consumed 41,036 serialized
+tokens, and no mutation or candidate change occurred. Thus semantic influence
+and economic value separated cleanly in this regime.
+
+This result reinforces the non-stationary frame: a representation can be
+accurate enough to affect behavior yet have negative local marginal value once
+co-residency, wrapper cost, exact recovery, and downstream work are counted.
+It does not determine the value of other digests, sources, phases, or longer
+reuse horizons.
+
+No immediate successor is selected. The next experiment should be chosen only
+after comparing which unresolved pressure—semantic continuity, guaranteed
+maintenance-mode selection, control/progress, chronology normalization, or
+decomposition—has the strongest authentic boundary and the least overlap with
+completed studies.
