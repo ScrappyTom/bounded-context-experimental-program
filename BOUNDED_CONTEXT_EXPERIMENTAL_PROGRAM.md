@@ -940,6 +940,14 @@ Both manager views fit with a 512-token maintenance allowance, the ordinary
 single-release solutions. This authorizes standalone apparatus preflight only;
 it does not establish model selection quality.
 
+The subsequent sealed experiment separates reachability from selection
+quality. Both dedicated manager calls returned valid feasible choices, but
+released 6,527 and 6,956 prompt tokens against deficits of only 394 and 1,045.
+Both ordinary actors immediately requested the same released source and 0/2
+preserved the incumbent next decision. Dedicated mode therefore solved the
+control-plane race but did not produce a stable or minimum-necessary working
+set in this formulation. No prompt-tuning successor is selected.
+
 ## Candidate mechanism families
 
 ### A. Deterministic exact-state recomposition

@@ -45,9 +45,10 @@ comparison not qualified; `UT` = untested.
 | E31 | LR | reserved exact handoff | Reserved handoff calls made model-authored receipt selection reachable and exact transfer usable. One actor selected everything; a later selective handoff was consumed, but the fresh actor reconstructed 98% of the target and never mutated. | Two related large-document maintenance trajectories; selection and transfer worked mechanically, downstream working-set acceptance did not. | [route audit](audits/NEXT_ROUTE_PRIOR_EVIDENCE_RECONCILIATION.md) |
 | E32 | AF | cross-study information-economics episode ledger | Twenty-nine unique condition-level episodes from 12 pinned Git objects were reconciled across five regimes with 11 declared comparisons and explicit missingness. The analysis separates capacity, demand, action, quality, closure, and cost; it identifies dedicated maintenance-only workspace selection as the highest-priority genuinely unresolved cell. | Representative heterogeneous sample, not exhaustive and not a pooled causal estimate. Zero GPU calls. | [episode analysis](analysis/INFORMATION_ECONOMICS_REPORT.md) |
 | E33 | AF | dedicated maintenance eligibility | Both authentic pending-result boundaries support a maintenance-only view with a 512-token response allowance and protected headroom (+2,784 and +3,863). Selection is nontrivial: 7 and 3 distinct single-result releases respectively make the ordinary post-result packet feasible. | Capacity and donor eligibility only; zero chat completions. Selection quality and actor utility remain unmeasured. | [eligibility audit](audits/DEDICATED_MAINTENANCE_ELIGIBILITY.md) |
+| E34 | LR | dedicated maintenance-only exact residency selection | Both manager calls returned valid feasible release sets, but removed 6,527 and 6,956 prompt tokens where only 394 and 1,045 were required. Incumbent next-decision preservation was 0/2; both actors immediately requested the same released source object. | Two seeds, one task/world, one maintenance prompt, and one actor decision. Reopens were requested but not executed. This is a local negative for selection utility, not model-managed residency generally. | [dedicated-maintenance result](https://github.com/ScrappyTom/qwen38-dedicated-workspace-maintenance-v0/commit/44bade979d0ba1f1a2df3f2c919146c29d4c6868) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
-| H03 | IN | model-managed exact residency | The tested passive optional directory/action interface did not elicit a residency choice before capacity censoring. | Does not compare model selection with FIFO: no management action occurred and the pending-result control packet was never model-visible. | E19 |
+| H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
 | H04 | LR | source-bound digest as lossy semantic cache | Bounded expression succeeded in two seeds, but the first downstream utility test did not reduce raw recovery or improve the artifact. The package behaved as an economic complement in this configuration: demand shifted to a paired audit and returned to the original source one call later. | Complementarity describes observed cost/demand, not the actor's latent reason. One package, source, trajectory, and short horizon; other content, regimes, repeated-use economics, and transfer remain unresolved. | E20–E22 |
 | H05 | LR | bounded progress-state package | The first qualified actor-utility test changed a resident reread to submission, but submitted a known strong-partial candidate unchanged. It failed readiness discrimination at this one defect-bearing boundary. Older model-authored submission review was either inert or missed defects. | One H05 trajectory plus different older review regimes; full-package attribution remains. Another plain readiness-reflection message is not currently a distinct high-value successor. | E23–E25, E27–E29 |
 | H06 | LR | bounded phase decomposition/reentry | Fresh exact current-world frames preserved core continuity through code and research phase changes, including two three-phase workflows. Full transcript was not necessary, but remained useful for navigation; checkpoint and automatic routing were not promoted. | Older bounded workflows with task-authored phase boundaries. Does not prove automatic decomposition, arbitrary cross-frame integration, or universal cost benefit. | E27, E30–E31 |
@@ -101,7 +102,7 @@ capacity, ruling out the obvious verbose-wrapper explanation.
 Fixed host-selected layout tuning is closed at these endpoints. No deeper
 recent-N causal tail is selected.
 
-H03's first ongoing model-managed formulation is also complete. The actor used
+H03's first passive model-managed formulation is complete. The actor used
 0/2 measured decisions for residency management, reread exact candidate bytes
 already resident, and then could not be shown the pending-result state because
 the compact packet was 45 tokens over the frozen allowance. This is a local
@@ -111,6 +112,14 @@ not a comparison of model-selected residency with FIFO.
 Do not repair H03 by merely shrinking labels or adding another directory. A
 future management study would need a prospectively guaranteed control margin
 or a separately isolated maintenance decision and would be a new treatment.
+
+That distinct maintenance-only study is now complete (E34). Guaranteed control
+headroom solved reachability and produced valid choices in 2/2 cells, but the
+choices were not economically selective: they removed 6.5–7.0K prompt tokens,
+preserved 0/2 incumbent next decisions, and caused 2/2 immediate requests for a
+released source. This closes the claim that reachability alone was the missing
+ingredient. Do not tune this one-shot manager prompt or infer that model-managed
+residency is impossible.
 
 H04 used the already observed repeated-source reopen boundary at seed 42
 horizon call 10, which literally repeated the call-7 source read after the same
@@ -207,7 +216,8 @@ host-triggered maintenance-only exact-workspace selection at an authentic
 pending-result pressure boundary, with protected control headroom and the
 incumbent mechanical policy as comparator.
 
-That eligibility gate now passes in both donor cells (E33). The selected next
-step is standalone apparatus implementation and offline qualification for
-`qwen38-dedicated-workspace-maintenance-v0`. Measured inference remains gated
-on a frozen commit and explicit user authorization.
+That eligibility gate passed in both donor cells (E33), and the sealed
+standalone run is complete (E34). Capacity safety and selection reachability
+passed; local working-set utility did not. No successor is selected. The next
+route, if authorized later, must address a distinct residual pressure rather
+than reword this manager or adjust its labels.

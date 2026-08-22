@@ -87,14 +87,13 @@ objects validate cleanly. It finds no global representation winner. Mechanical
 pressure relief is reliable; semantic and phase interventions have strongly
 configuration-dependent demand, quality, and closure effects.
 
-The selected next work is offline eligibility/preflight for a dedicated
-maintenance-only exact-workspace selection call with protected control
-headroom and a matched mechanical comparator. Eligibility now passes in both
-donor cells: manager prompts leave +2,784 and +3,863 tokens, with multiple
-feasible release choices in each. The standalone experiment contract is
-[H03 dedicated workspace maintenance](NEXT_EXPERIMENT_H03_DEDICATED_WORKSPACE_MAINTENANCE.md).
-Measured inference remains gated on standalone preflight and explicit user
-authorization.
+The dedicated maintenance-only exact-workspace study is now complete. Protected
+headroom made selection reachable and both outputs were mechanically feasible,
+but the managers removed far more than necessary; both subsequent actors
+immediately requested the same released source and neither preserved the
+incumbent next decision. See the
+[sealed standalone result](https://github.com/ScrappyTom/qwen38-dedicated-workspace-maintenance-v0/commit/44bade979d0ba1f1a2df3f2c919146c29d4c6868).
+No successor is selected.
 
 The program also treats protected management/control headroom as a host-owned
 apparatus invariant.
