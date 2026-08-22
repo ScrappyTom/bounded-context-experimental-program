@@ -876,15 +876,25 @@ predeclared to close the specific cross-type effect-displacement question.
 ### Artifact-adjudication consistency rule
 
 Artifact quality and closure utility must be bound to the exact candidate/tree,
-authoritative task version, evaluator/rubric, and evidence coverage. Before a
-new disposition is accepted, search the donor lineage for prior judgments of
-the same candidate and task. Preserve corrections as explicit supersessions;
-do not silently upgrade or overwrite an older judgment.
+artifact file-hash manifest, authoritative task hash, evaluator/rubric identity
+and hash-or-explicit-unavailability, and evidence-manifest hash. Before a new
+disposition is accepted, search the donor lineage for prior judgments of the
+same candidate and task. Record the complete score, criterion dispositions,
+explicit `ready` / `not_ready` / `not_adjudicated` state, and blocking
+requirements. Preserve corrections as explicit supersessions; do not silently
+upgrade or overwrite an older judgment.
 
-An unexplained active conflict is an apparatus stop condition. Submission,
-fewer calls, or changed behavior cannot be scored as useful progress until the
-candidate's independently frozen readiness disposition is reconciled. The
-current reusable audit is
+Under the same canonical evaluation basis, any unexplained difference in class,
+score, criterion status or finding, readiness, or blockers is an apparatus stop
+condition. Divergent judgments under different bases require an explicit typed
+relationship and explanation. Records must also declare whether their semantic
+judgment is independent, inherited, reconciled, or superseded; repeated custody
+records are not independent votes.
+
+The adjudication ledger is external governance, not actor-visible world truth.
+Submission, fewer calls, or changed behavior cannot be scored as useful
+progress until the candidate's independently frozen readiness disposition is
+reconciled. The current reusable audit is
 `audits/ARTIFACT_ADJUDICATION_CONSISTENCY_AUDIT.md`.
 
 ## Candidate mechanism families

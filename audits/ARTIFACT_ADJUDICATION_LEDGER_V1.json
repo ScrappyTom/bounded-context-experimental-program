@@ -1,0 +1,207 @@
+{
+  "schema_version": "artifact-adjudication-ledger-v1",
+  "date": "2026-08-22",
+  "source_repository_root": "E:\\",
+  "comparison_policy": {
+    "canonical_basis": [
+      "candidate_hash",
+      "artifact_file_hash_manifest",
+      "task_spec_sha256",
+      "evaluation_basis_id",
+      "evaluation_basis_sha256_or_unavailable",
+      "evidence_manifest_sha256"
+    ],
+    "same_basis_rule": "quality class, full score, criterion dispositions, closure readiness, and blockers must match exactly",
+    "different_basis_rule": "divergent active judgments require an explicit typed relationship and explanation",
+    "supersession_rule": "superseded records remain visible and must target an active record",
+    "missing_identity_rule": "historically unavailable hashes remain explicitly unavailable; they are never synthesized"
+  },
+  "task_specs": [
+    {
+      "task_spec_id": "qwen-relation-action-working-model-update-v0",
+      "sha256": "20a8a3cb2ea4718a0e287fd0f0b950b3b06b57a1fd9703d230be7335a6791936",
+      "size_bytes": 2076,
+      "source": {
+        "repository": "qwen38-bounded-progress-state-utility-v0",
+        "commit": "a3422cca49cb882ec252ba84903b856ba3cafc24",
+        "path": "parent_evidence/boundary/actor-request.json",
+        "blob_oid": "8a5497b95b32934f72330a44ba765771700734cc",
+        "extraction": {
+          "kind": "json_message_prefix",
+          "message_index": 1,
+          "end_marker": "## Mechanical target outline",
+          "normalization": "substring before marker, trim trailing whitespace, append LF, UTF-8"
+        }
+      }
+    }
+  ],
+  "evidence_manifests": [
+    {
+      "evidence_manifest_id": "four-governing-navigation-documents-v0",
+      "sha256": "c2420d174e3827d9a72ef1dbda8f59aa023e4b80124adc9c0d040c34a17a230a",
+      "canonicalization": "sort by path; path TAB sha256 TAB size_bytes LF",
+      "source_repository": "qwen38-exact-construction-reentry-v0",
+      "source_commit": "68a4b0b04c4557dcc459b42822e804f241565757",
+      "items": [
+        {
+          "path": "parent_evidence/source/experiments/large-world-navigation-continuity-v0/runs/2026-08-18-sealed-bank-v0/DIRECT_TRANSCRIPT_AUDIT.md",
+          "sha256": "8e199102bd556ef2e76d20e9bb91de7c872025e9c762e0a5145904f79ddbcee6",
+          "size_bytes": 7224,
+          "blob_oid": "abd6c275fe6673037ce1893774263bc7ec83c7cd"
+        },
+        {
+          "path": "parent_evidence/source/experiments/large-world-navigation-continuity-v0/runs/2026-08-18-sealed-bank-v0/RESULTS.md",
+          "sha256": "daaaf37d3b6e38fb64df7c7a1f6e7d61b9c445f327613b376633fa0a3ce2ea0f",
+          "size_bytes": 8546,
+          "blob_oid": "87105a0217f459a20649298d441173954354b743"
+        },
+        {
+          "path": "parent_evidence/source/experiments/large-world-source-navigation-v0/runs/2026-08-18-sealed-bank-v0/DIRECT_TRANSCRIPT_AUDIT.md",
+          "sha256": "ad6370ab0c040356a2edcd29f496fef8379d626a5fcda01c9d89f4d9401847b1",
+          "size_bytes": 5299,
+          "blob_oid": "417842c826e77d0436de1ca779f87e8672a62e45"
+        },
+        {
+          "path": "parent_evidence/source/experiments/large-world-source-navigation-v0/runs/2026-08-18-sealed-bank-v0/RESULTS.md",
+          "sha256": "941d1cc9910e5227c158df6d88e704ab9e5e2cea654910bc5e6b6e7dd05176f7",
+          "size_bytes": 8063,
+          "blob_oid": "0f2f2216c4b3d9a0e9d8329c11598e0842d57271"
+        }
+      ]
+    }
+  ],
+  "evaluation_bases": [
+    {
+      "evaluation_basis_id": "navigation-direct-contract-v0",
+      "sha256": null,
+      "identity_status": "not_separately_materialized",
+      "qualification": "Direct frozen-task review; no qualified external semantic evaluator or separately hashed rubric existed."
+    },
+    {
+      "evaluation_basis_id": "h05-coarse-direct-review-v0",
+      "sha256": null,
+      "identity_status": "not_separately_materialized",
+      "qualification": "Post-run coarse review; failed to reconcile an existing candidate-hash adjudication."
+    }
+  ],
+  "adjudication_payloads": [
+    {
+      "payload_id": "navigation-strong-partial-v0",
+      "quality_class": "strong_partial",
+      "score": {"met": 10, "partial": 2, "failed": 0, "total": 12},
+      "closure_readiness": "not_ready",
+      "readiness_provenance": "directly implied by two unresolved task requirements",
+      "blocking_requirements": ["apparatus_corrections", "factual_precision"],
+      "criterion_detail_status": "complete",
+      "criteria": [
+        {"name": "bounded_navigation_and_conceptual_breadth", "status": "met"},
+        {"name": "acquisition_stopping_and_action_organization", "status": "met"},
+        {"name": "combined_prompt_capacity", "status": "met"},
+        {"name": "demonstrated_vs_unresolved", "status": "met"},
+        {"name": "next_authentic_question", "status": "met"},
+        {"name": "repository_relative_evidence_links", "status": "met"},
+        {"name": "apparatus_corrections", "status": "partial", "reason": "The successor replay-adapter correction is not stated in the new prose."},
+        {"name": "measurement_limits_and_no_promotion", "status": "met"},
+        {"name": "no_artifact_success_inference", "status": "met"},
+        {"name": "no_decision_necessity_inference", "status": "met"},
+        {"name": "readable_integration", "status": "met"},
+        {"name": "factual_precision", "status": "partial", "reason": "The total 11 seed-42 reopens is correct, but five preceded and six followed the cited call-budget observation."}
+      ]
+    },
+    {
+      "payload_id": "navigation-h05-coarse-complete-v0",
+      "quality_class": "complete",
+      "score": {"met": 13, "partial": 0, "failed": 0, "total": 13},
+      "closure_readiness": "ready",
+      "readiness_provenance": "retrospective normalization of the original complete/useful-closure claim",
+      "blocking_requirements": [],
+      "criterion_detail_status": "unavailable_in_structured_record",
+      "criteria": []
+    }
+  ],
+  "records": [
+    {
+      "record_id": "navigation-exact-reentry-direct-audit",
+      "candidate_hash": "38893b4df5afc252a356ff5ab79a1dcda6330b7934a252a67d2759499eb4aac6",
+      "artifact_file_hash_manifest": {"QWEN_RELATION_ACTION_WORKING_MODEL.md": "888c142abcad4c3bd9081960bdb18b7402be6415c03b456033ed3c7aed134d39"},
+      "task_spec_id": "qwen-relation-action-working-model-update-v0",
+      "evaluation_basis_id": "navigation-direct-contract-v0",
+      "evidence_manifest_id": "four-governing-navigation-documents-v0",
+      "payload_id": "navigation-strong-partial-v0",
+      "status": "active",
+      "provenance_role": "independent",
+      "semantic_independence_group": "navigation-direct-review-68a4",
+      "source_repository": "qwen38-exact-construction-reentry-v0",
+      "source_commit": "68a4b0b04c4557dcc459b42822e804f241565757",
+      "source_path": "TERMINAL_ARTIFACT_REVIEW.json",
+      "source_blob_oid": "7bee6bd1b940f5cabaf1dd3ca081f08ba7639781"
+    },
+    {
+      "record_id": "navigation-recurrent-state-inherited-audit",
+      "candidate_hash": "38893b4df5afc252a356ff5ab79a1dcda6330b7934a252a67d2759499eb4aac6",
+      "artifact_file_hash_manifest": {"QWEN_RELATION_ACTION_WORKING_MODEL.md": "888c142abcad4c3bd9081960bdb18b7402be6415c03b456033ed3c7aed134d39"},
+      "task_spec_id": "qwen-relation-action-working-model-update-v0",
+      "evaluation_basis_id": "navigation-direct-contract-v0",
+      "evidence_manifest_id": "four-governing-navigation-documents-v0",
+      "payload_id": "navigation-strong-partial-v0",
+      "status": "active",
+      "provenance_role": "inherited",
+      "derived_from": "navigation-exact-reentry-direct-audit",
+      "semantic_independence_group": "navigation-direct-review-68a4",
+      "source_repository": "qwen38-recurrent-exact-state-recomposition-v0",
+      "source_commit": "c22cff99a0a1111215940c478db50e5762f1c5d3",
+      "source_path": "RESULTS.md",
+      "source_blob_oid": "612a0b85039cca4e8a5a43d0348ed81cc3656062"
+    },
+    {
+      "record_id": "navigation-h05-original-coarse-review",
+      "candidate_hash": "38893b4df5afc252a356ff5ab79a1dcda6330b7934a252a67d2759499eb4aac6",
+      "artifact_file_hash_manifest": {"QWEN_RELATION_ACTION_WORKING_MODEL.md": "888c142abcad4c3bd9081960bdb18b7402be6415c03b456033ed3c7aed134d39"},
+      "task_spec_id": "qwen-relation-action-working-model-update-v0",
+      "evaluation_basis_id": "h05-coarse-direct-review-v0",
+      "evidence_manifest_id": "four-governing-navigation-documents-v0",
+      "payload_id": "navigation-h05-coarse-complete-v0",
+      "status": "superseded",
+      "superseded_by": "navigation-h05-corrected-reconciliation",
+      "supersession_reason": "Coarser post-run review failed exact-hash reconciliation and collapsed two known partial requirements into passes.",
+      "provenance_role": "independent",
+      "semantic_independence_group": "navigation-h05-coarse-b2cb",
+      "source_repository": "qwen38-bounded-progress-state-utility-v0",
+      "source_commit": "b2cbf89fb09267831cc3e67869ff0860fa72ba09",
+      "source_path": "VERIFICATION.json",
+      "source_blob_oid": "c1ee542536d87258eab2822df89d5dc3a30ab503"
+    },
+    {
+      "record_id": "navigation-h05-corrected-reconciliation",
+      "candidate_hash": "38893b4df5afc252a356ff5ab79a1dcda6330b7934a252a67d2759499eb4aac6",
+      "artifact_file_hash_manifest": {"QWEN_RELATION_ACTION_WORKING_MODEL.md": "888c142abcad4c3bd9081960bdb18b7402be6415c03b456033ed3c7aed134d39"},
+      "task_spec_id": "qwen-relation-action-working-model-update-v0",
+      "evaluation_basis_id": "navigation-direct-contract-v0",
+      "evidence_manifest_id": "four-governing-navigation-documents-v0",
+      "payload_id": "navigation-strong-partial-v0",
+      "status": "active",
+      "provenance_role": "reconciliation",
+      "derived_from": "navigation-exact-reentry-direct-audit",
+      "semantic_independence_group": "navigation-direct-review-68a4",
+      "source_repository": "qwen38-bounded-progress-state-utility-v0",
+      "source_commit": "a3422cca49cb882ec252ba84903b856ba3cafc24",
+      "source_path": "POSTHOC_ARTIFACT_DISPOSITION_CORRECTION.json",
+      "source_blob_oid": "18cfa1faa9904b93b7fb0ae0b507f441cd496b08"
+    }
+  ],
+  "basis_relationships": [
+    {
+      "from_record_id": "navigation-h05-original-coarse-review",
+      "to_record_id": "navigation-h05-corrected-reconciliation",
+      "relationship": "superseded_due_to_coarser_coverage",
+      "explanation": "The same candidate and task were reviewed at coarser granularity without reconciling the existing criterion-level disposition."
+    }
+  ],
+  "older_bank_scan": {
+    "repository": "E:\\research-state-integration-2026-08-18",
+    "commit": "b7e12ab21cec1ef8215e97dc9890924721651f1d",
+    "root": "experiments",
+    "record_shape": "objects containing terminal_candidate_id, terminal_passed_count, case_count, and task",
+    "source_mode": "pinned_git_objects"
+  }
+}

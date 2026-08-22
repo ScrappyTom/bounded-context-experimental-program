@@ -1,0 +1,231 @@
+{
+  "checker_path": "tools/check_artifact_adjudications_v1.py",
+  "checker_sha256": "4c0f35c95710db3af382275fab4be362b809e76df56a144a8a21af22eacef2fb",
+  "failures": [],
+  "gpu_calls": 0,
+  "identity_custody": {
+    "adjudication_source_records": [
+      {
+        "blob_oid": "7bee6bd1b940f5cabaf1dd3ca081f08ba7639781",
+        "record_id": "navigation-exact-reentry-direct-audit"
+      },
+      {
+        "blob_oid": "612a0b85039cca4e8a5a43d0348ed81cc3656062",
+        "record_id": "navigation-recurrent-state-inherited-audit"
+      },
+      {
+        "blob_oid": "c1ee542536d87258eab2822df89d5dc3a30ab503",
+        "record_id": "navigation-h05-original-coarse-review"
+      },
+      {
+        "blob_oid": "18cfa1faa9904b93b7fb0ae0b507f441cd496b08",
+        "record_id": "navigation-h05-corrected-reconciliation"
+      }
+    ],
+    "evidence_manifests": [
+      {
+        "evidence_manifest_id": "four-governing-navigation-documents-v0",
+        "sha256": "c2420d174e3827d9a72ef1dbda8f59aa023e4b80124adc9c0d040c34a17a230a",
+        "verified_items": 4
+      }
+    ],
+    "failures": [],
+    "task_specs": [
+      {
+        "sha256": "20a8a3cb2ea4718a0e287fd0f0b950b3b06b57a1fd9703d230be7335a6791936",
+        "size_bytes": 2076,
+        "task_spec_id": "qwen-relation-action-working-model-update-v0"
+      }
+    ]
+  },
+  "ledger_path": "audits/ARTIFACT_ADJUDICATION_LEDGER_V1.json",
+  "ledger_result": {
+    "active_record_count": 3,
+    "active_semantic_independence_group_count": 1,
+    "active_semantic_independence_groups": [
+      "navigation-direct-review-68a4"
+    ],
+    "cross_basis_conflicts": [],
+    "failures": [],
+    "record_count": 4,
+    "same_basis_conflicts": [],
+    "same_basis_group_count": 1,
+    "superseded_record_count": 1,
+    "warnings": [
+      "evaluation basis has no separately materialized hash: navigation-direct-contract-v0",
+      "evaluation basis has no separately materialized hash: h05-coarse-direct-review-v0"
+    ]
+  },
+  "ledger_sha256": "299caf9231bc446c6e4b2c41a1578da53dd3fffb1a9e304e6837e5b447054036",
+  "older_bank": {
+    "candidates": [
+      {
+        "candidate_hash": "20ef973ba7351ccd2cd6a91f274871f99d3203b340648ab354af0ff8aee723d9",
+        "record_occurrences": 4,
+        "score": "10/11",
+        "source_file_count": 3,
+        "task_id": "inventory_lots_repair_v1"
+      },
+      {
+        "candidate_hash": "31238369e94732f48c677953e7ddf3c81f685c9ab88477bf1973468c34cd6738",
+        "record_occurrences": 4,
+        "score": "9/12",
+        "source_file_count": 3,
+        "task_id": "route_catalog_repair_v1"
+      },
+      {
+        "candidate_hash": "32a1d92341a473d58c710ab3a1ab91898a9362f9c58d041c3066e474e7e492dc",
+        "record_occurrences": 2,
+        "score": "11/12",
+        "source_file_count": 2,
+        "task_id": "route_catalog_repair_v1"
+      },
+      {
+        "candidate_hash": "36f745cb6da2bd0736f0a5edf6dd6dfd54ce5f43bc97e0ee9da290d13d774d17",
+        "record_occurrences": 2,
+        "score": "8/11",
+        "source_file_count": 2,
+        "task_id": "revision_store_repair_v1"
+      },
+      {
+        "candidate_hash": "4adc536b9ca66b63277aa1b8aff9eb78925e27810a52da24eea84003d9170528",
+        "record_occurrences": 2,
+        "score": "11/11",
+        "source_file_count": 2,
+        "task_id": "revision_store_repair_v1"
+      },
+      {
+        "candidate_hash": "637f6fc36fc5cedc0dbda688e20145800b94f9a5d50b200ddab5b2477204c207",
+        "record_occurrences": 2,
+        "score": "11/11",
+        "source_file_count": 2,
+        "task_id": "lease_pool_construction_v1"
+      },
+      {
+        "candidate_hash": "64cb8dff963c934ac44222805b9874c8b6bf16cc7860272990e72052bf56304b",
+        "record_occurrences": 2,
+        "score": "9/12",
+        "source_file_count": 2,
+        "task_id": "package_graph_repair_v1"
+      },
+      {
+        "candidate_hash": "69e758063099c3b312cdc3baba3062601ecc4c731e867e0f40b6af1413b4cfb9",
+        "record_occurrences": 2,
+        "score": "12/12",
+        "source_file_count": 2,
+        "task_id": "route_catalog_repair_v1"
+      },
+      {
+        "candidate_hash": "75e9680e914bd2df557f686e53c8eea35c5d354cc7c353f5db1e551a58108c7b",
+        "record_occurrences": 4,
+        "score": "11/12",
+        "source_file_count": 3,
+        "task_id": "route_catalog_repair_v1"
+      },
+      {
+        "candidate_hash": "81d0fab3c6f7116996fb6d55ffce242ce488a50ac45c36668c0bf3dfeef3b23e",
+        "record_occurrences": 2,
+        "score": "6/11",
+        "source_file_count": 2,
+        "task_id": "token_buckets_repair_v1"
+      },
+      {
+        "candidate_hash": "85393554a14860bd613d4d4eb2c3a2ecf28ecdb832ad908bec69d60e5740d0c4",
+        "record_occurrences": 2,
+        "score": "10/11",
+        "source_file_count": 2,
+        "task_id": "inventory_lots_repair_v1"
+      },
+      {
+        "candidate_hash": "9af1ab41af3afb68c49c05e3c118eb65adf840bc26f35b5cb381bc0f0470609e",
+        "record_occurrences": 2,
+        "score": "7/12",
+        "source_file_count": 2,
+        "task_id": "package_graph_repair_v1"
+      },
+      {
+        "candidate_hash": "af3dadbec8f6b2de892b8f94350fdc257e1e6da02289ce0a12787dd4ead3bcf4",
+        "record_occurrences": 2,
+        "score": "9/12",
+        "source_file_count": 2,
+        "task_id": "package_graph_repair_v1"
+      },
+      {
+        "candidate_hash": "b6425195ad53c8c7aa69f06f551897437a442082a570d8624714dd84ca28c730",
+        "record_occurrences": 4,
+        "score": "6/11",
+        "source_file_count": 3,
+        "task_id": "revision_store_repair_v1"
+      },
+      {
+        "candidate_hash": "b85061ab96cc534f7bc1b014ceb8087962642e27fe955015e3ad7a6b27cc1123",
+        "record_occurrences": 2,
+        "score": "11/11",
+        "source_file_count": 2,
+        "task_id": "token_buckets_repair_v1"
+      },
+      {
+        "candidate_hash": "c3463e4f43fdec5edb7a729570b655c007d6db584dfd286b13fc6dc60a507d39",
+        "record_occurrences": 4,
+        "score": "9/11",
+        "source_file_count": 3,
+        "task_id": "inventory_lots_repair_v1"
+      },
+      {
+        "candidate_hash": "c710c4782f75ada0e8e94f4d8e261fbfb6c0cea5afb746f8e608bc0615b9852b",
+        "record_occurrences": 4,
+        "score": "10/11",
+        "source_file_count": 3,
+        "task_id": "token_buckets_repair_v1"
+      },
+      {
+        "candidate_hash": "e3f098c736e29a8e84c07729c16c92374d91b9edf0e7765e7304aad05c893bd2",
+        "record_occurrences": 2,
+        "score": "11/11",
+        "source_file_count": 2,
+        "task_id": "lease_pool_construction_v1"
+      },
+      {
+        "candidate_hash": "e47be2fb8545eddcd11798b12f47092c06a5f7904e18968a72bd0408b85b3d0d",
+        "record_occurrences": 4,
+        "score": "8/11",
+        "source_file_count": 3,
+        "task_id": "revision_store_repair_v1"
+      },
+      {
+        "candidate_hash": "f1d904e2a0a47240bc0e4549a48116c8021a2f710b6eb711a492ec3ff8af48e6",
+        "record_occurrences": 2,
+        "score": "7/12",
+        "source_file_count": 2,
+        "task_id": "package_graph_repair_v1"
+      },
+      {
+        "candidate_hash": "f9dda8ca46620e96f748eba489c2d3907b6a7eeb462fd0a38b58b5755c8f4da0",
+        "record_occurrences": 4,
+        "score": "9/12",
+        "source_file_count": 3,
+        "task_id": "package_graph_repair_v1"
+      },
+      {
+        "candidate_hash": "feedc87c2fac3d824457e0a0bfafd341d17eaff869867e81c48f17a1a570ed89",
+        "record_occurrences": 2,
+        "score": "11/11",
+        "source_file_count": 2,
+        "task_id": "inventory_lots_repair_v1"
+      }
+    ],
+    "conflicts": [],
+    "parse_failures": [],
+    "pinned_json_file_count": 150,
+    "repository": "E:\\research-state-integration-2026-08-18",
+    "scanned_commit": "b7e12ab21cec1ef8215e97dc9890924721651f1d",
+    "scored_record_occurrences": 60,
+    "source_mode": "pinned_git_objects",
+    "unique_candidate_task_groups": 22,
+    "working_tree_clean_observation": true,
+    "working_tree_head_observation": "b7e12ab21cec1ef8215e97dc9890924721651f1d"
+  },
+  "passed": true,
+  "schema_version": "artifact-adjudication-consistency-receipt-v1",
+  "unresolved_conflict_count": 0
+}

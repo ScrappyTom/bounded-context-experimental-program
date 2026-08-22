@@ -2,8 +2,8 @@
 
 Date: 2026-08-22
 
-Status: passed after the published H05 correction; zero unresolved conflicts;
-zero GPU calls
+Status: v1 hardening passed after the published H05 correction; zero
+unresolved conflicts; zero GPU calls
 
 ## Purpose
 
@@ -16,20 +16,32 @@ judgments does not prove that a rubric was complete or correct.
 
 ## Canonical identity
 
-An adjudication is keyed by:
+The v1 canonical comparison basis is:
 
 ```text
-candidate/tree identity
-+ exact file hashes where available
-+ authoritative task family/version
-+ evaluation/rubric identity
-+ declared evidence coverage
+candidate/tree SHA-256
++ exact artifact file-hash manifest
++ authoritative task SHA-256
++ evaluation/rubric identity and hash-or-explicit-unavailability
++ exact evidence-manifest SHA-256
 ```
 
 Candidate hash alone is insufficient. Identical bytes may legitimately receive
 different measurements under different tasks or evaluators. Such differences
-must remain explicit. An unexplained quality upgrade for the same candidate and
-task is a conflict.
+must remain explicit. Under one canonical basis, v1 compares the complete
+quality class, score, criterion dispositions and findings, explicit closure
+readiness, and blocking requirements. A difference in any of those fields is a
+conflict. Across different evaluation bases, a divergent active judgment needs
+an explicit typed relationship and explanation.
+
+The exact task was reconstructed from the pinned actor request and locked as
+2,076 UTF-8 bytes with SHA-256
+`20a8a3cb2ea4718a0e287fd0f0b950b3b06b57a1fd9703d230be7335a6791936`.
+The four governing evidence objects were reconstructed from pinned Git objects
+and canonicalized into evidence-manifest SHA-256
+`c2420d174e3827d9a72ef1dbda8f59aa023e4b80124adc9c0d040c34a17a230a`.
+No separately materialized rubric hash existed in the donor lineage. V1 records
+that absence as `not_separately_materialized`; it does not invent a hash.
 
 ## Current standalone program
 
@@ -51,8 +63,15 @@ Four adjudication records were found:
 | H05 exact-hash reconciliation | active | strong partial: 10 met, 2 partial |
 
 The original H05 13/13 record is retained rather than erased, but it is
-mechanically inactive and points to the corrected adjudication. Reactivating it
-causes the checker test to fail.
+mechanically inactive and points to the corrected adjudication through a typed
+`superseded_due_to_coarser_coverage` relationship. Removing that relationship
+causes a checker test to fail.
+
+The three active strong-partial records are **one semantic judgment lineage**,
+not three independent votes. The direct review is independent; the recurrent
+record inherits it; and the H05 correction reconciles back to it. V1 assigns all
+three the same semantic-independence group and reports one active independent
+judgment group.
 
 All four source commits, paths, and Git blob identities resolve exactly in their
 standalone repositories.
@@ -67,7 +86,9 @@ The read-only donor
 `E:\research-state-integration-2026-08-18` was locked at commit
 `b7e12ab21cec1ef8215e97dc9890924721651f1d`.
 
-The checker recursively inspected machine records containing all four fields:
+The checker enumerated and read JSON blobs directly from the pinned commit—not
+from the checked-out working tree—and inspected machine records containing all
+four fields:
 
 - `terminal_candidate_id`;
 - `terminal_passed_count`;
@@ -76,6 +97,7 @@ The checker recursively inspected machine records containing all four fields:
 
 Result:
 
+- 150 pinned JSON files selected;
 - 60 scored record occurrences;
 - 22 unique candidate/task groups;
 - every repeated candidate retained the same task-bound score;
@@ -99,7 +121,9 @@ The audit covers:
 It does not equate note, frontier, or source-digest expression grades with
 terminal artifact readiness. It also does not ingest every free-form historical
 sentence that happens to call an output “good” or “useful” without a candidate
-identity and task-bound disposition.
+identity and task-bound disposition. Zero conflicts means the selected records
+agree under their declared bases; it does not prove that any rubric was complete
+or any semantic judgment was correct.
 
 ## Governance result
 
@@ -107,18 +131,33 @@ Before any future artifact-quality claim or closure-utility score:
 
 1. bind the exact candidate/tree identity and task version;
 2. search the adjudication ledger and donor lineage;
-3. record the evaluator/rubric and evidence coverage;
-4. preserve prior judgments rather than overwrite them;
-5. require explicit supersession for a corrected judgment;
-6. stop on an unexplained active conflict; and
-7. freeze readiness before maintenance output or treated actor behavior.
+3. hash the authoritative task, artifact file manifest, and evidence manifest;
+4. record the evaluator/rubric hash, or explicitly record that it was not
+   separately materialized;
+5. record the full score, criterion dispositions, explicit closure readiness,
+   and blocking requirements;
+6. distinguish independent review from inheritance and reconciliation;
+7. preserve prior judgments rather than overwrite them;
+8. require an explained typed relationship for supersession or cross-basis
+   divergence;
+9. stop on any unexplained same-basis difference, not only a top-level class
+   difference; and
+10. freeze readiness before maintenance output or treated actor behavior.
 
-The checker is `tools/check_artifact_adjudications.py`. The locked inputs are
-`ARTIFACT_ADJUDICATION_LEDGER.json`; the exact result is
-`ARTIFACT_ADJUDICATION_CONSISTENCY_RECEIPT.json`.
+The hardened checker is `tools/check_artifact_adjudications_v1.py`. Its locked
+input is `ARTIFACT_ADJUDICATION_LEDGER_V1.json`; its exact result is
+`ARTIFACT_ADJUDICATION_CONSISTENCY_RECEIPT_V1.json`. The v0 ledger, checker, and
+receipt remain preserved as the first historical implementation.
+
+This evaluation ledger is external governance. It is not automatically placed
+in the actor prompt and is not authoritative world state. It governs later
+investigator claims such as `ready`, `complete`, `improved`, or `useful
+closure` by preserving exactly which evaluator reached which judgment under
+which task and evidence basis.
 
 ## Disposition
 
-After the H05 correction there are no unresolved consistency conflicts. This
-does not reopen the blocked close-transfer experiment and does not authorize a
-new GPU study. The next behavioral branch remains unselected.
+After the H05 correction there are no unresolved consistency conflicts under
+the hardened comparison. This does not reopen the blocked close-transfer
+experiment and does not authorize a new GPU study. The next behavioral branch
+remains unselected.

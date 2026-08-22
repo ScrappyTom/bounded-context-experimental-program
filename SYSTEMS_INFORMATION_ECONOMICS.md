@@ -314,3 +314,31 @@ economic accounting key. A lower-cost terminal action is not a benefit when an
 unreconciled or coarser disposition has mislabeled the artifact. Corrections
 remain in the ledger as explicit supersessions so that attractive historical
 claims cannot silently become active again.
+
+The hardened form makes the accounting key exact: candidate/tree and artifact
+file hashes, task hash, evaluation-basis hash or explicit unavailability, and
+evidence-manifest hash. Within one basis, economic outcome comparison uses the
+full score, criterion findings, explicit closure readiness, and blockers—not
+only a top-level quality label. It also records semantic provenance: an
+inherited judgment and a reconciliation of the same direct review improve
+custody but do not constitute independent confirmations.
+
+This implies a third durable external ledger alongside purpose and world
+custody:
+
+```text
+WORLD LEDGER
+exact objects, versions, actions, effects, chronology
+
+PURPOSE LEDGER
+authorized task, success contract, operating limits
+
+EVALUATION LEDGER
+candidate/task/rubric/evidence-bound judgments,
+readiness, blockers, provenance, and supersession
+```
+
+The evaluation ledger is governance for investigator claims, not an
+automatically resident actor representation and not authoritative world truth.
+Its role is to prevent an information intervention from appearing valuable
+merely because a stale or coarse artifact judgment labeled its endpoint ready.
