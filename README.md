@@ -32,16 +32,19 @@ comparison or a general disproof of model-managed residency.
 
 Two independent seeds produced complete bounded source digests through the
 simple text surface (190 and 218 tokens). S3 then placed the known-lossy
-218-token digest into its authentic seed-314159 repeat-reopen packet. The digest
-changed the first recovery to the paired direct audit, but the next call made
-the exact historical whole-source reopen. It produced no mutation or artifact
-change and did not repay production, residency, or added recovery cost in the
-measured horizon. This is a local negative for this digest at this boundary,
-not a general disproof of source-bound semantic digestion.
+218-token digest package into its authentic seed-314159 repeat-reopen packet.
+The complete 720-token package changed the first recovery to the paired direct
+audit, but the next call made the exact historical whole-source reopen. It
+produced no mutation or artifact change and did not repay production,
+residency, or added recovery cost in the measured horizon. This is a local
+negative for this package at this boundary, not a general disproof of
+source-bound semantic digestion.
 
-No successor is currently selected. The next decision should compare the
-residual pressures across exact-state, control-plane, semantic-cache, and
-decomposition branches rather than automatically tuning this digest.
+H05 is selected for offline eligibility audit only. A progress-state utility
+experiment may proceed only if an existing boundary already has stable exact
+evidence and candidate co-residency, continued acquisition, no pending
+undelivered update, and enough capacity for the entire progress-state package.
+No GPU treatment is selected merely by this routing decision.
 
 The program also treats protected management/control headroom as a host-owned
 apparatus invariant.

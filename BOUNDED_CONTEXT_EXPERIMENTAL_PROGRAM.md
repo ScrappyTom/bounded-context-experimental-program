@@ -784,11 +784,29 @@ production cost 7,121 serialized tokens and its resident packet cost was 720
 tokens. The treatment avoided no raw exact recovery and introduced one
 additional duplicate exact recovery before returning to the historical request.
 
-Supported: the digest was behaviorally active but had no positive measured
-marginal value at this selected boundary. Not supported: source digests
-generally fail, the omitted endpoint facts caused the reads, or no longer-run
-reuse value exists. No semantic-cache mechanism is promoted and no successor is
-selected automatically.
+Supported: the complete source-bound digest package was behaviorally active but
+had no positive measured marginal value at this selected boundary. The causal
+unit includes semantic content, provenance and reopen bindings, message role,
+recency, and template serialization; the experiment does not isolate which
+component changed demand. The package acted as an economic complement in the
+observed two-call configuration, but the actor's reason is unavailable.
+
+Not supported: source digests generally fail, the omitted endpoint facts caused
+the reads, semantic prose alone caused the first action, or no longer-run reuse
+value exists. No semantic-cache mechanism is promoted and no digest successor
+is selected automatically.
+
+The semantic payload was 218 tokens while the actual prompt increment was 720:
+502 tokens were carrier/template overhead and the descriptive payload/package
+ratio was 30.3%. This ratio is accounting, not a standalone optimization target;
+bindings and recovery metadata provide custody value even when they are not
+semantic payload.
+
+H05 is selected for offline eligibility audit only. Before designing a bounded
+control/progress treatment, prove that an existing actor boundary has stable
+exact evidence and candidate co-residency, continued acquisition, no pending
+undelivered observation/effect, and enough room for the full semantic package
+without changing the response or control reserve.
 
 ## Result-dependent routing
 
@@ -883,6 +901,13 @@ current candidate identity. Do not infer semantic importance in the host.
 Let the model author current objective, completed work, unresolved discrepancy,
 blockers, and next progress event. Test only after evidence residency is stable
 enough that the state is not merely compensating for missing exact input.
+
+Use a dedicated maintenance mode and a simple bounded plain-text surface. Treat
+the output as lossy, non-authoritative, version-bound semantic state. Freeze it
+without host completion or repair. The downstream causal unit is the complete
+bound package, not prose tokens in isolation. Qualification of bounded
+expression is not actor utility; utility requires progress or quality benefit
+net of production, carrier, recovery, cache, and switching costs.
 
 ### H. Bounded decomposition
 

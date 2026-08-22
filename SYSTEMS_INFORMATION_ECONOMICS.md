@@ -119,6 +119,22 @@ separate at least four economic quantities:
 - **recovery flow cost:** later exact fault-in, repeated access, repair, or delay
   caused by information that is absent or lossy.
 
+For any semantic derivative, decompose resident stock into:
+
+```text
+semantic payload
++ identity / provenance / version binding
++ exact-recovery metadata
++ message / role / serialization / template overhead
+= actual prompt increment
+```
+
+Report `payload_tokens / actual_prompt_increment` as a descriptive
+payload/package ratio. Do not call it semantic efficiency or optimize it alone:
+non-payload carrier tokens may provide necessary custody, safety, and recovery
+value. Causal claims apply to the complete inserted package unless payload,
+metadata, role, recency, and serialization are separately varied.
+
 The value of an object may also depend on another resident carrier. Before
 calling an omitted fact redundant, bind it to the exact co-resident object that
 purportedly supplies the same proposition and verify scope, provenance, version,
@@ -243,21 +259,27 @@ S3 tested the sealed 218-token seed-314159 digest without reclassifying its
 failed 6/6 gate. The known omissions remained treatment metadata, exact reopen
 remained available, and the full production cost was charged.
 
-The derivative changed the first information-demand event but did not lower
-total recovery cost: Qwen3.8 first reopened a paired audit from the same study,
-then made the exact historical whole-source reopen one call later. The digest
-added 720 resident prompt tokens, the two actor calls consumed 41,036 serialized
-tokens, and no mutation or candidate change occurred. Thus semantic influence
-and economic value separated cleanly in this regime.
+The source-bound digest package changed the first information-demand event but
+did not lower total recovery cost: Qwen3.8 first reopened a paired audit from
+the same study, then made the exact historical whole-source reopen one call
+later. The package added 720 resident prompt tokens: 218 semantic payload tokens
+and 502 carrier/template tokens, a 30.3% payload/package ratio. The two actor
+calls consumed 41,036 serialized tokens, and no mutation or candidate change
+occurred. Thus package-level behavioral influence and economic value separated
+cleanly in this regime. The experiment does not isolate semantic prose from
+metadata, role, recency, or serialization.
 
-This result reinforces the non-stationary frame: a representation can be
-accurate enough to affect behavior yet have negative local marginal value once
-co-residency, wrapper cost, exact recovery, and downstream work are counted.
-It does not determine the value of other digests, sources, phases, or longer
-reuse horizons.
+This result reinforces the non-stationary frame: a representation package can
+be accurate enough to affect behavior yet have negative local marginal value
+once co-residency, carrier cost, exact recovery, and downstream work are
+counted. In this configuration it behaved as an economic complement to exact
+evidence rather than a substitute. That describes the observed demand and cost
+sequence, not why the actor chose it. The result does not determine the value
+of other digests, sources, phases, or longer reuse horizons.
 
-No immediate successor is selected. The next experiment should be chosen only
-after comparing which unresolved pressure—semantic continuity, guaranteed
-maintenance-mode selection, control/progress, chronology normalization, or
-decomposition—has the strongest authentic boundary and the least overlap with
-completed studies.
+H05 is selected for offline boundary audit only. A bounded control/progress
+experiment is eligible only if the exact evidence and current candidate are
+already stably co-resident, the actor nevertheless continues acquisition, no
+update is pending delivery, and the complete maintenance and actor packages fit
+with unchanged response and control reserves. If no such boundary exists, stop
+rather than use semantic state to conceal an evidence-residency failure.
