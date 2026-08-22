@@ -253,7 +253,7 @@ relationships, qualifications, and unresolved implications. This division is a
 hypothesis earned by the observed compression pattern, not a fixed four-field
 prompt or a complete context manager.
 
-## Latest systems-frame experiment
+## Recent systems-frame experiments
 
 S3 tested the sealed 218-token seed-314159 digest without reclassifying its
 failed 6/6 gate. The known omissions remained treatment metadata, exact reopen
@@ -277,11 +277,27 @@ evidence rather than a substitute. That describes the observed demand and cost
 sequence, not why the actor chose it. The result does not determine the value
 of other digests, sources, phases, or longer reuse horizons.
 
-H05's offline boundary audit found one conditionally eligible effect case. The
-actor has four exact governing documents, current patched candidate binding and
-task-relevant exact material, two model-selected exact focus results, and no
-pending update, yet historically rereads the just-delivered focus. The packet
-has 893 tokens of headroom. A progress treatment may proceed only if the full
-package adds at most 700 prompt tokens and a contemporaneous exact control
-reproduces. This is one descriptive trajectory, not a general control-state
-test.
+H05 then tested a different economic role: spend bounded resident capacity on a
+model-authored control/closure state while exact evidence remains stable. The
+byte-identical control reproduced a resident-focus reread. A 169-token state in
+a 464-token complete package changed the treated action to immediate admitted
+submission, and direct review found the unchanged candidate met all 13 written
+requirements.
+
+This is positive local trajectory utility even though it saved no context and
+made no artifact mutation. It exchanged 464 resident prompt tokens plus 18,915
+serialized production tokens for closure that did not occur in the exact
+control. That one-use cost is high; no amortization claim is earned.
+
+The package-level causal limit is decisive. Semantic prose, exact bindings,
+authority notice, user-message role, recency, and carrier serialization moved
+together. The state explicitly framed submission-if-ready as a next progress
+event. The experiment therefore cannot distinguish durable semantic continuity
+from a recent self-authored closure cue. It establishes one useful local control
+effect, not a general progress-state mechanism.
+
+Together S3 and H05 show why information economics cannot rank representation
+families in isolation. One semantically faithful package increased exact demand
+and cost; another bounded package consumed capacity yet improved closure. Value
+depended on the operational regime, co-resident exact state, the actor's induced
+demand, and the kind of progress still available.

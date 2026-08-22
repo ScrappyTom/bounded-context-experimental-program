@@ -115,6 +115,11 @@ Every program claim must carry one of these statuses:
   immediate exact recovery but did not reduce raw demand or improve the
   artifact. The actor reopened a paired 5,299-byte audit, then made the exact
   historical 8,063-byte source reopen one call later.
+- **LR:** one bounded progress-state package produced useful closure at a
+  stable exact-evidence boundary. The byte-identical control reread resident
+  candidate material; the treated actor submitted the unchanged task-conformant
+  candidate on its first call. The complete package, not prose alone, is the
+  causal unit.
 
 ### Mechanisms insufficient alone on the tested trajectory
 
@@ -155,7 +160,9 @@ These are local boundaries, not universal impossibility results.
   evidence but a local negative first utility test; cross-source, cross-regime,
   repeated-use, and transfer value remain unresolved;
 - **UT:** deterministic chronology folding beyond exact-body replacement;
-- **UT:** bounded semantic control/progress state; and
+- **LR:** bounded semantic control/progress has one local closure lead, while
+  repeated maintenance, construction effects, economics, and transfer remain
+  unresolved; and
 - **UT:** bounded phase decomposition with explicit recomposition review.
 
 ## Fundamental constraint
@@ -802,11 +809,29 @@ ratio was 30.3%. This ratio is accounting, not a standalone optimization target;
 bindings and recovery metadata provide custody value even when they are not
 semantic payload.
 
-H05 is selected for offline eligibility audit only. Before designing a bounded
-control/progress treatment, prove that an existing actor boundary has stable
-exact evidence and candidate co-residency, continued acquisition, no pending
-undelivered observation/effect, and enough room for the full semantic package
-without changing the response or control reserve.
+### Experiment H05 — bounded progress-state utility
+
+Status: completed; one-trajectory local closure lead.
+
+The eligible seed-42 packet had stable co-resident governing evidence, current
+patched candidate material, two exact focus results, no pending update, and 893
+tokens of headroom. A byte-identical contemporaneous control reproduced the
+historical second-focus reread. Dedicated plain-text maintenance generated a
+grounded 169-token state. Its complete candidate/source-bound package increased
+the actor prompt by 464 tokens and left 429 tokens beyond the unchanged 4,096-
+token reserve.
+
+The treated actor submitted on call 1. The candidate did not change during the
+treatment; it already contained the inherited patch. Direct review against the
+frozen task found all 13 requirements met. Thus the intervention produced useful
+closure rather than mere action displacement.
+
+The causal unit includes semantic prose, bindings, authority notice, user role,
+recency, and serialization. The result may be a recent self-authored closure cue
+rather than durable semantic continuity. M1 production cost 18,915 serialized
+tokens, no explicit check action existed, and only one selected trajectory was
+eligible. No general controller, automatic note production, or successor is
+promoted.
 
 ## Result-dependent routing
 

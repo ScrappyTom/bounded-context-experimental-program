@@ -179,3 +179,15 @@ response. Shut the server down and verify GPU/port release.
 
 After replay and direct audit, commit and push the standalone result, update the
 program ledger conservatively, and select no automatic successor.
+
+## Observed disposition
+
+Completed in
+[`qwen38-bounded-progress-state-utility-v0`](https://github.com/ScrappyTom/qwen38-bounded-progress-state-utility-v0/commit/331d549650acece4d66fd57e3e6c3621c1acb75a).
+
+The control reproduced the exact historical lines 860–937 reread. Maintenance
+generated a grounded 169-token state. Its complete bound package added 464
+prompt tokens and left 429 tokens beyond reserve. The treated actor submitted
+on its first call; the unchanged candidate met 13/13 written requirements under
+direct review. This is a one-trajectory full-package closure lead. No successor
+was selected.

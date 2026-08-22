@@ -40,14 +40,22 @@ residency, or added recovery cost in the measured horizon. This is a local
 negative for this package at this boundary, not a general disproof of
 source-bound semantic digestion.
 
-H05 is selected for offline eligibility audit only. A progress-state utility
-experiment may proceed only if an existing boundary already has stable exact
-evidence and candidate co-residency, continued acquisition, no pending
-undelivered update, and enough capacity for the entire progress-state package.
-No GPU treatment is selected merely by this routing decision.
+H05 is complete on one eligible effect-case boundary. A byte-identical control
+reproduced the exact resident-focus reread. A dedicated maintenance call then
+produced a grounded 169-token progress state; its complete 464-token bound
+package changed the first treated action to an admitted submission. The
+unchanged submitted candidate met all 13 written task requirements under direct
+review. This is a one-trajectory local closure lead for the full package, not a
+prose-only causal result or a general progress controller.
 
-The audit found one conditionally eligible effect-case boundary. Its frozen
-contract is [NEXT_EXPERIMENT_H05_BOUNDED_PROGRESS_STATE_UTILITY.md](NEXT_EXPERIMENT_H05_BOUNDED_PROGRESS_STATE_UTILITY.md).
+The frozen contract is
+[NEXT_EXPERIMENT_H05_BOUNDED_PROGRESS_STATE_UTILITY.md](NEXT_EXPERIMENT_H05_BOUNDED_PROGRESS_STATE_UTILITY.md),
+and the sealed result remains in the
+[standalone repository](https://github.com/ScrappyTom/qwen38-bounded-progress-state-utility-v0/commit/331d549650acece4d66fd57e3e6c3621c1acb75a).
+
+No automatic successor is selected. Any continuation must address whether the
+effect transfers beyond a recent self-authored closure cue and whether its high
+one-use production cost can be justified.
 
 The program also treats protected management/control headroom as a host-owned
 apparatus invariant.
