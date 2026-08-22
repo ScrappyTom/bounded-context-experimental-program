@@ -676,6 +676,13 @@ The treatment begins from the byte-identical call-12 packet and adds only:
 The known-loss record remains investigator-visible custody; do not reveal its
 contents to the actor or use it as semantic compensation.
 
+Before actor inference, audit complementarity between every preserved or
+omitted digest proposition and the exact co-resident packet. Record source
+scope, provenance, version, and model-visible carrier. Do not treat a current
+candidate/check fact as a substitute for a source-study fact unless they are
+literally the same scoped proposition. Keep this audit investigator-side and do
+not change the treatment packet.
+
 Do not add the omitted facts back as host semantic prose, remove any existing
 actor context, alter tools, change the sampler/reasoning mode, or reduce the
 response reserve. Exact tokenizer preflight must prove the treated packet fits.
@@ -684,6 +691,9 @@ response reserve. Exact tokenizer preflight must prove the treated packet fits.
 
 - byte-exact donor reconstruction and digest custody;
 - correct source/version/digest binding;
+- a sealed co-residency complementarity audit;
+- a frozen marginal-value contract separating resident stock, production,
+  maintenance/switching, and recovery flows;
 - no fabricated identity, contradiction, or material causal reversal in the
   frozen digest;
 - explicit lossy/non-authoritative status;
@@ -698,21 +708,23 @@ digest is not presented as exact or authoritative and reopening remains legal.
 #### Continuation
 
 Primary observation is the first actor decision. If it immediately reopens the
-digested source, record `immediate_raw_reopen` and stop the cell. If it chooses a
-different admitted action, execute and deliver that action through the inherited
+digested source, record `immediate_same_source_raw_access`, subclassify exact
+whole-source versus narrower precision access, and stop the cell. This means no
+immediate raw-demand deferral; it is not automatically a semantic failure. If it
+chooses a different admitted action, execute and deliver it through the inherited
 exact executor and minimum-necessary pressure rule, then allow at most two more
 actor decisions to observe delayed reopen, useful continuation, mutation, or
 semantic error. Maximum: three actor calls; one attempt; zero retries.
 
-This conditional horizon prevents extra calls from disguising an immediate
-failure while still testing the feedback claim when the digest initially
-substitutes for raw access.
+This conditional horizon stops after the marginal first-decision question is
+answered while still testing feedback when raw access is initially deferred.
 
 #### Outcomes and economics
 
 Primary:
 
-- immediate same-source raw reopen versus a different valid first action.
+- immediate same-source raw access versus a different valid first action, with
+  exact action/range recorded.
 
 Secondary:
 
@@ -724,13 +736,17 @@ Secondary:
 - prompt/cache/latency effects by call;
 - exact source tokens/bytes faulted back in;
 - digest resident tokens; and
-- total cost including the already incurred 6,902 prompt + 219 completion
-  tokens and 16,070 ms used to produce the digest.
+- resident stock plus production, maintenance/switching, recovery, and
+  downstream repair flows, including the already incurred 6,902 prompt + 219
+  completion tokens and 16,070 ms used to produce the digest.
 
-Avoiding reopen is not sufficient for success. A useful local result requires a
-different valid action without material semantic degradation; a later justified
-reopen may represent healthy hierarchical recovery. Any mutation must be
-reviewed against the exact source and task out of band.
+Avoiding reopen or merely choosing a different valid action is not sufficient
+for success. A useful local result requires externally judged task progress,
+economically meaningful raw-demand deferral, or selective exact recovery that
+improves downstream action or quality without material semantic degradation.
+One duplicate read replaced by another is not a lead. A later or immediate
+justified reopen may represent healthy hierarchical recovery. Any mutation must
+be reviewed against the exact source and task out of band.
 
 #### Claim limit
 
@@ -741,6 +757,11 @@ whether this explicitly lossy derivative has local actor utility and whether
 its production/residency cost begins to amortize over a short feedback horizon.
 S3 does not repair or requalify S2 under the former 6/6 rule; it assigns the
 sealed artifact a different, prospectively declared architectural role.
+
+The exact historical response is not a simultaneous randomized control. Its
+behavior is the local baseline; historical latency and cache statistics are
+descriptive. The selected digest and boundary make S3 hypothesis-generating,
+not an independent estimate of effect frequency.
 
 ## Result-dependent routing
 

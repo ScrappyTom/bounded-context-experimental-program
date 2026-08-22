@@ -80,6 +80,24 @@ direct audit.
 This loss vector is visible in experiment custody and downstream auditing. Do
 not add the omitted facts to the model as compensating host prose.
 
+## Co-residency complementarity audit
+
+Before freezing the actor packet, create
+`CO_RESIDENCY_COMPLEMENTARITY_AUDIT.json`. For every preserved and omitted
+digest proposition, record:
+
+- the proposition and its source-study scope;
+- every exact or semantic co-resident carrier that might overlap it;
+- carrier identity, provenance, version, and model-visible byte range;
+- one of `same_proposition`, `partial_overlap`, `different_scope`,
+  `not_resident`, or `ambiguous`; and
+- the investigator rationale and hash of the audited packet.
+
+Do not infer that the digest's omitted source-study facts are supplied by a
+mechanical current-candidate or current-check field merely because their wording
+looks similar. Scope and provenance must match. This audit is investigator-side
+only: it neither compensates the digest nor changes the actor packet.
+
 ## Control and treatment
 
 ### Historical control
@@ -95,6 +113,11 @@ source body nonresident
 
 Do not describe the historical response as randomized simultaneous control.
 It is an exact within-trajectory historical comparison.
+
+The historical call remains the behavioral baseline, but its latency and cache
+statistics are descriptive rather than a contemporaneous causal comparison.
+Do not spend a new control call unless exact reconstruction or runtime custody
+fails and a separately frozen redesign is authorized.
 
 ### Treatment
 
@@ -125,17 +148,21 @@ Before a measured call, prove:
 3. the digest bytes/hash/token receipt and source binding match the sealed run;
 4. the digest is marked lossy and non-authoritative;
 5. exact reopen remains unchanged and executable;
-6. the treatment differs from control only by the canonical digest block;
-7. the treated first request fits with the unchanged 4,096-token response
+6. `CO_RESIDENCY_COMPLEMENTARITY_AUDIT.json` is complete and distinguishes
+   current-state facts from source-study facts;
+7. `MARGINAL_VALUE_CONTRACT.json` freezes the boundary state, intervention,
+   stock/flow costs, feedback horizon, quality criteria, and claim limits;
+8. the treatment differs from control only by the canonical digest block;
+9. the treated first request fits with the unchanged 4,096-token response
    reserve;
-8. the maximum legal first response fits;
-9. result execution/delivery and the inherited minimum-necessary pressure rule
-   are deterministic;
-10. enough protected control headroom exists for every authorized continuation
+10. the maximum legal first response fits;
+11. result execution/delivery and the inherited minimum-necessary pressure rule
+    are deterministic;
+12. enough protected control headroom exists for every authorized continuation
     branch;
-11. no donor file changes;
-12. fresh-process rendering and replay are deterministic; and
-13. maximum actor calls are exactly three, with one attempt and zero retries.
+13. no donor file changes;
+14. fresh-process rendering and replay are deterministic; and
+15. maximum actor calls are exactly three, with one attempt and zero retries.
 
 Any identity, binding, capacity, exact-reopen, control-reachability, or replay
 failure stops the study before GPU inference.
@@ -147,8 +174,12 @@ failure stops the study before GPU inference.
 Run the treated actor once.
 
 If it requests the same exact source, classify
-`immediate_same_source_raw_reopen` and stop the cell. Do not spend additional
-calls to make an immediate substitution failure look productive.
+`immediate_same_source_raw_access` and stop the cell. Record separately whether
+the action is the exact historical whole-source reopen, a narrower
+precision-oriented access, or another same-source access. This establishes no
+immediate raw-source demand deferral; it is not automatically a semantic or
+task failure. Stop because the frozen marginal question has been answered, not
+to characterize selective exact recovery as inherently undesirable.
 
 If it requests another valid action, execute it through the inherited exact
 executor and deliver its result under the frozen minimum-necessary pressure
@@ -172,7 +203,7 @@ Do not force mutation, check, submission, or source reopening.
 
 Primary classification:
 
-- immediate same-source reopen; or
+- immediate same-source raw access, subclassified by exact action/range; or
 - different valid first action.
 
 Secondary trajectory classes:
@@ -187,16 +218,27 @@ Secondary trajectory classes:
 - no reopen and no useful progress; or
 - capacity/apparatus endpoint.
 
-Avoiding reopen is not itself success. A positive local utility lead requires a
-different valid action without material semantic degradation. A later reopen
-may be appropriate recovery rather than failure.
+Avoiding reopen and merely choosing a different valid action are not themselves
+success. A positive local utility lead requires at least one of:
+
+- externally judged useful task progress without material semantic degradation;
+- economically meaningful deferral or reduction of raw-source demand without
+  replacing it with equally unproductive recovery; or
+- selective exact recovery that improves downstream action or quality relative
+  to the historical trajectory.
+
+A later or immediate reopen may be appropriate recovery rather than failure.
+One duplicate read replaced by another is not a utility lead.
 
 ## Information-economic accounting
 
 Report separately:
 
-- digest production: 6,902 prompt tokens, 219 completion tokens, 16,070 ms;
-- digest resident tokens and wrapper tokens by treated call;
+- resident stock: digest and wrapper tokens by treated call;
+- production flow: 6,902 prompt tokens, 219 completion tokens, and 16,070 ms;
+- maintenance/switching flow: insertion, recomposition, cache invalidation,
+  control calls, and prefill latency;
+- recovery flow: exact source fault-ins, repeated access, delay, and repair;
 - control and treatment prompt/completion/cache/latency;
 - exact source result tokens and bytes when reopened;
 - raw source deliveries avoided or delayed;
@@ -207,7 +249,11 @@ Report separately:
 
 Use the exact tokenizer to calculate how many avoided source deliveries would
 be required to repay digest production under token accounting. Report latency
-and cache effects separately; do not invent a single scalar exchange rate.
+and cache effects separately; do not invent a single scalar exchange rate. Also
+report both full-production charging for this observed use and a clearly labeled
+amortized reuse counterfactual. Never treat the already incurred production cost
+as zero. This three-call horizon cannot establish lifetime amortization unless
+realized savings within the measured trajectory actually repay that cost.
 
 ## Direct audit
 
@@ -220,11 +266,14 @@ Read every measured turn and compare against:
 - any terminal mutation or artifact.
 
 Record whether the actor relied on a false inference, merely chose a different
-read, appropriately reopened for precision, or made actual task progress.
+read, appropriately reopened for precision, or made actual task progress. Audit
+whether either known omission had a realized consequence and whether any
+co-resident carrier truly supplied the same scoped proposition.
 
 ## Frozen forecast for implementation
 
-- 35%: immediate same-source raw reopen;
+- 35%: immediate same-source raw access, with whole-source versus narrower
+  precision access reported separately;
 - 25%: different first acquisition followed by delayed same-source reopen;
 - 20%: different acquisition with no same-source reopen and no mutation within
   three calls;
@@ -241,6 +290,11 @@ exact offline capacity/custody evidence.
 This one selected, already observed digest creates a descriptive local utility
 test. It cannot establish production reliability, transfer, general source
 digestion, or a complete context policy.
+
+The digest artifact and the repeat-reopen boundary were selected from known
+histories, so this is hypothesis-generating and not an independent estimate of
+effect frequency. The historical control is non-contemporaneous. Cache and
+latency differences remain descriptive.
 
 After replay, direct audit, cost accounting, result publication, and program
 ledger update: stop. Select no automatic successor and make no further GPU

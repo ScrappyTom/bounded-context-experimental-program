@@ -106,6 +106,27 @@ No scalar weights are currently earned. Report the cost vector and behavior
 separately rather than inventing one aggregate score. A later decision analysis
 may compare Pareto-dominant policies only where outcome quality is commensurate.
 
+## Stock, flow, and complementarity
+
+Do not judge an information object by resident size alone. For each treatment,
+separate at least four economic quantities:
+
+- **resident stock cost:** tokens occupied at the current decision boundary;
+- **production/acquisition flow cost:** calls, tokens, and latency used to create
+  or obtain the object;
+- **maintenance/switching flow cost:** rewriting, recomposition, cache loss, and
+  control work needed to keep using it; and
+- **recovery flow cost:** later exact fault-in, repeated access, repair, or delay
+  caused by information that is absent or lossy.
+
+The value of an object may also depend on another resident carrier. Before
+calling an omitted fact redundant, bind it to the exact co-resident object that
+purportedly supplies the same proposition and verify scope, provenance, version,
+and temporal meaning. A current-candidate fact is not automatically equivalent
+to a fact about a candidate in an older source study. Complementarity is an
+investigator-side audit unless the treatment prospectively changes what the
+actor sees.
+
 ## Regimes and phase dependence
 
 At minimum, distinguish these operational regimes when they are mechanically
@@ -172,6 +193,24 @@ but must also declare:
 - the exact recovery path;
 - immediate and cumulative outcomes; and
 - the boundary conditions under which the result might reverse.
+
+Use this marginal-boundary record:
+
+```text
+BOUNDARY STATE
+MARGINAL INTERVENTION
+CO-RESIDENT COMPLEMENTS OR SUBSTITUTES
+IMMEDIATE PRICE: resident / production / maintenance / recovery
+STATE TRANSITION
+FUTURE INFORMATION DEMAND
+DOWNSTREAM VALUE AND QUALITY
+FAILURE MIGRATION
+```
+
+A changed valid action is an observation, not automatically a benefit. A local
+utility lead requires useful progress, economically meaningful demand deferral,
+or selective recovery with no material quality loss. Merely replacing one
+duplicate read with another does not qualify.
 
 Prefer one clean primary decision plus a short predeclared continuation when
 feedback is the research question. Do not use an arbitrarily long rollout to
