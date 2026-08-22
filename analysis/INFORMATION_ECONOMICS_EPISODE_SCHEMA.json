@@ -1,0 +1,69 @@
+{
+  "schema_version": "information-economics-episode-schema-v0",
+  "unit": "one frozen boundary x condition x measured continuation",
+  "required_episode_fields": [
+    "episode_id",
+    "source_ids",
+    "boundary",
+    "regime",
+    "pressure",
+    "representation",
+    "operation",
+    "trigger",
+    "owner",
+    "exact_recovery",
+    "costs",
+    "outcome",
+    "evaluation",
+    "missingness",
+    "confidence",
+    "confounds"
+  ],
+  "boundary_identity_fields": [
+    "repository_id",
+    "commit",
+    "run_id",
+    "cell_id",
+    "condition"
+  ],
+  "regime_values": [
+    "acquisition",
+    "construction",
+    "repair",
+    "review",
+    "closure"
+  ],
+  "owner_values": [
+    "host_mechanical",
+    "model_semantic",
+    "host_and_model",
+    "none_control"
+  ],
+  "information_demand_values": [
+    "preserved",
+    "reduced",
+    "redirected",
+    "expanded",
+    "deferred",
+    "repeated",
+    "not_applicable",
+    "unknown"
+  ],
+  "capacity_effect_values": [
+    "restored",
+    "preserved",
+    "exhausted",
+    "not_tested",
+    "unknown"
+  ],
+  "utility_values": [
+    "positive",
+    "negative",
+    "mixed",
+    "mechanical_only",
+    "inconclusive"
+  ],
+  "evaluation_rule": "Scores and deltas are comparable only within one non-null basis_id. Null fields require an explicit missingness reason. closure_readiness is separate from quality_class.",
+  "identity_rule": "The tuple repository_id, commit, run_id, cell_id, condition is canonical. Experiment names alone are not episode identities.",
+  "causal_rule": "Rows retain the source study's causal scope. Cross-study summaries are descriptive and must not be read as causal pooling."
+}

@@ -43,6 +43,7 @@ comparison not qualified; `UT` = untested.
 | E29 | LR | model-authored submission review | A qualified binary assessor identified a real support gap but did not change the original builder's finalization; aggregate/atomic review detected only 2/7 versus 3/7 known violations. | Different tasks and review interfaces; constrains simple readiness reflection but does not disprove every dedicated reviewer or repair seat. | [route audit](audits/NEXT_ROUTE_PRIOR_EVIDENCE_RECONCILIATION.md) |
 | E30 | LR | bounded fresh-world phase reentry | Scout, replication, and a two-workflow three-phase study showed that exact current task/world state could carry core code and research continuity without the full transcript. Transcript navigation remained useful, and checkpoint/automatic-routing packages were not promoted. | Bounded code/research workflows in the older program; phase boundaries were task-authored rather than automatically inferred. | [route audit](audits/NEXT_ROUTE_PRIOR_EVIDENCE_RECONCILIATION.md) |
 | E31 | LR | reserved exact handoff | Reserved handoff calls made model-authored receipt selection reachable and exact transfer usable. One actor selected everything; a later selective handoff was consumed, but the fresh actor reconstructed 98% of the target and never mutated. | Two related large-document maintenance trajectories; selection and transfer worked mechanically, downstream working-set acceptance did not. | [route audit](audits/NEXT_ROUTE_PRIOR_EVIDENCE_RECONCILIATION.md) |
+| E32 | AF | cross-study information-economics episode ledger | Twenty-nine unique condition-level episodes from 12 pinned Git objects were reconciled across five regimes with 11 declared comparisons and explicit missingness. The analysis separates capacity, demand, action, quality, closure, and cost; it identifies dedicated maintenance-only workspace selection as the highest-priority genuinely unresolved cell. | Representative heterogeneous sample, not exhaustive and not a pooled causal estimate. Zero GPU calls. | [episode analysis](analysis/INFORMATION_ECONOMICS_REPORT.md) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | IN | model-managed exact residency | The tested passive optional directory/action interface did not elicit a residency choice before capacity censoring. | Does not compare model selection with FIFO: no management action occurred and the pending-result control packet was never model-visible. | E19 |
@@ -197,7 +198,10 @@ relationship. `E26` is the current zero-conflict receipt.
 
 The next-route reconciliation changes the active selection. A new generic
 submission-readiness reflection would overlap E28–E29, and H06 is no longer
-untested after importing E30–E31. No GPU successor is selected. The selected
-work is the offline cross-study episode ledger in
-`NEXT_ANALYSIS_CROSS_STUDY_INFORMATION_ECONOMICS_LEDGER.md`; it must identify a
-genuinely absent pressure × operation comparison before another model run.
+untested after importing E30–E31.
+
+The cross-study episode ledger is now complete (E32). It rules out a generic
+scoreboard and selects one offline design task: test eligibility for a
+host-triggered maintenance-only exact-workspace selection at an authentic
+pending-result pressure boundary, with protected control headroom and the
+incumbent mechanical policy as comparator. No GPU successor is yet authorized.

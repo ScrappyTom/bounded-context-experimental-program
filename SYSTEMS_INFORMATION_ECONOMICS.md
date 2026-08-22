@@ -368,3 +368,26 @@ experiment index. Value is configuration-dependent, and experiment novelty is
 also configuration-dependent. Trigger, regime, owner, resident set, feedback
 horizon, and downstream artifact effect determine whether two differently named
 studies are actually distinct.
+
+## Cross-study episode result
+
+The first ledger materializes 29 boundary × condition episodes from 12 pinned
+Git objects. It confirms a systems hierarchy rather than a global mechanism
+ranking:
+
+1. Host mechanical custody and pressure relief are reliable safety operations.
+2. Exact recoverability does not imply stable semantic co-residency.
+3. Semantic packages can redirect demand or closure policy while having
+   negative marginal utility.
+4. Fresh-world phase reentry can save tokens in one domain and increase calls,
+   cost, or failure in another.
+5. Exact verification can buy real repair, but production cost and actor uptake
+   remain separate constraints.
+
+The next unresolved allocation question is therefore about ownership and
+control-plane reachability: when a pending exact result creates real pressure,
+can a dedicated maintenance-only model invocation select a useful exact
+working set under a hard budget better than the host's incumbent mechanical
+rule? The host must reserve enough capacity for that control operation; the
+model may express semantic retention preference but cannot own hard-overflow
+safety.

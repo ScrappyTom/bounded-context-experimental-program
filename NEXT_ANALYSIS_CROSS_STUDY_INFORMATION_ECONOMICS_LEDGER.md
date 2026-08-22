@@ -2,7 +2,7 @@
 
 Date: 2026-08-22
 
-Status: selected offline analysis; no GPU authorization requested
+Status: complete offline analysis; no GPU calls
 
 ## Question
 
@@ -72,6 +72,12 @@ available.
 - a contradiction/overlap report against the current evidence ledger;
 - a short list of genuinely untested pressure × operation cells; and
 - a routing recommendation that may select no GPU successor.
+
+All deliverables are now materialized under `analysis/`. The validated v0
+contains 29 episodes, 11 declared comparisons, 12 pinned source objects, and a
+deterministic receipt. The selected route is offline eligibility/preflight for
+a dedicated maintenance-only workspace-selection call with protected control
+headroom; measured inference remains unauthorized.
 
 ## Stop rules
 

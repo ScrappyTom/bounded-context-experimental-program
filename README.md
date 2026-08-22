@@ -80,10 +80,17 @@ fresh bounded phases can preserve continuity; and exact handoff does not ensure
 a selective action-ready working set. See
 [NEXT_ROUTE_PRIOR_EVIDENCE_RECONCILIATION.md](audits/NEXT_ROUTE_PRIOR_EVIDENCE_RECONCILIATION.md).
 
-No GPU successor is currently selected. The next work item is the offline
-[cross-study information-economics episode ledger](NEXT_ANALYSIS_CROSS_STUDY_INFORMATION_ECONOMICS_LEDGER.md),
-which will identify genuinely untested pressure × operation cells before more
-inference is authorized.
+The offline
+[cross-study information-economics episode ledger](analysis/INFORMATION_ECONOMICS_REPORT.md)
+is complete: 29 unique episodes, 11 declared comparisons, and 12 pinned source
+objects validate cleanly. It finds no global representation winner. Mechanical
+pressure relief is reliable; semantic and phase interventions have strongly
+configuration-dependent demand, quality, and closure effects.
+
+The selected next work is offline eligibility/preflight for a dedicated
+maintenance-only exact-workspace selection call with protected control
+headroom and a matched mechanical comparator. No GPU successor is currently
+authorized.
 
 The program also treats protected management/control headroom as a host-owned
 apparatus invariant.

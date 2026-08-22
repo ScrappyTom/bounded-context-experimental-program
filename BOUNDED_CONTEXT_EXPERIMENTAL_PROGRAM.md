@@ -926,6 +926,14 @@ model-review, phase-reentry, and reserved-handoff evidence. It stopped the
 proposed readiness-reflection run and reclassified H06. See
 `audits/NEXT_ROUTE_PRIOR_EVIDENCE_RECONCILIATION.md`.
 
+The subsequent episode ledger normalized 29 condition-level episodes without
+pooling their heterogeneous task scores. Its strongest routing result is that
+passive model-managed residency and reserved exact handoff leave one distinct
+question open: a host-triggered, maintenance-only selection call with
+guaranteed control headroom, followed by an ordinary actor continuation under
+the selected exact budget. Eligibility and capacity must be proven offline
+before any GPU authorization.
+
 ## Candidate mechanism families
 
 ### A. Deterministic exact-state recomposition

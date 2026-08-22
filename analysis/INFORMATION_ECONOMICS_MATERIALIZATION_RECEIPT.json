@@ -1,0 +1,182 @@
+{
+  "candidate_changed_count": 15,
+  "capacity_effect_counts": {
+    "exhausted": 1,
+    "not_tested": 8,
+    "preserved": 12,
+    "restored": 8
+  },
+  "checker_sha256": "167f5ba689cb990ced159690a9763c108d987d71fb402bdd168f09af45b9e170",
+  "comparison_group_count": 11,
+  "episode_count": 29,
+  "episode_ledger_sha256": "02ccf958545841620627598173dd384e289dc389f9f280beb6246f11d8017a47",
+  "episode_schema_sha256": "40bc4bc2facc5c741c0291eb1550382a351a684d29f032ca96dc394efb84f187",
+  "evaluated_count": 18,
+  "failures": [],
+  "gpu_calls": 0,
+  "information_demand_counts": {
+    "deferred": 1,
+    "expanded": 6,
+    "not_applicable": 5,
+    "preserved": 6,
+    "redirected": 2,
+    "reduced": 4,
+    "repeated": 5
+  },
+  "lock_sha256": "9d0e23753d2e6a6eb09e03b198dab1df66a83e7907c5d1264d10d2e022f411d1",
+  "not_ready_submission_count": 6,
+  "operation_counts": {
+    "aggressive_recency_demotion": 2,
+    "bounded_progress_reconciliation": 1,
+    "complete_exact_audit": 3,
+    "exact_phase_recomposition": 2,
+    "fresh_current_world_reentry": 4,
+    "minimum_necessary_exact_result_demotion": 2,
+    "model_authored_binary_readiness_assessment": 1,
+    "narrow_audit_control": 3,
+    "no_progress_state_control": 1,
+    "receipt_only_submission_control": 1,
+    "recurrent_exact_state_recomposition": 2,
+    "recurrent_minimum_exact_result_demotion": 2,
+    "source_bound_semantic_digest": 1,
+    "transcript_carry_forward": 4
+  },
+  "passed": true,
+  "regime_counts": {
+    "acquisition": 7,
+    "closure": 4,
+    "construction": 8,
+    "repair": 6,
+    "review": 4
+  },
+  "repository_counts": {
+    "digest": 1,
+    "horizon": 2,
+    "older": 16,
+    "pressure": 4,
+    "progress": 2,
+    "recurrent_state": 2,
+    "reentry": 2
+  },
+  "schema_version": "information-economics-ledger-receipt-v0",
+  "source_count": 12,
+  "source_mode": "pinned_git_objects",
+  "source_size_bytes": 105162,
+  "sources": [
+    {
+      "blob_oid": "0e1379605d33f76f0e989f2e64aff2ec5b154083",
+      "commit": "ab0e21b201d04521a43f83c223a364bca35a7b86",
+      "path": "runs/2026-08-20-sealed-run-v0/analysis/AUDITED_ANALYSIS.json",
+      "repository_id": "pressure",
+      "sha256": "7f5ee610abc65e14ca7a496a6bb1636d813b2d35dcb4d0a1b138cd5be8832845",
+      "size_bytes": 3830,
+      "source_id": "pressure_analysis"
+    },
+    {
+      "blob_oid": "c55124a8ef7924dd8ea25d1e373839b92e1fa09b",
+      "commit": "daa5978f817bf21189870e7306eb19e235421424",
+      "path": "runs/2026-08-20-sealed-horizon-run-v0/RUN_RESULT.json",
+      "repository_id": "horizon",
+      "sha256": "8f2d84c5dc28bb3d8644c865da7554345a7239af416395eabcfe26658d70b04d",
+      "size_bytes": 34606,
+      "source_id": "horizon_result"
+    },
+    {
+      "blob_oid": "27b20fb19fefddd4c6f374f5616d0cb6639ba97c",
+      "commit": "68a4b0b04c4557dcc459b42822e804f241565757",
+      "path": "runs/2026-08-21-sealed-run-v0/analysis/ANALYSIS.json",
+      "repository_id": "reentry",
+      "sha256": "d2679acf2540c4f484d14df1765a884e189380acc7ac63629f0e55adf5625c26",
+      "size_bytes": 1395,
+      "source_id": "reentry_analysis"
+    },
+    {
+      "blob_oid": "318751e18930466c090218cc53e055f7b59f5b69",
+      "commit": "c22cff99a0a1111215940c478db50e5762f1c5d3",
+      "path": "runs/2026-08-21-sealed-recurrent-state-v0/analysis/ANALYSIS.json",
+      "repository_id": "recurrent_state",
+      "sha256": "a00c984bf45bec3c8b53fb266cc3e88e74200ebaa788b525ea9432755904c7eb",
+      "size_bytes": 1589,
+      "source_id": "recurrent_state_analysis"
+    },
+    {
+      "blob_oid": "c3a09956c629f176efb432110d608ad1c04d3165",
+      "commit": "0081896cd5914acb14a155eb41342ffd3e788957",
+      "path": "runs/2026-08-21-sealed-lossy-digest-utility-s314159-v0/analysis/ANALYSIS.json",
+      "repository_id": "digest",
+      "sha256": "5bf8bdbed4980585987c94be2dd43345de5999e61f95f63306161a65b01b37ff",
+      "size_bytes": 1700,
+      "source_id": "digest_analysis"
+    },
+    {
+      "blob_oid": "262a78d7e5289a35f082aac1c17a5f0bab90e1e6",
+      "commit": "a3422cca49cb882ec252ba84903b856ba3cafc24",
+      "path": "runs/2026-08-21-sealed-progress-stage-b-v0/analysis/DIRECT_AUDIT.json",
+      "repository_id": "progress",
+      "sha256": "586db7df234b870b43672369bc96f09fc35f91c4fbe02fb9476e26c9753135a8",
+      "size_bytes": 708,
+      "source_id": "progress_direct_audit"
+    },
+    {
+      "blob_oid": "18cfa1faa9904b93b7fb0ae0b507f441cd496b08",
+      "commit": "a3422cca49cb882ec252ba84903b856ba3cafc24",
+      "path": "POSTHOC_ARTIFACT_DISPOSITION_CORRECTION.json",
+      "repository_id": "progress",
+      "sha256": "17ce80aff2c664233381c14c6a160d0937755270103d2aeb4fc2cfdfaa89be81",
+      "size_bytes": 1042,
+      "source_id": "progress_correction"
+    },
+    {
+      "blob_oid": "a224a5d52c147e0394987c04751777b17a13a043",
+      "commit": "a3422cca49cb882ec252ba84903b856ba3cafc24",
+      "path": "runs/2026-08-21-sealed-progress-stage-a-v0/analysis/MAINTENANCE_MECHANICAL_AUDIT.json",
+      "repository_id": "progress",
+      "sha256": "0ec2877cce047616e64bba93a9e41a2850da78b71b490eacf182bb393fa1f0b3",
+      "size_bytes": 3244,
+      "source_id": "progress_maintenance_audit"
+    },
+    {
+      "blob_oid": "2018644d54c0f4239f4406f5c041762faea1fc8d",
+      "commit": "b7e12ab21cec1ef8215e97dc9890924721651f1d",
+      "path": "experiments/complete-audit-false-closure-v0/runs/cafc-q38-r001/analysis.json",
+      "repository_id": "older",
+      "sha256": "357eb97c8524a36e2a90d2fd7c54aedd1c6315d20a28e3591cabceb7f01b0f2e",
+      "size_bytes": 1216,
+      "source_id": "complete_audit_analysis"
+    },
+    {
+      "blob_oid": "e5be48639979e994c51c993f31422594894bc360",
+      "commit": "b7e12ab21cec1ef8215e97dc9890924721651f1d",
+      "path": "experiments/phase-working-set-longitudinal-v0/R2_MECHANICAL_METRICS.json",
+      "repository_id": "older",
+      "sha256": "ff009663543736cfcc6906e4c6ea8a5a9aae95890c16fd0888183c8be4f4b0c1",
+      "size_bytes": 33360,
+      "source_id": "phase_longitudinal_metrics"
+    },
+    {
+      "blob_oid": "db894338809c7fe574ad3e60c90b6f0cade5a8dc",
+      "commit": "b7e12ab21cec1ef8215e97dc9890924721651f1d",
+      "path": "experiments/binary-submission-review-v0/runs/prospective-r00/summary.json",
+      "repository_id": "older",
+      "sha256": "a94161ad47e590582eb08e9cc1e4a4a829f27cec6bacc85c49ff8786da9505c7",
+      "size_bytes": 12512,
+      "source_id": "binary_review_summary"
+    },
+    {
+      "blob_oid": "41462cbff79d238e9bf321c3d755cf72cab33d6f",
+      "commit": "b7e12ab21cec1ef8215e97dc9890924721651f1d",
+      "path": "experiments/binary-submission-review-v0/RESULTS.md",
+      "repository_id": "older",
+      "sha256": "839fc545f65f647d86c62464ecf916995870984af6ec172386fbca7fc07e2570",
+      "size_bytes": 9960,
+      "source_id": "binary_review_results"
+    }
+  ],
+  "submitted_count": 16,
+  "utility_counts": {
+    "mechanical_only": 4,
+    "mixed": 6,
+    "negative": 10,
+    "positive": 9
+  }
+}

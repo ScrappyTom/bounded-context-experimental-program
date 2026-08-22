@@ -1,0 +1,101 @@
+{
+  "schema_version": "information-economics-cross-study-analysis-v0",
+  "created": "2026-08-22",
+  "source_receipt": "analysis/INFORMATION_ECONOMICS_MATERIALIZATION_RECEIPT.json",
+  "population": {
+    "episodes": 29,
+    "comparison_groups": 11,
+    "pinned_sources": 12,
+    "pinned_source_bytes": 105162,
+    "regimes": {"acquisition": 7, "closure": 4, "construction": 8, "repair": 6, "review": 4}
+  },
+  "predeclared_comparisons": {
+    "mechanical_capacity_vs_action": {
+      "finding": "Capacity restoration is reliable but not sufficient for useful action.",
+      "evidence": [
+        "Minimum demotion preserved the historical decision and absorbed the blocked result in 2/2 cells.",
+        "Recurrent oldest-first demotion resolved 17 post-predecessor pressure events and recovered 41,339 cumulative prompt tokens across 24 calls, yet produced zero mutations or submissions.",
+        "Fresh exact construction reentry produced one substantive mutation in two seeds, after which effect delivery again hit capacity."
+      ]
+    },
+    "recoverability_vs_co_residency": {
+      "finding": "Exact recoverability is a strong safety substrate but does not create a stable semantic working set.",
+      "evidence": [
+        "Aggressive recency demotion caused demoted-object access in 2/2 first decisions.",
+        "The recurrent horizon produced late repeated exact recovery without candidate progress.",
+        "Recurrent exact-state recomposition crossed both observation and effect updates but still produced resident-object rerequests."
+      ]
+    },
+    "semantic_production_vs_avoided_recovery": {
+      "finding": "The measured source digest was behaviorally active but economically complementary to exact recovery.",
+      "evidence": [
+        "A 218-token payload cost 720 resident prompt tokens and 7,121 production tokens.",
+        "The actor reopened a related audit, then the original source, with no artifact change."
+      ]
+    },
+    "fresh_reentry_vs_transcript": {
+      "finding": "Fresh current-world reentry is configuration-dependent rather than globally superior.",
+      "evidence": [
+        "Research phases B+C: fresh-world used 131,046 tokens versus 164,389 for transcript, while both phases passed; fresh-world used 26 calls versus 15.",
+        "Code phases B+C: fresh-world used 309,833 tokens and passed 0/2; transcript used 227,320 tokens, passed phase B, and ended phase C in a protocol error.",
+        "Task-authored bounded phases can preserve continuity, but navigation cost and artifact quality vary by domain and phase."
+      ]
+    },
+    "exact_verification_vs_model_review": {
+      "finding": "Exact complete audits strongly activate repair, while model-authored review or control state can fail at uptake or readiness discrimination.",
+      "evidence": [
+        "Complete audit improved all 3/3 repair pairs by six total rubric cases, at 82,231 aggregate tokens versus 51,100 for narrow audit and about four times aggregate model duration.",
+        "A binary assessor correctly identified U004 as unsupported, but the actor finalized the unchanged 11/12 artifact, exactly like receipt-only control.",
+        "The H05 progress package displaced a reread with submission but closed an unchanged 10/12 strong-partial candidate."
+      ]
+    },
+    "behavior_change_vs_utility": {
+      "finding": "Behavioral salience and trajectory utility are empirically separable.",
+      "evidence": [
+        "Digest treatment redirected demand without avoiding raw recovery.",
+        "Progress treatment reduced acquisition but caused false closure.",
+        "Complete verification produced real repair gains but remained costly and incomplete in one of three cells."
+      ]
+    }
+  },
+  "system_conclusions": [
+    "Host-owned pressure detection, response reserve, exact custody, and mechanical relief are the best-supported substrate.",
+    "Static host-selected exact layouts do not solve semantic continuity or working-set stability on the large-world trajectory.",
+    "Semantic assets should be treated as state-conditional investments whose carrier, production, induced-demand, uptake, and quality costs are measured.",
+    "Closure/readiness operations require independently frozen candidate-bound evaluation; control-relative text is high leverage and high risk.",
+    "Fresh bounded phases are already established as feasible; the open issue is trigger and integration policy, not whether transcript-free reentry can ever work."
+  ],
+  "genuinely_unresolved_cells": [
+    {
+      "priority": 1,
+      "cell": "host-triggered dedicated workspace-maintenance mode with protected control headroom",
+      "why_unresolved": "Passive OPEN/PIN/RELEASE never produced a management action, while older reserved handoff proved reachability but not selective ongoing residency quality.",
+      "required_contrast": "At one authentic pending-result pressure boundary, compare the incumbent mechanical minimum-necessary policy with a separate maintenance-only selection call whose prompt is guaranteed to fit and whose selected exact workspace is then used by the ordinary actor.",
+      "must_measure": ["selection feasibility", "result absorption", "next-decision utility", "reopen and turnover", "maintenance cost", "artifact progress"],
+      "must_not_bundle": ["semantic digest", "progress state", "automatic phase inference"]
+    },
+    {
+      "priority": 2,
+      "cell": "bounded semantic continuity across recurrent recomposition outside closure",
+      "why_unresolved": "Progress-state utility was tested only at a defect-bearing closure boundary and caused premature submission; frontier expression never reached an actor.",
+      "required_contrast": "Use plain bounded text at a construction or repair boundary where readiness is independently frozen and submission is not the immediate desired action.",
+      "must_measure": ["resident reread", "new acquisition", "mutation or repair", "semantic loss", "rewrite stability"],
+      "must_not_bundle": ["closure cue", "strict JSON schema", "source digest"]
+    },
+    {
+      "priority": 3,
+      "cell": "automatic phase-trigger or cross-phase integration",
+      "why_unresolved": "Task-authored phase reentry worked, but no evidence supports automatic phase selection or arbitrary integration quality.",
+      "required_contrast": "A mechanically triggered phase boundary with an exact current-world incumbent and a predeclared cross-part integration rubric.",
+      "must_measure": ["trigger precision", "navigation cost", "cross-part relationship preservation", "terminal quality"],
+      "must_not_bundle": ["general planner", "multi-agent decomposition"]
+    }
+  ],
+  "routing": {
+    "selected_next_design": "offline eligibility and preflight for dedicated workspace-maintenance mode",
+    "gpu_status": "not authorized by this analysis",
+    "reason": "It is the highest-priority cell not already answered by passive management, reserved handoff, exact-layout, digest, progress, verification, or phase-reentry evidence.",
+    "stop_condition": "If no donor boundary can support a maintenance-only call plus a matched ordinary continuation without adding semantic state, record ineligibility and do not improvise a new world."
+  },
+  "claim_limit": "This is a descriptive integration of heterogeneous episodes. It does not pool task scores, estimate a universal policy effect, or promote a context manager."
+}
