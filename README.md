@@ -89,8 +89,12 @@ configuration-dependent demand, quality, and closure effects.
 
 The selected next work is offline eligibility/preflight for a dedicated
 maintenance-only exact-workspace selection call with protected control
-headroom and a matched mechanical comparator. No GPU successor is currently
-authorized.
+headroom and a matched mechanical comparator. Eligibility now passes in both
+donor cells: manager prompts leave +2,784 and +3,863 tokens, with multiple
+feasible release choices in each. The standalone experiment contract is
+[H03 dedicated workspace maintenance](NEXT_EXPERIMENT_H03_DEDICATED_WORKSPACE_MAINTENANCE.md).
+Measured inference remains gated on standalone preflight and explicit user
+authorization.
 
 The program also treats protected management/control headroom as a host-owned
 apparatus invariant.

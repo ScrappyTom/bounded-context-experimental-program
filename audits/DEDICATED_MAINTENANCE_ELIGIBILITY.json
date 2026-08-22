@@ -1,0 +1,329 @@
+{
+  "cells": [
+    {
+      "cell": "s42-s1",
+      "control_decision_prompt_tokens": 20966,
+      "control_post_result_prompt_tokens": 21386,
+      "eligible_result_count": 8,
+      "eligible_results": [
+        {
+          "action": {
+            "action": "read_region",
+            "region_id": "R002"
+          },
+          "action_index": 4,
+          "message_size_bytes": 1528,
+          "result_id": "RESULT_005",
+          "result_index": 5
+        },
+        {
+          "action": {
+            "action": "repo_list",
+            "path": "experiments/large-world-source-navigation-v0/runs/2026-08-18-sealed-bank-v0"
+          },
+          "action_index": 6,
+          "message_size_bytes": 1742,
+          "result_id": "RESULT_007",
+          "result_index": 7
+        },
+        {
+          "action": {
+            "action": "repo_read",
+            "path": "experiments/large-world-source-navigation-v0/runs/2026-08-18-sealed-bank-v0/RESULTS.md"
+          },
+          "action_index": 8,
+          "message_size_bytes": 8617,
+          "result_id": "RESULT_009",
+          "result_index": 9
+        },
+        {
+          "action": {
+            "action": "repo_read",
+            "path": "experiments/large-world-source-navigation-v0/runs/2026-08-18-sealed-bank-v0/DIRECT_TRANSCRIPT_AUDIT.md"
+          },
+          "action_index": 10,
+          "message_size_bytes": 5836,
+          "result_id": "RESULT_011",
+          "result_index": 11
+        },
+        {
+          "action": {
+            "action": "repo_list",
+            "path": "experiments/large-world-navigation-continuity-v0/runs/2026-08-18-sealed-bank-v0"
+          },
+          "action_index": 12,
+          "message_size_bytes": 2017,
+          "result_id": "RESULT_013",
+          "result_index": 13
+        },
+        {
+          "action": {
+            "action": "repo_read",
+            "path": "experiments/large-world-navigation-continuity-v0/runs/2026-08-18-sealed-bank-v0/RESULTS.md"
+          },
+          "action_index": 14,
+          "message_size_bytes": 9123,
+          "result_id": "RESULT_015",
+          "result_index": 15
+        },
+        {
+          "action": {
+            "action": "repo_read",
+            "path": "experiments/large-world-navigation-continuity-v0/runs/2026-08-18-sealed-bank-v0/DIRECT_TRANSCRIPT_AUDIT.md"
+          },
+          "action_index": 16,
+          "message_size_bytes": 7789,
+          "result_id": "RESULT_017",
+          "result_index": 17
+        },
+        {
+          "action": {
+            "action": "read_region",
+            "region_id": "R031"
+          },
+          "action_index": 18,
+          "message_size_bytes": 8304,
+          "result_id": "RESULT_019",
+          "result_index": 19
+        }
+      ],
+      "feasible_single_choice_count": 7,
+      "historical_action": {
+        "action_id": "schema-action-012",
+        "arguments": {
+          "end_line": 6,
+          "path": "QWEN_RELATION_ACTION_WORKING_MODEL.md",
+          "start_line": 1
+        },
+        "tool_name": "read_lines"
+      },
+      "incumbent": {
+        "decision_preserved_in_measured_run": true,
+        "post_result_headroom": 154,
+        "post_result_prompt_tokens": 20838,
+        "released_result_indices": [
+          5,
+          7
+        ],
+        "result_absorbed_in_measured_run": true
+      },
+      "manager_request": {
+        "fits": true,
+        "headroom_after_reserve": 2784,
+        "path": "audits/dedicated_maintenance/s42-s1-manager-request.json",
+        "prompt_tokens": 21792,
+        "rendered_prompt_sha256": "44064cf4d3becff1e026ad2b7274184407ada81504a32115da90d075ad1bbb66",
+        "response_reserve_tokens": 512,
+        "sha256": "cfa0872c5077c182166289067089e0f7a52c1795a51c92f18df52be41eb537e5",
+        "size_bytes": 80681
+      },
+      "minimum_net_release_tokens_required": 394,
+      "ordinary_prompt_allowance_tokens": 20992,
+      "seed": 42,
+      "selection_is_nontrivial": true,
+      "single_choice_capacity": [
+        {
+          "feasible": false,
+          "headroom_after_ordinary_reserve": -279,
+          "post_result_prompt_tokens": 21271,
+          "result_id": "RESULT_005"
+        },
+        {
+          "feasible": true,
+          "headroom_after_ordinary_reserve": 39,
+          "post_result_prompt_tokens": 20953,
+          "result_id": "RESULT_007"
+        },
+        {
+          "feasible": true,
+          "headroom_after_ordinary_reserve": 1356,
+          "post_result_prompt_tokens": 19636,
+          "result_id": "RESULT_009"
+        },
+        {
+          "feasible": true,
+          "headroom_after_ordinary_reserve": 854,
+          "post_result_prompt_tokens": 20138,
+          "result_id": "RESULT_011"
+        },
+        {
+          "feasible": true,
+          "headroom_after_ordinary_reserve": 160,
+          "post_result_prompt_tokens": 20832,
+          "result_id": "RESULT_013"
+        },
+        {
+          "feasible": true,
+          "headroom_after_ordinary_reserve": 1586,
+          "post_result_prompt_tokens": 19406,
+          "result_id": "RESULT_015"
+        },
+        {
+          "feasible": true,
+          "headroom_after_ordinary_reserve": 1155,
+          "post_result_prompt_tokens": 19837,
+          "result_id": "RESULT_017"
+        },
+        {
+          "feasible": true,
+          "headroom_after_ordinary_reserve": 1213,
+          "post_result_prompt_tokens": 19779,
+          "result_id": "RESULT_019"
+        }
+      ]
+    },
+    {
+      "cell": "s314159-s1",
+      "control_decision_prompt_tokens": 20013,
+      "control_post_result_prompt_tokens": 22037,
+      "eligible_result_count": 6,
+      "eligible_results": [
+        {
+          "action": {
+            "action": "read_region",
+            "region_id": "R033"
+          },
+          "action_index": 4,
+          "message_size_bytes": 6276,
+          "result_id": "RESULT_005",
+          "result_index": 5
+        },
+        {
+          "action": {
+            "action": "repo_list",
+            "path": "experiments/large-world-source-navigation-v0/runs/2026-08-18-sealed-bank-v0"
+          },
+          "action_index": 6,
+          "message_size_bytes": 1742,
+          "result_id": "RESULT_007",
+          "result_index": 7
+        },
+        {
+          "action": {
+            "action": "repo_read",
+            "path": "experiments/large-world-source-navigation-v0/runs/2026-08-18-sealed-bank-v0/RESULTS.md"
+          },
+          "action_index": 8,
+          "message_size_bytes": 8617,
+          "result_id": "RESULT_009",
+          "result_index": 9
+        },
+        {
+          "action": {
+            "action": "repo_read",
+            "path": "experiments/large-world-source-navigation-v0/runs/2026-08-18-sealed-bank-v0/DIRECT_TRANSCRIPT_AUDIT.md"
+          },
+          "action_index": 10,
+          "message_size_bytes": 5836,
+          "result_id": "RESULT_011",
+          "result_index": 11
+        },
+        {
+          "action": {
+            "action": "repo_list",
+            "path": "experiments/large-world-navigation-continuity-v0/runs/2026-08-18-sealed-bank-v0"
+          },
+          "action_index": 12,
+          "message_size_bytes": 2017,
+          "result_id": "RESULT_013",
+          "result_index": 13
+        },
+        {
+          "action": {
+            "action": "repo_read",
+            "path": "experiments/large-world-navigation-continuity-v0/runs/2026-08-18-sealed-bank-v0/RESULTS.md"
+          },
+          "action_index": 14,
+          "message_size_bytes": 9123,
+          "result_id": "RESULT_015",
+          "result_index": 15
+        }
+      ],
+      "feasible_single_choice_count": 3,
+      "historical_action": {
+        "action_id": "schema-action-010",
+        "arguments": {
+          "region_id": "R031"
+        },
+        "tool_name": "read_region"
+      },
+      "incumbent": {
+        "decision_preserved_in_measured_run": true,
+        "post_result_headroom": 395,
+        "post_result_prompt_tokens": 20597,
+        "released_result_indices": [
+          5,
+          7
+        ],
+        "result_absorbed_in_measured_run": true
+      },
+      "manager_request": {
+        "fits": true,
+        "headroom_after_reserve": 3863,
+        "path": "audits/dedicated_maintenance/s314159-s1-manager-request.json",
+        "prompt_tokens": 20713,
+        "rendered_prompt_sha256": "6d646fd25e2bcf530db889e47a6fb5d221ef65c3ccebaab9adcbdb7540565d73",
+        "response_reserve_tokens": 512,
+        "sha256": "86fb5a214e7706ea8d473e66ea4cb28ef96841c7602b1520ca7c3a08b6cc56e8",
+        "size_bytes": 76203
+      },
+      "minimum_net_release_tokens_required": 1045,
+      "ordinary_prompt_allowance_tokens": 20992,
+      "seed": 314159,
+      "selection_is_nontrivial": true,
+      "single_choice_capacity": [
+        {
+          "feasible": false,
+          "headroom_after_ordinary_reserve": -34,
+          "post_result_prompt_tokens": 21026,
+          "result_id": "RESULT_005"
+        },
+        {
+          "feasible": false,
+          "headroom_after_ordinary_reserve": -616,
+          "post_result_prompt_tokens": 21608,
+          "result_id": "RESULT_007"
+        },
+        {
+          "feasible": true,
+          "headroom_after_ordinary_reserve": 701,
+          "post_result_prompt_tokens": 20291,
+          "result_id": "RESULT_009"
+        },
+        {
+          "feasible": true,
+          "headroom_after_ordinary_reserve": 199,
+          "post_result_prompt_tokens": 20793,
+          "result_id": "RESULT_011"
+        },
+        {
+          "feasible": false,
+          "headroom_after_ordinary_reserve": -495,
+          "post_result_prompt_tokens": 21487,
+          "result_id": "RESULT_013"
+        },
+        {
+          "feasible": true,
+          "headroom_after_ordinary_reserve": 931,
+          "post_result_prompt_tokens": 20061,
+          "result_id": "RESULT_015"
+        }
+      ]
+    }
+  ],
+  "chat_completions_called": false,
+  "claim_limit": "Capacity and donor eligibility only. No maintenance selection or downstream actor utility was measured.",
+  "created": "2026-08-22",
+  "donor_commit": "ab0e21b201d04521a43f83c223a364bca35a7b86",
+  "donor_repository": "E:\\qwen38-context-reduction-pressure-boundary-v0",
+  "eligible": true,
+  "endpoint_calls": {
+    "apply_template": 16,
+    "chat_completions": 0,
+    "tokenize": 16
+  },
+  "maintenance_reserve_tokens": 512,
+  "mode": "offline_template_and_tokenization_only",
+  "ordinary_reserve_tokens": 4096,
+  "schema_version": "dedicated-maintenance-eligibility-v0"
+}

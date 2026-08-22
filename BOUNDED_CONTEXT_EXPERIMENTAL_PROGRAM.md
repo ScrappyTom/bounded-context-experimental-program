@@ -934,6 +934,12 @@ guaranteed control headroom, followed by an ordinary actor continuation under
 the selected exact budget. Eligibility and capacity must be proven offline
 before any GPU authorization.
 
+The first eligibility audit passes on two authentic pending-result boundaries.
+Both manager views fit with a 512-token maintenance allowance, the ordinary
+4,096-token reserve remains unchanged, and each cell has multiple distinct
+single-release solutions. This authorizes standalone apparatus preflight only;
+it does not establish model selection quality.
+
 ## Candidate mechanism families
 
 ### A. Deterministic exact-state recomposition

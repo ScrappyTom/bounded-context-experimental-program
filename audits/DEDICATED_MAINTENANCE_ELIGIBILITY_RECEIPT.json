@@ -1,0 +1,27 @@
+{
+  "audit_sha256": "445a4d7e336c531b067f2fa31bf39c62b1b1fa7d269f9892412408e0fe1892c7",
+  "chat_completions": 0,
+  "checker_sha256": "3f93e92bc739d7ab1e2368dca911bcc55cb201fc466051f46cdc3ea596e68170",
+  "donor_commit": "ab0e21b201d04521a43f83c223a364bca35a7b86",
+  "failures": [],
+  "feasible_single_choices": {
+    "s314159-s1": 3,
+    "s42-s1": 7
+  },
+  "gpu_calls": 0,
+  "lock_sha256": "89b27c6d9a8c5e967f42af7854bf8920fefec286ca9d9eeba8d60b101eeeb2fc",
+  "manager_headroom": {
+    "s314159-s1": 3863,
+    "s42-s1": 2784
+  },
+  "manager_prompt_tokens": {
+    "s314159-s1": 20713,
+    "s42-s1": 21792
+  },
+  "manager_request_count": 2,
+  "passed": true,
+  "schema_version": "dedicated-maintenance-eligibility-receipt-v0",
+  "source_count": 11,
+  "source_mode": "pinned_git_objects",
+  "source_size_bytes": 198534
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": "dedicated-maintenance-source-lock-v0",
+  "donor_repository": "E:\\qwen38-context-reduction-pressure-boundary-v0",
+  "donor_commit": "ab0e21b201d04521a43f83c223a364bca35a7b86",
+  "sources": [
+    {"path": "CAPACITY_PREFLIGHT.json", "blob_oid": "914260a7b18aad51d7537b4a14f9c4ece2113d39", "sha256": "0f534ea0ea2b9d386896ef2e73166e66521f3be48bc7db70dbaa2a67f9a5433e", "size_bytes": 19748},
+    {"path": "runs/2026-08-20-sealed-run-v0/analysis/AUDITED_ANALYSIS.json", "blob_oid": "0e1379605d33f76f0e989f2e64aff2ec5b154083", "sha256": "7f5ee610abc65e14ca7a496a6bb1636d813b2d35dcb4d0a1b138cd5be8832845", "size_bytes": 3830},
+    {"path": "provenance/MODEL_PROFILE_LOCK.json", "blob_oid": "81c8cce134fb0ce9f6d1a4f870d552fd39e1ce19", "sha256": "bd24d2d62341c8f604e466afefb8cd7465932deb1df876644160fbdab795c8cc", "size_bytes": 7524},
+    {"path": "evidence/parent/s42-s1/data/s42-s1/turns/turn-012/request.json", "blob_oid": "201b7afc297b2e8751a27dda1a72d17f27134858", "sha256": "f9077e5585b7b29ff78d2574aa49e6ddea31b36380de95335c6939626a05e536", "size_bytes": 80681},
+    {"path": "evidence/parent/s42-s1/data/s42-s1/turns/turn-012/assistant-message.json", "blob_oid": "d0e568d00e4f97488e4129f91ccf0cb9c251e086", "sha256": "dd503d8904617e7aefe7d14d12792406d3ba11dc7ae3af0c8bbed0a12fa2b1b8", "size_bytes": 143},
+    {"path": "evidence/parent/s42-s1/data/s42-s1/turns/turn-012/action.json", "blob_oid": "ffc51f1b5f40e80777105af836b8c5f9ad4d8dec", "sha256": "6a005c21243cfd167feb8ce5de22dc19a11c205aa56334c6ff4d68e9af889dfb", "size_bytes": 147},
+    {"path": "evidence/parent/s42-s1/data/s42-s1/turns/turn-012/result-message.json", "blob_oid": "ca2f3529ae832100637c1d984411cae721d2639d", "sha256": "236c6a946241bc5e61689b3d71ff096479963f46137d955db8e338aebb1c5849", "size_bytes": 1047},
+    {"path": "evidence/parent/s314159-s1/data/s314159-s1/turns/turn-010/request.json", "blob_oid": "c028d76e892f24a6a87bebc8bc30654221fbfb00", "sha256": "c0104cde105a07abbd9a7d88206832770b5264b6c165bd147bd36b736d7f9d20", "size_bytes": 76714},
+    {"path": "evidence/parent/s314159-s1/data/s314159-s1/turns/turn-010/assistant-message.json", "blob_oid": "8b2931f788651f503fe83bf07370c1bac76c3a97", "sha256": "f8dd752ad354980e5552cf306885528be2c1cd4cb2cf014f0fa167a4f3c2f372", "size_bytes": 84},
+    {"path": "evidence/parent/s314159-s1/data/s314159-s1/turns/turn-010/action.json", "blob_oid": "32ca74d85ad4d93fb6a51dca64d01c6d3e719d28", "sha256": "b2d02fe54281cf198a8183ceab15f799323a422e3d9a8144b14bb379b3ba62b7", "size_bytes": 92},
+    {"path": "evidence/parent/s314159-s1/data/s314159-s1/turns/turn-010/result-message.json", "blob_oid": "cddba8a496468cfd47f0f3b9dd875294e5101894", "sha256": "aa03c0b0e7285d1e500aa9837eab6dc2674281e234d805b08f3ad37f0033dedf", "size_bytes": 8524}
+  ]
+}
