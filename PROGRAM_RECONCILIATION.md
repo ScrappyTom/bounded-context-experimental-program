@@ -3,6 +3,9 @@
 Date: 2026-08-22
 Status: current program synthesis; mechanism-scouting phase closed
 
+The detailed learned-first narrative for every phase is
+`FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
+
 ## Executive disposition
 
 The program has enough component evidence to stop searching the current donor

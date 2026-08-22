@@ -20,6 +20,8 @@ The current planned-versus-learned and loose-ends audit is
 [PROGRAM_RECONCILIATION.md](PROGRAM_RECONCILIATION.md). The smallest policy
 candidate earned for whole-method testing is
 [MINIMAL_EARNED_POLICY_V0.md](MINIMAL_EARNED_POLICY_V0.md).
+The learned-first narrative covering the full experiment sequence is
+[FULL_EXPERIMENT_SEQUENCE_WRITEUP.md](FULL_EXPERIMENT_SEQUENCE_WRITEUP.md).
 The completed S3 treatment contract is preserved in
 [NEXT_EXPERIMENT_S3_LOSSY_DIGEST_UTILITY.md](NEXT_EXPERIMENT_S3_LOSSY_DIGEST_UTILITY.md).
 
