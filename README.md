@@ -26,8 +26,12 @@ announcing its later pending result was itself 45 tokens over the frozen
 allowance. The model never saw that pending state, so this is not a FIFO
 comparison or a general disproof of model-managed residency.
 
-The next distinct candidate is source-bound semantic digestion at seed 42's
-first literal repeat-reopen boundary. The program now also treats protected
-management/control headroom as a host-owned apparatus invariant. Digest
-production must qualify in one bounded plain-text maintenance call before any
-actor utility test.
+The first source-bound semantic-digestion qualification produced a complete,
+faithful 190-token digest through a simple bounded text surface. Its actor stage
+did not run: two frozen critical rubric items were not grounded in the exact
+source visible to the digester. Future digest gates must bind every fidelity
+criterion to an exact source locator before inference. Behavioral digest
+utility remains untested, and no measured successor is active.
+
+The program also treats protected management/control headroom as a host-owned
+apparatus invariant.

@@ -30,10 +30,11 @@ hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
 | E17 | NQ | type-separated exact causal slots | Offline audit found observation→observation displacement in one case and effect→observation displacement in the other. One observation slot plus one effect slot changes only the latter. | Planned two-case causal contrast ineligible; zero GPU calls. | [H08 eligibility audit](audits/H08_EXACT_CAUSAL_FRONTIER_ELIGIBILITY.md) |
 | E18 | AF | one-case exact effect + observation co-residency | The donor baseline reproduced at 19,790 prompt tokens (+1,202 headroom). The frozen complete-effect treatment produced 21,113 (-121); even a post-hoc minimal deterministic label remained at 21,015 (-23). | Physical eligibility only; zero model calls and no behavioral conclusion. Fitting requires another packet-content change. | [cross-type capacity audit](https://github.com/ScrappyTom/qwen38-cross-type-update-residency-v0/commit/7911cd88f82871e9176098e46913298b9cd28fa9) |
 | E19 | LR | optional model-managed exact residency | In one trajectory Qwen made no `OPEN`/`RELEASE`/`PIN` action and instead requested candidate bytes already resident. After a 227-token rejection receipt accumulated, the compact packet announcing a later pending exact result was 45 tokens over the allowance and was not sent. | One trajectory and one passive interface. The model never saw the pending-result state, so selection quality versus FIFO was not tested. | [model-managed result](https://github.com/ScrappyTom/qwen38-model-managed-exact-residency-v0/commit/bac9f52b38da0bccfeb65ae57b513e758f9e91db) |
+| E20 | LR | bounded plain-text source-digest expression | One maintenance call produced a normally stopped, mechanically accepted 190-token digest of an 8,063-byte exact source. Direct audit found no fabricated identity or material reversal and found the source-local findings and qualifications preserved. | Actor utility was not tested. Two frozen critical audit items referred to facts absent from the supplied source, so the conditional actor stage was ineligible. | [source-digest result](https://github.com/ScrappyTom/qwen38-source-bound-semantic-digest-v0/commit/014494d9ac0fe349a1cfef6dfd64262c356c0b14) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | IN | model-managed exact residency | The tested passive optional directory/action interface did not elicit a residency choice before capacity censoring. | Does not compare model selection with FIFO: no management action occurred and the pending-result control packet was never model-visible. | E19 |
-| H04 | UT | source-bound digest | A version-bound digest may reduce repeated raw reopening without unacceptable semantic loss. | Requires an observed source-specific reopen cost. | — |
+| H04 | IN | source-bound digest | Bounded plain-text expression is locally feasible and source-faithful, but the planned raw-reopen utility comparison was not eligible under its frozen rubric. | One source and one maintenance call; no actor saw the digest. Behavioral benefit, total cost, and transfer remain untested. | E20 |
 | H05 | UT | progress/frontier state | Bounded model-authored progress may improve acquisition stopping or closure. | Requires reasonably stable evidence residency first. | — |
 | H06 | UT | bounded decomposition | Fresh bounded task frames may scale beyond one global working set. | Must independently test cross-frame integration quality. | — |
 | H07 | LR | compact exact-workspace directory | The tested 117–118-token identity/range directory was insufficient: resident exact rerequests persisted in 2/2 cases. | Does not test every directory placement or richer semantic index. | E09–E12 |
@@ -96,14 +97,28 @@ not a comparison of model-selected residency with FIFO.
 Do not repair H03 by merely shrinking labels or adding another directory. A
 future management study would need a prospectively guaranteed control margin
 or a separately isolated maintenance decision and would be a new treatment.
-The next distinct candidate branch is H04 source-bound semantic digestion at
-the already observed repeated-source reopen boundary. Seed 42 horizon call 10
-is selected because it literally repeats the call-7 source reopen after the
-same exact result was demoted. Qualification begins with one bounded digest
-production call; actor utility is conditional on normal bounded closure and a
+
+H04 used the already observed repeated-source reopen boundary at seed 42
+horizon call 10, which literally repeated the call-7 source read after the same
+exact result was demoted. Qualification began with one bounded digest
+production call; actor utility was conditional on normal bounded closure and a
 direct source-fidelity audit.
 
-Control-plane reachability is now a common apparatus invariant. Preflight must
+S1 Stage A is complete. The model produced a normally closed 190-token digest
+that faithfully represented the exact source. Stage B did not run because two
+of five frozen critical audit items described external donor-trajectory facts
+that were absent from the exact source and maintenance prompt. Requiring those
+items would reward fabrication; deleting them after seeing the output would
+change the gate post hoc. This is an experiment-design qualification, not a
+digest-utility result.
+
+Any future source-digest qualification must bind every critical source-fidelity
+item to an exact source locator before inference. Cross-source or trajectory
+facts belong in a downstream actor-utility rubric and must already be resident
+in that actor packet. The measured S1 digest will not be retroactively admitted
+under a repaired gate. No measured successor is active.
+
+Control-plane reachability remains a common apparatus invariant. Preflight must
 prove that a pressure notification and its maintenance operation remain
 admissible after the worst frozen ordinary-result sequence, using a
 prospectively derived reserve rather than a post-hoc threshold.

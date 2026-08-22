@@ -514,7 +514,8 @@ measured successor is active.
 
 ### Experiment S1 — one source-bound semantic digest
 
-Status: selected for standalone qualification and conditional utility testing.
+Status: Stage A expression/fidelity positive; conditional utility stage
+ineligible under the frozen audit gate.
 
 Use seed 42 call 10 from the recurrent-reduction horizon as the authentic
 boundary. The historical actor reopened
@@ -543,6 +544,22 @@ reopens, mutation/submission, result delivery, capacity, digest-production
 cost, and total calls/tokens. A changed action is not automatically an
 improvement. No note, progress state, workspace manager, or additional digest
 is allowed.
+
+Observed Stage A result: one maintenance call produced a normally stopped,
+mechanically accepted 190-token digest of the 8,063-byte source. Direct review
+found the source-local findings, limitations, and unresolved question preserved
+without fabricated identity or material reversal.
+
+Stage B was not run. Two frozen critical rubric items required facts from later
+donor trajectories that were absent from the selected source and absent from
+the maintenance input. Treating those items as required would make faithful
+source digestion impossible; dropping them after observing the response would
+change the qualification rule post hoc. The result therefore establishes a
+locally viable bounded text expression surface, not actor utility.
+
+Do not retroactively reuse this digest under a repaired gate. A future digest
+study must prospectively source-bind every fidelity criterion and independently
+freeze its downstream actor-utility rubric. No measured successor is active.
 
 ## Result-dependent routing
 
@@ -655,6 +672,12 @@ Record:
 - cache, latency, and token cost;
 - direct terminal artifact review; and
 - failure migration.
+
+For source-bound semantic derivatives, every critical fidelity criterion must
+also record an exact source/version binding and a byte-span, line-span, or
+literal source locator that supports it. A criterion that depends on other
+trajectory context belongs to the downstream utility audit and is eligible
+only when that context is model-visible there.
 
 Capacity, orientation, acquisition, delivery, action onset, action admission,
 effect, effect uptake, verification, artifact quality, closure, and cost remain
