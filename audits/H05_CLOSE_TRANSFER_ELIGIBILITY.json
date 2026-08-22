@@ -1,0 +1,20 @@
+{
+  "date": "2026-08-22",
+  "decision": "ineligible_no_authentic_ready_or_fresh_not_ready_close_transfer_cells",
+  "eligible_closure_ready_cells": 0,
+  "eligible_fresh_defect_bearing_cells": 0,
+  "gpu_calls": 0,
+  "recent_series": {
+    "h05_candidate": "defect-bearing and already treated",
+    "other_effect_candidates": "same candidate or pending-update states",
+    "observation_candidates": "acquisition/delivery states"
+  },
+  "older_bank": {
+    "commit": "b7e12ab21cec1ef8215e97dc9890924721651f1d",
+    "complete_audit_results_sha256": "ec2bc16cb249c23ca3bbc3fdc7fb83c18c3d09e02ba5616d5afb204be55e57d2",
+    "complete_examples": "Lease Pool 42 and 314159; natural check then submit, no no-progress phenotype",
+    "false_closure_examples": "Token Buckets and Revision Store; different verification/closure-evidence boundary",
+    "repository": "E:\\research-state-integration-2026-08-18"
+  },
+  "schema_version": "h05-close-transfer-eligibility-v0"
+}

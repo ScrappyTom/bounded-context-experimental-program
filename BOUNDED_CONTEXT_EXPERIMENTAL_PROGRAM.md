@@ -115,11 +115,11 @@ Every program claim must carry one of these statuses:
   immediate exact recovery but did not reduce raw demand or improve the
   artifact. The actor reopened a paired 5,299-byte audit, then made the exact
   historical 8,063-byte source reopen one call later.
-- **LR:** one bounded progress-state package produced useful closure at a
-  stable exact-evidence boundary. The byte-identical control reread resident
-  candidate material; the treated actor submitted the unchanged task-conformant
-  candidate on its first call. The complete package, not prose alone, is the
-  causal unit.
+- **LR:** one bounded progress-state package changed a resident reread to
+  immediate submission at a stable exact-evidence boundary. Exact-hash
+  reconciliation showed that the unchanged candidate was a known strong
+  partial. The package was behaviorally active but induced premature closure;
+  the complete package, not prose alone, is the causal unit.
 
 ### Mechanisms insufficient alone on the tested trajectory
 
@@ -160,9 +160,10 @@ These are local boundaries, not universal impossibility results.
   evidence but a local negative first utility test; cross-source, cross-regime,
   repeated-use, and transfer value remain unresolved;
 - **UT:** deterministic chronology folding beyond exact-body replacement;
-- **LR:** bounded semantic control/progress has one local closure lead, while
-  repeated maintenance, construction effects, economics, and transfer remain
-  unresolved; and
+- **LR:** bounded semantic control/progress has one local behavioral effect and
+  one not-ready discrimination failure; closure-ready utility, repeated
+  maintenance, construction effects, economics, and transfer remain unresolved;
+  and
 - **UT:** bounded phase decomposition with explicit recomposition review.
 
 ## Fundamental constraint
@@ -811,7 +812,7 @@ semantic payload.
 
 ### Experiment H05 — bounded progress-state utility
 
-Status: completed; one-trajectory local closure lead.
+Status: completed; post-hoc corrected to one-trajectory premature closure.
 
 The eligible seed-42 packet had stable co-resident governing evidence, current
 patched candidate material, two exact focus results, no pending update, and 893
@@ -822,16 +823,18 @@ the actor prompt by 464 tokens and left 429 tokens beyond the unchanged 4,096-
 token reserve.
 
 The treated actor submitted on call 1. The candidate did not change during the
-treatment; it already contained the inherited patch. Direct review against the
-frozen task found all 13 requirements met. Thus the intervention produced useful
-closure rather than mere action displacement.
+treatment; it already contained the inherited patch. Post-hoc candidate-hash
+reconciliation found an earlier frozen strong-partial adjudication of the exact
+same bytes: 10 substantive groups met and two partial. Thus the intervention
+produced premature closure rather than useful closure.
 
 The causal unit includes semantic prose, bindings, authority notice, user role,
 recency, and serialization. The result may be a recent self-authored closure cue
 rather than durable semantic continuity. M1 production cost 18,915 serialized
 tokens, no explicit check action existed, and only one selected trajectory was
-eligible. No general controller, automatic note production, or successor is
-promoted.
+eligible. No general controller or automatic note production is promoted. A
+close-transfer readiness-discrimination audit found no authentic matching donor
+and made zero GPU calls.
 
 ## Result-dependent routing
 
@@ -851,6 +854,7 @@ The program is adaptive rather than a fixed eight-experiment queue.
 | A bounded note is reliable and exact residency is legible | fixed-total-budget substitutive note test |
 | A useful note fills and replacement value is established | specialized note compaction |
 | Stable evidence remains resident but acquisition continues without progress | bounded control/progress state |
+| Progress state causes closure | independently adjudicate readiness before scoring; require a ready/not-ready discrimination transfer |
 | Repeated raw reopening dominates | model-managed residency or source-bound digest, chosen by the exact pressure |
 | A bounded source digest is non-contradictory but omits exact details | record the loss; test utility with exact reopen intact unless the omission is safety-critical for that operation |
 | A digest avoids immediate reopen but changes downstream quality | short feedback continuation plus exact artifact/source audit; do not score reopen avoidance alone |

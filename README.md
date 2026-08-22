@@ -44,18 +44,21 @@ H05 is complete on one eligible effect-case boundary. A byte-identical control
 reproduced the exact resident-focus reread. A dedicated maintenance call then
 produced a grounded 169-token progress state; its complete 464-token bound
 package changed the first treated action to an admitted submission. The
-unchanged submitted candidate met all 13 written task requirements under direct
-review. This is a one-trajectory local closure lead for the full package, not a
-prose-only causal result or a general progress controller.
+unchanged candidate was later reconciled by exact hash to an earlier frozen
+**strong partial** adjudication: 10 substantive requirement groups met and two
+partial. H05 is therefore a behavioral effect and premature-closure result, not
+a useful closure lead.
 
 The frozen contract is
 [NEXT_EXPERIMENT_H05_BOUNDED_PROGRESS_STATE_UTILITY.md](NEXT_EXPERIMENT_H05_BOUNDED_PROGRESS_STATE_UTILITY.md),
 and the sealed result remains in the
-[standalone repository](https://github.com/ScrappyTom/qwen38-bounded-progress-state-utility-v0/commit/b2cbf89fb09267831cc3e67869ff0860fa72ba09).
+[corrected standalone repository](https://github.com/ScrappyTom/qwen38-bounded-progress-state-utility-v0/commit/a3422cca49cb882ec252ba84903b856ba3cafc24).
 
-No automatic successor is selected. Any continuation must address whether the
-effect transfers beyond a recent self-authored closure cue and whether its high
-one-use production cost can be justified.
+The close-transfer donor audit found no fresh closure-ready or defect-bearing
+cell with the same stable-evidence/no-progress phenotype. That transfer is
+blocked and consumed zero GPU calls. Any later continuation must freeze
+candidate readiness independently before treatment and test false-closure risk,
+not merely behavior change.
 
 The program also treats protected management/control headroom as a host-owned
 apparatus invariant.

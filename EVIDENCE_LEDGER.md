@@ -1,6 +1,6 @@
 # Evidence ledger
 
-Date: 2026-08-21
+Date: 2026-08-22
 
 This ledger separates mechanical facts, local results, candidate hypotheses,
 and untested mechanisms. Links identify immutable result commits; the linked
@@ -33,12 +33,14 @@ hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
 | E20 | LR | bounded plain-text source-digest expression | One maintenance call produced a normally stopped, mechanically accepted 190-token digest of an 8,063-byte exact source. Direct audit found no fabricated identity or material reversal and found the source-local findings and qualifications preserved. | Actor utility was not tested. Two frozen critical audit items referred to facts absent from the supplied source, so the conditional actor stage was ineligible. | [source-digest result](https://github.com/ScrappyTom/qwen38-source-bound-semantic-digest-v0/commit/014494d9ac0fe349a1cfef6dfd64262c356c0b14) |
 | E21 | LR | prospectively source-located digest qualification | An independent seed produced a normally stopped 218-token digest. All six critical requirements had exact input locators; 5/6 passed. The digest omitted explicit no-candidate-change and no-check facts while fabricating and reversing nothing. | No actor call occurred. This strengthens bounded expression reliability but does not qualify strict fidelity or raw-reopen utility. | [digest-utility qualification](https://github.com/ScrappyTom/qwen38-source-digest-actor-utility-v0/commit/d9336f5681ecffb8d322802c01ebaf8bb480f750) |
 | E22 | LR | deliberately lossy source-digest utility | At the selected seed-314159 repeat-reopen boundary, the 720-token source-bound digest package changed the first action to a 5,299-byte paired-audit reopen. After delivery, the actor made the exact historical 8,063-byte source reopen. No mutation or candidate change occurred. | The package jointly changed semantic prose, provenance/reopen metadata, message role, and recency. One selected source, trajectory, and two-call horizon; historical control only. This is a local negative for marginal utility, not a general digest-family result. | [lossy-digest utility result](https://github.com/ScrappyTom/qwen38-lossy-source-digest-utility-v0/commit/0081896cd5914acb14a155eb41342ffd3e788957) |
-| E23 | LR | bounded progress-state package utility | A byte-identical control reproduced the historical resident-focus reread. A qualified 169-token model-authored state in a 464-token bound package changed the next action to an admitted submission; the unchanged submitted candidate met 13/13 written task requirements under direct review. | One selected trajectory. The complete package jointly changed prose, bindings, authority notice, user role, recency, and serialization. Closure changed; no mutation or repeated-state utility was tested. | [progress-state result](https://github.com/ScrappyTom/qwen38-bounded-progress-state-utility-v0/commit/b2cbf89fb09267831cc3e67869ff0860fa72ba09) |
+| E23 | LR | bounded progress-state package utility | A byte-identical control reproduced the historical resident-focus reread. A qualified 169-token state in a 464-token package changed the next action to admitted submission, but exact-hash reconciliation showed the unchanged candidate was a known strong partial (10 substantive groups met, 2 partial). | One selected trajectory. The complete package jointly changed prose, bindings, authority notice, user role, recency, and serialization. This is behavioral salience plus premature closure, not useful closure. | [corrected progress-state result](https://github.com/ScrappyTom/qwen38-bounded-progress-state-utility-v0/commit/a3422cca49cb882ec252ba84903b856ba3cafc24) |
+| E24 | AF | H05 artifact-disposition reconciliation | The H05 candidate hash exactly matches an earlier frozen strong-partial adjudication; the original 13/13 classification was an investigator reconciliation error. Raw calls, replay, custody, tests, and seals remain valid. | Interpretation correction only; no new model behavior. | [reconciliation audit](audits/H05_ARTIFACT_DISPOSITION_RECONCILIATION.md) |
+| E25 | NQ | H05 close-transfer readiness discrimination | Offline inventory found no fresh closure-ready or defect-bearing donor with the same exact stable-evidence/no-progress phenotype. Older complete/false-closure code banks expose a different operational boundary. | Zero GPU calls. A separately designed submission-bound reflection study remains possible but is not this close transfer. | [eligibility audit](audits/H05_CLOSE_TRANSFER_ELIGIBILITY.md) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | IN | model-managed exact residency | The tested passive optional directory/action interface did not elicit a residency choice before capacity censoring. | Does not compare model selection with FIFO: no management action occurred and the pending-result control packet was never model-visible. | E19 |
 | H04 | LR | source-bound digest as lossy semantic cache | Bounded expression succeeded in two seeds, but the first downstream utility test did not reduce raw recovery or improve the artifact. The package behaved as an economic complement in this configuration: demand shifted to a paired audit and returned to the original source one call later. | Complementarity describes observed cost/demand, not the actor's latent reason. One package, source, trajectory, and short horizon; other content, regimes, repeated-use economics, and transfer remain unresolved. | E20–E22 |
-| H05 | LR | bounded progress-state package | The first qualified actor-utility test produced useful local closure: control reread, treatment submitted an unchanged task-conformant candidate. | One trajectory; full-package attribution; may be a recent self-authored closure cue; production cost 18,915 serialized tokens; repeated maintenance, transfer, and construction effects untested. | E23 |
+| H05 | LR | bounded progress-state package | The first qualified actor-utility test changed a resident reread to submission, but submitted a known strong-partial candidate unchanged. It failed readiness discrimination at this one defect-bearing boundary. | One trajectory; full-package attribution; may be a recent self-authored closure cue; no closure-ready positive case; transfer ineligible under the current donor pool. | E23–E25 |
 | H06 | UT | bounded decomposition | Fresh bounded task frames may scale beyond one global working set. | Must independently test cross-frame integration quality. | — |
 | H07 | LR | compact exact-workspace directory | The tested 117–118-token identity/range directory was insufficient: resident exact rerequests persisted in 2/2 cases. | Does not test every directory placement or richer semantic index. | E09–E12 |
 | H08 | NQ | bounded exact causal frontier | Separate latest-effect and latest-observation residency would preserve the effect case's patch receipt but is a no-op for the observation case's same-type displacement. | The planned two-case design failed parity before GPU. A one-case test or deeper fixed tail would be a new design. | E09, E17 |
@@ -156,15 +158,18 @@ H05 is complete. The exact control reproduced the lines 860–937 reread. The
 maintenance call produced a normally stopped, grounded 169-token state, and the
 full bound package added 464 prompt tokens while preserving 429 tokens of
 headroom beyond the response reserve. The treated actor submitted immediately.
-The candidate was unchanged because the inherited patch was already current;
-direct frozen-task review scored 13/13 requirements met.
+The candidate was unchanged because the inherited patch was already current.
+Exact-hash reconciliation then showed that these bytes already had a frozen
+strong-partial disposition: 10 substantive groups met and two partial.
 
-This is a local progress/closure lead, not a general note or controller result.
-The package components moved together, the maintenance production cost was
-18,915 serialized tokens, no explicit check action existed, and neither
-repeated rewriting nor transfer was tested. No automatic successor is selected.
+This is a local behavioral effect and premature-closure result, not a general
+note or controller result. The package components moved together, maintenance
+production cost was 18,915 serialized tokens, no explicit check action existed,
+and neither repeated rewriting nor a closure-ready transfer was tested.
 
 Implementation contract: `NEXT_EXPERIMENT_H05_BOUNDED_PROGRESS_STATE_UTILITY.md`.
+Correction: `audits/H05_ARTIFACT_DISPOSITION_RECONCILIATION.md`.
+Blocked transfer: `NEXT_EXPERIMENT_H05_CLOSE_TRANSFER_READINESS_DISCRIMINATION.md`.
 
 Do not repair the digest, extend its cell, or promote a semantic-cache layer.
 

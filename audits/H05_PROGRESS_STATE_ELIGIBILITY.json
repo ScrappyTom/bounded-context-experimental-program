@@ -1,6 +1,7 @@
 {
   "schema_version": "h05-progress-state-eligibility-v0",
   "date": "2026-08-21",
+  "posthoc_artifact_readiness_correction": "selected candidate was a known strong partial; see H05_ARTIFACT_DISPOSITION_RECONCILIATION.json",
   "eligible_cases": 1,
   "selected": {
     "donor_repository": "ScrappyTom/qwen38-accumulated-exact-focus-v0",

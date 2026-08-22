@@ -2,6 +2,11 @@
 
 Date: 2026-08-21
 
+Post-hoc note (2026-08-22): this audit correctly established packet and capacity
+eligibility but did not adjudicate artifact readiness. Exact-hash reconciliation
+later showed that the selected candidate was a known strong partial. See
+`H05_ARTIFACT_DISPOSITION_RECONCILIATION.md`.
+
 ## Question
 
 Does an existing measured boundary already contain stable exact evidence and

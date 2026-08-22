@@ -188,6 +188,7 @@ Completed in
 The control reproduced the exact historical lines 860–937 reread. Maintenance
 generated a grounded 169-token state. Its complete bound package added 464
 prompt tokens and left 429 tokens beyond reserve. The treated actor submitted
-on its first call; the unchanged candidate met 13/13 written requirements under
-direct review. This is a one-trajectory full-package closure lead. No successor
-was selected.
+on its first call. Post-hoc exact-hash reconciliation showed that the unchanged
+candidate was a known strong partial with two partial requirement groups. This
+is a one-trajectory behavioral effect and premature-closure result, not a
+closure lead. See `audits/H05_ARTIFACT_DISPOSITION_RECONCILIATION.md`.

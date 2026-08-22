@@ -281,23 +281,29 @@ H05 then tested a different economic role: spend bounded resident capacity on a
 model-authored control/closure state while exact evidence remains stable. The
 byte-identical control reproduced a resident-focus reread. A 169-token state in
 a 464-token complete package changed the treated action to immediate admitted
-submission, and direct review found the unchanged candidate met all 13 written
-requirements.
+submission. Exact-hash reconciliation later established that the unchanged
+candidate was a known strong partial, not a complete artifact.
 
-This is positive local trajectory utility even though it saved no context and
-made no artifact mutation. It exchanged 464 resident prompt tokens plus 18,915
-serialized production tokens for closure that did not occur in the exact
-control. That one-use cost is high; no amortization claim is earned.
+This is negative local trajectory utility despite strong behavioral influence.
+It exchanged 464 resident prompt tokens plus 18,915 serialized production
+tokens for premature closure without artifact improvement. The outcome exposes
+a false-closure liability that the original coarse post-run review missed.
 
 The package-level causal limit is decisive. Semantic prose, exact bindings,
 authority notice, user-message role, recency, and carrier serialization moved
 together. The state explicitly framed submission-if-ready as a next progress
 event. The experiment therefore cannot distinguish durable semantic continuity
-from a recent self-authored closure cue. It establishes one useful local control
-effect, not a general progress-state mechanism.
+from a recent self-authored closure cue. It failed readiness discrimination at
+this defect-bearing boundary and does not establish a useful local control
+effect or general progress-state mechanism.
 
 Together S3 and H05 show why information economics cannot rank representation
-families in isolation. One semantically faithful package increased exact demand
-and cost; another bounded package consumed capacity yet improved closure. Value
-depended on the operational regime, co-resident exact state, the actor's induced
-demand, and the kind of progress still available.
+families by behavioral salience. One semantically faithful package increased
+exact demand and cost; another bounded package consumed capacity and caused
+premature closure. Value depends on the operational regime, co-resident exact
+state, induced demand, artifact quality, and whether the resulting action is
+actually appropriate.
+
+H05 also adds a measurement invariant: candidate readiness must be adjudicated
+independently and hash-bound before a semantic control treatment is scored.
+Otherwise a strong action contrast can be mistaken for useful progress.
