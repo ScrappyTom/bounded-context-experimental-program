@@ -151,12 +151,20 @@ could differ.
 
 Implementation contract: `NEXT_EXPERIMENT_S3_LOSSY_DIGEST_UTILITY.md`.
 
-H05 is selected for offline eligibility audit, not measured execution. A
-control/progress treatment is eligible only where exact evidence and the current
-candidate are already stably co-resident, the control continues acquisition,
-no observation or effect is pending delivery, and the entire maintenance plus
-actor package fits without reducing the frozen response/control reserves. This
-gate prevents a progress record from merely compensating for missing evidence.
+H05's offline audit found one conditionally eligible case. The accumulated-focus
+effect packet contains four exact governing documents, the current patched
+candidate binding and task-relevant exact material, two model-selected exact
+focus results, and no pending delivery. It has 893 tokens of headroom and
+historically rereads the just-delivered second focus. The observation case and
+other candidates fail evidence-stability or capacity gates.
+
+The measured design remains conditional on a byte-identical contemporaneous
+control, bounded plain-text maintenance output, direct safety audit, and an
+entire progress package no larger than 700 marginal prompt tokens. Only one
+trajectory qualifies; no seed-consistency claim is possible.
+
+Implementation contract:
+`NEXT_EXPERIMENT_H05_BOUNDED_PROGRESS_STATE_UTILITY.md`.
 
 Do not repair the digest, extend its cell, or promote a semantic-cache layer.
 

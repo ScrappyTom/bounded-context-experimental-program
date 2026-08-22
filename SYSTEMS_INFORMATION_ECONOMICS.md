@@ -277,9 +277,11 @@ evidence rather than a substitute. That describes the observed demand and cost
 sequence, not why the actor chose it. The result does not determine the value
 of other digests, sources, phases, or longer reuse horizons.
 
-H05 is selected for offline boundary audit only. A bounded control/progress
-experiment is eligible only if the exact evidence and current candidate are
-already stably co-resident, the actor nevertheless continues acquisition, no
-update is pending delivery, and the complete maintenance and actor packages fit
-with unchanged response and control reserves. If no such boundary exists, stop
-rather than use semantic state to conceal an evidence-residency failure.
+H05's offline boundary audit found one conditionally eligible effect case. The
+actor has four exact governing documents, current patched candidate binding and
+task-relevant exact material, two model-selected exact focus results, and no
+pending update, yet historically rereads the just-delivered focus. The packet
+has 893 tokens of headroom. A progress treatment may proceed only if the full
+package adds at most 700 prompt tokens and a contemporaneous exact control
+reproduces. This is one descriptive trajectory, not a general control-state
+test.

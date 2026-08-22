@@ -46,5 +46,8 @@ evidence and candidate co-residency, continued acquisition, no pending
 undelivered update, and enough capacity for the entire progress-state package.
 No GPU treatment is selected merely by this routing decision.
 
+The audit found one conditionally eligible effect-case boundary. Its frozen
+contract is [NEXT_EXPERIMENT_H05_BOUNDED_PROGRESS_STATE_UTILITY.md](NEXT_EXPERIMENT_H05_BOUNDED_PROGRESS_STATE_UTILITY.md).
+
 The program also treats protected management/control headroom as a host-owned
 apparatus invariant.
