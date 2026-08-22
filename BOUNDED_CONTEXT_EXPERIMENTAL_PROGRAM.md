@@ -559,7 +559,33 @@ locally viable bounded text expression surface, not actor utility.
 
 Do not retroactively reuse this digest under a repaired gate. A future digest
 study must prospectively source-bind every fidelity criterion and independently
-freeze its downstream actor-utility rubric. No measured successor is active.
+freeze its downstream actor-utility rubric. S2 below implements that correction
+with a fresh seed and response.
+
+### Experiment S2 — prospectively gated digest actor utility
+
+Status: stopped at Stage-A fidelity gate; actor utility unexecuted.
+
+Use seed 314159's independent literal repeat of the same exact source at
+horizon call 12 after its call-9 result had become nonresident. Produce one
+fresh digest under the same four-heading text surface and seed 314159. Before
+inference, bind every critical requirement to an exact literal excerpt in the
+source. Require 6/6 fidelity, no fabrication or reversal, normal bounded
+closure, and a separate Stage-B freeze before inserting the digest into the
+exact historical call-12 actor packet.
+
+Observed result: the 218-token digest stopped normally and passed the expression
+contract. Five of six source-located fidelity items passed. It preserved the
+32-call endpoint, zero exact atlas reads, and no submission, but omitted the
+explicit no-candidate-change and no-check facts. No fabrication or reversal
+occurred. The unchanged 6/6 gate therefore stopped the study before an actor
+call.
+
+Across S1 and S2, bounded plain-text source-digest expression closed normally
+in two independent seeds. This does not yet qualify full critical-detail
+retention or behavioral utility. Do not repair S2 by prompt tuning, output
+post-processing, or rubric relaxation on the observed source. A new digest
+formulation would need a separately motivated treatment and fresh freeze.
 
 ## Result-dependent routing
 

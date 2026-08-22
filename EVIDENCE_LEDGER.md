@@ -31,10 +31,11 @@ hypothesis; `IN` = tested but primary comparison inconclusive; `UT` = untested.
 | E18 | AF | one-case exact effect + observation co-residency | The donor baseline reproduced at 19,790 prompt tokens (+1,202 headroom). The frozen complete-effect treatment produced 21,113 (-121); even a post-hoc minimal deterministic label remained at 21,015 (-23). | Physical eligibility only; zero model calls and no behavioral conclusion. Fitting requires another packet-content change. | [cross-type capacity audit](https://github.com/ScrappyTom/qwen38-cross-type-update-residency-v0/commit/7911cd88f82871e9176098e46913298b9cd28fa9) |
 | E19 | LR | optional model-managed exact residency | In one trajectory Qwen made no `OPEN`/`RELEASE`/`PIN` action and instead requested candidate bytes already resident. After a 227-token rejection receipt accumulated, the compact packet announcing a later pending exact result was 45 tokens over the allowance and was not sent. | One trajectory and one passive interface. The model never saw the pending-result state, so selection quality versus FIFO was not tested. | [model-managed result](https://github.com/ScrappyTom/qwen38-model-managed-exact-residency-v0/commit/bac9f52b38da0bccfeb65ae57b513e758f9e91db) |
 | E20 | LR | bounded plain-text source-digest expression | One maintenance call produced a normally stopped, mechanically accepted 190-token digest of an 8,063-byte exact source. Direct audit found no fabricated identity or material reversal and found the source-local findings and qualifications preserved. | Actor utility was not tested. Two frozen critical audit items referred to facts absent from the supplied source, so the conditional actor stage was ineligible. | [source-digest result](https://github.com/ScrappyTom/qwen38-source-bound-semantic-digest-v0/commit/014494d9ac0fe349a1cfef6dfd64262c356c0b14) |
+| E21 | LR | prospectively source-located digest qualification | An independent seed produced a normally stopped 218-token digest. All six critical requirements had exact input locators; 5/6 passed. The digest omitted explicit no-candidate-change and no-check facts while fabricating and reversing nothing. | No actor call occurred. This strengthens bounded expression reliability but does not qualify strict fidelity or raw-reopen utility. | [digest-utility qualification](https://github.com/ScrappyTom/qwen38-source-digest-actor-utility-v0/commit/d9336f5681ecffb8d322802c01ebaf8bb480f750) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | IN | model-managed exact residency | The tested passive optional directory/action interface did not elicit a residency choice before capacity censoring. | Does not compare model selection with FIFO: no management action occurred and the pending-result control packet was never model-visible. | E19 |
-| H04 | IN | source-bound digest | Bounded plain-text expression is locally feasible and source-faithful, but the planned raw-reopen utility comparison was not eligible under its frozen rubric. | One source and one maintenance call; no actor saw the digest. Behavioral benefit, total cost, and transfer remain untested. | E20 |
+| H04 | IN | source-bound digest | Two independent seeds produced complete bounded text digests. The first gate was invalid; the corrected source-located gate preserved 5/6 critical items and stopped before actor utility. | One exact source across two trajectories; no actor saw a digest. Strict retention, behavioral benefit, total cost, and transfer remain untested. | E20–E21 |
 | H05 | UT | progress/frontier state | Bounded model-authored progress may improve acquisition stopping or closure. | Requires reasonably stable evidence residency first. | — |
 | H06 | UT | bounded decomposition | Fresh bounded task frames may scale beyond one global working set. | Must independently test cross-frame integration quality. | — |
 | H07 | LR | compact exact-workspace directory | The tested 117–118-token identity/range directory was insufficient: resident exact rerequests persisted in 2/2 cases. | Does not test every directory placement or richer semantic index. | E09–E12 |
@@ -116,7 +117,17 @@ Any future source-digest qualification must bind every critical source-fidelity
 item to an exact source locator before inference. Cross-source or trajectory
 facts belong in a downstream actor-utility rubric and must already be resident
 in that actor packet. The measured S1 digest will not be retroactively admitted
-under a repaired gate. No measured successor is active.
+under a repaired gate.
+
+The prospective seed-314159 follow-up enforced that correction successfully:
+all six criteria had exact source excerpts. Its 218-token digest passed five,
+but omitted the explicit no-candidate-change and no-check components of the
+endpoint record. Because the frozen utility gate required 6/6, Stage B again
+did not run. Do not tune the same prompt, merge endpoint facts after generation,
+or weaken the gate around this output. Bounded plain-text expression now has a
+two-seed local positive; full critical-detail retention and utility do not.
+
+No measured successor is active.
 
 Control-plane reachability remains a common apparatus invariant. Preflight must
 prove that a pressure notification and its maintenance operation remain

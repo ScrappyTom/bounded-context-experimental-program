@@ -26,12 +26,12 @@ announcing its later pending result was itself 45 tokens over the frozen
 allowance. The model never saw that pending state, so this is not a FIFO
 comparison or a general disproof of model-managed residency.
 
-The first source-bound semantic-digestion qualification produced a complete,
-faithful 190-token digest through a simple bounded text surface. Its actor stage
-did not run: two frozen critical rubric items were not grounded in the exact
-source visible to the digester. Future digest gates must bind every fidelity
-criterion to an exact source locator before inference. Behavioral digest
-utility remains untested, and no measured successor is active.
+Two independent seeds have now produced complete bounded source digests through
+the simple text surface (190 and 218 tokens). The prospectively source-located
+seed-314159 gate passed 5/6 critical items: it omitted the explicit no-candidate-
+change and no-check endpoint facts. Its actor stage therefore did not run.
+Bounded digest expression has a two-seed local positive; strict fidelity and
+behavioral utility remain unresolved, and no measured successor is active.
 
 The program also treats protected management/control headroom as a host-owned
 apparatus invariant.
