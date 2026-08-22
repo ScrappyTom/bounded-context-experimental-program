@@ -120,6 +120,20 @@ Every program claim must carry one of these statuses:
   reconciliation showed that the unchanged candidate was a known strong
   partial. The package was behaviorally active but induced premature closure;
   the complete package, not prose alone, is the causal unit.
+- **LR, imported pinned evidence:** exact complete verification at authentic
+  false closure repeatedly activated repair and prevented known-incomplete
+  acceptance, but did not reliably produce economical complete repair.
+- **LR, imported pinned evidence:** qualified model-authored review could be
+  behaviorally inert, while aggregate and atomic compliance review missed most
+  known violations. Another plain readiness-reflection message is not an
+  untouched mechanism family.
+- **LR, imported pinned evidence:** fresh exact current-world reentry preserved
+  core code and research continuity across scout, replication, and two
+  three-phase workflows. Transcript history remained useful for navigation;
+  model-authored checkpoints and automatic phase policies were not promoted.
+- **LR, imported pinned evidence:** mechanically reserved handoff turns made
+  exact model selection and transfer reachable, but did not make the selected
+  set bounded or accepted as an action basis.
 
 ### Mechanisms insufficient alone on the tested trajectory
 
@@ -160,11 +174,13 @@ These are local boundaries, not universal impossibility results.
   evidence but a local negative first utility test; cross-source, cross-regime,
   repeated-use, and transfer value remain unresolved;
 - **UT:** deterministic chronology folding beyond exact-body replacement;
-- **LR:** bounded semantic control/progress has one local behavioral effect and
-  one not-ready discrimination failure; closure-ready utility, repeated
-  maintenance, construction effects, economics, and transfer remain unresolved;
-  and
-- **UT:** bounded phase decomposition with explicit recomposition review.
+- **LR:** bounded semantic control/progress has one local premature-closure
+  effect. Older submission-review studies add inert-review and low-defect-recall
+  evidence, so a new generic readiness reflection is deprioritized; a genuinely
+  different control operation remains unresolved; and
+- **LR:** bounded phase reentry has prior code/research and longitudinal support,
+  while automatic boundary selection, arbitrary decomposition, and cross-frame
+  integration outside task-authored phases remain unresolved.
 
 ## Fundamental constraint
 
@@ -897,6 +913,19 @@ progress until the candidate's independently frozen readiness disposition is
 reconciled. The current reusable audit is
 `audits/ARTIFACT_ADJUDICATION_CONSISTENCY_AUDIT.md`.
 
+### Prior-program overlap gate
+
+Before naming a mechanism `untested` or creating a successor repository, search
+the pinned older research program for the same functional operation and
+boundary—not merely the same experiment name. Compare trigger, owner, visible
+state, action authority, feedback horizon, artifact outcome, and cost. A new
+serialization or label does not make a functional duplicate novel.
+
+The first application of this gate found substantial earlier submission-audit,
+model-review, phase-reentry, and reserved-handoff evidence. It stopped the
+proposed readiness-reflection run and reclassified H06. See
+`audits/NEXT_ROUTE_PRIOR_EVIDENCE_RECONCILIATION.md`.
+
 ## Candidate mechanism families
 
 ### A. Deterministic exact-state recomposition
@@ -967,6 +996,15 @@ net of production, carrier, recovery, cache, and switching costs.
 Split work into fresh bounded frames when no useful global set fits. Require a
 separate exact integration/review phase and score cross-part relationship loss,
 not just local completion.
+
+This family is no longer `UT`. Pinned prior studies show that fresh exact
+current-world frames can preserve core continuity through task-authored code and
+research phases, including two three-phase workflows. Separate reserved-handoff
+studies also show that exact selected-state transfer can work mechanically while
+the next actor still reconstructs globally. The unresolved question is not
+whether fresh bounded phases are possible; it is when to invoke them, how to
+bound navigation/reacquisition cost, and how to preserve integration when the
+phase boundary is not already supplied by the task.
 
 ## Common experiment protocol
 

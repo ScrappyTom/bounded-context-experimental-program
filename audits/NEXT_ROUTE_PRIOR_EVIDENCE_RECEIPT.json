@@ -1,0 +1,114 @@
+{
+  "category_counts": {
+    "bounded_phase_reentry": 3,
+    "model_authored_review": 2,
+    "reserved_handoff": 2,
+    "resident_lifecycle": 1,
+    "semantic_continuity": 1,
+    "submission_readiness": 4
+  },
+  "checker_sha256": "ac015de9a53b9c5b47ff174f5442f227f756585286ec8995575974fe2a6f656a",
+  "donor_commit": "b7e12ab21cec1ef8215e97dc9890924721651f1d",
+  "failures": [],
+  "gpu_calls": 0,
+  "lock_path": "audits/NEXT_ROUTE_PRIOR_EVIDENCE_LOCK.json",
+  "lock_sha256": "a6fb341358943b5e8875024eda951a4cff9df5a1e3a7da0d3967d758ca5ce892",
+  "passed": true,
+  "schema_version": "next-route-prior-evidence-receipt-v0",
+  "source_count": 13,
+  "source_mode": "pinned_git_objects",
+  "sources": [
+    {
+      "blob_oid": "cd7cae702cd86baa7447de475c7155ae00c1c3cd",
+      "category": "submission_readiness",
+      "path": "experiments/complete-audit-false-closure-v0/RESULTS.md",
+      "sha256": "ec2bc16cb249c23ca3bbc3fdc7fb83c18c3d09e02ba5616d5afb204be55e57d2",
+      "size_bytes": 8670
+    },
+    {
+      "blob_oid": "0fb6b2b359932b16717239cb0d7b4cde5f443363",
+      "category": "submission_readiness",
+      "path": "experiments/complete-audit-false-closure-replication-v0/RESULTS.md",
+      "sha256": "58fd81996e3eefa51776f6657c1f2dbf973c1ca32040647c18e1d9ebf3535185",
+      "size_bytes": 9975
+    },
+    {
+      "blob_oid": "65d6c2cf04e6b198cb89f827e3d168f0788e267d",
+      "category": "submission_readiness",
+      "path": "experiments/current-complete-audit-v0/RESULTS.md",
+      "sha256": "df24359c3abfbd700fb3bf9c702c7098b95e2905c6c4746e93f788a05640d532",
+      "size_bytes": 10738
+    },
+    {
+      "blob_oid": "d00104abce07d588921e8d32b9767519ed561e82",
+      "category": "submission_readiness",
+      "path": "experiments/submission-bound-complete-audit-v0/RESULTS.md",
+      "sha256": "7f823da769e853b7108ec13684ba5706d8e7ed4824c9f8d0f42af82642de4c84",
+      "size_bytes": 10025
+    },
+    {
+      "blob_oid": "41462cbff79d238e9bf321c3d755cf72cab33d6f",
+      "category": "model_authored_review",
+      "path": "experiments/binary-submission-review-v0/RESULTS.md",
+      "sha256": "839fc545f65f647d86c62464ecf916995870984af6ec172386fbca7fc07e2570",
+      "size_bytes": 9960
+    },
+    {
+      "blob_oid": "61fdd4405e03e8eaa948fa2d3d449a52c752679e",
+      "category": "model_authored_review",
+      "path": "experiments/review-decomposition-v0/RESULTS.md",
+      "sha256": "f736da1bd54b55768072f096ebc1412494a0e305dae361aad0bed4f0294724fb",
+      "size_bytes": 6217
+    },
+    {
+      "blob_oid": "d7647153e85a47d71cdbc6d8614270e554b3733f",
+      "category": "bounded_phase_reentry",
+      "path": "experiments/phase-state-method-scout-v0/RESULTS.md",
+      "sha256": "fa0b57cfb1fdcdcdb4f71f3f5f197183fc9f82bd9e4bd53d375701ab15a39cc8",
+      "size_bytes": 7502
+    },
+    {
+      "blob_oid": "48ff36eed5c90881eb0236cba2b6321aed74c83d",
+      "category": "bounded_phase_reentry",
+      "path": "experiments/phase-state-method-replication-v0/RESULTS.md",
+      "sha256": "a25ec35bef77485193337cd4d3d2d4a8965268c69944d59f0bea7d218e53e3ee",
+      "size_bytes": 7906
+    },
+    {
+      "blob_oid": "b3d5d434f2f2187b6586125deb9bdda3bf968c9f",
+      "category": "bounded_phase_reentry",
+      "path": "experiments/phase-working-set-longitudinal-v0/RESULTS.md",
+      "sha256": "d3b1dae8ebcb8ad40aec5f8cac38f78d86fa671ea91e4194608071f807599aff",
+      "size_bytes": 6701
+    },
+    {
+      "blob_oid": "07a6da699391bc585528f1cefa87e3052ce5bc06",
+      "category": "reserved_handoff",
+      "path": "experiments/scheduled-navigation-action-handoff-v0/RESULTS.md",
+      "sha256": "56ad40a0b275d48f03df6480c9e393900f52dc2c01d06308324f1e45a01476b4",
+      "size_bytes": 5147
+    },
+    {
+      "blob_oid": "b7bd15054de3c93df0d831ae188855ffe0226df4",
+      "category": "reserved_handoff",
+      "path": "experiments/projected-scheduled-handoff-v0/RESULTS.md",
+      "sha256": "57b265708d81ca1c6496acd41feb082c751dfe5f849fae67673522b94db31f3a",
+      "size_bytes": 6257
+    },
+    {
+      "blob_oid": "c320d7fd1953fc033fb769637732d7d3d77e2e7e",
+      "category": "resident_lifecycle",
+      "path": "experiments/virtualized-resident-set-scout-v0/RESULTS.md",
+      "sha256": "8d838c76ac79da871295928c437e5770fbf621f977a9513dcb9770e22d33f55c",
+      "size_bytes": 5753
+    },
+    {
+      "blob_oid": "49909870f962f597c1995d173da199cc20f44137",
+      "category": "semantic_continuity",
+      "path": "experiments/semantic-continuity-boundary-v0/RESULTS.md",
+      "sha256": "6c0f6c1934ff555d04cf550f996861b708d04723c12c28d57bfcca22a8ca8b6e",
+      "size_bytes": 12763
+    }
+  ],
+  "total_size_bytes": 107614
+}

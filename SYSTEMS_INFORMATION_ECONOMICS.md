@@ -342,3 +342,29 @@ The evaluation ledger is governance for investigator claims, not an
 automatically resident actor representation and not authoritative world truth.
 Its role is to prevent an information intervention from appearing valuable
 merely because a stale or coarse artifact judgment labeled its endpoint ready.
+
+## Cross-program routing is part of the economics
+
+The next-route audit exposed another cost category: redundant experimentation.
+A proposed submission-readiness reflection and its bounded-phase fallback both
+appeared open when only the recent standalone sequence was considered. Pinned
+older evidence already contained four complete-audit false-closure studies,
+model-authored review, phase-state scout and replication, a three-phase
+longitudinal comparison, and reserved exact handoffs.
+
+Those studies do not make every successor ineligible. They change the prior and
+the required contrast:
+
+- another readiness message must beat known exact-verification and reviewer-
+  uptake/defect-recall boundaries;
+- another phase experiment must address automatic boundary choice,
+  integration, or a new pressure rather than merely show that fresh reentry can
+  work; and
+- another reserved maintenance pass must test a new allocation operation, not
+  simply prove that the control turn can be reached.
+
+The research system therefore needs a cross-study episode ledger, not only an
+experiment index. Value is configuration-dependent, and experiment novelty is
+also configuration-dependent. Trigger, regime, owner, resident set, feedback
+horizon, and downstream artifact effect determine whether two differently named
+studies are actually distinct.

@@ -70,5 +70,20 @@ the superseded H05 13/13 judgment remains historically visible but inactive.
 See
 [ARTIFACT_ADJUDICATION_CONSISTENCY_AUDIT.md](audits/ARTIFACT_ADJUDICATION_CONSISTENCY_AUDIT.md).
 
+A subsequent pinned-donor reconciliation stopped the proposed generic
+submission-readiness reflection and corrected H06's `untested` label. Older
+Qwen3.8 studies already tested complete false-closure audits, model-authored
+submission review, fresh-world phase reentry, and reserved exact handoffs.
+Their combined result is more informative than a renamed rerun: exact
+verification strongly activates repair but is not a complete repair method;
+fresh bounded phases can preserve continuity; and exact handoff does not ensure
+a selective action-ready working set. See
+[NEXT_ROUTE_PRIOR_EVIDENCE_RECONCILIATION.md](audits/NEXT_ROUTE_PRIOR_EVIDENCE_RECONCILIATION.md).
+
+No GPU successor is currently selected. The next work item is the offline
+[cross-study information-economics episode ledger](NEXT_ANALYSIS_CROSS_STUDY_INFORMATION_ECONOMICS_LEDGER.md),
+which will identify genuinely untested pressure × operation cells before more
+inference is authorized.
+
 The program also treats protected management/control headroom as a host-owned
 apparatus invariant.
