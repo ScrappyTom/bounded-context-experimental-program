@@ -51,7 +51,7 @@ prose-only causal result or a general progress controller.
 The frozen contract is
 [NEXT_EXPERIMENT_H05_BOUNDED_PROGRESS_STATE_UTILITY.md](NEXT_EXPERIMENT_H05_BOUNDED_PROGRESS_STATE_UTILITY.md),
 and the sealed result remains in the
-[standalone repository](https://github.com/ScrappyTom/qwen38-bounded-progress-state-utility-v0/commit/331d549650acece4d66fd57e3e6c3621c1acb75a).
+[standalone repository](https://github.com/ScrappyTom/qwen38-bounded-progress-state-utility-v0/commit/b2cbf89fb09267831cc3e67869ff0860fa72ba09).
 
 No automatic successor is selected. Any continuation must address whether the
 effect transfers beyond a recent self-authored closure cue and whether its high

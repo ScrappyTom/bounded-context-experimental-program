@@ -183,7 +183,7 @@ program ledger conservatively, and select no automatic successor.
 ## Observed disposition
 
 Completed in
-[`qwen38-bounded-progress-state-utility-v0`](https://github.com/ScrappyTom/qwen38-bounded-progress-state-utility-v0/commit/331d549650acece4d66fd57e3e6c3621c1acb75a).
+[`qwen38-bounded-progress-state-utility-v0`](https://github.com/ScrappyTom/qwen38-bounded-progress-state-utility-v0/commit/b2cbf89fb09267831cc3e67869ff0860fa72ba09).
 
 The control reproduced the exact historical lines 860–937 reread. Maintenance
 generated a grounded 169-token state. Its complete bound package added 464
