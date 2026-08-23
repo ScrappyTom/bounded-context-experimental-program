@@ -242,3 +242,56 @@ important functional boundary recurs in an independent world. The validity
 envelope remains exact; the active objective is information gain about
 capability boundaries rather than another local packet or policy refinement.
 No successor GPU run is authorized by this designation.
+
+## E37 — first capability-terrain reconnaissance tranche
+
+Source:
+`ScrappyTom/qwen38-capability-terrain-reconnaissance-v0@ea8f4cfa5888998d6193f57316e9cd41cf1639b6`
+
+Freeze:
+`f3092c73065353d5fbdb4c3646632b6586c7e50b`
+
+Run ID: `2026-08-23-capability-terrain-v0`
+
+The finite breadth tranche completed mechanically with 39 actor calls, exactly
+39 provider attempts, zero retries, 96,407 prompt tokens, 5,250 completion
+tokens, and 101,657 serialized tokens. All six runtime postflights and releases
+passed. The raw manifest covers 458 files and 10,620,769 bytes. The clean result
+commit passed 25 tests, the recomputed mechanical audit, and the candidate-bound
+D2 adjudication validator.
+
+No prompt exceeded 7,110 tokens against the 20,992-token allowance. There were
+zero pressure events, substitutions, and reopens. E37 therefore contains no
+new behavioral evidence about relief or residency policy.
+
+Nineteen of 39 responses were rejected before an ordinary action was admitted:
+eleven Markdown-fenced plausible objects, seven extra-syntax or duplicate
+objects, and one one-element array. D1, D3, and D4 are literal task failures,
+but their downstream discovery/construction capability is unobserved rather
+than disproved because expression consumed their horizons.
+
+D2 and D5 both acquired exact task material, admitted large replacements,
+received their mutation effects in later decisions, ran current visible checks,
+and submitted. Independent evaluation found D2 strong partial at 12/13 with a
+missing Discussion qualification and D5 strong partial at 7/8 with a missing
+required-disabled-service rule. Both submissions were premature. D6 received
+the exact D2 current state without construction chronology and submitted the
+byte-identical not-ready artifact after two fenced attempts; it performed no
+read, check, or mutation.
+
+Supported local claims:
+
+- action expression/admission can dominate at low context occupancy;
+- the profile can perform coherent multi-object integration, large artifact
+  construction, effect uptake, and current-check uptake when expression binds;
+- successful visible checks do not establish complete relation-to-action
+  binding or readiness; and
+- exact-state reentry can preserve a closure disposition without creating a
+  correct completeness judgment.
+
+E37 does not estimate natural-task prevalence, prove that a different transport
+would improve artifact quality, causally compare reentry with chronology, or
+select an architecture. It closes the first breadth tranche and elevates
+observation-surface reliability, relation→artifact→feedback→readiness flow,
+and cumulative exact work across resumption as broad discovery questions. No
+automatic repaired cell, second seed, or GPU successor is selected.

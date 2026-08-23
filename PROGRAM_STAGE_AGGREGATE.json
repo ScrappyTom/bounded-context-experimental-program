@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 28 successor stages through E36",
+  "scope": "parent bank plus 29 successor stages through E37",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 28,
-    "follow_on_model_calls": 209,
-    "follow_on_serialized_tokens": 2602486,
-    "unique_cited_experiment_commits": 24
+    "successor_stages": 29,
+    "follow_on_model_calls": 248,
+    "follow_on_serialized_tokens": 2704143,
+    "unique_cited_experiment_commits": 25
   },
   "stages": [
     {
@@ -300,6 +300,16 @@
       "included_in_follow_on_totals": true,
       "primary_disposition": "first-fit repeatedly preserved physical operability and novel evidence ingress; no reopen or artifact progress; actor-call budget ended with required evidence incomplete",
       "accounting_note": "Counts 14 qualified live action-interface calls (3,195 tokens), 4 pressure-screen calls (38,030 tokens), the 18 post-freeze action/lifecycle-qualified seed-43 continuation calls, and the 18 separately qualified seed-314159 v2 continuation calls exactly once. Excludes the earlier consumed backend generation from the aborted v0 launch because it was not runner-qualified."
+    },
+    {
+      "stage_id": "S29",
+      "name": "capability-terrain reconnaissance breadth tranche",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-capability-terrain-reconnaissance-v0", "result_commit": "ea8f4cfa5888998d6193f57316e9cd41cf1639b6", "count_as_experiment_commit": true}],
+      "model_calls": 39,
+      "serialized_tokens": 101657,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "no correct useful completion; low-occupancy action expression and premature closure dominated; two strong-partial artifacts showed construction and effect uptake; no context mechanism activated"
     }
   ]
 }

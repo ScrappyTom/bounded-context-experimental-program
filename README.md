@@ -22,9 +22,10 @@ direction is the breadth-first
 [structured exploration roadmap](STRUCTURED_EXPLORATION_ROADMAP.md), grounded
 in the provisional [capability terrain map](CAPABILITY_TERRAIN_MAP.md). The
 latest pressure trajectory is reconstructed decision by decision in the
-[E36 information/work geometry audit](E36_DECISION_GEOMETRY_AUDIT.md), and the
-first finite breadth proposal is the
-[discovery-phase checkpoint](DISCOVERY_PHASE_CHECKPOINT.md).
+[E36 information/work geometry audit](E36_DECISION_GEOMETRY_AUDIT.md). The
+first finite breadth design is preserved in the
+[discovery-phase checkpoint](DISCOVERY_PHASE_CHECKPOINT.md), and its measured
+program disposition is [the capability-terrain tranche result](DISCOVERY_TRANCHE_RESULT.md).
 [REACTIVE_RUNTIME_POLICY_V1.md](REACTIVE_RUNTIME_POLICY_V1.md) is retained as a
 qualified mechanical pressure baseline, not as the architecture incumbent.
 The earlier whole-method policy and governance contracts remain historical in
@@ -36,7 +37,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-All 24 cited experiment commit bindings were also resolved through the named
+All 25 cited experiment commit bindings were also resolved through the named
 local Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -47,24 +48,32 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
-The latest fresh pressure-qualified task confirmed that deterministic
-first-fit relief can sustain exact evidence ingress without immediate reopen
-thrash. Across each 18-call continuation, ten pressure events were resolved and
-the actor continued through novel source ranges. It did not mutate, check, or
-submit. The terminal resource was the actor-call budget, not context capacity.
+The first breadth tranche is complete. Its 39 calls used one attempt each and
+zero retries. No prompt exceeded 7,110 tokens against the 20,992-token prompt
+allowance, so pressure relief, result substitution, and reopen were inactive.
+The tranche therefore sampled the rest of the bounded-work pipeline rather
+than retesting context capacity.
 
-That result closes receipt-only first-fit streaming as the program's default
-research route. It does not overturn its narrow mechanical value. Instead it
-shows why operability and cumulative cognition must be separated: exact bytes
-can keep entering while relationships, intended action, and partial work remain
-unobserved or unexternalized.
+The dominant boundary was action expression and admission: 19 of 39 responses
+were rejected, usually despite a legible intended action. D2 and D5 showed that
+the same profile can acquire exact evidence, construct large coherent
+artifacts, absorb mutation effects, run current checks, and submit. Both
+artifacts remained strong partials—12/13 and 7/8 under broader frozen
+evaluation—and both were closed prematurely. D6 then received D2's exact
+current state without construction chronology and repeated the same premature
+closure. No cell achieved independently correct useful completion.
 
-The program is now in structured exploration rather than architecture
-optimization. It will sample materially different authentic task situations,
-map where discovery, relationship formation, relation-to-action binding,
-action organization, expression, effect uptake, feedback discrimination,
-repair, resumption, and closure fail or succeed, and seek recurrence across
-independent worlds before expensive mechanism tuning or promotion.
+The broad lesson is that context is only one constraint in a conjunctive
+system. Action transport, relation-to-action binding, feedback coverage, and
+readiness can dominate at low occupancy. More residency engineering would not
+have fixed the measured fenced actions or the missing D2/D5 requirements.
+
+The program remains in structured exploration, now with three priority
+questions: qualify an observation surface that exposes intended task actions
+without silently repairing them; map how governing relations, candidate-bound
+feedback, repair, and readiness interact across independent worlds; and test
+whether exact partial work can carry cumulative cognition across bounded
+resumption. These are breadth directions, not selected architecture modules.
 
 The validity envelope remains strict: exact custody, complete model-visible
 history, one attempt with no hidden retry, hard limits, exact candidate/effect
@@ -72,18 +81,12 @@ identity, independent quality evaluation, and no post-outcome cell alteration.
 Roles, schemas, semantic state, paging policies, and decomposition remain
 provisional hypotheses.
 
-The first offline checkpoint and Stage 0 materialization are complete. The
-frozen experiment is
+The measured experiment is
 [`qwen38-capability-terrain-reconnaissance-v0`](https://github.com/ScrappyTom/qwen38-capability-terrain-reconnaissance-v0)
-at commit `f3092c73065353d5fbdb4c3646632b6586c7e50b`. It contains six declared
-trajectories across five source/candidate lineages, a 42-call and 1,053,696
-serialized-token maximum, exact source/evaluator/adjudication custody, and no
-automatic replacement or extension. The portfolio deliberately includes one
-known ordinary-success calibration world and treats sister Qwen3.6 evidence
-only as cross-profile triangulation.
+at result commit `ea8f4cfa5888998d6193f57316e9cd41cf1639b6`, frozen from
+`f3092c73065353d5fbdb4c3646632b6586c7e50b`. The historical Stage 0 receipt is
+[DISCOVERY_STAGE0_HANDOFF.json](DISCOVERY_STAGE0_HANDOFF.json); the measured
+machine disposition is [DISCOVERY_TRANCHE_RESULT.json](DISCOVERY_TRANCHE_RESULT.json).
 
-No GPU run is authorized by these documents. The next step is owner review and
-an exact authorization naming the frozen experiment commit and run ID, one
-attempt per call, zero retries, and explicit acceptance of the residual host
-permission risk from model-authored JavaScript in D3-D5.
-The exact offline receipt is [DISCOVERY_STAGE0_HANDOFF.json](DISCOVERY_STAGE0_HANDOFF.json).
+No successor GPU run is authorized by these documents. The next measured wave
+requires a new finite checkpoint, frozen Stage 0 package, and owner review.

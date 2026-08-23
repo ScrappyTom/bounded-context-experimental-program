@@ -2,7 +2,7 @@
 
 Date: 2026-08-23
 
-Status: Stage 0 frozen and pushed; awaiting exact owner GPU authorization
+Status: tranche completed and sealed; prospective design retained for audit
 
 ## Decision in one sentence
 
@@ -28,6 +28,26 @@ accessible world
 
 Exact source custody, history, candidate versions, and evaluation surround the
 pipeline. They do not by themselves perform any of its semantic functions.
+
+## Measured disposition
+
+The authorized tranche ran from freeze
+`f3092c73065353d5fbdb4c3646632b6586c7e50b` under run ID
+`2026-08-23-capability-terrain-v0`. The exact result is published at commit
+`ea8f4cfa5888998d6193f57316e9cd41cf1639b6` and interpreted in
+`DISCOVERY_TRANCHE_RESULT.md`.
+
+It used 39 of the authorized 42 actor calls, one provider attempt per call, and
+zero retries. Nineteen responses were rejected; no pressure event occurred; D2
+and D5 produced strong-partial artifacts and closed prematurely; D6 repeated
+D2's premature closure from exact current state; and no cell achieved correct
+useful completion. The tranche therefore exposed low-occupancy
+expression/admission, relation-to-action, verification-coverage, and readiness
+boundaries rather than a context-capacity boundary.
+
+The remainder of this document preserves the prospectively frozen questions,
+portfolio, gates, and stopping rules. It is not rewritten around the observed
+outcomes and does not authorize a repaired cell or successor tranche.
 
 ## 1. Current research question
 
@@ -460,7 +480,7 @@ exception cannot promote an architecture and does not waive owner review.
 - no production runtime abstraction beyond the thin exact workbench needed to
   run the six declared situations.
 
-## 10. Owner-review boundary
+## 10. Owner-review boundary (historical pre-run contract)
 
 This checkpoint selects a bounded portfolio but does not authorize model calls.
 Before GPU use, return a Stage 0 package containing:
@@ -508,22 +528,26 @@ Offline qualification established:
   clean-checkout audit of the exact frozen commit; and
 - no model calls or GPU inference during Stage 0.
 
-The experiment remains unauthorized until the owner names the exact commit,
-one run ID, the 42-call ceiling, one attempt per call, zero retries, and accepts
-the disclosed D3-D5 host-permission risk. A pathological but legally admitted
-D6 candidate whose exact packet exceeds 20,992 prompt tokens consumes D6 as a
-zero-call `capacity_ineligible` outcome; it does not trigger a repaired packet
-or backup cell.
+The owner subsequently supplied the required exact authorization. The run is
+complete; this historical paragraph does not authorize a replacement or
+extension. A pathological but legally admitted D6 candidate whose exact packet
+exceeded 20,992 prompt tokens would have consumed D6 as a zero-call
+`capacity_ineligible` outcome; it would not have triggered a repaired packet or
+backup cell.
 
 ## Evidence-status summary
 
 - Exact mechanical pressure relief is qualified as infrastructure.
 - E36's cumulative integration failure remains configuration-level and
   causally unresolved.
-- Relation-to-action, action-expression, feedback-discrimination, and closure
-  dissociations have broad sister-program evidence but require Qwen3.8
-  triangulation.
+- The completed breadth tranche adds Qwen3.8 evidence that action expression
+  can dominate at low occupancy and that substantial relation-to-action work,
+  current-check uptake, and closure can still leave material requirements
+  unsatisfied.
+- Premature closure now appears in two independent tranche lineages, while D6
+  shows that exact current-state reentry can preserve the closure disposition
+  without correcting readiness.
 - Exact partial work as durable cognition and genuine decomposed reintegration
   remain largely untested.
-- The proposed tranche is an enriched capability reconnaissance, not an
-  architecture bake-off or benchmark.
+- The completed tranche is an enriched capability reconnaissance, not an
+  architecture bake-off, prevalence sample, or benchmark.

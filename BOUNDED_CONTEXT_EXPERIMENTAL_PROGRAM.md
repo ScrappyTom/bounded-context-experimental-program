@@ -67,11 +67,20 @@ claims remain local. Expensive mechanism tuning and architecture promotion wait
 for a consequential functional endpoint to recur in at least two independent
 worlds. Seeds or packet variants from one donor are not independent recurrence.
 
-The active protocol and initial map are
-`STRUCTURED_EXPLORATION_ROADMAP.md` and `CAPABILITY_TERRAIN_MAP.md`. The exact
-latest-trajectory reconstruction is `E36_DECISION_GEOMETRY_AUDIT.md`; the
-owner checkpoint and proposed finite breadth tranche are
-`DISCOVERY_PHASE_CHECKPOINT.md`.
+The active protocol and updated map are `STRUCTURED_EXPLORATION_ROADMAP.md` and
+`CAPABILITY_TERRAIN_MAP.md`. The exact pressure-trajectory reconstruction is
+`E36_DECISION_GEOMETRY_AUDIT.md`; the first breadth design is preserved in
+`DISCOVERY_PHASE_CHECKPOINT.md`; and its measured program disposition is
+`DISCOVERY_TRANCHE_RESULT.md`.
+
+That first breadth tranche is complete. It found no active context pressure and
+no correct useful completion. Nineteen of 39 responses failed action admission;
+two independent cells nevertheless produced substantial strong-partial
+artifacts, took up their mutation effects, ran current visible checks, and
+closed prematurely. A fresh exact-state handoff repeated one donor's false
+closure. The active questions are therefore broader than residency: observation
+surface, relation-to-action binding, verification coverage, readiness, and
+cumulative exact work across bounded resumption.
 
 ## Current position
 
@@ -145,6 +154,17 @@ owner checkpoint and proposed finite breadth tranche are
   mutation, check, or submission. The actor-call budget ended while required
   evidence remained incomplete. The two model-facing trajectories were
   identical at one donor boundary and are not independent-world recurrence.
+- **LR:** the first capability-terrain breadth tranche used 39 low-occupancy
+  calls across five source/candidate lineages plus one same-lineage handoff.
+  Nineteen responses failed action admission, usually despite a legible intent;
+  no pressure operation activated and no cell achieved correct useful
+  completion.
+- **LR:** in that tranche, one research and one code cell independently
+  acquired exact inputs, admitted substantial replacements, absorbed their
+  effects, ran current visible checks, and submitted strong-partial artifacts.
+  Each lost one governing requirement. The exact-state handoff resubmitted the
+  research artifact unchanged, preserving closure orientation but not correct
+  readiness.
 - **LR:** two independent seeds produced complete bounded plain-text semantic
   digests of one 8,063-byte source at 190 and 218 tokens without fabrication or
   material reversal. The prospectively source-located second audit preserved
@@ -1004,7 +1024,7 @@ preserved the incumbent next decision. Dedicated mode therefore solved the
 control-plane race but did not produce a stable or minimum-necessary working
 set in this formulation. No prompt-tuning successor is selected.
 
-### Program-phase disposition after E36
+### Program-phase disposition after E37
 
 Incremental tuning at the completed donor boundaries is closed. The program has
 not completed broad capability discovery and has not selected an architecture.
@@ -1035,18 +1055,22 @@ map how models discover, assemble, act, externalize work, absorb effects, repair
 and close across materially different authentic worlds before optimizing a
 resident-state mechanism.
 
+The first cross-profile reconnaissance is now complete as E37. Its 39 calls
+used only low-occupancy prompts and activated no pressure operation. Nineteen
+responses failed action admission; D2 and D5 produced independent
+strong-partial artifacts, took up their effects, passed narrower current
+checks, and submitted prematurely; D6 reconstructed D2's closure disposition
+from exact current state without correcting readiness.
+
+This is evidence that the reset was useful. The limiting function moved from
+capacity and evidence ingress to expression, relation materialization,
+verification coverage, and closure. The next checkpoint must sample those
+interactions laterally rather than repairing the same cells or adding a context
+mechanism where pressure was absent.
+
 The active direction is `STRUCTURED_EXPLORATION_ROADMAP.md`. Candidate mechanism
 families below are retained as a hypothesis catalog, not a queue. No GPU calls
 are authorized by this routing decision.
-
-The first offline checkpoint is complete. It proposes a six-trajectory,
-five-lineage, 42-call maximum cross-profile reconnaissance using one Qwen3.8
-profile. The worlds are known-geometry and already scored elsewhere, so they
-provide efficient functional triangulation rather than a fresh-task prevalence
-sample. Stage 0 must still isolate and hash the fixtures, prove legal
-action-path feasibility, freeze evaluators/readiness, render the conditional
-resumption renderer for every eligible donor branch and the null path, and
-return a commit for owner review before inference.
 
 ## Candidate mechanism families — historical hypothesis catalog
 

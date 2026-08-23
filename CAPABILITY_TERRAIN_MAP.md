@@ -1,8 +1,8 @@
-# Initial capability terrain map
+# Capability terrain map
 
 Date: 2026-08-23
 
-Status: provisional cross-study index for discovery routing; not a prevalence estimate or architecture
+Status: updated after the first Qwen3.8 breadth tranche; not a prevalence estimate or architecture
 
 ## Purpose and limits
 
@@ -34,6 +34,7 @@ prevalence estimates, or model-specific capability claims.
 | Fresh whole-method research task | E35 | Independent task/world; low occupancy, strict action interface, nine-call horizon. |
 | Fresh whole-method code task | E35 | Independent task/world; effect/check/repair workflow, scheduled low-occupancy reentry treatment. |
 | Fresh Ceiba charter task | E36 | Independent large-world synthesis task; authentic pressure and 18-call receipt-only streaming. Seed 314159 v2 is the qualified primary cell; seed 43 supplies post-freeze replay-qualified action/lifecycle history from a sealed-aborted primary aggregate. Both belong to one independence group. |
+| Capability-terrain reconnaissance | E37 | Five source/candidate lineages across atlas navigation, research revision, and three code/review situations. D6 inherits D2 and is not independent. The portfolio is enriched from known fixtures and shares one profile/interface, so it broadens functional coverage without estimating prevalence. |
 | Sister Qwen 3.6 action/effect worlds | Experiments 101–113 in `bounded-context-harness-effects`: 17 named coding task worlds; reused tasks and frozen-state studies are identified separately | Cross-profile, cross-apparatus triangulation only. The bank broadens coding action/effect coverage but is neither Qwen3.8 context-window replication nor broad domain sampling. |
 
 ## Terrain by functional boundary
@@ -42,27 +43,27 @@ prevalence estimates, or model-specific capability claims.
 |---|---|---|---|
 | Exact custody and recovery | Exact objects, versions, candidates, events, effects, and handles were preserved and reopened across the navigation studies; fresh tasks retained exact world and candidate custody. | Yes, across navigation, older phase/handoff, fresh scout, and Ceiba worlds. | Strong mechanical substrate. Continue as validity infrastructure, not the main discovery question. |
 | Prospective capacity safety | Small first-fit demotions admitted blocked results in E03; repeated relief maintained the navigation horizon in E04; E36 repeated the operation on a fresh Ceiba world. | Yes: navigation and Ceiba are independent task worlds. | Qualified mechanical baseline. Further scan-order or same-boundary horizon tuning is low priority. |
-| Relevant-information discovery | Navigation actors found target/source regions; whole-method research actors acquired several sources; Ceiba actors traversed novel source ranges through S11. | Broad behavior appears across worlds, but tasks differ too much to infer a stable discovery capability. | Sample fresh sparse-discovery worlds where the action-sufficient set is small and independently judgeable. |
+| Relevant-information discovery | Navigation actors found target/source regions; whole-method research actors acquired several sources; Ceiba actors traversed novel source ranges through S11. E37 D2/D5 selected task-relevant records, while D1/D3/D4 exposed legible discovery intent that often failed admission. | Broad behavior appears across worlds, but task and interface differences prevent a stable capability estimate. | Distinguish selection intent from admitted observation. Sample fresh sparse-discovery worlds only through an observation surface qualified to expose the intended function. |
 | Exact selection and access | Handles were usable. Fixed directories/focus and one-shot model-managed release selection were locally unstable in the navigation world. Ceiba reads were novel and non-overlapping. Sister tasks also contain redundant access to already supplied evidence, but that is not the same phenomenon as bad eviction selection. | Release-selection instability remains local to the navigation lineage. Literal-but-unused or deliberately reread evidence appears more broadly. | Distinguish information not found, found but not literal, literal but not behaviorally used, and deliberate rereading. Do not infer an eviction-policy failure from every reread. |
-| Relationship formation and qualification capture | The navigation candidate became a strong partial; one fresh research control produced a substantial 9/12 memo; Ceiba streamed evidence without construction. Sister semantic ledgers and relation surfaces could express compact relationships but sometimes changed exact values or overloaded later expression. | Suggestive across profiles and tasks, but representations and outcomes differ. In Ceiba, mandatory evidence was incomplete. | High-priority discovery axis. Observe whether dispersed evidence becomes an explicit, qualified relationship before asking whether that relationship controls action. |
-| Relation-to-action binding | Sister Experiment 111 explicitly represented a device rule that every implementation omitted; other relation/operand surfaces helped one state and harmed or failed others. In the Qwen3.8 line, several strong-partial artifacts lost governing qualifications despite exact source access. | Recurs within multiple sister coding worlds; cross-profile analogue is suggestive, not a pooled mechanism. | Treat represented knowledge and artifact-constraining use as separate outcomes. Use independently graded artifacts, not note fidelity alone. |
+| Relationship formation and qualification capture | The navigation candidate became a strong partial; one fresh research control produced a substantial 9/12 memo; Ceiba streamed evidence without construction. E37 D2 integrated three exact records into a coherent paper but lost one section-specific qualification. Sister semantic ledgers and relation surfaces could express compact relationships but sometimes changed exact values or overloaded later expression. | Suggestive across profiles and tasks. E37 adds a strong Qwen3.8 formation case, but no representation treatment or prevalence estimate. | Observe formation and qualification retention separately. A coherent artifact can demonstrate broad integration while still losing one decision-relevant relation. |
+| Relation-to-action binding | Sister Experiment 111 explicitly represented a device rule that every implementation omitted; other relation/operand surfaces helped one state and harmed or failed others. E37 D2 omitted a required missingness basis and D5 omitted required-disabled-service rejection despite substantial otherwise coherent artifacts. | Yes as a broad failure shape across independent research/code lineages and the sister program; exact mechanisms and interfaces differ. | Eligible for cross-world confirmation. Separate relation availability, explicit formation, artifact materialization, check coverage, and repair rather than treating artifact score as one latent failure. |
 | Acquisition stopping | Navigation horizons included repeated reads and a period-three reopen loop. Ceiba continued novel acquisition, but required evidence remained outstanding. | No. The literal behaviors differ and the Ceiba case does not establish sufficient evidence. | Keep explanations plural: legitimate acquisition, missing semantic residue, task geometry, action granularity, or control failure. Seek an evidence-complete independent world. |
-| Intended-action formation | Exact reentry produced a grounded mutation in one navigation seed; several older/fresh code cells formed edits; Ceiba produced only reads. | Action formation exists across worlds; the conditions supporting it are not mapped. | Observe when evidence becomes a bounded plan, section, patch, or decision rather than only another read. |
+| Intended-action formation | Exact reentry produced a grounded mutation in one navigation seed; several older/fresh code cells formed edits; Ceiba produced only reads. E37 contained legible but rejected navigation/read intents and two admitted large replacements. | Action formation exists across worlds; expression and admission can hide it. | Code intent, expression, admission, and effect separately. Observe when evidence becomes a bounded plan, section, patch, or decision rather than only another read. |
 | Action organization | In the sister 105–112 selected audit, immediate target expression often predicted candidate materialization, but no observed operator/scope/position/sequence feature predicted correctness across enough matched blocks. Optional fresh response changed organization even when unused. | Strong within sister coding tasks; undercoded in the Qwen3.8 line. | First-class breadth axis: another read, inspection, bounded edit, whole-file mutation, staged operation, or no admitted action are different organizations of work. |
-| Action expression and admission | Note/frontier calls hit output/grammar limits; the fresh whole-method scout rejected 19/71 actor responses; Ceiba had two over-range action rejections. In the sister 105–111 audit, 33/102 selected episodes stopped at response/channel expression before a candidate, and response headroom causally changed candidate materialization on new tasks. | Yes as a broad throughput boundary, while exact causes and interfaces differ. | Treat expression as a capability boundary, not merely nuisance. Qualify an interface enough to observe the target function, but never infer semantic inability from malformed/censored output or correctness from successful admission. |
+| Action expression and admission | Note/frontier calls hit output/grammar limits; the fresh whole-method scout rejected 19/71 actor responses; Ceiba had two over-range action rejections. E37 rejected 19/39 responses at low occupancy: 11 fenced plausible objects, seven extra-syntax objects, and one array. In the sister 105–111 audit, 33/102 selected episodes stopped at response/channel expression before a candidate, and response headroom causally changed candidate materialization on new tasks. | Yes across multiple Qwen3.8 worlds and the sister profile, while exact causes and interfaces differ. | High-priority observation-surface boundary. Qualify transport across multiple task situations without silently repairing semantic choices; never infer downstream incapability from malformed output or correctness from successful admission. |
 | Durable work-product accumulation | Most navigation and Ceiba treatments exposed whole-artifact mutation. The fresh research task wrote its whole memo on the last call. Sister studies tested staged transactions and whole-file expression, not partial work as durable cognition across turnover. | No clean cross-world test of independently evaluable incremental work as external cognition. | Major gap. Explore exact partial artifact or evidence-state persistence before adding global semantic memory. |
-| Effect/currentness uptake | Recurrent exact-state work delivered an inherited patch effect; fresh code reentry exposed stale-check/new-candidate ambiguity. In the sister transition corpus, 62/63 candidate-bearing episodes ran a model-visible check, yet all 24 externally incorrect artifacts had green visible checks. | Effect-to-check continuation recurs; correct evidential use does not follow. | Split effect visibility, observation currency, feedback discrimination, and useful repair. Use exact candidate-bound current/stale diagnostics. |
+| Effect/currentness uptake | Recurrent exact-state work delivered an inherited patch effect; fresh code reentry exposed stale-check/new-candidate ambiguity. E37 D2/D5 both took an admitted mutation effect into a later decision and then ran a current check. In the sister transition corpus, 62/63 candidate-bearing episodes ran a model-visible check, yet all 24 externally incorrect artifacts had green visible checks. | Effect-to-check continuation recurs across independent worlds; correct evidential use does not follow. | Split effect visibility, observation currency, feedback discrimination, useful repair, and closure. Use exact candidate-bound current/stale diagnostics. |
 | Feedback and repair | Imported false-closure audits activated repair. Sister evidence shows discriminating failures can activate useful repair, green incomplete checks can stabilize wrong artifacts, and malformed model-authored tests can cause perseveration after an artifact is correct. Mechanical authorship/provenance improved selection in 0/3 misleading states. | Yes across independent sister worlds, with functional analogues in the Qwen3.8 line. Rates and interventions are not pooled. | Explore repair under discriminating, nondiscriminating, stale, and misleading feedback. Do not equate “check ran” with useful feedback. |
-| Readiness and closure | H05 converted a reread into premature submission of a known strong partial. Older Qwen3.8 audits found false closure or incomplete repair. The sister funnel contained 39 correct artifacts among 70 candidates, 28 full successes, and 11 correct-artifact/noncompletion cases; wrong ledger artifacts sometimes received fluent confident finals. | Yes: artifact, verification, and closure dissociate across independent tasks, interfaces, and profiles. | Consequential recurring boundary eligible for later confirmation. No generic progress cue is selected; exact external readiness adjudication remains mandatory. |
+| Readiness and closure | H05 converted a reread into premature submission of a known strong partial. E37 D2 and D5 submitted independent strong-partial artifacts after visible checks passed; D6 then resubmitted D2 unchanged from exact current state. The sister funnel contained 39 correct artifacts among 70 candidates, 28 full successes, and 11 correct-artifact/noncompletion cases. | Yes: artifact quality, verification coverage, and closure dissociate across independent tasks, interfaces, and profiles. | Consequential recurring boundary eligible for cross-world confirmation. No generic progress cue is selected; exact external readiness adjudication remains mandatory. |
 | Response-level continuation | Sister Experiment 112 selected optional `yield_response` in 0/4 eligible states; its availability still changed action organization. Experiment 113 repaired the only eligible exact-prefix incomplete payload to an 8/8 artifact, but only 1/3 large blocks exposed the boundary and no economy advantage appeared. | Narrow local feasibility only. | Treat as response allocation/expression repair, not semantic resumption or decomposition. No promotion. |
-| Phase reentry and bounded resumption | Older Qwen3.8 code/research studies preserved core continuity in fresh phases; scheduled low-occupancy reentry in E35 paid cache cost and sometimes harmed continuity; reserved handoff did not guarantee action-ready selection. | Mixed direction across independent Qwen3.8 domains and triggers. | Treat trigger, current-world binding, and integration as live questions. Do not promote automatic phase reset. |
+| Phase reentry and bounded resumption | Older Qwen3.8 code/research studies preserved core continuity in fresh phases; scheduled low-occupancy reentry in E35 paid cache cost and sometimes harmed continuity; reserved handoff did not guarantee action-ready selection. E37 D6 immediately recovered the donor's closure disposition from exact current state, but repeated its false readiness judgment. | Mixed direction across independent Qwen3.8 domains and triggers; D6 is same-lineage descriptive evidence. | Separate orientation/action-category continuity from correct semantic/readiness continuity. Do not promote automatic phase reset. |
 | Decomposition and reintegration | No completed study cleanly assigns bounded subwork and then measures reintegration of its exact and semantic output into the parent artifact. | No. | Genuine terrain gap. Keep child/role labels provisional and test only through a bounded authentic task. |
 | Model-authored semantic persistence | Qwen3.8 source digest was behaviorally active but increased short-horizon exact recovery. A Qwen3.8 progress package caused premature closure. The sister coverage ledger was used in 6/6 cells while artifacts fell from 6/6 to 3/6; relation surfaces were useful, inert, or expression-harming depending on state. | Behavioral activity and risk recur; positive durable utility does not. The representations are not interchangeable. | Semantic externalization can amplify commitment. Explore it only where a task exposes a specific persistence gap and keep it non-authoritative. |
 | Model-managed workspace allocation | Passive controls were unused; dedicated selection was reachable but over-released and immediately contradicted by next actor demand. | One navigation world only. | Current prompt-tuning route closed. Revisit only if independent worlds make release identity the dominant boundary. |
 
 ## What the map says now
 
-Three conclusions are comparatively broad:
+Five conclusions are now comparatively broad:
 
 1. Exact custody and prospective capacity safety are reusable mechanical
    substrate functions.
@@ -70,6 +71,10 @@ Three conclusions are comparatively broad:
    effect uptake, repair, or correct closure.
 3. Semantic and control packages are behaviorally active enough to create risk;
    their value depends on configuration and downstream artifact quality.
+4. Action expression and admission can dominate long before context pressure,
+   and can prevent downstream capability from becoming observable.
+5. Successful mutation and current-check uptake do not establish complete
+   requirement binding or correct readiness.
 
 The largest coverage gaps are not another eviction choice. They are:
 
@@ -83,10 +88,10 @@ The largest coverage gaps are not another eviction choice. They are:
 - whether bounded subwork can be reintegrated; and
 - how readiness is discriminated without a closure-biased cue.
 
-## Routing constraints for the first discovery wave
+## Routing constraints after the first discovery wave
 
 Do not rerun a function already covered merely under a new label. In
-particular, the first wave should not contain another:
+particular, the next wave should not contain another:
 
 - same-boundary first-fit horizon;
 - exact directory/focus placement;
@@ -95,18 +100,19 @@ particular, the first wave should not contain another:
 - generic progress/readiness message; or
 - one-shot workspace manager prompt.
 
-Prefer task situations that add coverage:
+The next breadth checkpoint should prefer task situations that distinguish:
 
-1. sparse discovery with a small action-sufficient footprint;
-2. distributed qualified evidence that can produce independently scored
-   partial work;
-3. an exact action→effect→candidate-bound feedback→repair sequence;
-4. bounded resumption or subtask integration; and
-5. ready versus defect-bearing inspection under a frozen external evaluator.
+1. intended task action from transport/admission failure under a qualified
+   observation surface;
+2. relation formation from artifact binding, visible-check coverage, repair,
+   and readiness across independent research and code worlds;
+3. exact partial-work persistence from a separate semantic-memory object; and
+4. closure orientation from independently correct readiness discrimination in
+   bounded resumption.
 
-The first wave need not cover all five. `STRUCTURED_EXPLORATION_ROADMAP.md`
-limits it to four to six trajectories across at least three worlds and requires
-owner review before measured inference and again before any confirmation bank.
+The next checkpoint need not cover all four. `STRUCTURED_EXPLORATION_ROADMAP.md`
+retains a small finite-portfolio discipline and requires owner review before
+measured inference and again before any confirmation bank.
 
 ## Pinned cross-program sources
 
@@ -149,7 +155,8 @@ records:
 - terminal resource and horizon; and
 - artifact/readiness result when applicable.
 
-The owner checkpoint and finite probe portfolio are in
-`DISCOVERY_PHASE_CHECKPOINT.md`. Keep this index lightweight. If it begins
+The completed first portfolio is preserved in
+`DISCOVERY_PHASE_CHECKPOINT.md`; its measured interpretation is
+`DISCOVERY_TRANCHE_RESULT.md`. Keep this index lightweight. If it begins
 dictating permanent state objects, role names, or a universal ontology, it has
 exceeded its purpose.

@@ -2,7 +2,7 @@
 
 Date: 2026-08-23
 
-Status: active program direction; discovery before architectural optimization
+Status: first breadth tranche complete; second checkpoint pending owner review
 
 ## Research-phase reset
 
@@ -73,6 +73,20 @@ still traversing a finite catalog. It does show that keeping exact bytes moving
 is different from observing how understanding, intended action, and work
 accumulate. Another same-configuration horizon would mostly deepen the
 mechanical baseline rather than map that broader terrain.
+
+The first breadth tranche subsequently sampled six situations at low context
+occupancy. It found no correct useful completion, but it did expose a very
+different system geometry: 19 of 39 responses failed action admission; two
+independent cells formed substantial artifacts, absorbed their mutation
+effects, ran current visible checks, and then submitted with one material
+requirement still missing; a fresh exact-state handoff repeated one donor's
+premature closure. No pressure mechanism activated.
+
+Together, E36 and E37 show why the reset remains necessary. One task can be
+limited by evidence ingress and decision bandwidth near pressure; another can
+be limited by expression, requirement binding, verification coverage, and
+readiness with most of the context window unused. The research object is the
+coupled capability pipeline, not a single memory mechanism.
 
 ## Minimal validity envelope
 
@@ -159,16 +173,16 @@ agent roles.
 |---|---|---|
 | Discovery | Can the actor locate plausible information in a much larger accessible world? | Observed in several tasks, but not sampled systematically across world structures. |
 | Selection and exact access | Does it choose action-relevant objects and ranges? | Mixed. Exact handles work; directories, focus layouts, and manager prediction did not yield a stable general policy. |
-| Relationship formation | Can it connect dispersed facts, qualifications, precedence, and causal relations explicitly? | Central unresolved boundary. Exact custody preserves bytes, not durable model-facing relationships. |
-| Relation-to-action binding | Does a represented relationship actually constrain the mutation or artifact? | Sister coding evidence repeatedly separates representation from correct materialization; cross-profile transfer remains open. |
+| Relationship formation | Can it connect dispersed facts, qualifications, precedence, and causal relations explicitly? | E37 D2 demonstrates broad multi-record integration with one qualification loss. Formation is possible locally; complete retention and recurrence remain unresolved. |
+| Relation-to-action binding | Does a represented relationship actually constrain the mutation or artifact? | E37 D2 and D5 independently produced strong partials missing one governing relation, matching a broad sister-program failure shape. This is now eligible for cross-world confirmation, not a selected memory treatment. |
 | Acquisition stopping | Can it decide that the information already obtained is sufficient for a useful next action? | Repeated acquisition and rereads observed, but sometimes mandatory evidence remained incomplete. Cause is not isolated. |
 | Intended-action formation | Can it turn evidence into a bounded substantive plan or artifact step? | Underobserved because many tasks exposed only reads or all-or-nothing mutation. |
 | Action organization | Does it choose a workable operator, scope, order, response position, and sequence? | Sister evidence shows candidate opportunity and correctness separate here; Qwen3.8 coverage is thin. |
-| Action expression | Can it serialize and admit the intended valid action through the interface? | Rejections and structured-output failures can be the primary throughput boundary; distinguish them from semantic failure. |
+| Action expression | Can it serialize and admit the intended valid action through the interface? | E37 rejected 19/39 responses at low occupancy, usually with a legible intended action. This now recurs across Qwen3.8 worlds and the sister profile; downstream ability was unobservable in three cells. |
 | Work-product persistence | Can partial exact work carry relationships and progress across context turnover? | Largely untested as a first-class mechanism. Whole-artifact replacement made this costly in the latest task. |
 | Effect continuity | Does the actor understand the admitted current world and bind observations/checks to the right version? | Mixed. Exact effects can be delivered; stale/current relations and effect uptake have failed in some cells. |
 | Feedback discrimination and repair | Does verification expose the relevant defect, and can the actor repair it correctly and economically? | Checks often run, but green incomplete checks, misleading diagnostics, and incomplete repair recur. |
-| Inspection and closure | Can it distinguish ready from strong-partial and close appropriately? | High-risk boundary. Progress state caused premature closure; external readiness adjudication is mandatory. |
+| Inspection and closure | Can it distinguish ready from strong-partial and close appropriately? | High-risk recurring boundary. E37 D2/D5 closed independent strong partials, and D6 preserved the closure disposition without correcting readiness. External readiness adjudication remains mandatory. |
 | Response-level continuation | Can an incomplete expression continue in another response without changing the semantic task frame? | Narrow sister evidence only; do not confuse it with semantic resumption. |
 | Phase resumption | Can a fresh actor continue from exact current state without the construction chronology? | Fresh phases can preserve core continuity, but timing and currentness binding remain unresolved. |
 | Decomposition and reintegration | Can bounded subwork return useful exact and semantic output that survives parent integration? | Genuinely underexplored; role names and routing remain provisional. |
@@ -355,38 +369,43 @@ claims must be scoped accordingly.
 
 ## Immediate program work
 
-The completed pressure-qualified Ceiba trajectory is E36.
-`E36_DECISION_GEOMETRY_AUDIT.md` reconstructs its decision-level accessible,
-observed, literal-resident, semantic-residue, artifact, obligation, and budget
-geometry. `CAPABILITY_TERRAIN_MAP.md` now includes pinned cross-profile
-triangulation from the sister bounded-action/effect program while preserving
-model, apparatus, and independence limits.
+E36 remains the pressure-qualified evidence-streaming case, reconstructed in
+`E36_DECISION_GEOMETRY_AUDIT.md`. E37 is the completed first breadth tranche,
+reported in `DISCOVERY_TRANCHE_RESULT.md` and bound to experiment result commit
+`ea8f4cfa5888998d6193f57316e9cd41cf1639b6`.
 
-`DISCOVERY_PHASE_CHECKPOINT.md` selects a six-trajectory, five-lineage,
-42-call maximum reconnaissance tranche and freezes its conceptual probe cards,
-run order, activation rule, stopping rules, and non-goals. Offline Stage 0 has
-completed these gates:
+The next work is a post-tranche checkpoint, not an automatic repair bank. It
+must select a small set of independent worlds that can distinguish three
+coupled questions:
 
-1. copy or regenerate the exact selected task worlds into isolated immutable
-   fixtures and produce recursive source/candidate manifests;
-2. freeze the common Qwen3.8 model/runtime/template/sampler/seed profile;
-3. render the exact action contracts and prove a legal known-good path fits the
-   response/call envelope for each full-task probe;
-4. freeze evaluator, evidence-coverage, and readiness identities before actor
-   inference;
-5. freeze and qualify the conditional D6 renderer for every donor lineage,
-   its exact actual-packet capacity gate, and both the no-change and
-   capacity-ineligible null paths, without materializing run-derived evidence
-   early;
-   and
-6. return the Stage 0 commit for owner review and separate GPU authorization.
+1. **Observation surface:** can intended actions be exposed reliably enough to
+   observe downstream task behavior without silently repairing semantic
+   choices or treating a transport as the architecture?
+2. **Relation→artifact→feedback→readiness:** where does a governing requirement
+   disappear, and can candidate-bound feedback discriminate and activate
+   repair before closure?
+3. **Cumulative work and resumption:** can exact partial work carry learned
+   relationships across decisions or a bounded handoff without introducing an
+   ungrounded global semantic controller?
 
-The resulting package is frozen and pushed as
-`ScrappyTom/qwen38-capability-terrain-reconnaissance-v0` commit
-`f3092c73065353d5fbdb4c3646632b6586c7e50b`. Its canonical checker, 22 tests,
-full external asset hashes, independent D2 gold adjudication, and exact-commit
-clean-checkout audit pass. No inference occurred. The remaining boundary is
-authorization of this finite tranche, not more offline apparatus design.
+The checkpoint should preserve an ordinary-success calibration and sample more
+than one domain. It should not rerun D1/D3/D4 merely with repaired formatting,
+repeat D6 with different wording, or add context interventions to low-occupancy
+cells. If context pressure arises authentically, the existing mechanical
+baseline may protect execution and must be accounted for separately.
+
+Before a new measured wave, Stage 0 must:
+
+- qualify the chosen action transport across the required small and large
+  action shapes under the exact live runtime;
+- freeze candidate/task/evidence-bound evaluation, including readiness and
+  blocking requirements outside the actor's visible check;
+- demonstrate a feasible action/effect/check/repair/closure path with enough
+  horizon to observe the target function;
+- state which intermediate work is exact artifact state and which, if any,
+  semantic derivative is the experimental variable; and
+- return a finite portfolio, call/token ceilings, and frozen commit for owner
+  review.
 
 This roadmap authorizes documentation and offline analysis only. It does not
 authorize GPU inference or select a measured successor.

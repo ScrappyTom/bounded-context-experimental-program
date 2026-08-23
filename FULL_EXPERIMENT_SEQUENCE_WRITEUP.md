@@ -893,3 +893,57 @@ first wave is a finite, enriched capability reconnaissance rather than another
 first-fit treatment series or a prevalence benchmark. Its remaining Stage 0
 work is fixture/profile/evaluator/action-geometry materialization. No GPU run
 or automatic successor is authorized by these documents.
+
+## 29. Capability-terrain reconnaissance: context inactive, downstream boundaries exposed
+
+The first breadth tranche was subsequently frozen at
+`f3092c73065353d5fbdb4c3646632b6586c7e50b` and executed under run ID
+`2026-08-23-capability-terrain-v0`. Its exact measured result is commit
+`ea8f4cfa5888998d6193f57316e9cd41cf1639b6`.
+
+The six declared cells used 39 actor calls, exactly 39 provider attempts, zero
+retries, and 101,657 serialized tokens. No prompt exceeded 7,110 tokens against
+the 20,992-token allowance. No pressure event, result substitution, or reopen
+occurred. The tranche therefore did not retest the mechanical pressure policy.
+
+Nineteen responses were rejected at action admission. Most contained a legible
+intended action but violated the frozen bare-object transport through Markdown
+fences, extra syntax, duplication, or an array wrapper. D1, D3, and D4 remained
+literal failures, while the discovery or construction abilities downstream of
+their rejected expressions remained unobserved.
+
+D2 and D5 traversed much more of the task pipeline. Each acquired exact inputs,
+admitted a large artifact replacement, received the mutation effect in a later
+decision, ran a current visible check, and submitted. D2 was independently
+adjudicated strong partial at 12/13; D5 passed 7/8 external code requirements.
+Each omitted one material governing relation and closed prematurely after its
+narrower visible check passed.
+
+D6 received D2's exact current task, candidate, and check state without the
+construction chronology. It attempted submission immediately and eventually
+submitted the byte-identical not-ready candidate. This is descriptive evidence
+that exact reentry can restore a closure-shaped disposition without restoring
+or creating correct readiness discrimination.
+
+The tranche's main systems lesson is:
+
+```text
+ample context
+does not guarantee legal action expression
+does not guarantee complete requirement materialization
+does not guarantee discriminating feedback
+does not guarantee correct closure
+```
+
+The same profile also demonstrated coherent integration, large construction,
+effect uptake, and current-check use, so the outcome is not a uniform model
+failure. It is a conjunctive pipeline result. Context capacity, action
+transport, relation binding, feedback coverage, and readiness can each become
+the limiting function in different configurations.
+
+This closes the first reconnaissance tranche rather than opening a repair loop
+over its JSON interface. The current broad questions are observation-surface
+qualification, relation→artifact→feedback→readiness flow across independent
+worlds, and exact partial-work persistence across bounded resumption. The
+detailed program disposition is `DISCOVERY_TRANCHE_RESULT.md`. No automatic
+successor is authorized.

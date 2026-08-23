@@ -101,6 +101,8 @@ authorized.
 | A large accessible world would make a whole-method task diagnostic. | Both full worlds exceeded context, but realized prompts stayed below 10K and no pressure mechanism activated. | Stage 0 must qualify realized/prospective pressure, not repository size. |
 | Task-authored scheduled phase reentry might add end-to-end value. | At two fixed call boundaries per treatment trajectory it reduced cache reuse, sometimes interrupted causal continuity, and produced no qualified completion lead. | Remove scheduled low-pressure reentry; retain only reactive reentry against an authentic mechanical pressure or external authority transition. |
 | Exact evaluator replay requires the external world to reproduce byte-for-byte. | Candidate-generated UUID text caused one literal replay mismatch while behavior, defect class, candidate, and repair remained stable. | Preserve exact raw result custody separately from a prospectively deterministic candidate-bound model-visible diagnostic. |
+| Broad reconnaissance would reveal whether context remained the dominant constraint. | E37 stayed below 7,110 prompt tokens, rejected 19/39 responses, produced two strong-partial artifacts with current visible checks, and closed both prematurely. Exact-state D6 repeated one donor's false closure. | Treat expression/admission, relation-to-action binding, verification coverage, and readiness as interacting system boundaries. Do not default back to context-layout tuning. |
+| A known ordinary-success calibration would expose a downstream success path under the common profile. | E37 D3 never reached construction because seven fenced tree requests consumed its horizon. | Preserve the literal failure, but classify downstream coding capability as unobserved. Qualify the observation surface before using it to compare deeper capabilities. |
 
 ## Provisional ownership split for the mechanical comparator
 
@@ -191,30 +193,32 @@ The pressure contract is preserved historically in
 recorded as E36. `REACTIVE_RUNTIME_POLICY_V1.md` is now a reference pressure
 instrument rather than the selected successor architecture.
 
-The current phase is structured exploration. The first offline checkpoint is
-complete:
+The first structured-exploration tranche is now complete as E37. The frozen
+portfolio used 39 actor calls, 101,657 serialized tokens, one attempt per call,
+and zero retries across five source/candidate lineages plus the same-lineage D6
+handoff. It produced no pressure event and no correct useful completion.
 
-1. `CAPABILITY_TERRAIN_MAP.md` reindexes the current program and pinned sister
-   evidence by function rather than mechanism;
-2. `E36_DECISION_GEOMETRY_AUDIT.md` reconstructs the latest trajectory's
-   exact residency, receipts, observations, actions, obligations, artifact,
-   and remaining decision budget;
-3. `DISCOVERY_PHASE_CHECKPOINT.md` separates relationship formation from
-   relation-to-action binding, action organization from expression, feedback
-   visibility from discrimination, and response continuation from semantic
-   resumption/decomposition; and
-4. that checkpoint proposes a finite six-trajectory, five-lineage, 42-call
-   maximum Qwen3.8 reconnaissance tranche, including an ordinary-success
-   calibration cell and one prospectively conditional exact-resumption cell.
+The dominant literal boundary was expression/admission: 19 responses were
+rejected, usually while exposing a legible intended action. D2 and D5 provide
+the counterweight: both traversed acquisition, substantial construction,
+effect uptake, a current visible check, and submission. Independent evaluation
+found one material omission in each artifact. D6 inherited D2's exact current
+state and immediately reconstructed its closure disposition, not a correct
+readiness judgment.
 
-The selected worlds are known-geometry, already scored fixtures from other
-programs. They provide efficient cross-profile triangulation but form an
-enriched portfolio, not a fresh-task prevalence sample. The remaining
-pre-inference work is Stage 0 fixture materialization, recursive hashing,
-action-path feasibility, common profile locking, evaluator/readiness freezing,
-and qualification of the exact conditional-reentry renderer across every
-possible donor branch and the null path.
+This result does not turn the program into an action-schema optimization
+project. It updates the systems map:
 
-No task or GPU call is authorized by this routing decision. A frozen Stage 0
-commit must return for owner review and separate authorization. No automatic
-successor follows from E36 or from any one discovery cell.
+1. context capacity is not the universal active constraint;
+2. action transport can prevent a task capability from becoming observable;
+3. broad integration and large exact construction are locally present;
+4. relation materialization, verification coverage, and readiness can fail
+   after successful effect uptake; and
+5. fresh exact state can preserve an incorrect control disposition.
+
+The next checkpoint must choose breadth probes that separate observation-
+surface reliability, relation→artifact→feedback→readiness flow, and cumulative
+exact work across bounded resumption. The enriched fixtures remain useful for
+triangulation, not prevalence. No D1/D3/D4 repair, D6 wording variant, context
+intervention, task, or GPU call is authorized automatically. A finite Stage 0
+contract must return for owner review.
