@@ -72,15 +72,18 @@ identity, independent quality evaluation, and no post-outcome cell alteration.
 Roles, schemas, semantic state, paging policies, and decomposition remain
 provisional hypotheses.
 
-The first offline checkpoint is complete. It proposes six trajectories across
-five source/candidate lineages with a 42-call maximum and no automatic
-replacement or extension. The proposal deliberately includes one known
-ordinary-success calibration world and treats sister Qwen3.6 evidence only as
-cross-profile triangulation.
+The first offline checkpoint and Stage 0 materialization are complete. The
+frozen experiment is
+[`qwen38-capability-terrain-reconnaissance-v0`](https://github.com/ScrappyTom/qwen38-capability-terrain-reconnaissance-v0)
+at commit `f3092c73065353d5fbdb4c3646632b6586c7e50b`. It contains six declared
+trajectories across five source/candidate lineages, a 42-call and 1,053,696
+serialized-token maximum, exact source/evaluator/adjudication custody, and no
+automatic replacement or extension. The portfolio deliberately includes one
+known ordinary-success calibration world and treats sister Qwen3.6 evidence
+only as cross-profile triangulation.
 
-No GPU run is authorized by these documents. Offline Stage 0 is being
-materialized in a separate experiment repository: exact task worlds, common
-Qwen3.8 profile, legal known-good paths, evaluator/readiness identities,
-conditional handoff branches, actual-packet capacity gating, and residual
-host-code execution risk must all be frozen before the resulting commit can be
-returned for owner review and separate authorization.
+No GPU run is authorized by these documents. The next step is owner review and
+an exact authorization naming the frozen experiment commit and run ID, one
+attempt per call, zero retries, and explicit acceptance of the residual host
+permission risk from model-authored JavaScript in D3-D5.
+The exact offline receipt is [DISCOVERY_STAGE0_HANDOFF.json](DISCOVERY_STAGE0_HANDOFF.json).

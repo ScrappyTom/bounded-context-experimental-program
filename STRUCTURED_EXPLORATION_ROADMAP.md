@@ -364,8 +364,8 @@ model, apparatus, and independence limits.
 
 `DISCOVERY_PHASE_CHECKPOINT.md` selects a six-trajectory, five-lineage,
 42-call maximum reconnaissance tranche and freezes its conceptual probe cards,
-run order, activation rule, stopping rules, and non-goals. Offline Stage 0 must
-complete these gates before any GPU request:
+run order, activation rule, stopping rules, and non-goals. Offline Stage 0 has
+completed these gates:
 
 1. copy or regenerate the exact selected task worlds into isolated immutable
    fixtures and produce recursive source/candidate manifests;
@@ -380,6 +380,13 @@ complete these gates before any GPU request:
    early;
    and
 6. return the Stage 0 commit for owner review and separate GPU authorization.
+
+The resulting package is frozen and pushed as
+`ScrappyTom/qwen38-capability-terrain-reconnaissance-v0` commit
+`f3092c73065353d5fbdb4c3646632b6586c7e50b`. Its canonical checker, 22 tests,
+full external asset hashes, independent D2 gold adjudication, and exact-commit
+clean-checkout audit pass. No inference occurred. The remaining boundary is
+authorization of this finite tranche, not more offline apparatus design.
 
 This roadmap authorizes documentation and offline analysis only. It does not
 authorize GPU inference or select a measured successor.

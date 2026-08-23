@@ -1,0 +1,30 @@
+{
+  "schema_version": "capability-terrain-stage0-handoff-v0",
+  "date": "2026-08-23",
+  "program_contract_commit": "8465b9666f86ebff12d27382a8e025b111a33b24",
+  "experiment_repository": "https://github.com/ScrappyTom/qwen38-capability-terrain-reconnaissance-v0",
+  "experiment_branch": "codex/stage0-freeze",
+  "experiment_commit": "f3092c73065353d5fbdb4c3646632b6586c7e50b",
+  "no_model_calls": true,
+  "gpu_inference": false,
+  "maximum_actor_calls": 42,
+  "maximum_serialized_actor_tokens": 1053696,
+  "one_attempt_per_call": true,
+  "retries": 0,
+  "source_files": 152,
+  "materialization_provenance_rows": 154,
+  "fixture_manifest_sha256": "8688ce3ebdb5b1b0ad696a93f819d2d7dfebba6977951c22e01741e040009f34",
+  "gold_manifest_sha256": "7fea21339be8676b1552a684155ca76e82e2482e88a93dad1be45912b2acf918",
+  "evaluator_manifest_sha256": "abeb94a84bdfc6d3a574e7326702cd8217884e370e6f209bb324d1106dc0a417",
+  "adjudication_manifest_sha256": "dcc4ecd098b5c56ddcb08b8efbf30551da0614c9000bb51cff415122145925a3",
+  "d2_gold_adjudication_sha256": "7e234468910f608385b347b51a29d3627d2a4cabb8ec111713282d6549dea727",
+  "unit_tests_passed": 22,
+  "canonical_external_hash_check_passed": true,
+  "clean_checkout_audit_passed": true,
+  "d6_zero_call_conditions": [
+    "no_changed_candidate",
+    "capacity_ineligible"
+  ],
+  "authorization_required": true,
+  "authorization_must_accept_host_permission_risk": true
+}

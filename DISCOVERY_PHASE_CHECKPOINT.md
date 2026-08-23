@@ -2,7 +2,7 @@
 
 Date: 2026-08-23
 
-Status: owner checkpoint amended during offline Stage 0; no inference authorized
+Status: Stage 0 frozen and pushed; awaiting exact owner GPU authorization
 
 ## Decision in one sentence
 
@@ -484,6 +484,36 @@ evaluator copies with exact pre/post integrity checks and timeout tree cleanup.
 That protects experimental custody but is not an operating-system sandbox.
 The exact GPU authorization must explicitly accept the host-permission risk;
 otherwise D3-D5 are not authorized to run.
+
+### Stage 0 handoff
+
+The complete offline package is frozen in
+`ScrappyTom/qwen38-capability-terrain-reconnaissance-v0` at commit
+`f3092c73065353d5fbdb4c3646632b6586c7e50b`, on branch
+`codex/stage0-freeze`. It pins this checkpoint's amended program contract at
+commit `8465b9666f86ebff12d27382a8e025b111a33b24`.
+
+Offline qualification established:
+
+- 152 exact source-lock files and 154 materialization-provenance rows;
+- 103 D1 documents, 971 bounded sections, and 766,502 exact evidence bytes;
+- failing initial and legal known-good paths for D2-D5 within their response
+  and call ceilings;
+- a candidate/task/evidence-bound D2 gold adjudication with 13 of 13 criteria
+  met and readiness `ready`;
+- four ordinary and four adversarial-stress D6 packet receipts, plus an
+  authoritative live actual-packet capacity gate;
+- both no-change and capacity-ineligible D6 branches as zero-call outcomes;
+- 22 passing unit tests, a canonical external model/runtime hash check, and a
+  clean-checkout audit of the exact frozen commit; and
+- no model calls or GPU inference during Stage 0.
+
+The experiment remains unauthorized until the owner names the exact commit,
+one run ID, the 42-call ceiling, one attempt per call, zero retries, and accepts
+the disclosed D3-D5 host-permission risk. A pathological but legally admitted
+D6 candidate whose exact packet exceeds 20,992 prompt tokens consumes D6 as a
+zero-call `capacity_ineligible` outcome; it does not trigger a repaired packet
+or backup cell.
 
 ## Evidence-status summary
 
