@@ -143,6 +143,13 @@ Confirmation requires:
 - a prospectively frozen feedback horizon; and
 - a reason the comparison could change an architectural decision.
 
+The recurrence gate has one narrow safety exception. One severe authorization
+breach, irreversible effect, false closure, or custody/integrity failure may
+justify a single bounded forensic or safety-confirmation study before
+independent recurrence. The exception exists to characterize and contain
+high-cost failure; it cannot promote an architecture, authorize an optimization
+bank, or waive owner review.
+
 ## Capability terrain to map
 
 The following labels are an analytical lens, not presumed modules or natural
@@ -152,15 +159,19 @@ agent roles.
 |---|---|---|
 | Discovery | Can the actor locate plausible information in a much larger accessible world? | Observed in several tasks, but not sampled systematically across world structures. |
 | Selection and exact access | Does it choose action-relevant objects and ranges? | Mixed. Exact handles work; directories, focus layouts, and manager prediction did not yield a stable general policy. |
-| Relationship assembly | Can it connect dispersed facts, qualifications, and causal relations? | Central unresolved boundary. Exact custody preserves bytes, not durable model-facing relationships. |
+| Relationship formation | Can it connect dispersed facts, qualifications, precedence, and causal relations explicitly? | Central unresolved boundary. Exact custody preserves bytes, not durable model-facing relationships. |
+| Relation-to-action binding | Does a represented relationship actually constrain the mutation or artifact? | Sister coding evidence repeatedly separates representation from correct materialization; cross-profile transfer remains open. |
 | Acquisition stopping | Can it decide that the information already obtained is sufficient for a useful next action? | Repeated acquisition and rereads observed, but sometimes mandatory evidence remained incomplete. Cause is not isolated. |
 | Intended-action formation | Can it turn evidence into a bounded substantive plan or artifact step? | Underobserved because many tasks exposed only reads or all-or-nothing mutation. |
-| Action expression | Can it serialize the intended valid action through the interface? | Rejections and structured-output failures are real nuisance variables; distinguish them from reasoning failure. |
+| Action organization | Does it choose a workable operator, scope, order, response position, and sequence? | Sister evidence shows candidate opportunity and correctness separate here; Qwen3.8 coverage is thin. |
+| Action expression | Can it serialize and admit the intended valid action through the interface? | Rejections and structured-output failures can be the primary throughput boundary; distinguish them from semantic failure. |
 | Work-product persistence | Can partial exact work carry relationships and progress across context turnover? | Largely untested as a first-class mechanism. Whole-artifact replacement made this costly in the latest task. |
 | Effect continuity | Does the actor understand the admitted current world and bind observations/checks to the right version? | Mixed. Exact effects can be delivered; stale/current relations and effect uptake have failed in some cells. |
-| Feedback and repair | Can it use verification or rejection to repair correctly and economically? | Exact verification often activates repair in older evidence; repair completeness and cost remain unstable. |
+| Feedback discrimination and repair | Does verification expose the relevant defect, and can the actor repair it correctly and economically? | Checks often run, but green incomplete checks, misleading diagnostics, and incomplete repair recur. |
 | Inspection and closure | Can it distinguish ready from strong-partial and close appropriately? | High-risk boundary. Progress state caused premature closure; external readiness adjudication is mandatory. |
-| Resumption and decomposition | Can bounded subwork or fresh context preserve cross-part integration? | Fresh phases can preserve core continuity, but timing, boundary ownership, and integration remain unresolved. |
+| Response-level continuation | Can an incomplete expression continue in another response without changing the semantic task frame? | Narrow sister evidence only; do not confuse it with semantic resumption. |
+| Phase resumption | Can a fresh actor continue from exact current state without the construction chronology? | Fresh phases can preserve core continuity, but timing and currentness binding remain unresolved. |
+| Decomposition and reintegration | Can bounded subwork return useful exact and semantic output that survives parent integration? | Genuinely underexplored; role names and routing remain provisional. |
 
 Success is also an endpoint. The map must retain worlds in which ordinary
 history and tools are already sufficient; otherwise the program will invent
@@ -184,12 +195,18 @@ Code the endpoint broadly:
 - relevant information not discovered;
 - candidate information discovered but poorly selected or accessed;
 - dispersed information observed but not assembled;
+- governing relation represented but not bound into action;
 - information assembled but acquisition continued;
 - intended work formed but not externalized;
+- action organization selected but no legal expression reached the environment;
 - action attempted with missing relationships or qualifications;
 - action chosen but not expressed through the interface;
 - effect occurred but current-world continuity failed;
+- effect visible and check run, but the check did not discriminate the defect;
 - feedback arrived but repair failed;
+- artifact correct but testing or repair continued;
+- artifact incorrect but fluent closure occurred;
+- response-level continuation absent, unused, or mechanically ineligible;
 - inspection/readiness/closure failed;
 - resource budget ended before the capability became observable; or
 - useful completion.
@@ -241,8 +258,10 @@ The prospective tranche should contain four to six authentic trajectories
 across at least three independent worlds, normally one seed per situation and
 no more than sixty actor calls total. Use a claim-matched horizon: roughly one
 or two decisions for an immediate selection/extraction question, three to five
-for effect/repair/closure, and six to ten only for lifecycle or decomposition.
-These are portfolio bounds, not evidence that every probe needs its maximum.
+for an already-formed action's effect/repair/closure continuation, and six to
+ten for an end-to-end lifecycle that includes discovery or construction as
+well as effect/closure, or for decomposition. These are portfolio bounds, not
+evidence that every probe needs its maximum.
 
 Every baseline, alternate arrangement, and repaired cell consumes one of the
 four-to-six trajectory slots and its calls consume the sixty-call ceiling. A
@@ -336,22 +355,29 @@ claims must be scoped accordingly.
 
 ## Immediate program work
 
-The completed pressure-qualified Ceiba trajectory is now E36, and
-`CAPABILITY_TERRAIN_MAP.md` provides the initial cross-study view. Before
-another GPU request:
+The completed pressure-qualified Ceiba trajectory is E36.
+`E36_DECISION_GEOMETRY_AUDIT.md` reconstructs its decision-level accessible,
+observed, literal-resident, semantic-residue, artifact, obligation, and budget
+geometry. `CAPABILITY_TERRAIN_MAP.md` now includes pinned cross-profile
+triangulation from the sister bounded-action/effect program while preserving
+model, apparatus, and independence limits.
 
-1. Refine representative entries at the decision level, including comparable
-   pinned evidence from the sister bounded-action/effect program where useful.
-2. Reconstruct the latest trajectory decision by decision: accessible,
-   observed, literal-resident, semantically preserved, and artifact-resident
-   information; remaining task obligations; candidate state; and remaining
-   decision budget.
-3. Select four to six trajectories across at least three independent task
-   worlds, covering different underobserved capabilities rather than variants
-   of first-fit relief.
-4. Freeze a lightweight probe card and task/action-geometry receipt for each
-   proposed situation so the horizon can actually expose its capability.
-5. Return the checkpoint memo and proposed discovery wave for owner review.
+`DISCOVERY_PHASE_CHECKPOINT.md` selects a six-trajectory, five-lineage,
+42-call maximum reconnaissance tranche and freezes its conceptual probe cards,
+run order, activation rule, stopping rules, and non-goals. The remaining work
+before any GPU request is Stage 0 materialization:
+
+1. copy or regenerate the exact selected task worlds into isolated immutable
+   fixtures and produce recursive source/candidate manifests;
+2. freeze the common Qwen3.8 model/runtime/template/sampler/seed profile;
+3. render the exact action contracts and prove a legal known-good path fits the
+   response/call envelope for each full-task probe;
+4. freeze evaluator, evidence-coverage, and readiness identities before actor
+   inference;
+5. freeze and qualify the conditional D6 renderer for every possible donor
+   branch and the null path, without materializing run-derived evidence early;
+   and
+6. return the Stage 0 commit for owner review and separate GPU authorization.
 
 This roadmap authorizes documentation and offline analysis only. It does not
 authorize GPU inference or select a measured successor.

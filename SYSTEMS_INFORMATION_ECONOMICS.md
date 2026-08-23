@@ -106,6 +106,29 @@ No scalar weights are currently earned. Report the cost vector and behavior
 separately rather than inventing one aggregate score. A later decision analysis
 may compare Pareto-dominant policies only where outcome quality is commensurate.
 
+The context window is only one throughput constraint. The latest pressure
+trajectory makes the broader bottleneck structure explicit:
+
+```text
+useful task throughput
+= minimum of:
+    discovery and acquisition bandwidth
+    relationship-formation bandwidth
+    relation-to-action binding
+    action organization and legal expression
+    model-facing exact/semantic residency
+    durable work-product externalization
+    effect uptake
+    feedback discrimination and repair
+    review and closure bandwidth
+```
+
+Increasing one term moves the active bottleneck. In E36, first-fit relief
+removed prompt overflow as the terminal resource; one-read/one-action ingress,
+whole-artifact mutation, absent partial-work residue, and the decision horizon
+then jointly prevented later functions from becoming observable. This is a
+configuration result, not a claim that any one term caused nonconstruction.
+
 ## Stock, flow, and complementarity
 
 Do not judge an information object by resident size alone. For each treatment,
@@ -118,6 +141,19 @@ separate at least four economic quantities:
   control work needed to keep using it; and
 - **recovery flow cost:** later exact fault-in, repeated access, repair, or delay
   caused by information that is absent or lossy.
+
+Also record **conversion yield** without treating it as one scalar score:
+
+- exact bytes observed over time;
+- distinct relationships or qualifications externally represented;
+- admitted artifact work;
+- current effects taken up;
+- evaluator requirements satisfied; and
+- decisions spent at each transition.
+
+Large evidence flow with zero artifact flow may be rational while mandatory
+evidence is incomplete. It is nevertheless a different operating regime from
+cumulative construction and should be visible in the accounting.
 
 For any semantic derivative, decompose resident stock into:
 

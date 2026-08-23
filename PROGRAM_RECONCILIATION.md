@@ -191,14 +191,30 @@ The pressure contract is preserved historically in
 recorded as E36. `REACTIVE_RUNTIME_POLICY_V1.md` is now a reference pressure
 instrument rather than the selected successor architecture.
 
-The current phase is structured exploration. Immediate work is offline:
+The current phase is structured exploration. The first offline checkpoint is
+complete:
 
-1. reindex existing evidence into a lightweight capability-terrain view;
-2. reconstruct accessible, observed, literal-resident, semantically persistent,
-   and artifact-persistent state at relevant decisions;
-3. select a small diversity-first portfolio across independent task worlds and
-   work modes; and
-4. return a checkpoint memo for owner review before measured inference.
+1. `CAPABILITY_TERRAIN_MAP.md` reindexes the current program and pinned sister
+   evidence by function rather than mechanism;
+2. `E36_DECISION_GEOMETRY_AUDIT.md` reconstructs the latest trajectory's
+   exact residency, receipts, observations, actions, obligations, artifact,
+   and remaining decision budget;
+3. `DISCOVERY_PHASE_CHECKPOINT.md` separates relationship formation from
+   relation-to-action binding, action organization from expression, feedback
+   visibility from discrimination, and response continuation from semantic
+   resumption/decomposition; and
+4. that checkpoint proposes a finite six-trajectory, five-lineage, 42-call
+   maximum Qwen3.8 reconnaissance tranche, including an ordinary-success
+   calibration cell and one prospectively conditional exact-resumption cell.
 
-No task or GPU call is authorized by this routing decision. No automatic
-successor follows from E36.
+The selected worlds are known-geometry, already scored fixtures from other
+programs. They provide efficient cross-profile triangulation but form an
+enriched portfolio, not a fresh-task prevalence sample. The remaining
+pre-inference work is Stage 0 fixture materialization, recursive hashing,
+action-path feasibility, common profile locking, evaluator/readiness freezing,
+and qualification of the exact conditional-reentry renderer across every
+possible donor branch and the null path.
+
+No task or GPU call is authorized by this routing decision. A frozen Stage 0
+commit must return for owner review and separate authorization. No automatic
+successor follows from E36 or from any one discovery cell.

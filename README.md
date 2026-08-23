@@ -20,7 +20,11 @@ The current planned-versus-learned audit is
 [PROGRAM_RECONCILIATION.md](PROGRAM_RECONCILIATION.md). The active research
 direction is the breadth-first
 [structured exploration roadmap](STRUCTURED_EXPLORATION_ROADMAP.md), grounded
-in the provisional [capability terrain map](CAPABILITY_TERRAIN_MAP.md).
+in the provisional [capability terrain map](CAPABILITY_TERRAIN_MAP.md). The
+latest pressure trajectory is reconstructed decision by decision in the
+[E36 information/work geometry audit](E36_DECISION_GEOMETRY_AUDIT.md), and the
+first finite breadth proposal is the
+[discovery-phase checkpoint](DISCOVERY_PHASE_CHECKPOINT.md).
 [REACTIVE_RUNTIME_POLICY_V1.md](REACTIVE_RUNTIME_POLICY_V1.md) is retained as a
 qualified mechanical pressure baseline, not as the architecture incumbent.
 The earlier whole-method policy and governance contracts remain historical in
@@ -57,8 +61,9 @@ unobserved or unexternalized.
 
 The program is now in structured exploration rather than architecture
 optimization. It will sample materially different authentic task situations,
-map where discovery, relationship assembly, action formation, expression,
-effect uptake, repair, and closure fail or succeed, and seek recurrence across
+map where discovery, relationship formation, relation-to-action binding,
+action organization, expression, effect uptake, feedback discrimination,
+repair, resumption, and closure fail or succeed, and seek recurrence across
 independent worlds before expensive mechanism tuning or promotion.
 
 The validity envelope remains strict: exact custody, complete model-visible
@@ -67,6 +72,16 @@ identity, independent quality evaluation, and no post-outcome cell alteration.
 Roles, schemas, semantic state, paging policies, and decomposition remain
 provisional hypotheses.
 
-No GPU run or measured successor is authorized by the roadmap. Immediate work
-is offline capability-terrain reindexing and a small diversity-first probe
-portfolio for owner review.
+The first offline checkpoint is complete. It proposes six trajectories across
+five source/candidate lineages with a 42-call maximum and no automatic
+replacement or extension. The proposal deliberately includes one known
+ordinary-success calibration world and treats sister Qwen3.6 evidence only as
+cross-profile triangulation.
+
+No GPU run is authorized by these documents. The next implementation step is
+offline Stage 0 materialization: isolate and hash the selected task worlds,
+freeze the common Qwen3.8 profile and action contracts, prove legal known-good
+paths fit the declared envelopes, freeze evaluator/readiness identities, and
+qualify the conditional handoff renderer for every possible donor branch and
+the null path, then return the resulting commit for owner review and separate
+authorization.

@@ -57,9 +57,10 @@ Every program claim must carry one of these statuses:
 
 The active phase is structured exploration, not optimization of a known
 context architecture. The program will use a minimal validity envelope to map
-large-world discovery, relationship assembly, action formation, work-product
-persistence, effect uptake, repair, and closure across materially different
-authentic worlds.
+large-world discovery, relationship formation, relation-to-action binding,
+action organization and expression, work-product persistence, effect uptake,
+feedback discrimination, repair, resumption, and closure across materially
+different authentic worlds.
 
 Discovery probes may be small and may use cheap controlled contrasts, but their
 claims remain local. Expensive mechanism tuning and architecture promotion wait
@@ -67,7 +68,10 @@ for a consequential functional endpoint to recur in at least two independent
 worlds. Seeds or packet variants from one donor are not independent recurrence.
 
 The active protocol and initial map are
-`STRUCTURED_EXPLORATION_ROADMAP.md` and `CAPABILITY_TERRAIN_MAP.md`.
+`STRUCTURED_EXPLORATION_ROADMAP.md` and `CAPABILITY_TERRAIN_MAP.md`. The exact
+latest-trajectory reconstruction is `E36_DECISION_GEOMETRY_AUDIT.md`; the
+owner checkpoint and proposed finite breadth tranche are
+`DISCOVERY_PHASE_CHECKPOINT.md`.
 
 ## Current position
 
@@ -1034,6 +1038,15 @@ resident-state mechanism.
 The active direction is `STRUCTURED_EXPLORATION_ROADMAP.md`. Candidate mechanism
 families below are retained as a hypothesis catalog, not a queue. No GPU calls
 are authorized by this routing decision.
+
+The first offline checkpoint is complete. It proposes a six-trajectory,
+five-lineage, 42-call maximum cross-profile reconnaissance using one Qwen3.8
+profile. The worlds are known-geometry and already scored elsewhere, so they
+provide efficient functional triangulation rather than a fresh-task prevalence
+sample. Stage 0 must still isolate and hash the fixtures, prove legal
+action-path feasibility, freeze evaluators/readiness, render the conditional
+resumption renderer for every eligible donor branch and the null path, and
+return a commit for owner review before inference.
 
 ## Candidate mechanism families — historical hypothesis catalog
 

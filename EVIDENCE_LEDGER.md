@@ -230,11 +230,15 @@ shown that receipt-only operability can coexist with prolonged evidence
 streaming and no artifact progress. Scientifically open variants remain
 hypotheses rather than research debts.
 
-The active program phase is structured capability discovery. Existing episodes
-and E36 will be reindexed by task/world, work mode, accessible/observed/literal
-information, action/effect, broad endpoint, resource horizon, ambiguity, and
-independent-world recurrence. A controlled mechanism optimization becomes the
-preferred route only after an important functional boundary recurs in an
-independent world. The validity envelope remains exact; the active objective is
-information gain about capability boundaries rather than another local packet
-or policy refinement. No successor GPU run is authorized by this designation.
+The active program phase is structured capability discovery. E36's exact
+decision geometry is now reconstructed in `E36_DECISION_GEOMETRY_AUDIT.md`, and
+the current and pinned sister-program evidence is reindexed by function in
+`CAPABILITY_TERRAIN_MAP.md`. Those offline documents add no model behavior and
+do not pool heterogeneous models, tasks, or apparatus. The bounded first-wave
+proposal and owner-review gate are in `DISCOVERY_PHASE_CHECKPOINT.md`.
+
+A controlled mechanism optimization becomes the preferred route only after an
+important functional boundary recurs in an independent world. The validity
+envelope remains exact; the active objective is information gain about
+capability boundaries rather than another local packet or policy refinement.
+No successor GPU run is authorized by this designation.

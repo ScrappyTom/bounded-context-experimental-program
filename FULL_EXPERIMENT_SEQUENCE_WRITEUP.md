@@ -886,6 +886,10 @@ Solution-specific schemas, roles, state objects, routers, and promotion ladders
 remain provisional and should be added only when needed to observe a question
 truthfully.
 
-The active plan is `STRUCTURED_EXPLORATION_ROADMAP.md`. It authorizes offline
-capability-terrain reindexing and probe design only. No GPU run or automatic
-successor is authorized.
+The active plan is `STRUCTURED_EXPLORATION_ROADMAP.md`. The first offline
+checkpoint is now complete in `E36_DECISION_GEOMETRY_AUDIT.md`,
+`CAPABILITY_TERRAIN_MAP.md`, and `DISCOVERY_PHASE_CHECKPOINT.md`. The proposed
+first wave is a finite, enriched capability reconnaissance rather than another
+first-fit treatment series or a prevalence benchmark. Its remaining Stage 0
+work is fixture/profile/evaluator/action-geometry materialization. No GPU run
+or automatic successor is authorized by these documents.
