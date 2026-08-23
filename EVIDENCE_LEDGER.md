@@ -1,6 +1,6 @@
 # Evidence ledger
 
-Date: 2026-08-22
+Date: 2026-08-23
 
 This ledger separates mechanical facts, local results, candidate hypotheses,
 and untested mechanisms. Links identify immutable result commits; the linked
@@ -47,6 +47,7 @@ comparison not qualified; `UT` = untested.
 | E33 | AF | dedicated maintenance eligibility | Both authentic pending-result boundaries support a maintenance-only view with a 512-token response allowance and protected headroom (+2,784 and +3,863). Selection is nontrivial: 7 and 3 distinct single-result releases respectively make the ordinary post-result packet feasible. | Capacity and donor eligibility only; zero chat completions. Selection quality and actor utility remain unmeasured. | [eligibility audit](audits/DEDICATED_MAINTENANCE_ELIGIBILITY.md) |
 | E34 | LR | dedicated maintenance-only exact residency selection | Both manager calls returned valid feasible release sets, but removed 6,527 and 6,956 prompt tokens where only 394 and 1,045 were required. Incumbent next-decision preservation was 0/2; both actors immediately requested the same released source object. | Two seeds, one task/world, one maintenance prompt, and one actor decision. Reopens were requested but not executed. This is a local negative for selection utility, not model-managed residency generally. | [dedicated-maintenance result](https://github.com/ScrappyTom/qwen38-dedicated-workspace-maintenance-v0/commit/44bade979d0ba1f1a2df3f2c919146c29d4c6868) |
 | E35 | LR | fresh-task whole-method scout / scheduled low-occupancy reentry | Seven cells passed exact replay and one remains sealed observational evidence after candidate-generated UUID text made literal evaluator replay differ. No prompt exceeded 9,948 tokens, no result-body relief or reopen occurred, and treatment only performed two scheduled fresh reentries per trajectory. Qualified useful completion was control 2/4 and treatment 0/3; one raw ineligible treatment also completed. Scheduled reentry reduced cache reuse in every pair and clearly harmed one qualified code seed. | This is evidence against unconditional call-count reentry at low occupancy, not against pressure-triggered first-fit relief or reactive reentry when chronology is the active burden. The research task was call-constrained and 19/71 actions were rejected. | [fresh-task scout result](https://github.com/ScrappyTom/qwen38-fresh-task-whole-method-scout-v0/commit/56654598e26a49e502888c8f60fca06cf5f40335) |
+| E36 | LR | fresh-task pressure-qualified first-fit continuation | In the separately qualified seed-314159 v2 cell/aggregate and seed-43 action/lifecycle history, each 18-call continuation resolved ten later pressure events through sixteen substitutions and 80,497 cumulative recovered prompt tokens. Seed 43's history is post-freeze replay-qualified; its primary v1 cell/aggregate remains sealed-aborted. Each sequence produced sixteen novel non-overlapping source reads, two over-range rejections, no exact reopen, and no mutation, check, or submission. The actor-call budget ended with a feasible pending S12 packet and required evidence still incomplete. | One fresh Ceiba task and one donor boundary. Seed 43 and seed 314159 had identical model-facing sequences and are seed variants, not independent-world replications or equal primary cells. This supports repeated mechanical operability and a forward-streaming acquisition pattern; it does not establish artifact utility, semantic continuity, acquisition-stopping failure, convergence, or longer-horizon behavior. | [pressure-qualified result](https://github.com/ScrappyTom/qwen38-pressure-qualified-lifecycle-scout-v1/commit/e4dcd58fa554e7e36b99e6cb454803cd099d2044) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
@@ -223,11 +224,17 @@ passed; local working-set utility did not. No successor is selected. The next
 route, if authorized later, must address a distinct residual pressure rather
 than reword this manager or adjust its labels.
 
-The current mechanism-scouting phase is now closed. The loose-ends audit found
-no unpublished local experiment branch or unresolved custody/adjudication issue
-that blocked the completed system scout. Scientifically open variants are not
-treated as research debts. The next candidate phase is offline qualification
-of a pressure-qualified successor under a reactive v1 policy. The completed
-scout shows that total accessible-world size and scheduled phase labels are not
-adequate activation gates. No successor GPU run is authorized by that
-designation.
+Incremental tuning at the completed donor boundaries is closed. E36 has now
+qualified the narrow first-fit pressure operation on one fresh world and also
+shown that receipt-only operability can coexist with prolonged evidence
+streaming and no artifact progress. Scientifically open variants remain
+hypotheses rather than research debts.
+
+The active program phase is structured capability discovery. Existing episodes
+and E36 will be reindexed by task/world, work mode, accessible/observed/literal
+information, action/effect, broad endpoint, resource horizon, ambiguity, and
+independent-world recurrence. A controlled mechanism optimization becomes the
+preferred route only after an important functional boundary recurs in an
+independent world. The validity envelope remains exact; the active objective is
+information gain about capability boundaries rather than another local packet
+or policy refinement. No successor GPU run is authorized by this designation.

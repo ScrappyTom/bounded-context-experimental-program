@@ -1,18 +1,23 @@
 # Experimental program for bounded context management
 
-Date: 2026-08-22
+Date: 2026-08-23
 
 Status: living research program; candidate mechanisms are not architecture
 
 ## Purpose
 
-The current question is no longer whether enough old prompt material can be
-removed to keep one local trajectory physically operable. That has been shown
-on one task and model profile. The current question is:
+The program began by asking whether enough old prompt material could be removed
+to keep a local trajectory physically operable. That has now been shown in more
+than one task world. The discovery question is prior to any particular memory
+or lifecycle architecture:
 
-> How can a bounded actor repeatedly preserve enough exact and semantic
-> continuity to do useful work without rebuilding an indefinitely growing
-> transcript?
+> How does a bounded actor turn a much larger accessible information world into
+> useful action, and which information-processing function actually blocks it
+> when it fails?
+
+The longer-run systems question remains how exact and semantic continuity,
+working-state formation, action, effects, repair, and closure can remain useful
+without an indefinitely growing transcript.
 
 This is an information-economics question, not only a representation question.
 The marginal value and cost of information change with task phase, candidate
@@ -22,9 +27,9 @@ alter the future system they are evaluated in.
 
 The durable external system may preserve all authoritative bytes, versions,
 events, effects, hashes, and bindings. Model-facing residency remains bounded.
-Any sustainable candidate must therefore replace resident state, recompose a
-bounded state, decompose work, or combine mechanisms that have independently
-earned a role.
+Replacement, recomposition, and decomposition are structural ways to avoid
+unbounded accumulation, not an earned semantic design or a complete list of
+the model behaviors the program must understand.
 
 The research program does not choose that architecture in advance.
 The dynamic frame and accounting rules are maintained in
@@ -42,9 +47,27 @@ Every program claim must carry one of these statuses:
   justify a bounded test.
 - **IN — inconclusive treatment:** a measured formulation was censored or
   underexposed before its planned behavioral comparison became evaluable.
+- **NQ — not qualified:** a planned comparison failed a prospective
+  eligibility, parity, capacity, or design gate before the behavioral treatment.
 - **UT — untested mechanism:** plausible design idea with no earned result.
 
 “Supported” without one of these scopes is not sufficient for promotion.
+
+## Current research phase
+
+The active phase is structured exploration, not optimization of a known
+context architecture. The program will use a minimal validity envelope to map
+large-world discovery, relationship assembly, action formation, work-product
+persistence, effect uptake, repair, and closure across materially different
+authentic worlds.
+
+Discovery probes may be small and may use cheap controlled contrasts, but their
+claims remain local. Expensive mechanism tuning and architecture promotion wait
+for a consequential functional endpoint to recur in at least two independent
+worlds. Seeds or packet variants from one donor are not independent recurrence.
+
+The active protocol and initial map are
+`STRUCTURED_EXPLORATION_ROADMAP.md` and `CAPABILITY_TERRAIN_MAP.md`.
 
 ## Current position
 
@@ -111,6 +134,13 @@ Every program claim must carry one of these statuses:
   and feasible in 2/2 seeds, but the managers released 6,527 and 6,956 prompt
   tokens for deficits of only 394 and 1,045. Both next actors immediately
   requested the same released source and 0/2 preserved the incumbent decision.
+- **LR:** a fresh Ceiba pressure-qualified continuation exercised deterministic
+  first-fit relief over 18 calls in each of two seed variants. Each trajectory
+  resolved ten later pressure events through sixteen substitutions, made sixteen
+  novel source reads and two rejected over-range reads, and made no reopen,
+  mutation, check, or submission. The actor-call budget ended while required
+  evidence remained incomplete. The two model-facing trajectories were
+  identical at one donor boundary and are not independent-world recurrence.
 - **LR:** two independent seeds produced complete bounded plain-text semantic
   digests of one 8,063-byte source at 190 and 218 tokens without fabrication or
   material reversal. The prospectively source-located second audit preserved
@@ -284,23 +314,28 @@ retention, but it is not responsible for preventing the management interface
 from becoming unreachable. The reserve size must be derived prospectively from
 the frozen maintenance surface, not selected after observing an outcome.
 
-## Experimental incumbent
+## Mechanical reference baseline
 
-Until another mechanism beats it, the incumbent is:
+When authentic result-delivery pressure is part of the capability question, the
+qualified mechanical comparator is:
 
 ```text
 exact external custody
 + ordinary chronology while it fits
 + host-owned response and control reserves
-+ minimum-necessary deterministic pressure response
++ deterministic first-fit pressure response under a frozen scan order,
+  stopping immediately at feasibility
 + exact reopen on actor demand
-+ exact bounded reentry when history itself becomes the burden
++ exact bounded reentry only as an unpromoted fallback when the declared
+  relief class is insufficient
 + independent candidate/task/evidence-bound evaluation
 ```
 
-Optional semantic state is not part of the incumbent.
-The exact policy candidate and whole-method comparison boundary are specified
-in `MINIMAL_EARNED_POLICY_V0.md`.
+Optional semantic state is not part of this reference condition. That does not
+make it globally disfavored or require every new probe to beat this baseline.
+The historical policy candidate and whole-method comparison boundary remain in
+`MINIMAL_EARNED_POLICY_V0.md`; the evaluated pressure instrument is
+`REACTIVE_RUNTIME_POLICY_V1.md`.
 
 ## Completed mechanism-scouting sequence
 
@@ -965,11 +1000,13 @@ preserved the incumbent next decision. Dedicated mode therefore solved the
 control-plane race but did not produce a stable or minimum-necessary working
 set in this formulation. No prompt-tuning successor is selected.
 
-### Program-phase disposition after E35
+### Program-phase disposition after E36
 
-The program has completed mechanism scouting and the first whole-method scout.
+Incremental tuning at the completed donor boundaries is closed. The program has
+not completed broad capability discovery and has not selected an architecture.
 Unknown variants remain, but there is no unresolved same-boundary prompt/layout
-obligation that should precede a pressure-qualified successor. In particular:
+obligation that should precede a lateral survey of independent task worlds. In
+particular:
 
 - fixed host-selected exact-layout tuning is closed at the current endpoints;
 - structured-frontier interface repair is closed;
@@ -981,14 +1018,30 @@ obligation that should precede a pressure-qualified successor. In particular:
 - deeper recent-`N` tails are deferred because they risk restating accumulated
   chronology without a principled boundary.
 
-The completed scout found no authentic pressure: total-world size qualified the
-wrong geometry, and scheduled call-count reentry was the only treatment
-operation exercised. The next candidate phase is offline qualification of an
-authentic prospective-overflow fork against the reactive v1 policy. This is a
-compound pressure-response test, not another claim that one representation is
-globally best. No GPU calls are authorized by this routing decision.
+The first whole-method scout found no authentic pressure: total-world size
+qualified the wrong geometry, and scheduled call-count reentry was the only
+treatment operation exercised. E36 then supplied the missing fresh pressure
+boundary. First-fit relief repeatedly preserved operability and novel evidence
+ingress, but no artifact work occurred before the call budget ended.
 
-## Candidate mechanism families
+That result closes another receipt-only horizon as the default route. It does
+not prove semantic forgetting or acquisition-stopping failure because mandatory
+evidence remained incomplete. It instead motivates a research-phase reset:
+map how models discover, assemble, act, externalize work, absorb effects, repair,
+and close across materially different authentic worlds before optimizing a
+resident-state mechanism.
+
+The active direction is `STRUCTURED_EXPLORATION_ROADMAP.md`. Candidate mechanism
+families below are retained as a hypothesis catalog, not a queue. No GPU calls
+are authorized by this routing decision.
+
+## Candidate mechanism families — historical hypothesis catalog
+
+The families below preserve the option space generated by earlier work. They
+are not the active roadmap, natural architecture modules, or automatic
+successors. A family becomes a confirmation target only after the capability
+boundary it addresses recurs across independent worlds or a small discovery
+probe makes a distinct causal question especially informative.
 
 ### A. Deterministic exact-state recomposition
 
@@ -1083,20 +1136,47 @@ by itself an earned reentry trigger. The live successor question is reactive
 reentry only after an authentic mechanical pressure defeats the declared
 first-fit relief class.
 
-## Common experiment protocol
+## Tiered experimental protocol
 
-Each measured treatment must use an authentic frozen pressure boundary and
-hold fixed task, exact world/candidate, model package, quantization, runtime,
-template, sampler, reasoning setting, tools, hard context, response reserve,
-one attempt, and zero retries unless one item is explicitly the treatment.
+Every measured cell retains the minimal validity envelope: exact task and
+starting world, model/runtime/profile, complete model-visible transcript,
+one attempt with no hidden retry, hard resource limits, exact action/result/
+candidate/effect custody, independent artifact evaluation when utility or
+closure is claimed, and no post-outcome cell alteration.
 
-Each treatment must also state the operational regime, co-resident
-configuration, known semantic-loss vector, feedback horizon, and boundary
-conditions under which the intervention's value could reverse.
+### Discovery probe
 
-Record:
+A discovery probe uses the simplest apparatus capable of truthfully observing
+one broad capability. It need not occur at a context-pressure boundary. Freeze
+the task/world, visible inputs and tools, model/runtime, horizon, stop rule, and
+primary observable. The task geometry and action interface must give the
+capability a credible opportunity to appear; breadth does not justify an
+underpowered call budget or an expression surface that dominates the question.
 
-- exact pressure and capacity predicate;
+A cheap controlled contrast may itself be exploratory. It supports only a
+local descriptive or immediate causal claim and does not waive the
+independent-world recurrence gate for later optimization or promotion.
+
+### Confirmation experiment
+
+Confirmation normally follows a practically important endpoint that has
+recurred in at least two independent worlds. It restores matched arms, one-
+change causal isolation where possible, prospective replication, cache/process
+parity, complete cost accounting, and the stronger governance package.
+
+If pressure response is the treatment, use an authentic frozen pressure
+boundary and hold fixed task, exact world/candidate, model package,
+quantization, runtime, template, sampler, reasoning setting, tools, hard
+context, response reserve, one attempt, and zero retries unless one item is
+explicitly the treatment.
+
+Each confirmation treatment must also state the operational regime,
+co-resident configuration, known semantic-loss vector, feedback horizon, and
+boundary conditions under which the intervention's value could reverse.
+
+For the applicable tier, record:
+
+- exact pressure and capacity predicate when pressure is relevant;
 - representation, mode, trigger, and owner;
 - exact maintenance input and output;
 - bytes/tokens replaced, retained, and externally reopenable;
@@ -1175,11 +1255,18 @@ separate outcome classes.
 
 ## Promotion rule
 
+A broadly similar consequential endpoint should recur in at least two
+independent task worlds before the program invests in expensive mechanism
+optimization. Different seeds, serializations, or continuations of one donor
+do not satisfy that gate. A small controlled discovery contrast remains allowed
+before recurrence when its claim and cost are narrow.
+
 A mechanism earns an architecture role only after it demonstrates a recurring
-positive effect, known trigger and preconditions, clear owner, bounded resident
-cost, exact recovery, acceptable semantic and cache/latency cost, downstream
-artifact or meaningful operability benefit, and a close transfer beyond one
-exact trajectory.
+positive effect across independent worlds, known trigger and preconditions,
+clear owner, bounded resident cost, exact recovery, acceptable semantic and
+cache/latency cost, downstream artifact or meaningful operability benefit, and
+a close transfer beyond one exact trajectory. It must also survive an adverse
+or safety-relevant boundary appropriate to the function it controls.
 
 For adaptive policies, promotion also requires a bounded feedback rule, known
 failure/reversal regimes, cumulative cost accounting, and evidence that local

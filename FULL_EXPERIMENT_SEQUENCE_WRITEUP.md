@@ -2,8 +2,8 @@
 
 Date: 2026-08-22
 
-Status: evidence-bounded program narrative through E34; no new behavioral
-evidence and no GPU authorization
+Status: evidence-bounded program narrative through E36; no new inference or GPU
+authorization
 
 ## What we learned
 
@@ -206,12 +206,16 @@ reopens, or fast submission.
 ## Program scale and experimental discipline
 
 The original parent bank contained 42 exactly replayed model requests. Through
-the fresh-task scout, 27 successor stages represent another 155 measured model
-calls and 1,903,249 serialized tokens, including the four imported outline-
-continuation calls and all 71 executed scout calls. Zero-call eligibility,
-capacity, reconciliation, and cross-study audits are not included in that token
-total. The scout's replay-ineligible cell remains included as actual execution
-cost but not as qualified primary evidence.
+E36, 28 successor stages represent another 209 runner-qualified model calls and
+2,602,486 serialized tokens, including the four imported outline-continuation
+calls, all 71 executed whole-method scout calls, and 54 calls in the pressure-
+qualified study: 14 interface-qualification calls, four screening calls, and 36
+continuation calls. Zero-call eligibility, capacity, reconciliation, and cross-
+study audits are not included in that token total. The whole-method scout's
+replay-ineligible cell remains included as actual execution cost but not as
+qualified primary evidence. The pressure-scout total counts seed 43 and seed
+314159 once each and excludes the consumed backend generation from its aborted
+v0 launch because it was not runner-qualified.
 
 Successor studies used one-attempt, zero-retry rules, frozen model/runtime
 profiles, exact prompt accounting, sealed raw records, replay, direct transcript
@@ -810,12 +814,12 @@ The stopping rule is important: unknown does not mean owed. The next isolated
 mechanism should come from an exact failure observed under the whole-method
 incumbent, not from the infinite space of plausible prompt and memory variants.
 
-## Current program disposition
+## Stage-27 program disposition (historical checkpoint)
 
 The mechanism-scouting phase is closed. The v0 system scout is also closed.
 The earlier local audit found all 24 relevant
 repositories clean, published, and synchronized with their upstream branches.
-The current aggregate adds the fresh-task scout as stage 27. It records 155
+The aggregate at that checkpoint added the fresh-task scout as stage 27. It recorded 155
 follow-on model calls, 1,903,249 serialized tokens, and 23 unique cited
 experiment commits. These are execution totals, not independent task
 replications.
@@ -823,3 +827,65 @@ replications.
 The next eligible route is offline design of an authentic-pressure fork under
 the reactive v1 policy. No new experiment, task bank, call ceiling, or GPU run
 is authorized by this write-up.
+
+## 28. Pressure-qualified forward streaming: operability without cumulative work
+
+The later Ceiba scout supplied the authentic fresh pressure boundary missing
+from stage 27. Deterministic first-fit relief admitted the blocked pending result
+and repeatedly kept continuation feasible. Seed 314159 v2 has the separately
+qualified primary cell and aggregate. Seed 43's action/lifecycle history is
+post-freeze replay-qualified, while its primary v1 cell and aggregate remain
+sealed-aborted. Each 18-call history resolved ten later pressure events through
+sixteen substitutions and 80,497 cumulative recovered prompt tokens.
+
+The two model-facing sequences were identical despite the different seeds. They
+are variants of one task and donor boundary, not independent-world replication.
+Each sequence contained sixteen novel non-overlapping source reads, two rejected
+over-range reads, and no reopen, mutation, check, or submission. The actor-call
+budget ended while mandatory evidence remained incomplete and the next pending
+packet was feasible. Context capacity therefore remained active but was not the
+terminal resource.
+
+This was not the earlier reopen-thrashing regime. Exact evidence streamed
+forward while older bodies became identity/recovery receipts. At most three
+source bodies were exact-resident together, and no model-authored semantic or
+partial-work residue persisted. The result does not establish that the actor
+forgot earlier sources, failed to stop acquisition, or could not construct:
+the required evidence set had not finished crossing model boundaries.
+
+Its narrower systems lesson is stronger:
+
+```text
+keeping exact evidence entering
+!= assembling relationships
+!= externalizing cumulative work
+!= reaching useful action before another resource ends
+```
+
+Evidence: [pressure-qualified result](https://github.com/ScrappyTom/qwen38-pressure-qualified-lifecycle-scout-v1/commit/e4dcd58fa554e7e36b99e6cb454803cd099d2044).
+
+## Retrospective phase correction
+
+The preceding “next system test” and “next eligible route” sections record the
+program decision as it stood before stage 28. Stage 28 completed that route. It
+qualified first-fit relief for a narrow mechanical role and exposed diminishing
+returns from treating the pressure policy itself as the primary research
+object.
+
+The current phase is now structured exploration under a minimal validity
+envelope. The program will map, across materially different authentic worlds,
+where actors discover information, select it, assemble relationships, stop
+acquiring, form and express actions, externalize partial work, absorb effects,
+repair, and close. A consequential endpoint should recur in an independent
+world before expensive mechanism optimization or architecture promotion.
+
+Exact custody, complete model-visible transcript accounting, one attempt with
+no hidden retry, hard limits, exact candidate/effect identity, independent
+artifact evaluation, and preservation of null/negative cells remain strict.
+Solution-specific schemas, roles, state objects, routers, and promotion ladders
+remain provisional and should be added only when needed to observe a question
+truthfully.
+
+The active plan is `STRUCTURED_EXPLORATION_ROADMAP.md`. It authorizes offline
+capability-terrain reindexing and probe design only. No GPU run or automatic
+successor is authorized.

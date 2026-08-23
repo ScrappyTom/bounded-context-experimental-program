@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
-Date: 2026-08-22
-Status: current program synthesis; v0 system scout complete and reactive v1 pending qualification
+Date: 2026-08-23
+Status: current program synthesis; structured capability discovery active
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -10,9 +10,9 @@ The detailed learned-first narrative for every phase is
 
 The program has enough component evidence to stop searching the current donor
 trajectories for a slightly better exact layout, eviction prompt, digest format,
-frontier schema, or maintenance dialogue.
+frontier schema, maintenance dialogue, or longer receipt-only horizon.
 
-The strongest earned result is a mechanical safety and lifecycle substrate,
+The strongest earned result is a mechanical observation and safety substrate,
 not a reliable end-to-end task-performance architecture:
 
 ```text
@@ -21,17 +21,30 @@ exact external custody
 + host-owned response and control reserves
 + deterministic first-fit pressure relief under a frozen scan order
 + exact reopen on actor demand
-+ reactive exact phase reentry only when declared relief is insufficient
++ reactive exact reentry as an unpromoted fallback when declared relief is
+  insufficient
 ```
 
 Independent candidate/task/evidence-bound evaluation is mandatory common
 governance, not part of the runtime treatment.
 
-This is an experimental incumbent, not a promoted general architecture. The
-first fresh-task scout is complete. It did not activate pressure relief and
-therefore did not answer the full-system question; it did show that scheduled
-low-occupancy reentry is not an earned default. The next valid comparison must
-qualify on realized pressure and fork an authentic ordinary boundary.
+This is a qualified mechanical comparator, not the architecture incumbent. The
+first fresh-task scout showed that scheduled low-occupancy reentry is not an
+earned default. The later pressure-qualified Ceiba scout then exercised
+first-fit relief repeatedly on a fresh large-world task. It maintained physical
+operability for 18 continuation decisions without immediate reopen churn, but
+the actor made 16 novel reads, two rejected reads, and no mutation, check, or
+submission. Capacity remained active but was no longer terminal; the call
+budget became terminal while required evidence remained incomplete.
+
+The result shifts the active question. The program already knows that exact
+bytes can keep entering. It does not yet know, across diverse worlds, where
+discovery, relationship assembly, intended-action formation, cumulative work,
+effect uptake, repair, and closure succeed or fail. The active route is now
+structured breadth-first exploration under the fixed validity envelope in
+`STRUCTURED_EXPLORATION_ROADMAP.md`. The provisional cross-study view is
+`CAPABILITY_TERRAIN_MAP.md`. Confirmation and expensive optimization follow
+only after an important functional boundary recurs independently.
 
 ## Loose-ends audit
 
@@ -48,20 +61,21 @@ work that blocks the next program phase:
   candidate-bound adjudication ledger; and
 - the cross-study analysis and dedicated-maintenance study are both complete.
 
-The remaining questions have different dispositions:
+The remaining questions have different dispositions. They are a hypothesis
+inventory, not a queue:
 
-| Question | Disposition | Why it does not block whole-method validation |
+| Question | Disposition | Why it is not the automatic next optimization |
 |---|---|---|
 | Strict post-delivery outline demotion | Blocked by absent eligible fork | Both authentic full-outline boundaries contain a final result that had not crossed a model decision boundary; later packets no longer contain the full outline. |
 | H05 ready/not-ready close transfer | Blocked by absent matching donor | The donor search found no fresh pair with independently frozen readiness and the same stable-evidence/no-progress phenotype. |
 | Deeper fixed causal tail | Deferred | A chosen depth risks recreating recent-`N` chronology and is not justified by a new pressure boundary. |
-| Working-note lifecycle and compaction | Open but optional | Tested expression paths did not qualify utility; the earned mechanical incumbent does not depend on a note. |
+| Working-note lifecycle and compaction | Open but optional | Tested expression paths did not qualify utility; another note format is not selected until an independently recurring continuity boundary makes it diagnostic. |
 | More digest variants | Open but deprioritized | One package was semantically active but economically negative; another format/source/regime is possible but not presently demanded. |
 | More progress-state variants | Open but safety-constrained | The first package caused premature closure; readiness discrimination requires an eligible independently adjudicated boundary. |
 | Model-managed residency prompt variants | Current route closed | Passive controls did not activate; dedicated mode made selection reachable but produced over-release and immediate demand for the released source. |
-| Host-enumerated minimal-release semantic tie-break | Distinct but optional | It would isolate selection identity while keeping relief amount host-owned, but the mechanical incumbent already works locally. Test only if whole-method failure implicates release identity. |
+| Host-enumerated minimal-release semantic tie-break | Distinct but optional | It would isolate selection identity while keeping relief amount host-owned, but the mechanical baseline already works locally. Test only if independent worlds implicate release identity. |
 | Automatic phase selection and arbitrary decomposition | Open and removed from default | The v0 scout's fixed-call phase schedule fired before task-state completion and at low occupancy. Reactive v1 does not reset context merely because a phase label/call number arrived. |
-| Deterministic chronology folding beyond current materialization | Open | It may later reduce reentry cost, but is not required to test the current incumbent. |
+| Deterministic chronology folding beyond current materialization | Open | It may later reduce reentry cost, but no current discovery route assumes it. |
 
 “Open” means scientifically unknown. It does not mean selected, owed, or
 authorized.
@@ -88,9 +102,11 @@ authorized.
 | Task-authored scheduled phase reentry might add end-to-end value. | At two fixed call boundaries per treatment trajectory it reduced cache reuse, sometimes interrupted causal continuity, and produced no qualified completion lead. | Remove scheduled low-pressure reentry; retain only reactive reentry against an authentic mechanical pressure or external authority transition. |
 | Exact evaluator replay requires the external world to reproduce byte-for-byte. | Candidate-generated UUID text caused one literal replay mismatch while behavior, defect class, candidate, and repair remained stable. | Preserve exact raw result custody separately from a prospectively deterministic candidate-bound model-visible diagnostic. |
 
-## Ownership split earned by the evidence
+## Provisional ownership split for the mechanical comparator
 
-The evidence supports a conservative division of responsibility.
+The evidence supports a conservative division of responsibility for the
+current mechanical comparator. It does not prove that these are the final
+semantic roles of a general architecture.
 
 Host-owned mechanical responsibilities:
 
@@ -107,18 +123,20 @@ Common experimental governance owns candidate/task/evidence-bound evaluation,
 readiness reconciliation, replay, and adjudication lineage. It scores both arms
 identically and is not model-visible in scout v0.
 
-Model-owned semantic responsibilities:
+Ordinary-actor responsibilities in the comparator:
 
 - ordinary task actions;
 - interpretation of exact evidence;
 - actual reads and reopens, which reveal current demand;
 - construction, repair, and submission proposals; and
-- optional semantic state only when a later experiment establishes its value and
-  safety under a named trigger.
+- any model-authored semantic state only when a discovery or later confirmation
+  makes that arrangement the question under test.
 
-The host should not infer semantic relevance merely to choose an eviction. The
-model should not be responsible for noticing or repairing a hard overflow at
-the last possible token.
+The host should not infer semantic relevance merely to choose an eviction in
+the comparator. The model should not be responsible for noticing or repairing
+a hard overflow at the last possible token. Discovery probes may still test
+different ownership arrangements explicitly; they do not become defaults by
+being tested.
 
 ## Mechanism-scoping conclusion
 
@@ -136,7 +154,7 @@ The firmer operational conclusion is narrower:
 That stopping rule prevents logical uncertainty from becoming an indefinitely
 extensible prompt-tuning program.
 
-## Completed scout and next program phase
+## Completed scouts and current program phase
 
 `qwen38-fresh-task-whole-method-scout-v0` completed 71 actor calls. Seven cells
 passed exact replay; one remains sealed observational evidence after a
@@ -149,12 +167,38 @@ reopen, or high-occupancy reentry occurred. Treatment only performed scheduled
 call-count reentry. The scout therefore retires that operation without
 overturning prior pressure-relief evidence.
 
-The next direction is
-`NEXT_EXPERIMENT_PRESSURE_QUALIFIED_LIFECYCLE_SCOUT_V1.md`, governed by
-`REACTIVE_RUNTIME_POLICY_V1.md`. It requires a non-measured ordinary screen that
-reaches authentic prospective result overflow, then freezes the exact boundary
-for measured control/treatment forks. Total-world size cannot qualify a task.
+That pressure-qualified design was subsequently executed on one fresh Ceiba
+charter task. Seed 314159 v2 has the separately qualified primary cell and
+aggregate. Seed 43's action/lifecycle history is post-freeze replay-qualified,
+while its primary v1 cell and aggregate remain sealed-aborted. Both 18-call
+histories nevertheless have an identical model-facing action sequence. Each
+resolved ten later pressure events through sixteen substitutions and 80,497
+cumulative recovered prompt tokens. Across the horizon the actor
+made sixteen novel, non-overlapping source reads and two over-range requests;
+it did not reopen, mutate, check, or submit. At most three source bodies were
+exact-resident together, older bodies became identity/reopen receipts, and no
+model-authored semantic or partial-work residue persisted.
 
-No task or GPU call is authorized. Deterministic diagnostics, live action
-expression, decision budgets, fresh evaluators, parity, and the exact pressure
-fork must pass Stage 0 first.
+The two seeds are variants of one donor boundary, not independent-world
+recurrence. Required evidence remained incomplete when the call budget ended,
+so the result does not establish forgetting, acquisition-stopping failure,
+semantic insufficiency, convergence, or artifact utility. It does establish a
+fresh forward-streaming regime in which mechanical operability and evidence
+ingress continued while cumulative work was not observed.
+
+The pressure contract is preserved historically in
+`NEXT_EXPERIMENT_PRESSURE_QUALIFIED_LIFECYCLE_SCOUT_V1.md`; the exact result is
+recorded as E36. `REACTIVE_RUNTIME_POLICY_V1.md` is now a reference pressure
+instrument rather than the selected successor architecture.
+
+The current phase is structured exploration. Immediate work is offline:
+
+1. reindex existing evidence into a lightweight capability-terrain view;
+2. reconstruct accessible, observed, literal-resident, semantically persistent,
+   and artifact-persistent state at relevant decisions;
+3. select a small diversity-first portfolio across independent task worlds and
+   work modes; and
+4. return a checkpoint memo for owner review before measured inference.
+
+No task or GPU call is authorized by this routing decision. No automatic
+successor follows from E36.

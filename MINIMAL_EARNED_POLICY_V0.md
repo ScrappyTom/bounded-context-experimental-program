@@ -3,9 +3,10 @@
 Date: 2026-08-22
 Status: historical v0 index; measured scout complete, scheduled reentry retired
 
-The current successor incumbent is
-[REACTIVE_RUNTIME_POLICY_V1.md](REACTIVE_RUNTIME_POLICY_V1.md). This file remains
-the exact index for the already measured v0 compound policy.
+[REACTIVE_RUNTIME_POLICY_V1.md](REACTIVE_RUNTIME_POLICY_V1.md) records the later
+mechanical pressure baseline. It is no longer the successor architecture or
+active research route. This file remains the exact index for the already
+measured v0 compound policy.
 
 The prior combined policy document has been split so the causal treatment is
 not confused with common evaluation governance:
@@ -49,6 +50,9 @@ configuration, not the necessity of every component. A loss routes the next
 study from the first genuinely new exact failure boundary.
 
 Its pressure-relief component never activated; scheduled low-occupancy reentry
-did and did not earn promotion. The next direction is a fresh authentic-pressure
-fork under [the v1 plan](NEXT_EXPERIMENT_PRESSURE_QUALIFIED_LIFECYCLE_SCOUT_V1.md).
-No GPU use is authorized by these documents.
+did and did not earn promotion. The later
+[pressure-qualified v1 plan](NEXT_EXPERIMENT_PRESSURE_QUALIFIED_LIFECYCLE_SCOUT_V1.md)
+was completed and qualified first-fit relief only for its narrow mechanical
+role. The active direction is now
+[structured exploration](STRUCTURED_EXPLORATION_ROADMAP.md). No GPU use is
+authorized by these documents.

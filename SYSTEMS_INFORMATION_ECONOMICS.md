@@ -1,6 +1,6 @@
 # Systems model for bounded information economics
 
-Date: 2026-08-21
+Date: 2026-08-23
 
 Status: program-level research frame; not a promoted runtime architecture
 
@@ -198,8 +198,11 @@ operation.
 
 ## Experimental consequences
 
-Every new experiment should still isolate one policy or representation change,
-but must also declare:
+In confirmation, isolate one policy or representation change where possible.
+In discovery, a compound arrangement is allowed when it is the simplest
+authentic situation that exposes a capability; the supported claim is then
+descriptive and applies to the complete arrangement rather than an isolated
+mechanism. Both tiers must declare:
 
 - the dynamic state and regime where the change occurs;
 - why the object's marginal value or cost may differ there;
@@ -233,25 +236,27 @@ feedback is the research question. Do not use an arbitrarily long rollout to
 hide an ambiguous first effect, and do not use a one-turn test when the claimed
 mechanism is amortization, recovery, or lifecycle stability.
 
-## Current layered candidate—not architecture
+## Provisional function inventory—not a stack
 
-The evidence motivates, but does not promote, this decomposition:
+The evidence motivates investigation of these functions, but does not establish
+that they should be permanent layers, separate calls, named roles, or one
+pipeline:
 
 ```text
-exact external custody
-    + mechanical current state
-    + selected exact working objects
-    + source/version-bound lossy semantic derivatives
-    + protected host-owned control capacity
-    -> bounded actor context
-    -> exact reopen and maintenance on demand
+exact custody and current-world binding
+information discovery and selection
+relationship and qualification assembly
+bounded working-state formation
+substantive action and work-product externalization
+effect uptake, feedback, repair, and closure
 ```
 
-Mechanical state should carry exact candidate/version/effect/check facts where
-the host can establish them. Source digests may be better suited to meaning,
-relationships, qualifications, and unresolved implications. This division is a
-hypothesis earned by the observed compression pattern, not a fixed four-field
-prompt or a complete context manager.
+The existing mechanical baseline can carry exact candidate/version/effect/check
+facts where the host can establish them. Whether semantic continuity is best
+carried by ordinary history, selected exact evidence, a model-authored
+derivative, partial work product, bounded subtask, fresh reviewer, or another
+arrangement remains open. The function labels are an observational lens, not a
+fixed four-field prompt or complete context manager.
 
 ## Recent systems-frame experiments
 
@@ -456,9 +461,75 @@ criterion status, candidate binding, readiness, and a raw handle while exact
 UUID/time/path bytes remain external. This is deterministic materialization,
 not semantic repair.
 
-The program now moves from the completed v0 scout to pressure-qualified reactive
-validation. `PROGRAM_RECONCILIATION.md` records the updated synthesis.
-`REACTIVE_RUNTIME_POLICY_V1.md` removes scheduled reentry and preserves the
-host-owned pressure substrate. Logical uncertainty about notes, digests,
-progress state, alternative eviction objectives, and automatic phase selection
-remains; none is automatically the next experiment.
+## Pressure-qualified streaming result
+
+The later Ceiba scout activated authentic prospective overflow and therefore
+separated pressure mechanics from scheduled phase policy. Deterministic
+first-fit relief repeatedly kept the trajectory feasible: each 18-call
+continuation resolved ten later pressure events through sixteen substitutions
+and 80,497 cumulative recovered prompt tokens.
+
+The actor did not enter the earlier reopen-thrashing regime. It made sixteen
+novel source reads and two over-range requests, with no reopen, mutation, check,
+or submission. Across the visible 18 result records, 322,887 exact result-record
+bytes crossed model boundaries; the underlying source slices totaled 312,865
+bytes. At most three full source bodies were exact-resident together, and a body
+later demoted remained resident for only one to four continuation decisions.
+Identity and recovery survived in receipts; no content-bearing model-authored
+semantic derivative or partial work product survived with them.
+
+This configuration was physically stable and cognitively underdetermined. The
+actor-call budget ended before mandatory S12 and S14 evidence, construction,
+effect uptake, verification, and closure could all occur. No reopen during
+acquisition does not establish semantic continuity, and no mutation before
+evidence completion does not establish acquisition-stopping failure.
+
+The systems result is therefore a throughput decomposition:
+
+```text
+useful bounded work is limited jointly by
+    information acquisition bandwidth
+    model-facing residency
+    relationship/integration bandwidth
+    decision/action bandwidth
+    work-product externalization
+    effect uptake
+    verification and closure
+```
+
+Increasing context operability can move the terminal resource to decisions or
+integration without improving the artifact. Receipt-only relief remains a
+useful mechanical baseline; it is not the active architecture hypothesis.
+
+## Research-allocation economics
+
+Experiments consume option value as well as tokens. Repeatedly refining one
+boundary can produce excellent local knowledge while leaving the task/world and
+functional coverage too narrow to choose an architecture. Apparatus investment
+also has switching cost: every new schema, role, state object, router, or
+promotion ladder makes later lateral exploration more expensive and encourages
+the program to defend the representation it already built.
+
+The allocation policy is now:
+
+- use small discovery probes to buy information about materially different
+  capability boundaries and operating regimes;
+- preserve exact validity controls while keeping solution-specific apparatus
+  minimal;
+- treat a valid negative as information and move laterally unless the question
+  was obscured by a validity-dominating apparatus defect;
+- require a consequential functional endpoint to recur in at least two
+  independent worlds before expensive optimization or architecture promotion;
+- do not count seeds or packet variants from one donor as independent
+  recurrence; and
+- stop for owner review when evidence changes the conceptual map rather than
+  automatically manufacturing a successor.
+
+A cheap controlled contrast may still be a discovery probe before recurrence.
+Its claim remains local. One or two calls are appropriate only for immediate
+effects; demand, effect uptake, repair, amortization, and lifecycle claims need
+the shortest horizon that can actually expose them.
+
+`STRUCTURED_EXPLORATION_ROADMAP.md` governs the active phase. The intended
+product is a capability-terrain map and a small set of recurring consequential
+boundaries, not a polished context runtime.

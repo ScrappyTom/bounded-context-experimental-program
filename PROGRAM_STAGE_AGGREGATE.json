@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 27 successor stages through E35",
+  "scope": "parent bank plus 28 successor stages through E36",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 27,
-    "follow_on_model_calls": 155,
-    "follow_on_serialized_tokens": 1903249,
-    "unique_cited_experiment_commits": 23
+    "successor_stages": 28,
+    "follow_on_model_calls": 209,
+    "follow_on_serialized_tokens": 2602486,
+    "unique_cited_experiment_commits": 24
   },
   "stages": [
     {
@@ -289,6 +289,17 @@
       "serialized_tokens": 266058,
       "included_in_follow_on_totals": true,
       "primary_disposition": "seven cells exact-replay qualified and one observational; scheduled low-occupancy reentry not promoted; pressure relief unexercised"
+    },
+    {
+      "stage_id": "S28",
+      "name": "fresh-task pressure-qualified first-fit continuation",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-pressure-qualified-lifecycle-scout-v1", "result_commit": "e4dcd58fa554e7e36b99e6cb454803cd099d2044", "count_as_experiment_commit": true}],
+      "model_calls": 54,
+      "serialized_tokens": 699237,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "first-fit repeatedly preserved physical operability and novel evidence ingress; no reopen or artifact progress; actor-call budget ended with required evidence incomplete",
+      "accounting_note": "Counts 14 qualified live action-interface calls (3,195 tokens), 4 pressure-screen calls (38,030 tokens), the 18 post-freeze action/lifecycle-qualified seed-43 continuation calls, and the 18 separately qualified seed-314159 v2 continuation calls exactly once. Excludes the earlier consumed backend generation from the aborted v0 launch because it was not runner-qualified."
     }
   ]
 }

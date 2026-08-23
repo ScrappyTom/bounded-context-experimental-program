@@ -16,23 +16,23 @@ Claim-level custody and promotion status are recorded in
 [EVIDENCE_LEDGER.md](EVIDENCE_LEDGER.md).
 The dynamic research frame is defined in
 [SYSTEMS_INFORMATION_ECONOMICS.md](SYSTEMS_INFORMATION_ECONOMICS.md).
-The current planned-versus-learned and loose-ends audit is
-[PROGRAM_RECONCILIATION.md](PROGRAM_RECONCILIATION.md). The smallest policy
-candidate earned for whole-method testing is indexed in
-[MINIMAL_EARNED_POLICY_V0.md](MINIMAL_EARNED_POLICY_V0.md), with its historical runtime and
-common governance separated into
-[MINIMAL_RUNTIME_POLICY_V0.md](MINIMAL_RUNTIME_POLICY_V0.md) and
+The current planned-versus-learned audit is
+[PROGRAM_RECONCILIATION.md](PROGRAM_RECONCILIATION.md). The active research
+direction is the breadth-first
+[structured exploration roadmap](STRUCTURED_EXPLORATION_ROADMAP.md), grounded
+in the provisional [capability terrain map](CAPABILITY_TERRAIN_MAP.md).
+[REACTIVE_RUNTIME_POLICY_V1.md](REACTIVE_RUNTIME_POLICY_V1.md) is retained as a
+qualified mechanical pressure baseline, not as the architecture incumbent.
+The earlier whole-method policy and governance contracts remain historical in
+[MINIMAL_EARNED_POLICY_V0.md](MINIMAL_EARNED_POLICY_V0.md),
+[MINIMAL_RUNTIME_POLICY_V0.md](MINIMAL_RUNTIME_POLICY_V0.md), and
 [MANDATORY_EXPERIMENTAL_GOVERNANCE.md](MANDATORY_EXPERIMENTAL_GOVERNANCE.md).
-The post-scout incumbent is
-[REACTIVE_RUNTIME_POLICY_V1.md](REACTIVE_RUNTIME_POLICY_V1.md), and the next
-offline design gate is
-[NEXT_EXPERIMENT_PRESSURE_QUALIFIED_LIFECYCLE_SCOUT_V1.md](NEXT_EXPERIMENT_PRESSURE_QUALIFIED_LIFECYCLE_SCOUT_V1.md).
 The learned-first narrative covering the full experiment sequence is
 [FULL_EXPERIMENT_SEQUENCE_WRITEUP.md](FULL_EXPERIMENT_SEQUENCE_WRITEUP.md).
-The one-time machine aggregate and recomputation receipt are
+The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-All 22 cited experiment commit bindings were also resolved through the named
+All 24 cited experiment commit bindings were also resolved through the named
 local Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -41,94 +41,32 @@ The completed S3 treatment contract is preserved in
 Each measured experiment remains a separately frozen, auditable repository.
 Adding a candidate mechanism here does not authorize or promote it.
 
-Current route: component scouting is closed at the tested endpoints. This
-includes host-selected exact-layout and frontier-schema tuning and the current
-model-owned eviction route. Passive workspace controls did not activate before
-censoring; dedicated maintenance made selection reachable, but both managers
-over-released and both next actors immediately requested the released source.
-This is not a universal disproof of model-managed residency. It is enough to
-stop treating another manager prompt as the default next experiment.
+## Current route
 
-Two independent seeds produced complete bounded source digests through the
-simple text surface (190 and 218 tokens). S3 then placed the known-lossy
-218-token digest package into its authentic seed-314159 repeat-reopen packet.
-The complete 720-token package changed the first recovery to the paired direct
-audit, but the next call made the exact historical whole-source reopen. It
-produced no mutation or artifact change and did not repay production,
-residency, or added recovery cost in the measured horizon. This is a local
-negative for this package at this boundary, not a general disproof of
-source-bound semantic digestion.
+The latest fresh pressure-qualified task confirmed that deterministic
+first-fit relief can sustain exact evidence ingress without immediate reopen
+thrash. Across each 18-call continuation, ten pressure events were resolved and
+the actor continued through novel source ranges. It did not mutate, check, or
+submit. The terminal resource was the actor-call budget, not context capacity.
 
-H05 is complete on one eligible effect-case boundary. A byte-identical control
-reproduced the exact resident-focus reread. A dedicated maintenance call then
-produced a grounded 169-token progress state; its complete 464-token bound
-package changed the first treated action to an admitted submission. The
-unchanged candidate was later reconciled by exact hash to an earlier frozen
-**strong partial** adjudication: 10 substantive requirement groups met and two
-partial. H05 is therefore a behavioral effect and premature-closure result, not
-a useful closure lead.
+That result closes receipt-only first-fit streaming as the program's default
+research route. It does not overturn its narrow mechanical value. Instead it
+shows why operability and cumulative cognition must be separated: exact bytes
+can keep entering while relationships, intended action, and partial work remain
+unobserved or unexternalized.
 
-The frozen contract is
-[NEXT_EXPERIMENT_H05_BOUNDED_PROGRESS_STATE_UTILITY.md](NEXT_EXPERIMENT_H05_BOUNDED_PROGRESS_STATE_UTILITY.md),
-and the sealed result remains in the
-[corrected standalone repository](https://github.com/ScrappyTom/qwen38-bounded-progress-state-utility-v0/commit/a3422cca49cb882ec252ba84903b856ba3cafc24).
+The program is now in structured exploration rather than architecture
+optimization. It will sample materially different authentic task situations,
+map where discovery, relationship assembly, action formation, expression,
+effect uptake, repair, and closure fail or succeed, and seek recurrence across
+independent worlds before expensive mechanism tuning or promotion.
 
-The close-transfer donor audit found no fresh closure-ready or defect-bearing
-cell with the same stable-evidence/no-progress phenotype. That transfer is
-blocked and consumed zero GPU calls. Any later continuation must freeze
-candidate readiness independently before treatment and test false-closure risk,
-not merely behavior change.
+The validity envelope remains strict: exact custody, complete model-visible
+history, one attempt with no hidden retry, hard limits, exact candidate/effect
+identity, independent quality evaluation, and no post-outcome cell alteration.
+Roles, schemas, semantic state, paging policies, and decomposition remain
+provisional hypotheses.
 
-A program-wide offline adjudication audit now locks the candidate, exact task,
-evidence, evaluation-basis status, criteria, readiness, blockers, and provenance
-lineage. It read 150 JSON files directly from the pinned older-bank Git commit
-and found 60 machine-scored occurrences covering 22 unique candidates with zero
-score conflicts. For the standalone navigation candidate, three active
-strong-partial records resolve to one independent semantic judgment lineage;
-the superseded H05 13/13 judgment remains historically visible but inactive.
-See
-[ARTIFACT_ADJUDICATION_CONSISTENCY_AUDIT.md](audits/ARTIFACT_ADJUDICATION_CONSISTENCY_AUDIT.md).
-
-A subsequent pinned-donor reconciliation stopped the proposed generic
-submission-readiness reflection and corrected H06's `untested` label. Older
-Qwen3.8 studies already tested complete false-closure audits, model-authored
-submission review, fresh-world phase reentry, and reserved exact handoffs.
-Their combined result is more informative than a renamed rerun: exact
-verification strongly activates repair but is not a complete repair method;
-fresh bounded phases can preserve continuity; and exact handoff does not ensure
-a selective action-ready working set. See
-[NEXT_ROUTE_PRIOR_EVIDENCE_RECONCILIATION.md](audits/NEXT_ROUTE_PRIOR_EVIDENCE_RECONCILIATION.md).
-
-The offline
-[cross-study information-economics episode ledger](analysis/INFORMATION_ECONOMICS_REPORT.md)
-is complete: 29 unique episodes, 11 declared comparisons, and 12 pinned source
-objects validate cleanly. It finds no global representation winner. Mechanical
-pressure relief is reliable; semantic and phase interventions have strongly
-configuration-dependent demand, quality, and closure effects.
-
-The dedicated maintenance-only exact-workspace study is now complete. Protected
-headroom made selection reachable and both outputs were mechanically feasible,
-but the managers removed far more than necessary; both subsequent actors
-immediately requested the same released source and neither preserved the
-incumbent next decision. See the
-[sealed standalone result](https://github.com/ScrappyTom/qwen38-dedicated-workspace-maintenance-v0/commit/44bade979d0ba1f1a2df3f2c919146c29d4c6868).
-The fresh-task whole-method scout is now complete. Seven cells replay exactly;
-one raw successful treatment cell remains observational because
-candidate-generated UUID text made literal evaluator reexecution differ. No
-trajectory activated pressure relief: prompts stayed below 10K tokens and the
-only treatment operation was scheduled call-count reentry. Qualified useful
-completion was control 2/4 and treatment 0/3, with mixed raw code evidence.
-
-The supported correction is narrow and consequential: unconditional
-low-occupancy reentry is removed from the default. It reduced cache reuse and
-sometimes disrupted causal continuity without solving an active capacity
-problem. Earlier pressure-triggered first-fit evidence remains intact.
-
-The next candidate phase is offline qualification of a pressure-forked reactive
-v1 scout. It requires realized prospective overflow, candidate-bound
-deterministic diagnostics over exact raw custody, current/stale observation
-bindings, a live-qualified action interface, and viable decision budgets. No
-GPU call is authorized.
-
-The program also treats protected management/control headroom as a host-owned
-apparatus invariant.
+No GPU run or measured successor is authorized by the roadmap. Immediate work
+is offline capability-terrain reindexing and a small diversity-first probe
+portfolio for owner review.
