@@ -1,7 +1,11 @@
 # Minimal runtime policy v0
 
 Date: 2026-08-22
-Status: experimental treatment candidate for a fresh-task scout; not a promoted architecture
+Status: measured v0 policy; scheduled-reentry component retired after scout E35
+
+> Historical policy lock: this document records the policy tested by the v0
+> scout. It is not the current incumbent. See
+> [REACTIVE_RUNTIME_POLICY_V1.md](REACTIVE_RUNTIME_POLICY_V1.md).
 
 ## Scope
 

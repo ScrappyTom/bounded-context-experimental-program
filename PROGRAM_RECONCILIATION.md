@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-22
-Status: current program synthesis; mechanism-scouting phase closed
+Status: current program synthesis; v0 system scout complete and reactive v1 pending qualification
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -21,17 +21,17 @@ exact external custody
 + host-owned response and control reserves
 + deterministic first-fit pressure relief under a frozen scan order
 + exact reopen on actor demand
-+ bounded exact phase reentry when chronology becomes the burden
++ reactive exact phase reentry only when declared relief is insufficient
 ```
 
 Independent candidate/task/evidence-bound evaluation is mandatory common
 governance, not part of the runtime treatment.
 
 This is an experimental incumbent, not a promoted general architecture. The
-next high-value question is whether these pieces improve complete operation on
-fresh tasks. If that whole method fails, the next isolated mechanism should be
-selected from its observed failure boundary—not from the remaining catalog of
-imaginable memory techniques.
+first fresh-task scout is complete. It did not activate pressure relief and
+therefore did not answer the full-system question; it did show that scheduled
+low-occupancy reentry is not an earned default. The next valid comparison must
+qualify on realized pressure and fork an authentic ordinary boundary.
 
 ## Loose-ends audit
 
@@ -60,7 +60,7 @@ The remaining questions have different dispositions:
 | More progress-state variants | Open but safety-constrained | The first package caused premature closure; readiness discrimination requires an eligible independently adjudicated boundary. |
 | Model-managed residency prompt variants | Current route closed | Passive controls did not activate; dedicated mode made selection reachable but produced over-release and immediate demand for the released source. |
 | Host-enumerated minimal-release semantic tie-break | Distinct but optional | It would isolate selection identity while keeping relief amount host-owned, but the mechanical incumbent already works locally. Test only if whole-method failure implicates release identity. |
-| Automatic phase selection and arbitrary decomposition | Open | Existing evidence supports task-authored bounded reentry, not a universal phase classifier. Initial whole-method validation can freeze phase rules prospectively. |
+| Automatic phase selection and arbitrary decomposition | Open and removed from default | The v0 scout's fixed-call phase schedule fired before task-state completion and at low occupancy. Reactive v1 does not reset context merely because a phase label/call number arrived. |
 | Deterministic chronology folding beyond current materialization | Open | It may later reduce reentry cost, but is not required to test the current incumbent. |
 
 “Open” means scientifically unknown. It does not mean selected, owed, or
@@ -84,6 +84,9 @@ authorized.
 | A dedicated maintenance turn might fix the reachability problem and reveal useful selection. | Reachability and feasibility passed in both seeds, but managers released 6.5–7.0K tokens for deficits of 394 and 1,045, and both actors immediately requested the released source. | Dedicated mode does not by itself make Qwen a useful cache allocator. Close open-ended model-owned eviction as the current route. |
 | Fewer calls, fewer reads, or earlier submission would indicate success. | The H05 correction reversed utility without changing raw behavior; premature closure looked efficient until exact candidate adjudication was reconciled. | Quality, readiness, and effect uptake must govern economics. |
 | One context representation might dominate. | Value repeatedly changed with phase, co-resident evidence, candidate state, and induced future demand. | Treat the system as adaptive, path-dependent information economics, not a ranking of static memory formats. |
+| A large accessible world would make a whole-method task diagnostic. | Both full worlds exceeded context, but realized prompts stayed below 10K and no pressure mechanism activated. | Stage 0 must qualify realized/prospective pressure, not repository size. |
+| Task-authored scheduled phase reentry might add end-to-end value. | At two fixed call boundaries per treatment trajectory it reduced cache reuse, sometimes interrupted causal continuity, and produced no qualified completion lead. | Remove scheduled low-pressure reentry; retain only reactive reentry against an authentic mechanical pressure or external authority transition. |
+| Exact evaluator replay requires the external world to reproduce byte-for-byte. | Candidate-generated UUID text caused one literal replay mismatch while behavior, defect class, candidate, and repair remained stable. | Preserve exact raw result custody separately from a prospectively deterministic candidate-bound model-visible diagnostic. |
 
 ## Ownership split earned by the evidence
 
@@ -96,7 +99,9 @@ Host-owned mechanical responsibilities:
 - response reserve and the treatment's exactly preflighted transition reserve;
 - deterministic first-fit pressure relief with immediate stop at feasibility;
 - deterministic receipt substitution and admission;
-- exact current-world and phase reentry mechanics.
+- exact current-world and reactive reentry mechanics;
+- exact observation-to-candidate currentness bindings; and
+- deterministic task-specific model-visible diagnostics over exact raw custody.
 
 Common experimental governance owns candidate/task/evidence-bound evaluation,
 readiness reconciliation, replay, and adjudication lineage. It scores both arms
@@ -131,22 +136,25 @@ The firmer operational conclusion is narrower:
 That stopping rule prevents logical uncertainty from becoming an indefinitely
 extensible prompt-tuning program.
 
-## Next program phase
+## Completed scout and next program phase
 
-The next candidate is `qwen38-fresh-task-whole-method-scout-v0`, governed by
-`MINIMAL_RUNTIME_POLICY_V0.md` and
-`MANDATORY_EXPERIMENTAL_GOVERNANCE.md`. It should compare ordinary
-bounded chronology against the smallest evidence-backed host policy on at least
-one large-document research/writing task and one multi-file code task, with two
-frozen seeds per condition if preflight supports the design.
+`qwen38-fresh-task-whole-method-scout-v0` completed 71 actor calls. Seven cells
+passed exact replay; one remains sealed observational evidence after a
+candidate-generated UUID changed literal evaluator stderr on replay. Qualified
+useful completion was control 2/4 and treatment 0/3, with one raw ineligible
+treatment completion.
 
-The scout is an initial system test, not architecture validation. Control and
-treatment share the same accessible world, permissions, exogenous phase inputs,
-and evaluator; their endogenous reads, observations, mutations, and effects may
-diverge. Treatment reentry may not add post-outcome investigator-selected
-evidence. A valid negative or harmful first seed does not cancel the second
-frozen seed.
+The central exposure correction governs interpretation: no result-body relief,
+reopen, or high-occupancy reentry occurred. Treatment only performed scheduled
+call-count reentry. The scout therefore retires that operation without
+overturning prior pressure-relief evidence.
 
-This document does not freeze those tasks or authorize GPU calls. Task
-construction, independent evaluation contracts, call ceilings, model profiles,
-and phase triggers must be qualified before an experiment is selected.
+The next direction is
+`NEXT_EXPERIMENT_PRESSURE_QUALIFIED_LIFECYCLE_SCOUT_V1.md`, governed by
+`REACTIVE_RUNTIME_POLICY_V1.md`. It requires a non-measured ordinary screen that
+reaches authentic prospective result overflow, then freezes the exact boundary
+for measured control/treatment forks. Total-world size cannot qualify a task.
+
+No task or GPU call is authorized. Deterministic diagnostics, live action
+expression, decision budgets, fresh evaluators, parity, and the exact pressure
+fork must pass Stage 0 first.

@@ -205,12 +205,13 @@ reopens, or fast submission.
 
 ## Program scale and experimental discipline
 
-The original parent bank contained 42 exactly replayed model requests. The
-parent bank plus 26 successor stages represented another 84 measured model calls
-across 19 call-bearing result stages, including the four imported outline-
-continuation calls. Their published totals sum to 1,637,191 serialized tokens.
-Zero-call eligibility, capacity, reconciliation, and cross-study audits are not
-included in that token total.
+The original parent bank contained 42 exactly replayed model requests. Through
+the fresh-task scout, 27 successor stages represent another 155 measured model
+calls and 1,903,249 serialized tokens, including the four imported outline-
+continuation calls and all 71 executed scout calls. Zero-call eligibility,
+capacity, reconciliation, and cross-study audits are not included in that token
+total. The scout's replay-ineligible cell remains included as actual execution
+cost but not as qualified primary evidence.
 
 Successor studies used one-attempt, zero-retry rules, frozen model/runtime
 profiles, exact prompt accounting, sealed raw records, replay, direct transcript
@@ -718,6 +719,46 @@ The sequence does not support any of these claims:
 Most negative results are formulation-, boundary-, and horizon-specific. Their
 program value comes from routing and ownership, not universal disproof.
 
+## 27. Fresh-task whole-method scout: the policy did not activate as intended
+
+The first fresh-task scout ran 71 actor calls across two tasks, two seeds, and
+two conditions. Seven cells passed exact replay. The eighth is sealed
+observational evidence: a treatment-generated candidate called `uuid.uuid4()`,
+and its failing unittest assertion printed a different UUID during independent
+reexecution.
+
+The run's most important fact is exposure, not the 2/4 versus 0/3 qualified
+completion count. No prompt exceeded 9,948 tokens against an approximately
+20,992-token allowance. No exact result body was demoted and no reopen occurred.
+Treatment only performed scheduled fresh reentry at fixed call boundaries.
+
+That scheduled operation reduced prefix-cache reuse in every pair and clearly
+harmed code seed 42: control tested, repaired, retested, and submitted a passing
+candidate; treatment entered verification with a stale failure and newer effect
+present as separate exact objects, rewrote again, and ended with a passing but
+unsubmitted candidate. One raw ineligible treatment completed earlier than its
+control, so the result is not a universal claim that reentry always harms.
+
+Research geometry was weak: nine calls had to cover multi-source acquisition,
+construction, effect uptake, review, repair, and submission, while 19/71 total
+responses were rejected. Total accessible-world size had qualified Stage 0,
+but realized actor demand never created pressure.
+
+The lesson is therefore:
+
+```text
+large accessible world != realized context pressure
+named phase != reason to reset context
+fresh reentry cost = tokens + lost cache + continuity risk
+```
+
+Scheduled low-occupancy reentry is retired. Earlier positive evidence for
+pressure-triggered first-fit relief is unchanged because the scout never invoked
+it. The successor must freeze an authentic prospective result-overflow boundary
+and compare from that exact fork.
+
+Evidence: [fresh-task scout](https://github.com/ScrappyTom/qwen38-fresh-task-whole-method-scout-v0/commit/56654598e26a49e502888c8f60fca06cf5f40335).
+
 ## What has earned a place in the next system test
 
 The smallest evidence-backed incumbent is:
@@ -729,7 +770,7 @@ exact external custody
 + deterministic first-fit relief of old delivered exact-backed results under a
   frozen scan order, stopping immediately at feasibility
 + exact reopen in response to actor demand
-+ bounded exact phase reentry when chronology becomes the burden
++ reactive exact phase reentry only when deterministic relief is insufficient
 ```
 
 Independent candidate/task/evidence-bound evaluation applies identically to
@@ -771,13 +812,14 @@ incumbent, not from the infinite space of plausible prompt and memory variants.
 
 ## Current program disposition
 
-The mechanism-scouting phase is closed. The local audit found all 24 relevant
+The mechanism-scouting phase is closed. The v0 system scout is also closed.
+The earlier local audit found all 24 relevant
 repositories clean, published, and synchronized with their upstream branches.
-There is no unresolved custody, replay, publication, or adjudication issue that
-blocks offline design of a fresh-task whole-method scout. The exact sequence
-aggregate is machine-readable in `PROGRAM_STAGE_AGGREGATE.json`; its frozen
-recomputation receipt records 26 successor stages, 84 follow-on model calls,
-1,637,191 follow-on serialized tokens, and 22 unique cited experiment commits.
+The current aggregate adds the fresh-task scout as stage 27. It records 155
+follow-on model calls, 1,903,249 serialized tokens, and 23 unique cited
+experiment commits. These are execution totals, not independent task
+replications.
 
-No new experiment, task bank, call ceiling, or GPU run is authorized by this
-write-up.
+The next eligible route is offline design of an authentic-pressure fork under
+the reactive v1 policy. No new experiment, task bank, call ceiling, or GPU run
+is authorized by this write-up.

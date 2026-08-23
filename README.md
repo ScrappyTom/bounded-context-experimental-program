@@ -19,10 +19,14 @@ The dynamic research frame is defined in
 The current planned-versus-learned and loose-ends audit is
 [PROGRAM_RECONCILIATION.md](PROGRAM_RECONCILIATION.md). The smallest policy
 candidate earned for whole-method testing is indexed in
-[MINIMAL_EARNED_POLICY_V0.md](MINIMAL_EARNED_POLICY_V0.md), with runtime and
+[MINIMAL_EARNED_POLICY_V0.md](MINIMAL_EARNED_POLICY_V0.md), with its historical runtime and
 common governance separated into
 [MINIMAL_RUNTIME_POLICY_V0.md](MINIMAL_RUNTIME_POLICY_V0.md) and
 [MANDATORY_EXPERIMENTAL_GOVERNANCE.md](MANDATORY_EXPERIMENTAL_GOVERNANCE.md).
+The post-scout incumbent is
+[REACTIVE_RUNTIME_POLICY_V1.md](REACTIVE_RUNTIME_POLICY_V1.md), and the next
+offline design gate is
+[NEXT_EXPERIMENT_PRESSURE_QUALIFIED_LIFECYCLE_SCOUT_V1.md](NEXT_EXPERIMENT_PRESSURE_QUALIFIED_LIFECYCLE_SCOUT_V1.md).
 The learned-first narrative covering the full experiment sequence is
 [FULL_EXPERIMENT_SEQUENCE_WRITEUP.md](FULL_EXPERIMENT_SEQUENCE_WRITEUP.md).
 The one-time machine aggregate and recomputation receipt are
@@ -108,12 +112,23 @@ but the managers removed far more than necessary; both subsequent actors
 immediately requested the same released source and neither preserved the
 incumbent next decision. See the
 [sealed standalone result](https://github.com/ScrappyTom/qwen38-dedicated-workspace-maintenance-v0/commit/44bade979d0ba1f1a2df3f2c919146c29d4c6868).
-No local mechanism-tuning successor is selected. The next candidate program
-phase is offline design of `qwen38-fresh-task-whole-method-scout-v0` using the
-minimal earned policy. The reliable incumbent is a mechanical
-safety/lifecycle substrate, not an end-to-end architecture. No GPU call is
-authorized until task geometry, phase parity, evaluators, exact transition
-reserve, and resource ceilings pass offline qualification.
+The fresh-task whole-method scout is now complete. Seven cells replay exactly;
+one raw successful treatment cell remains observational because
+candidate-generated UUID text made literal evaluator reexecution differ. No
+trajectory activated pressure relief: prompts stayed below 10K tokens and the
+only treatment operation was scheduled call-count reentry. Qualified useful
+completion was control 2/4 and treatment 0/3, with mixed raw code evidence.
+
+The supported correction is narrow and consequential: unconditional
+low-occupancy reentry is removed from the default. It reduced cache reuse and
+sometimes disrupted causal continuity without solving an active capacity
+problem. Earlier pressure-triggered first-fit evidence remains intact.
+
+The next candidate phase is offline qualification of a pressure-forked reactive
+v1 scout. It requires realized prospective overflow, candidate-bound
+deterministic diagnostics over exact raw custody, current/stale observation
+bindings, a live-qualified action interface, and viable decision budgets. No
+GPU call is authorized.
 
 The program also treats protected management/control headroom as a host-owned
 apparatus invariant.

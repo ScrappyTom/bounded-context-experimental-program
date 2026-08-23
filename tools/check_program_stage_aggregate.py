@@ -21,7 +21,7 @@ def verify(aggregate: dict[str, Any]) -> dict[str, Any]:
         stages = []
         failures.append("stages must be a list")
 
-    expected_ids = [f"S{index:02d}" for index in range(1, 27)]
+    expected_ids = [f"S{index:02d}" for index in range(1, 28)]
     observed_ids = [stage.get("stage_id") for stage in stages if isinstance(stage, dict)]
     if observed_ids != expected_ids:
         failures.append(f"stage IDs differ: {observed_ids!r}")

@@ -965,12 +965,11 @@ preserved the incumbent next decision. Dedicated mode therefore solved the
 control-plane race but did not produce a stable or minimum-necessary working
 set in this formulation. No prompt-tuning successor is selected.
 
-### Program-phase disposition after E34
+### Program-phase disposition after E35
 
-The program has completed the current mechanism-scouting phase. Unknown
-variants remain, but there is no unresolved custody, replay, adjudication, or
-same-boundary causal obligation that must be completed before a whole-method
-test. In particular:
+The program has completed mechanism scouting and the first whole-method scout.
+Unknown variants remain, but there is no unresolved same-boundary prompt/layout
+obligation that should precede a pressure-qualified successor. In particular:
 
 - fixed host-selected exact-layout tuning is closed at the current endpoints;
 - structured-frontier interface repair is closed;
@@ -982,10 +981,12 @@ test. In particular:
 - deeper recent-`N` tails are deferred because they risk restating accumulated
   chronology without a principled boundary.
 
-The next candidate phase is offline qualification of fresh whole trajectories
-against the minimal earned policy. This is a compound system test, not another
-claim that one representation is globally best. No GPU calls are authorized by
-this routing decision.
+The completed scout found no authentic pressure: total-world size qualified the
+wrong geometry, and scheduled call-count reentry was the only treatment
+operation exercised. The next candidate phase is offline qualification of an
+authentic prospective-overflow fork against the reactive v1 policy. This is a
+compound pressure-response test, not another claim that one representation is
+globally best. No GPU calls are authorized by this routing decision.
 
 ## Candidate mechanism families
 
@@ -1073,6 +1074,15 @@ whether fresh bounded phases are possible; it is when to invoke them, how to
 bound navigation/reacquisition cost, and how to preserve integration when the
 phase boundary is not already supplied by the task.
 
+The fresh-task whole-method scout adds a sharper trigger result. Scheduled
+call-count reentry fired twice per treatment trajectory while every prompt was
+below 10,000 tokens and no pressure relief occurred. It reduced cache reuse in
+every pair, produced no qualified completion lead, and disrupted one qualified
+code continuation. Therefore a task-authored phase name or call number is not
+by itself an earned reentry trigger. The live successor question is reactive
+reentry only after an authentic mechanical pressure defeats the declared
+first-fit relief class.
+
 ## Common experiment protocol
 
 Each measured treatment must use an authentic frozen pressure boundary and
@@ -1155,6 +1165,13 @@ separate outcome classes.
 - Immediate and cumulative outcomes must be reported separately when the
   mechanism claims amortization, lifecycle stability, or recovery.
 - A two-case result over different endpoint types is not seed replication.
+- Total accessible-world size is not policy activation. Qualification requires
+  realized or prospectively rendered pressure in the trajectory being tested.
+- Scheduled reentry must pay its prefix-cache and causal-continuity costs even
+  when its fresh packet contains fewer serialized tokens.
+- Raw tool-result custody and deterministic model-visible diagnostics are
+  separate properties; volatile raw fields may remain exact externally without
+  entering a prospectively frozen candidate-bound projection.
 
 ## Promotion rule
 

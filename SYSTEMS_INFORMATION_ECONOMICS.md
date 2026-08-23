@@ -423,9 +423,42 @@ The systems ownership split is therefore firmer:
 - optional semantic investments require an observed state-specific benefit and
   cannot self-authorize artifact readiness.
 
-The program now moves from component scouting to candidate-system validation.
-`PROGRAM_RECONCILIATION.md` records the loose-ends audit and planned-versus-
-learned synthesis. `MINIMAL_EARNED_POLICY_V0.md` defines the smallest incumbent
-eligible for a fresh whole-method comparison. Logical uncertainty about notes,
-digests, progress state, alternative eviction objectives, and automatic phase
-selection remains; none is automatically the next experiment.
+## Whole-method scout result: activation is endogenous
+
+The first fresh-task system scout did not exercise its pressure mechanism.
+Complete accessible worlds were 44.5K and 59.2K prompt tokens, yet ordinary
+actor demand materialized prompts no larger than 9,948 tokens. The intervention
+that actually fired was scheduled reentry at fixed call boundaries.
+
+This exposes another information-economics distinction:
+
+```text
+available information supply
+!= information the actor chooses to acquire
+!= resident prompt occupancy
+!= authentic pressure on the next result
+```
+
+World size is a supply-side property. Policy activation is an endogenous
+trajectory property jointly determined by requests, result sizes, chronology,
+mutations/effects, protocol failures, and the decision horizon.
+
+Scheduled low-occupancy reentry had negative option value in this configuration:
+it solved no pressure, destroyed reusable prefix cache, and sometimes weakened
+the binding between a stale check and a newer candidate effect. Reentry should
+therefore be priced as a switching operation and triggered only by a pressure
+or external authority transition that justifies that price.
+
+The UUID replay incident adds a further representation split. Exact raw event
+custody is required, but model-visible diagnostics need not reproduce volatile
+transport details. A prospectively frozen projection can retain stable
+criterion status, candidate binding, readiness, and a raw handle while exact
+UUID/time/path bytes remain external. This is deterministic materialization,
+not semantic repair.
+
+The program now moves from the completed v0 scout to pressure-qualified reactive
+validation. `PROGRAM_RECONCILIATION.md` records the updated synthesis.
+`REACTIVE_RUNTIME_POLICY_V1.md` removes scheduled reentry and preserves the
+host-owned pressure substrate. Logical uncertainty about notes, digests,
+progress state, alternative eviction objectives, and automatic phase selection
+remains; none is automatically the next experiment.
