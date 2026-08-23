@@ -364,8 +364,8 @@ model, apparatus, and independence limits.
 
 `DISCOVERY_PHASE_CHECKPOINT.md` selects a six-trajectory, five-lineage,
 42-call maximum reconnaissance tranche and freezes its conceptual probe cards,
-run order, activation rule, stopping rules, and non-goals. The remaining work
-before any GPU request is Stage 0 materialization:
+run order, activation rule, stopping rules, and non-goals. Offline Stage 0 must
+complete these gates before any GPU request:
 
 1. copy or regenerate the exact selected task worlds into isolated immutable
    fixtures and produce recursive source/candidate manifests;
@@ -374,8 +374,10 @@ before any GPU request is Stage 0 materialization:
    response/call envelope for each full-task probe;
 4. freeze evaluator, evidence-coverage, and readiness identities before actor
    inference;
-5. freeze and qualify the conditional D6 renderer for every possible donor
-   branch and the null path, without materializing run-derived evidence early;
+5. freeze and qualify the conditional D6 renderer for every donor lineage,
+   its exact actual-packet capacity gate, and both the no-change and
+   capacity-ineligible null paths, without materializing run-derived evidence
+   early;
    and
 6. return the Stage 0 commit for owner review and separate GPU authorization.
 

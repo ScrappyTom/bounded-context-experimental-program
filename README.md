@@ -78,10 +78,9 @@ replacement or extension. The proposal deliberately includes one known
 ordinary-success calibration world and treats sister Qwen3.6 evidence only as
 cross-profile triangulation.
 
-No GPU run is authorized by these documents. The next implementation step is
-offline Stage 0 materialization: isolate and hash the selected task worlds,
-freeze the common Qwen3.8 profile and action contracts, prove legal known-good
-paths fit the declared envelopes, freeze evaluator/readiness identities, and
-qualify the conditional handoff renderer for every possible donor branch and
-the null path, then return the resulting commit for owner review and separate
-authorization.
+No GPU run is authorized by these documents. Offline Stage 0 is being
+materialized in a separate experiment repository: exact task worlds, common
+Qwen3.8 profile, legal known-good paths, evaluator/readiness identities,
+conditional handoff branches, actual-packet capacity gating, and residual
+host-code execution risk must all be frozen before the resulting commit can be
+returned for owner review and separate authorization.

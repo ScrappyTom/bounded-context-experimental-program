@@ -2,7 +2,7 @@
 
 Date: 2026-08-23
 
-Status: proposed owner checkpoint; offline design only; no inference authorized
+Status: owner checkpoint amended during offline Stage 0; no inference authorized
 
 ## Decision in one sentence
 
@@ -353,8 +353,11 @@ in the donor. Reentry cannot inject an investigator-selected source, an unread
 source body, a hidden grader finding, or a gold patch.
 
 The fresh actor may inspect, patch/replace, check, and submit under a five-call
-ceiling. If no D2–D5 candidate changed, D6 is a declared null and is not
-replaced by an invented backup.
+ceiling when its exact actual packet fits. If no D2–D5 candidate changed, D6 is
+a declared null. If a changed candidate exists but the exact actual packet
+exceeds the frozen prompt ceiling even after the permitted mechanical
+projection, D6 is a declared `capacity_ineligible` zero-call branch. Both null
+conditions consume the slot and are not replaced by an invented backup.
 
 This is a same-lineage descriptive handoff assay, not independent recurrence,
 a matched control, or a causal chronology ablation. Its question is simply
@@ -363,8 +366,10 @@ the frozen exact-state package, and what information appears necessary but
 absent. Any effect belongs to the complete branch-specific package.
 
 Before D2 begins, Stage 0 must freeze and qualify the renderer, action surface,
-five-call envelope, and eligibility receipt for every possible D2, D3, D4, and
-D5 donor branch plus the null path. Exact candidate and observation identities
+ordinary known-good and prospectively declared stress packets for every D2,
+D3, D4, and D5 donor lineage, the actual-packet capacity gate, and both null
+paths. This is not a claim that every legally admitted pathological UTF-8 file
+has a five-call handoff envelope. Exact candidate and observation identities
 remain run-derived inputs to that frozen renderer; branch logic and packet
 selection may not be repaired after the donor outcome is known.
 
@@ -373,7 +378,10 @@ selection may not be repaired after the donor outcome is known.
 Before freezing the tranche, Stage 0 must prove for each full-task probe:
 
 1. the initial candidate fails at least one evaluator requirement;
-2. a known-good candidate exists and passes the frozen evaluator;
+2. a known-good candidate exists and passes the frozen evaluator; where the
+   evaluator includes a semantic readiness rubric, Stage 0 must retain a
+   candidate/task/evidence-bound criterion-level adjudication rather than
+   infer readiness from a narrower machine grade;
 3. the known-good path is expressible through at least one legal action sequence
    within the response and call ceilings, with a documented minimum-path
    decomposition for discovery/construction, effect uptake, check, repair, and
@@ -459,8 +467,8 @@ Before GPU use, return a Stage 0 package containing:
 
 - exact task/source/candidate/evaluator manifests for D1–D5;
 - D6 activation and rendering receipts for all four possible donor branches
-  and the null path, including each branch's action surface and five-call
-  feasibility;
+  and both null paths, including each branch's action surface, ordinary and
+  stress packet counts, and the exact live capacity rule;
 - the common model/runtime/profile lock;
 - exact action schemas and known-good feasibility receipts;
 - fixed run order, seed, calls, and total token ceiling;
@@ -470,6 +478,12 @@ Before GPU use, return a Stage 0 package containing:
 Owner review is then required for the single finite tranche. Any change to the
 task set, a repair after observing a cell, an additional trajectory, or a
 transition from discovery to mechanism comparison requires a new contract.
+
+The code probes execute model-authored JavaScript on disposable candidate and
+evaluator copies with exact pre/post integrity checks and timeout tree cleanup.
+That protects experimental custody but is not an operating-system sandbox.
+The exact GPU authorization must explicitly accept the host-permission risk;
+otherwise D3-D5 are not authorized to run.
 
 ## Evidence-status summary
 
