@@ -16,6 +16,11 @@ The active objective is therefore:
 > Map the capability terrain of large-world bounded work before selecting or
 > optimizing a resident-state architecture.
 
+After E37, “map” must not mean routing each label below into an isolated
+component study. The next governing contract is
+`SYSTEM_INTERACTION_EXPLORATION.md`: compare viable whole configurations and
+observe how their information functions change one another over time.
+
 This is a change in research phase, not a weakening of evidence standards and
 not a rejection of prior work. Frozen studies, negative results, exact custody,
 and current branches remain unchanged. The change is that new work will sample
@@ -228,108 +233,96 @@ Code the endpoint broadly:
 Multiple codes may apply in sequence. These codes describe literal boundaries;
 they do not assign a latent cause to the model.
 
-## Breadth-first probe portfolio
+## Interaction-first configuration portfolio
 
-Do not launch a full factorial matrix. Build a small portfolio whose task
-situations differ in the information-processing function they expose.
+Do not assign one experiment to each capability label in the table above. Those
+labels code events inside a trajectory; they are not presumed modules and do
+not define the experimental unit.
 
-### Situation A — sparse discovery and selection
+The next portfolio compares viable end-to-end configurations under the same
+authentic pressure state. The first declared interaction is:
 
-Use a large authentic world where the action-sufficient footprint is small but
-not preidentified for the actor. Observe ordinary search, exact reading, and
-action. This tests whether the bottleneck is finding/selecting information
-before any compression or memory mechanism is added.
+```text
+source-bound semantic persistence
+×
+incremental exact work-product persistence
+```
 
-### Situation B — distributed relationship assembly
+The four configurations are:
 
-Use a task whose quality depends on reconciling several dispersed sources and
-preserving qualifications. Permit independently evaluable intermediate work.
-Observe whether exact evidence becomes a coherent claim, section, decision
-record, or artifact rather than only a sequence of reads.
+| Configuration | After source-body demotion | Before final construction |
+|---|---|---|
+| A | Exact identity/reopen receipt | Whole final artifact only |
+| B | Bounded source-bound semantic residue plus reopen | Whole final artifact only |
+| C | Exact identity/reopen receipt | Incremental exact task-native work |
+| D | Bounded source-bound semantic residue plus reopen | Incremental exact task-native work |
 
-### Situation C — effectful construction and repair
+Every configuration also includes the same exact world access, pressure relief,
+actor actions, effects, candidate-bound feedback, bounded resumption event, and
+external readiness evaluation. Those functions remain inside the measured
+loop; they are not separately “solved” before the interaction is observed.
 
-Use a task with an exact candidate, admitted mutations, candidate-bound checks,
-and repair opportunity. Observe action formation, expression, effect uptake,
-feedback integration, and closure without adding memory machinery to explain a
-workflow failure.
+The initial scout should use one pressure-qualified task/world so all four
+configurations share an exact pre-divergence state. This is local interaction
+discovery, not independent recurrence. If a practically important joint pattern
+appears, the next step is the same configuration contrast in an independent
+world—not prompt tuning on the first donor.
 
-### Situation D — bounded resumption or subwork
+Stage 0 must derive a finite actor and maintenance budget from the complete
+loop: remaining acquisition, persistence production, incremental construction,
+resumption, effect uptake, checking, repair, and closure. A horizon that only
+allows the next read is ineligible. Each valid, invalid, harmful, or null
+configuration consumes its declared cell and budget; no outcome-dependent
+replacement is allowed.
 
-Use an authentic handoff, fresh review, or bounded subtask where the exact
-current world can be reconstructed. Observe what continuity ordinary exact
-state preserves, what cross-boundary relationship is lost, and whether a child
-or fresh actor improves or weakens the work.
+Freeze the task, exact pressure prefix, configuration rules, run order, call
+and token budgets, action transport, evaluator, and readiness basis before
+inference. No automatic extension or second interaction bank follows.
 
-The first discovery wave should sample different situations, not repeat one
-pressure prefix under many packet variants. Begin with ordinary integrated
-behavior. An alternate arrangement and its mechanical activation criterion
-must be frozen before its baseline is run. If an unplanned contrast becomes
-interesting only after the baseline, stop for owner review and create a new
-contract rather than appending it to the cell.
+## Later interaction directions
 
-The prospective tranche should contain four to six authentic trajectories
-across at least three independent worlds, normally one seed per situation and
-no more than sixty actor calls total. Use a claim-matched horizon: roughly one
-or two decisions for an immediate selection/extraction question, three to five
-for an already-formed action's effect/repair/closure continuation, and six to
-ten for an end-to-end lifecycle that includes discovery or construction as
-well as effect/closure, or for decomposition. These are portfolio bounds, not
-evidence that every probe needs its maximum.
+These are possible crossed system relations, not an architecture backlog or a
+queue of isolated component tests:
 
-Every baseline, alternate arrangement, and repaired cell consumes one of the
-four-to-six trajectory slots and its calls consume the sixty-call ceiling. A
-failed or uninteresting valid cell is not free, replaceable, or excluded from
-the tranche.
+- evidence-ingress bandwidth × semantic/work persistence;
+- exact residency policy × partial artifact state;
+- feedback discrimination × persistent relationship state;
+- resumption trigger × accumulated exact/semantic work;
+- decomposition boundary × reintegration surface; and
+- response allocation × transaction/effect continuation.
 
-Freeze the task pool, order, call budgets, and backup-substitution rule before
-inference. Freeze one model/runtime/template/profile across the tranche. Freeze
-each artifact rubric, evidence coverage, and readiness rule before inference.
-No automatic extension or second breadth batch follows; owner review is
-required after the tranche.
-
-## Provisional probe directions
-
-These are hypotheses to sample, not an architecture backlog:
-
-- ordinary transcript continuation;
-- model-selected exact information;
-- model-authored bounded condensation;
-- chronology-free exact reentry;
-- exact partial-work or evidence-state persistence;
-- bounded multi-read planning or acquisition batching;
-- child/subtask delegation and return;
-- fresh independent review;
-- transactional effect continuation; and
-- exact verification followed by repair.
-
-Role labels such as curator, distiller, composer, planner, reviewer, or governor
-remain provisional experimental situations. The program is not currently
-proving a fixed role decomposition or router.
+Only one new interaction should be added per scout. Existing system functions
+remain live around it so that value is measured through induced demand,
+artifact quality, repair, and closure. Role labels such as curator, distiller,
+composer, planner, reviewer, or governor remain provisional descriptions, not
+an assumed decomposition or router.
 
 ## Sampling and routing cadence
 
 ### 1. Orient
 
-State the broad capability being observed, why current evidence is
-insufficient, and the simplest authentic situation that exposes it. Do not
-begin with a preferred mechanism.
+State the complete feedback loop, the co-active functions whose interaction is
+unknown, why current evidence is insufficient, and the authentic state that
+can expose their joint behavior.
 
 ### 2. Probe
 
-Run the smallest number of truthful cells needed to see whether the boundary is
-behaviorally present. Preserve complete trajectories and artifacts.
+Run every prospectively declared viable configuration through a shared
+feedback horizon. Preserve complete trajectories, persistent state, effects,
+feedback, artifacts, costs, and terminal conditions.
 
 ### 3. Diagnose
 
-List multiple live explanations, including model capability, information
-layout, task geometry, action interface, call budget, evaluation, and
-procedure. Do not select one from a single ambiguous cell.
+Classify substitution, complementarity, interference, nonactivation, apparatus
+censoring, and failure migration. List multiple explanations including model
+capability, information layout, task geometry, action interface, call budget,
+evaluation, and procedure.
 
 ### 4. Search laterally for recurrence
 
-Move to an independent world that could exhibit the same broad endpoint. Do
-not make the original world incrementally harder merely to reproduce it.
+Move the complete configuration contrast to an independent world that could
+exhibit the same interaction. Do not make the original world incrementally
+harder merely to reproduce it.
 
 ### 5. Promote only when earned
 
@@ -351,21 +344,22 @@ conceptual map. Stop when:
 
 Each checkpoint must answer:
 
-1. What broad capability is currently being investigated?
+1. What complete bounded-work loop and operating regime are being investigated?
 2. Which present assumptions are architectural commitments rather than earned
    evidence?
 3. Which apparatus requirements are necessary for validity?
 4. Which apparatus requirements exist only because of the current proposed
    solution?
-5. What materially different explanations and directions remain plausible?
-6. What is the smallest breadth-first set of probes that could distinguish
-   them?
+5. Which co-active information functions may substitute, complement, or
+   interfere, and what materially different explanations remain plausible?
+6. What is the smallest set of viable whole configurations that can expose the
+   interaction through a shared downstream outcome?
 7. What will not be built or optimized during this exploration wave?
 8. At what point is owner review required before controlled continuation?
 
-The memo must also state whether the proposed endpoint has recurred in an
-independent world. If not, the next measured work remains discovery and its
-claims must be scoped accordingly.
+The memo must also state whether the proposed interaction has recurred in an
+independent world. If not, the next measured work remains local interaction
+discovery and its claims must be scoped accordingly.
 
 ## Immediate program work
 
@@ -374,36 +368,42 @@ E36 remains the pressure-qualified evidence-streaming case, reconstructed in
 reported in `DISCOVERY_TRANCHE_RESULT.md` and bound to experiment result commit
 `ea8f4cfa5888998d6193f57316e9cd41cf1639b6`.
 
-The next work is a post-tranche checkpoint, not an automatic repair bank. It
-must select a small set of independent worlds that can distinguish three
-coupled questions:
+The next work is a post-tranche system-interaction checkpoint, not an automatic
+repair bank and not three isolated component routes. It must select at least one
+authentic pressure state where evidence ingress, bounded residency, persistent
+semantic residue, incremental exact work, resumption, feedback, and closure can
+operate in one measured loop.
 
-1. **Observation surface:** can intended actions be exposed reliably enough to
-   observe downstream task behavior without silently repairing semantic
-   choices or treating a transport as the architecture?
-2. **Relation→artifact→feedback→readiness:** where does a governing requirement
-   disappear, and can candidate-bound feedback discriminate and activate
-   repair before closure?
-3. **Cumulative work and resumption:** can exact partial work carry learned
-   relationships across decisions or a bounded handoff without introducing an
-   ungrounded global semantic controller?
+The first candidate comparison crosses source-bound semantic residue with
+incremental exact task work across four viable configurations. Exact custody,
+first-fit pressure relief, reopen, a qualified action transport, effects,
+checks, and external readiness evaluation are common infrastructure. A
+task-declared non-oracular resumption event lets the study observe what each
+configuration actually carries forward.
 
-The checkpoint should preserve an ordinary-success calibration and sample more
-than one domain. It should not rerun D1/D3/D4 merely with repaired formatting,
-repeat D6 with different wording, or add context interventions to low-occupancy
-cells. If context pressure arises authentically, the existing mechanical
-baseline may protect execution and must be accounted for separately.
+The primary question is interaction: do the two persistence channels
+substitute, complement, interfere, or move the failure elsewhere? Relation
+binding, induced acquisition, effect uptake, repair, and readiness are outcomes
+inside that loop. They are not separately optimized before the loop is tested.
+
+The checkpoint should preserve an ordinary-success reference and later seek
+independent-world transfer, but its first scout may be local if the authentic
+pressure state is unique. It should not rerun D1/D3/D4 merely with repaired
+formatting or repeat D6 with different wording.
 
 Before a new measured wave, Stage 0 must:
 
 - qualify the chosen action transport across the required small and large
-  action shapes under the exact live runtime;
+  action shapes under the exact live runtime as an apparatus gate, not a
+  research cell;
 - freeze candidate/task/evidence-bound evaluation, including readiness and
   blocking requirements outside the actor's visible check;
 - demonstrate a feasible action/effect/check/repair/closure path with enough
   horizon to observe the target function;
-- state which intermediate work is exact artifact state and which, if any,
-  semantic derivative is the experimental variable; and
+- state how source-bound residue and exact intermediate work coexist, replace
+  prior state, and enter the common resumption frame;
+- prove that every measured configuration is viable after pressure rather than
+  comparing relief with an inevitable hard stop; and
 - return a finite portfolio, call/token ceilings, and frozen commit for owner
   review.
 

@@ -18,7 +18,7 @@ The dynamic research frame is defined in
 [SYSTEMS_INFORMATION_ECONOMICS.md](SYSTEMS_INFORMATION_ECONOMICS.md).
 The current planned-versus-learned audit is
 [PROGRAM_RECONCILIATION.md](PROGRAM_RECONCILIATION.md). The active research
-direction is the breadth-first
+direction is the interaction-first
 [structured exploration roadmap](STRUCTURED_EXPLORATION_ROADMAP.md), grounded
 in the provisional [capability terrain map](CAPABILITY_TERRAIN_MAP.md). The
 latest pressure trajectory is reconstructed decision by decision in the
@@ -26,6 +26,10 @@ latest pressure trajectory is reconstructed decision by decision in the
 first finite breadth design is preserved in the
 [discovery-phase checkpoint](DISCOVERY_PHASE_CHECKPOINT.md), and its measured
 program disposition is [the capability-terrain tranche result](DISCOVERY_TRANCHE_RESULT.md).
+The corrected interaction-first contract is
+[SYSTEM_INTERACTION_EXPLORATION.md](SYSTEM_INTERACTION_EXPLORATION.md), with its
+machine-readable guardrails in
+[SYSTEM_INTERACTION_EXPLORATION.json](SYSTEM_INTERACTION_EXPLORATION.json).
 [REACTIVE_RUNTIME_POLICY_V1.md](REACTIVE_RUNTIME_POLICY_V1.md) is retained as a
 qualified mechanical pressure baseline, not as the architecture incumbent.
 The earlier whole-method policy and governance contracts remain historical in
@@ -68,12 +72,18 @@ system. Action transport, relation-to-action binding, feedback coverage, and
 readiness can dominate at low occupancy. More residency engineering would not
 have fixed the measured fenced actions or the missing D2/D5 requirements.
 
-The program remains in structured exploration, now with three priority
-questions: qualify an observation surface that exposes intended task actions
-without silently repairing them; map how governing relations, candidate-bound
-feedback, repair, and readiness interact across independent worlds; and test
-whether exact partial work can carry cumulative cognition across bounded
-resumption. These are breadth directions, not selected architecture modules.
+E37 is therefore a low-pressure reference regime, not the interaction study the
+program intended to reach. Task diversity exposed several boundaries, but it
+did not show how context residency, semantic persistence, work-product
+persistence, feedback, and control change one another over time.
+
+The next checkpoint is interaction-first. It must compare viable whole
+configurations under authentic pressure and follow their induced information
+demand through cumulative work, resumption, feedback, repair, and closure. The
+first candidate scout crosses source-bound semantic residue with incremental
+exact work while holding the mechanical pressure substrate common. Apparatus
+qualification remains a precondition, not a separate research route, and
+component ablation waits until a joint configuration demonstrates signal.
 
 The validity envelope remains strict: exact custody, complete model-visible
 history, one attempt with no hidden retry, hard limits, exact candidate/effect

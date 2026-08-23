@@ -1,0 +1,48 @@
+{
+  "schema_version": "system-interaction-exploration-contract-v0",
+  "date": "2026-08-23",
+  "status": "offline_direction_only",
+  "unit_of_analysis": "whole_configuration_trajectory",
+  "e37_role": "low_pressure_reference_not_interaction_result",
+  "required_activation": "authentic_prompt_pressure",
+  "first_interaction": {
+    "axis_a": "source_bound_semantic_residue_after_exact_body_demotion",
+    "axis_b": "incremental_exact_task_native_work_product",
+    "configurations": [
+      "A_receipts_and_whole_final_artifact",
+      "B_semantic_residue_and_whole_final_artifact",
+      "C_receipts_and_incremental_exact_work",
+      "D_semantic_residue_and_incremental_exact_work"
+    ],
+    "semantic_residue_trigger": "exact_source_body_demotion_under_common_pressure_rule",
+    "incremental_work_trigger": "prospectively_declared_delivered_evidence_event",
+    "maintenance_mode": "mechanically_triggered_one_attempt_zero_retry"
+  },
+  "common_live_functions": [
+    "exact_external_custody",
+    "deterministic_first_fit_pressure_relief",
+    "exact_reopen",
+    "qualified_action_transport",
+    "candidate_bound_effects",
+    "candidate_bound_feedback",
+    "bounded_resumption",
+    "independent_artifact_quality_and_readiness"
+  ],
+  "primary_interpretations": [
+    "substitution",
+    "complementarity",
+    "interference",
+    "failure_migration",
+    "nonactivation",
+    "apparatus_censoring"
+  ],
+  "non_isolation_rules": [
+    "capability_labels_are_trajectory_codes_not_component_backlog",
+    "at_least_two_information_functions_must_be_coactive",
+    "every_measured_arm_must_be_a_viable_post_pressure_configuration",
+    "follow_induced_demand_through_artifact_feedback_and_closure",
+    "apparatus_qualification_is_not_component_utility_evidence",
+    "component_ablation_waits_for_joint_configuration_signal"
+  ],
+  "gpu_authorized": false
+}

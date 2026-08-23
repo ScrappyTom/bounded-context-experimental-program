@@ -41,9 +41,14 @@ It used 39 of the authorized 42 actor calls, one provider attempt per call, and
 zero retries. Nineteen responses were rejected; no pressure event occurred; D2
 and D5 produced strong-partial artifacts and closed prematurely; D6 repeated
 D2's premature closure from exact current state; and no cell achieved correct
-useful completion. The tranche therefore exposed low-occupancy
-expression/admission, relation-to-action, verification-coverage, and readiness
-boundaries rather than a context-capacity boundary.
+useful completion.
+
+The tranche therefore supplies a low-occupancy reference for
+expression/admission, relation-to-action, verification coverage, and readiness.
+It does not answer how those functions interact with context lifecycle because
+pressure relief, semantic persistence, and incremental work did not co-activate
+in a matched design. The successor direction is governed by
+`SYSTEM_INTERACTION_EXPLORATION.md`, not by one follow-up per observed boundary.
 
 The remainder of this document preserves the prospectively frozen questions,
 portfolio, gates, and stopping rules. It is not rewritten around the observed
@@ -551,3 +556,6 @@ backup cell.
   remain largely untested.
 - The completed tranche is an enriched capability reconnaissance, not an
   architecture bake-off, prevalence sample, or benchmark.
+- Its capability labels are endpoint codes, not an instruction to isolate each
+  component. The next checkpoint must study their interaction inside viable
+  pressure-active configurations.

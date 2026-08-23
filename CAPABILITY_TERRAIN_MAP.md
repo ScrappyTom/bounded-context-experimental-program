@@ -88,6 +88,12 @@ The largest coverage gaps are not another eviction choice. They are:
 - whether bounded subwork can be reintegrated; and
 - how readiness is discriminated without a closure-biased cue.
 
+These rows are not a component backlog. A future experiment should code several
+rows along one complete trajectory and ask how the active information
+functions change one another. E37 is specifically a low-pressure reference: it
+cannot adjudicate context×persistence×work-product interaction because those
+operations never co-activated.
+
 ## Routing constraints after the first discovery wave
 
 Do not rerun a function already covered merely under a new label. In
@@ -100,19 +106,16 @@ particular, the next wave should not contain another:
 - generic progress/readiness message; or
 - one-shot workspace manager prompt.
 
-The next breadth checkpoint should prefer task situations that distinguish:
+The next checkpoint should expose these boundaries inside one interaction-first
+configuration contrast rather than study them separately. Its first candidate
+crosses source-bound semantic residue with incremental exact work under common
+pressure relief, reopen, action/effect handling, bounded resumption, feedback,
+and external readiness evaluation.
 
-1. intended task action from transport/admission failure under a qualified
-   observation surface;
-2. relation formation from artifact binding, visible-check coverage, repair,
-   and readiness across independent research and code worlds;
-3. exact partial-work persistence from a separate semantic-memory object; and
-4. closure orientation from independently correct readiness discrimination in
-   bounded resumption.
-
-The next checkpoint need not cover all four. `STRUCTURED_EXPLORATION_ROADMAP.md`
-retains a small finite-portfolio discipline and requires owner review before
-measured inference and again before any confirmation bank.
+`SYSTEM_INTERACTION_EXPLORATION.md` defines the non-isolation rule and candidate
+four-configuration scout. `STRUCTURED_EXPLORATION_ROADMAP.md` retains a small
+finite-portfolio discipline and requires owner review before measured
+inference and again before any confirmation bank.
 
 ## Pinned cross-program sources
 

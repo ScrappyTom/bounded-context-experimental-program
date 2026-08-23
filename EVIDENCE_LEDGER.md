@@ -291,7 +291,14 @@ Supported local claims:
 
 E37 does not estimate natural-task prevalence, prove that a different transport
 would improve artifact quality, causally compare reentry with chronology, or
-select an architecture. It closes the first breadth tranche and elevates
-observation-surface reliability, relation→artifact→feedback→readiness flow,
-and cumulative exact work across resumption as broad discovery questions. No
-automatic repaired cell, second seed, or GPU successor is selected.
+select an architecture. More importantly, it is not evidence about the intended
+context interaction: pressure relief, semantic persistence, and incremental
+work never co-activated in a matched trajectory.
+
+E37 closes the first breadth tranche as a low-pressure reference. It does not
+split observation surface, relation binding, feedback, readiness, and
+resumption into separate successor experiments. The next eligible checkpoint
+must compare viable whole configurations and follow the declared
+persistence×work-product interaction through induced demand, effects, feedback,
+artifact quality, and closure. No automatic repaired cell, second seed, or GPU
+successor is selected.

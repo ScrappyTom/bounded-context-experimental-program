@@ -20,6 +20,8 @@
   "pressure_events": 0,
   "pressure_substitutions": 0,
   "exact_reopens": 0,
+  "interaction_question_adjudicated": false,
+  "program_role": "low_pressure_reference_regime",
   "submitted_cells": ["D2", "D5", "D6"],
   "correct_useful_completions": 0,
   "cell_dispositions": {
@@ -30,7 +32,7 @@
     "D5": "strong partial 7/8; premature closure",
     "D6": "exact-state handoff repeated D2 premature closure"
   },
-  "primary_disposition": "low-occupancy action expression and readiness discrimination dominated; no context mechanism activated and no cell achieved correct useful completion",
+  "primary_disposition": "low-occupancy action expression and readiness discrimination were observed; no context or persistence interaction activated, so the intended system-interaction question remains unadjudicated and no cell achieved correct useful completion",
   "raw_run_manifest_content_sha256": "b6b40c3c444348efe1bcd6a26886806d67d215d04d78283b3d456dcd63cdfd3b",
   "result_narrative_sha256": "c6b6d09c5093f552dd6c225ba04ce9d66cf435a1f22b9b9f6050ea71a8721c60",
   "direct_transcript_audit_sha256": "7769875b9d9067f5ec1a827c9f59fdd5ec9e1f977fd6a798262a99321d96b7a8"

@@ -537,6 +537,28 @@ Increasing context operability can move the terminal resource to decisions or
 integration without improving the artifact. Receipt-only relief remains a
 useful mechanical baseline; it is not the active architecture hypothesis.
 
+## Low-pressure reconnaissance correction
+
+E37 then sampled multiple tasks while every prompt remained far below the
+pressure ceiling. It exposed action-expression failures and two
+strong-partial/false-closure paths, but pressure relief, semantic persistence,
+and incremental work did not co-activate. Those observations describe a useful
+low-pressure reference regime. They do not adjudicate the system interaction
+that motivated the research-phase shift.
+
+This distinction is essential:
+
+```text
+heterogeneous component outcomes
+!=
+evidence about interaction among information functions
+```
+
+An interaction result requires multiple viable configurations in which the
+relevant functions operate in the same feedback loop and are followed through
+induced demand, artifact state, effects, feedback, and closure. The program
+must not convert each observed boundary into its own successor queue.
+
 ## Research-allocation economics
 
 Experiments consume option value as well as tokens. Repeatedly refining one
@@ -548,8 +570,12 @@ the program to defend the representation it already built.
 
 The allocation policy is now:
 
-- use small discovery probes to buy information about materially different
-  capability boundaries and operating regimes;
+- use small interaction scouts to compare viable whole configurations in
+  materially different operating regimes;
+- code multiple capability boundaries inside each trajectory rather than
+  assigning one experiment to every label;
+- require at least two co-active information functions and a shared downstream
+  outcome before calling a study an interaction probe;
 - preserve exact validity controls while keeping solution-specific apparatus
   minimal;
 - treat a valid negative as information and move laterally unless the question
@@ -566,6 +592,8 @@ Its claim remains local. One or two calls are appropriate only for immediate
 effects; demand, effect uptake, repair, amortization, and lifecycle claims need
 the shortest horizon that can actually expose them.
 
-`STRUCTURED_EXPLORATION_ROADMAP.md` governs the active phase. The intended
-product is a capability-terrain map and a small set of recurring consequential
-boundaries, not a polished context runtime.
+`STRUCTURED_EXPLORATION_ROADMAP.md` and
+`SYSTEM_INTERACTION_EXPLORATION.md` govern the active phase. The intended
+product is evidence about substitution, complementarity, interference, and
+failure migration among bounded-work configurations—not a polished context
+runtime or a ranking of isolated components.

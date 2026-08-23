@@ -1,15 +1,15 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-23
-Status: current program synthesis; structured capability discovery active
+Status: current program synthesis; system-interaction exploration active
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
 
 ## Executive disposition
 
-The program has enough component evidence to stop searching the current donor
-trajectories for a slightly better exact layout, eviction prompt, digest format,
+The program has enough local mechanism evidence to stop searching the current
+donor trajectories for a slightly better exact layout, eviction prompt, digest format,
 frontier schema, maintenance dialogue, or longer receipt-only horizon.
 
 The strongest earned result is a mechanical observation and safety substrate,
@@ -38,13 +38,17 @@ submission. Capacity remained active but was no longer terminal; the call
 budget became terminal while required evidence remained incomplete.
 
 The result shifts the active question. The program already knows that exact
-bytes can keep entering. It does not yet know, across diverse worlds, where
-discovery, relationship assembly, intended-action formation, cumulative work,
-effect uptake, repair, and closure succeed or fail. The active route is now
-structured breadth-first exploration under the fixed validity envelope in
-`STRUCTURED_EXPLORATION_ROADMAP.md`. The provisional cross-study view is
-`CAPABILITY_TERRAIN_MAP.md`. Confirmation and expensive optimization follow
-only after an important functional boundary recurs independently.
+bytes can keep entering. It does not yet know how residency, semantic
+persistence, exact work-product persistence, induced demand, resumption,
+feedback, and closure alter one another inside a complete bounded trajectory.
+E37 supplied a low-pressure reference but did not activate that interaction.
+
+The active route is now interaction-first exploration under the fixed validity
+envelope in `STRUCTURED_EXPLORATION_ROADMAP.md` and
+`SYSTEM_INTERACTION_EXPLORATION.md`. Capability labels remain endpoint codes,
+not modules to test one by one. Confirmation and component ablation follow only
+after a whole configuration shows a meaningful joint effect and that pattern
+transfers to an independent world.
 
 ## Loose-ends audit
 
@@ -207,7 +211,8 @@ state and immediately reconstructed its closure disposition, not a correct
 readiness judgment.
 
 This result does not turn the program into an action-schema optimization
-project. It updates the systems map:
+project, and it does not answer the intended context interaction. It updates
+the low-pressure reference map:
 
 1. context capacity is not the universal active constraint;
 2. action transport can prevent a task capability from becoming observable;
@@ -216,9 +221,17 @@ project. It updates the systems map:
    after successful effect uptake; and
 5. fresh exact state can preserve an incorrect control disposition.
 
-The next checkpoint must choose breadth probes that separate observation-
-surface reliability, relation→artifact→feedback→readiness flow, and cumulative
-exact work across bounded resumption. The enriched fixtures remain useful for
-triangulation, not prevalence. No D1/D3/D4 repair, D6 wording variant, context
-intervention, task, or GPU call is authorized automatically. A finite Stage 0
-contract must return for owner review.
+The next checkpoint must compare viable whole configurations under authentic
+pressure. The first candidate interaction crosses source-bound semantic
+residue with incremental exact work while common exact custody, first-fit
+relief, reopen, action/effect handling, feedback, bounded resumption, and
+readiness evaluation remain live around them. The study follows induced demand
+and artifact state through the feedback horizon rather than splitting
+expression, relation binding, repair, and resumption into separate research
+queues.
+
+Action-transport qualification is a blocking apparatus gate, not a successor
+component experiment. The enriched fixtures remain useful for triangulation,
+not prevalence. No D1/D3/D4 repair, D6 wording variant, task, or GPU call is
+authorized automatically. A finite Stage 0 interaction contract must return
+for owner review.

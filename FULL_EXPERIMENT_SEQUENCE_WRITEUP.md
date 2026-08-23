@@ -810,9 +810,12 @@ Other questions remain open but are not automatic successors:
 - whether deterministic chronology folding reduces reentry cost; and
 - when decomposition is required because no useful bounded set fits.
 
-The stopping rule is important: unknown does not mean owed. The next isolated
-mechanism should come from an exact failure observed under the whole-method
-incumbent, not from the infinite space of plausible prompt and memory variants.
+The stopping rule at that historical checkpoint was important: unknown did not
+mean owed, and isolated mechanism work was to follow an exact observed failure
+rather than the infinite space of plausible prompt and memory variants. That
+routing rule is now superseded for discovery by the interaction-first contract
+in `SYSTEM_INTERACTION_EXPLORATION.md`; component ablation returns only after a
+whole configuration demonstrates a meaningful joint signal.
 
 ## Stage-27 program disposition (historical checkpoint)
 
@@ -925,7 +928,7 @@ submitted the byte-identical not-ready candidate. This is descriptive evidence
 that exact reentry can restore a closure-shaped disposition without restoring
 or creating correct readiness discrimination.
 
-The tranche's main systems lesson is:
+The tranche's valid low-pressure lesson is:
 
 ```text
 ample context
@@ -937,13 +940,20 @@ does not guarantee correct closure
 
 The same profile also demonstrated coherent integration, large construction,
 effect uptake, and current-check use, so the outcome is not a uniform model
-failure. It is a conjunctive pipeline result. Context capacity, action
-transport, relation binding, feedback coverage, and readiness can each become
-the limiting function in different configurations.
+failure. However, the tranche did not activate context pressure, semantic
+persistence, or incremental work in matched configurations. It cannot show how
+those functions interact or rank context against the downstream boundaries it
+observed.
 
 This closes the first reconnaissance tranche rather than opening a repair loop
-over its JSON interface. The current broad questions are observation-surface
-qualification, relation→artifact→feedback→readiness flow across independent
-worlds, and exact partial-work persistence across bounded resumption. The
-detailed program disposition is `DISCOVERY_TRANCHE_RESULT.md`. No automatic
-successor is authorized.
+over its JSON interface. E37 becomes a low-pressure reference regime. The next
+research unit is a complete pressure-active configuration, not one experiment
+for observation transport, another for relation binding, and another for
+resumption.
+
+The candidate interaction scout crosses source-bound semantic residue with
+incremental exact work while common pressure relief, reopen, actions, effects,
+feedback, bounded resumption, and readiness remain inside the same trajectory.
+The detailed correction is `SYSTEM_INTERACTION_EXPLORATION.md`; the tranche
+disposition is `DISCOVERY_TRANCHE_RESULT.md`. No automatic successor is
+authorized.

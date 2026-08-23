@@ -21,10 +21,12 @@ D6 received D2's exact current state without its construction chronology and
 repeated the same premature-closure disposition. No cell achieved independently
 correct useful completion.
 
-This result broadens the program. It does not select another context layout,
-memory representation, or parser tweak. It shows that bounded-agent performance
-is a coupled pipeline whose limiting function may lie far downstream of context
-capacity.
+This result supplies a low-pressure reference regime. It does not answer the
+program's intended interaction question. Context pressure, semantic
+persistence, incremental work, and matched lifecycle alternatives never became
+active together, so the tranche cannot establish how those functions alter one
+another. Its valid contribution is to identify boundaries that a later
+interaction study must keep inside the same closed loop.
 
 ## Exact source binding
 
@@ -84,7 +86,7 @@ tags, or a duplicate object, and one returned a one-element array. Intent was
 usually legible, but the declared transport was not satisfied and the strict
 host correctly did not repair it.
 
-## What the tranche teaches about the system
+## What the tranche teaches about the low-pressure regime
 
 ### 1. Useful operation is conjunctive
 
@@ -142,13 +144,14 @@ exact current-state reconstruction can preserve an action disposition—includin
 an incorrect one—without creating independent readiness judgment. Candidate
 state, check coverage, evaluator scope, and closure policy must remain distinct.
 
-### 5. Context management was not the active intervention surface
+### 5. The intended context interaction was not exposed
 
-No prompt approached pressure. Another eviction policy, receipt format, semantic
-cache, or phase reset would not have repaired fenced actions, missing task
-relations, nondiscriminating visible checks, or false closure. Context machinery
-remains a safety substrate to invoke at authentic pressure, not the default
-explanation for every bounded-agent failure.
+No prompt approached pressure. Therefore the tranche supplies no evidence about
+how eviction, semantic persistence, incremental work, or resumption would have
+interacted with the measured action and readiness behavior. It is reasonable to
+say that context capacity did not cause these literal cells; it is not
+reasonable to use them to rank context against other constraints or to infer a
+general architecture.
 
 ## Capability-terrain update
 
@@ -172,35 +175,34 @@ the frozen horizons. This distinction is central to future probe design.
 
 ## Program routing after the tranche
 
-The program remains in structured exploration. The next broad work should
-separate three system questions without turning any one of them into a prompt-
-tuning campaign:
+The program remains in structured exploration, but the next unit is a whole
+system configuration rather than three separately routed questions. Under an
+authentic shared pressure state, the first candidate scout crosses:
 
-1. **Observation-surface qualification.** Establish a transport that is
-   mechanically reliable enough to observe task decisions across more than one
-   world, while preserving exact raw output and never repairing semantic action
-   choices after generation. This is apparatus qualification, not evidence that
-   one action schema is the architecture.
-2. **Relation, verification, and readiness flow.** Sample independent tasks in
-   which broad task requirements, candidate-bound feedback, and external
-   readiness can be compared. The goal is to see whether failures arise before
-   construction, inside materialization, in feedback coverage, during repair,
-   or at closure.
-3. **Cumulative work and bounded resumption.** Explore exact partial work or a
-   bounded handoff where intermediate artifacts can carry relationships across
-   decisions. This addresses a genuine terrain gap rather than adding a global
-   semantic memory object.
+- source-bound semantic residue after exact-body demotion; and
+- incremental exact task work that can survive source turnover.
 
-These are breadth directions, not a frozen factorial design. A new measured
-wave should use independent worlds, retain ordinary-success calibration, keep
-context interventions inactive unless authentic pressure occurs, and freeze
-quality/readiness before inference. It should not automatically repair and
-rerun D1, D3, or D4, tune the same JSON prompt, or repeat D6 with different
-wording.
+Every viable configuration retains common exact custody, first-fit pressure
+relief, reopen, action transport, effects, feedback, and external readiness
+evaluation. The study follows the resulting demand and artifact trajectory
+through a common bounded resumption event. It asks whether the two persistence
+channels substitute, complement, interfere, or merely move the terminal
+failure.
+
+Action-transport qualification is an apparatus gate because E37's interface
+censored three cells. It is not promoted into a separate research branch.
+Likewise, relation binding, feedback, repair, and readiness are downstream
+joint outcomes of each configuration, not independent experiments to be run in
+sequence.
+
+The governing contract is `SYSTEM_INTERACTION_EXPLORATION.md`. A new measured
+wave should not automatically repair and rerun D1, D3, or D4, tune the same JSON
+prompt, or repeat D6 with different wording.
 
 ## Current stopping decision
 
 This reconnaissance tranche is complete. It does not authorize a successor GPU
-run. The next checkpoint should select the smallest cross-world probe set that
-distinguishes the three system questions above and return its Stage 0 package
-for owner review.
+run. The next checkpoint should select the smallest viable configuration set at
+an authentic pressure state that can expose the declared
+persistence×work-product interaction, then reserve independent-world transfer
+for a demonstrated signal. Its Stage 0 package must return for owner review.

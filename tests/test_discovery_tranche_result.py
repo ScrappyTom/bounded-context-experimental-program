@@ -38,6 +38,8 @@ class DiscoveryTrancheResultTests(unittest.TestCase):
         self.assertEqual(0, self.result["exact_reopens"])
         self.assertEqual(0, self.result["correct_useful_completions"])
         self.assertEqual(["D2", "D5", "D6"], self.result["submitted_cells"])
+        self.assertFalse(self.result["interaction_question_adjudicated"])
+        self.assertEqual("low_pressure_reference_regime", self.result["program_role"])
 
 
 if __name__ == "__main__":

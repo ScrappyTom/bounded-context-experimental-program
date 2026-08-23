@@ -55,21 +55,22 @@ Every program claim must carry one of these statuses:
 
 ## Current research phase
 
-The active phase is structured exploration, not optimization of a known
-context architecture. The program will use a minimal validity envelope to map
-large-world discovery, relationship formation, relation-to-action binding,
-action organization and expression, work-product persistence, effect uptake,
-feedback discrimination, repair, resumption, and closure across materially
-different authentic worlds.
+The active phase is system-interaction exploration, not optimization of a known
+context architecture and not one experiment per capability label. The program
+will use a minimal validity envelope to compare viable whole configurations in
+which discovery, residency, semantic persistence, exact work-product
+persistence, action, effects, feedback, resumption, and closure jointly evolve.
+The labels remain event codes inside trajectories rather than presumed modules.
 
 Discovery probes may be small and may use cheap controlled contrasts, but their
 claims remain local. Expensive mechanism tuning and architecture promotion wait
 for a consequential functional endpoint to recur in at least two independent
 worlds. Seeds or packet variants from one donor are not independent recurrence.
 
-The active protocol and updated map are `STRUCTURED_EXPLORATION_ROADMAP.md` and
-`CAPABILITY_TERRAIN_MAP.md`. The exact pressure-trajectory reconstruction is
-`E36_DECISION_GEOMETRY_AUDIT.md`; the first breadth design is preserved in
+The active protocols and updated map are `STRUCTURED_EXPLORATION_ROADMAP.md`,
+`SYSTEM_INTERACTION_EXPLORATION.md`, and `CAPABILITY_TERRAIN_MAP.md`. The exact
+pressure-trajectory reconstruction is `E36_DECISION_GEOMETRY_AUDIT.md`; the
+first breadth design is preserved in
 `DISCOVERY_PHASE_CHECKPOINT.md`; and its measured program disposition is
 `DISCOVERY_TRANCHE_RESULT.md`.
 
@@ -78,9 +79,13 @@ no correct useful completion. Nineteen of 39 responses failed action admission;
 two independent cells nevertheless produced substantial strong-partial
 artifacts, took up their mutation effects, ran current visible checks, and
 closed prematurely. A fresh exact-state handoff repeated one donor's false
-closure. The active questions are therefore broader than residency: observation
-surface, relation-to-action binding, verification coverage, readiness, and
-cumulative exact work across bounded resumption.
+closure.
+
+E37 is a low-pressure reference, not an interaction result. The next checkpoint
+must place residency, semantic persistence, exact work-product persistence,
+resumption, feedback, and closure in the same measured loop. Action-interface
+qualification is an apparatus gate; component ablation waits until a joint
+configuration demonstrates trajectory-level value.
 
 ## Current position
 
@@ -925,14 +930,14 @@ eligible. No general controller or automatic note production is promoted. A
 close-transfer readiness-discrimination audit found no authentic matching donor
 and made zero GPU calls.
 
-## Result-dependent routing
+## Historical result-dependent routing (inactive)
 
 The table below preserves the adaptive routing logic used during component
 scouting. E34 has now closed its last selected branch. It is not a queue of
 remaining obligations; current routing is governed by
 `PROGRAM_RECONCILIATION.md`.
 
-| Observed residual pressure | Next isolated candidate |
+| Observed residual pressure | Historical successor used during component scouting |
 |---|---|
 | A bounded freeform note cannot be expressed reliably | defer notes or separately test a constrained note-maintenance protocol |
 | Exact resident bytes are requested despite explicit compact currentness | model-selected exact focus relocation before semantic compression |
@@ -1062,15 +1067,16 @@ strong-partial artifacts, took up their effects, passed narrower current
 checks, and submitted prematurely; D6 reconstructed D2's closure disposition
 from exact current state without correcting readiness.
 
-This is evidence that the reset was useful. The limiting function moved from
-capacity and evidence ingress to expression, relation materialization,
-verification coverage, and closure. The next checkpoint must sample those
-interactions laterally rather than repairing the same cells or adding a context
-mechanism where pressure was absent.
+This is evidence that the reset exposed useful low-pressure boundaries, but it
+did not test how those boundaries interact with context lifecycle. The next
+checkpoint must compare complete pressure-active configurations rather than
+repairing the same cells or routing each observed failure into its own
+component study.
 
-The active direction is `STRUCTURED_EXPLORATION_ROADMAP.md`. Candidate mechanism
-families below are retained as a hypothesis catalog, not a queue. No GPU calls
-are authorized by this routing decision.
+The active direction is `SYSTEM_INTERACTION_EXPLORATION.md`, governed by the
+broader `STRUCTURED_EXPLORATION_ROADMAP.md`. Candidate mechanism families below
+are retained as a hypothesis catalog, not a queue. No GPU calls are authorized
+by this routing decision.
 
 ## Candidate mechanism families — historical hypothesis catalog
 
