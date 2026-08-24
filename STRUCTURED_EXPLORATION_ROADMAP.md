@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: first breadth tranche complete; pressure-active interaction scout frozen for owner authorization
+Status: first pressure-active interaction measured; artifact-coupling systems Stage 0 selected
 
 ## Research-phase reset
 
@@ -40,8 +40,9 @@ The following form a mechanical observation and safety substrate:
 - exact identity, version, and reopen bindings;
 - real tokenizer and prompt-envelope accounting;
 - response and named control reserves;
-- deterministic first-fit demotion of eligible exact-backed result bodies,
-  stopping immediately when the pending packet becomes feasible;
+- deterministic first-fit demotion of exact-backed result bodies whose
+  prospectively rendered receipts yield strictly positive savings, stopping
+  immediately when the pending packet becomes feasible;
 - exact delivery and effect-uptake accounting; and
 - candidate/task/evidence-bound external evaluation and adjudication lineage.
 
@@ -266,7 +267,7 @@ final source-residue bootstrap remained over its fixed budget. The prospective
 stop rule closes the whole A/B/C/D portfolio. Its matrix remains here as design
 history, not as an active or partially salvageable experiment.
 
-The active successor candidate is specified under “Immediate program work.” It
+The next systems checkpoint is specified under “Immediate program work.” It
 must satisfy the same general discipline: viable whole configurations, a finite
 budget derived from the complete feedback loop, no outcome-dependent cell
 replacement, and a frozen task, pressure prefix, run order, evaluator, and
@@ -356,86 +357,90 @@ discovery and its claims must be scoped accordingly.
 
 ## Immediate program work
 
-### E38 apparatus disposition and successor interaction
+### E40 result and artifact-coupling successor
 
-The first declared source-residue × incremental-work scout is closed before
-measurement. Three separately frozen four-call gates accepted 1/4, 2/4, and
-3/4 shapes. V2 qualified both evidence-integration work shapes, natural stop,
-source allowlists, and intermediate-artifact separation, but its first
-source-residue output used 310 tokens against a fixed 256-token budget. The
-prospective stopping rule forbids v3 and makes the A/B/C/D design ineligible.
+The first pressure-active whole-system interaction completed at
+`ScrappyTom/qwen38-ingress-work-interaction-scout-v0@ea03f6c7e5d11e0f9f1013eef573215767c58ad1`.
+It consumed 98 actor calls and 40 work-maintenance calls. Actor-selected
+batching and bounded semantic work both activated, but all four candidates
+remained the exact initial stub. There were no candidate effects, checks, or
+submissions.
 
-Do not run only A and C after seeing this gate outcome. That would change the
-declared interaction post hoc. Do not raise the residue cap or add another
-scaffold. The apparatus result adds no downstream utility evidence.
-
-The next candidate portfolio crosses:
+The result must be read as an interaction:
 
 ```text
-one-range versus bounded multi-range evidence ingress
-×
-whole-final-artifact-only versus bounded cumulative evidence-integration work
+batch ingress
+  increased ranges per accepted decision
+  and accelerated exact-result turnover and reentry use
+
+bounded work sidecar
+  generated grounded cross-source prose
+  and lost earlier source relationships under repeated replacement
+
+whole-final-only task surface
+  preserved an all-or-nothing construction transition
+
+combined trajectory
+  kept evidence and interpretation moving
+  without creating exact cumulative artifact work or a feedback cycle
 ```
 
-All four configurations must remain whole systems under common exact custody,
-first-fit relief, reopen, action/effect admission, current checks, and external
-readiness evaluation. Ingress changes result size, pressure, and decision
-bandwidth; work changes residency, later demand, and construction state. The
-primary question is their induced interaction, not two isolated main effects.
+The strongest diagnostic configuration exposed all 14 sources and maintained
+a 550-word work record, then requested exact reopens rather than mutating the
+charter. This is not evidence that semantic persistence was inert. It is
+evidence that detached semantic state, exact recovery, and whole-final-only
+construction did not jointly form a productive system in this regime.
 
-Stage 0 has now qualified a non-oracular bounded batch-read surface, specified
-how work production shares provider bandwidth, proved exact work-evidence
-provenance, and retained a frozen horizon through construction, effect uptake,
-checking, repair, and closure. This completion does not authorize the measured
-GPU run.
+One I1 event replaced a one-line exact body with a receipt that cost 79 more
+tokens. I1 is apparatus-affected descriptive evidence and the full factorial
+is censored. Any successor must prospectively render each receipt and skip
+equal- or negative-savings substitutions. I2–I4 remain mechanically qualified
+local negatives.
 
-E36 remains the pressure-qualified evidence-streaming case, reconstructed in
-`E36_DECISION_GEOMETRY_AUDIT.md`. E37 is the completed first breadth tranche,
-reported in `DISCOVERY_TRANCHE_RESULT.md` and bound to experiment result commit
-`ea8f4cfa5888998d6193f57316e9cd41cf1639b6`.
+The next selected work is not a longer I1–I4 continuation and not isolated
+qualification of a note, patch, or checker. It is an offline Stage 0 for:
 
-The next work remains a post-tranche system-interaction checkpoint, not an
-automatic repair bank and not isolated component routes. It must select at
-least one authentic pressure state where evidence ingress, bounded residency,
-cumulative work, resumption, feedback, and closure operate in one measured
-loop. The source-residue portfolio is closed; its failed expression gate is not
-a reason to discard semantic continuity as a general concern, but it is a
-reason not to keep tuning that particular dedicated residue interface.
+```text
+semantic integration
+× exact incremental task-artifact externalization
+× candidate/work-version-bound feedback and repair
 
-The active candidate comparison crosses bounded evidence-ingress bandwidth
-with cumulative task-native work externalization. Exact custody, first-fit
-pressure relief, reopen, qualified action transport, effects, current checks,
-and external readiness evaluation remain common infrastructure. The primary
-question is whether ingress and work persistence substitute, complement,
-interfere, or move the failure elsewhere across the same feedback horizon.
+inside a complete trajectory that also keeps
+evidence ingress, pressure relief, exact reopen,
+effects, resumption, readiness, and closure live
+```
 
-The checkpoint should preserve an ordinary-success reference and later seek
-independent-world transfer, but its first scout may be local if the authentic
-pressure state is unique. It must not rerun the closed residue gate, salvage
-only its accepted cells, or repeat E37 merely with repaired formatting.
+The leading finite contrast compares a detached bounded-integration system
+against an artifact-coupled system whose model-authored findings become exact,
+versioned requirement/evidence entries and partial task sections that can be
+revised, checked, repaired, and finally assembled. It does not ask whether a
+patch action works in isolation. It asks whether changing the coupling among
+meaning, durable work, feedback, and actor decisions changes the trajectory.
 
-Stage 0 for this wave is now complete. It:
+Stage 0 must now:
 
-- qualified the chosen action transport across the required small and large
-  action shapes under the exact live runtime as an apparatus gate, not a
-  research cell;
-- froze candidate/task/evidence-bound evaluation, including readiness and
-  blocking requirements outside the actor's visible check;
-- demonstrated a feasible action/effect/check/repair/closure path with enough
-  horizon to observe the target function;
-- stated how single-range and bounded multi-range ingress interact with exact
-  cumulative work, residency, and the common resumption frame;
-- proved that every measured configuration is viable after pressure rather than
-  comparing relief with an inevitable hard stop; and
-- returned a finite I1–I4 portfolio, exact call ceilings, and frozen commit
-  `1c041e2c55e0cc1f735e056df84a156c15bd8679` for owner review.
+- reconstruct which E40 work versions could support meaningful task sections,
+  without claiming the historical actor would have written them;
+- preferentially qualify a fresh task world with the same interaction geometry;
+  E40 remains a design/audit donor rather than an automatic historical control;
+- implement and test strictly positive-savings relief eligibility;
+- freeze a non-oracular exact partial-work surface with provenance and
+  currentness bindings;
+- retain live bounded batch ingress so its throughput/residency interaction is
+  still observed;
+- qualify the whole evidence→work→effect→check→repair→closure loop
+  provider-free;
+- derive a viable horizon that includes observed action-admission loss; and
+- bind independent artifact quality and readiness identically across systems.
 
-The new `read_batch` surface passed its two-call live gate 2/2. The offline
-whole-loop harness and measured preflight also pass, but neither is utility
-evidence. The selected measured successor is
-`2026-08-24-ingress-work-interaction-measured-v0`; this roadmap still does not
-authorize its GPU inference. Explicit authorization at the frozen commit is
-required.
+E36 remains the pressure-qualified evidence-streaming case, E37 the
+low-pressure breadth reference, E38 the closed residue-expression route, E39
+the historical freeze handoff, and E40 the measured interaction result. The
+full obligations are in
+`NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`.
+
+No GPU call is authorized. Owner review is required after offline Stage 0
+returns a finite, interpretable whole-system contrast and exact frozen commit.
 
 ## What will not be optimized in this phase
 
@@ -448,6 +453,7 @@ tune:
 - a global semantic graph or permanent four-dimensional prompt;
 - another frontier/JSON schema;
 - another generic progress or readiness cue;
+- another detached bounded-sidecar format or longer I1–I4 horizon;
 - a default source-digest service;
 - a model-owned eviction dialogue;
 - automatic phase discovery or a general router;

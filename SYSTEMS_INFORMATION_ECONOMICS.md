@@ -1,6 +1,6 @@
 # Systems model for bounded information economics
 
-Date: 2026-08-23
+Date: 2026-08-24
 
 Status: program-level research frame; not a promoted runtime architecture
 
@@ -146,6 +146,8 @@ Also record **conversion yield** without treating it as one scalar score:
 
 - exact bytes observed over time;
 - distinct relationships or qualifications externally represented;
+- relationships or source bindings retained across replacement versions;
+- exact partial task-work versions admitted and later reused;
 - admitted artifact work;
 - current effects taken up;
 - evaluator requirements satisfied; and
@@ -457,8 +459,9 @@ current routing default.
 
 The systems ownership split is therefore firmer:
 
-- the host owns exact custody, accounting, response/control reserves, minimum
-  relief, reversible receipt substitution, and phase/reentry mechanics;
+- the host owns exact custody, accounting, response/control reserves,
+  prospectively positive-savings relief, reversible receipt substitution, and
+  phase/reentry mechanics;
 - the actor reveals information demand through ordinary reads and reopens and
   owns task interpretation and work; and
 - optional semantic investments require an observed state-specific benefit and
@@ -536,6 +539,66 @@ useful bounded work is limited jointly by
 Increasing context operability can move the terminal resource to decisions or
 integration without improving the artifact. Receipt-only relief remains a
 useful mechanical baseline; it is not the active architecture hypothesis.
+
+## Pressure-active interaction result: interpretation without task-work conversion
+
+E40 made more than one information function live in the same authentic
+pressure loop. It crossed one-range versus actor-selected bounded batch ingress
+with whole-final-only versus a bounded replacement evidence-integration state.
+Across 98 actor and 40 maintenance calls, batching and semantic work both
+activated. Every candidate nevertheless remained the initial nine-word stub.
+
+The economic interactions were directional rather than additive:
+
+```text
+batch ingress
+    raised evidence per admitted actor decision
+    and raised exact-result size and reentry demand
+
+bounded semantic work
+    externalized genuine cross-source interpretation
+    and incurred 339,354 serialized maintenance tokens
+    and lost earlier citation breadth under replacement
+
+whole-final artifact surface
+    left construction as one large indivisible action
+
+joint outcome
+    evidence flow > 0
+    semantic flow > 0
+    exact task-artifact flow = 0
+```
+
+This refines the stock/flow model. A semantic derivative can have high
+production and resident value at one decision yet low **retention yield** over
+successive rewrites. A provenance allowlist can grow while the derivative's
+substantive relationships contract. Metadata stock and semantic stock must
+therefore be accounted separately.
+
+It also distinguishes **semantic externalization** from **work-product
+externalization**. The E40 object was lossy and non-authoritative. It did not
+create exact partial charter sections, admitted candidate effects, or a
+version-current feedback target. The information economy paid to interpret
+evidence but did not create a transaction through which that interpretation
+could become cumulative, checkable work.
+
+The strongest diagnostic cell exposed all 14 sources and carried a 550-word
+semantic record, then acquired exact reopens instead of mutating. This does not
+show that interpretation was absent. It shows that evidence breadth, semantic
+state, artifact action granularity, and feedback must be analyzed as a coupled
+conversion pipeline.
+
+The run also tightened the mechanical accounting law. One tiny I1 exact body
+became a receipt that cost 79 more prompt tokens. Custody alone does not make an
+object economically demotable. Relief eligibility must be determined from the
+prospectively rendered packet and require strictly positive savings.
+
+The next interaction question is consequently not another sidecar format or
+batch cap. It is whether semantic integration has positive downstream value
+when bound to an exact, incrementally revisable task artifact with source and
+requirement provenance, current effects, and partial feedback—while ingress,
+pressure, recovery, repair, readiness, and closure remain live. That is a
+complete-system question about conversion and feedback, not a component score.
 
 ## Low-pressure reconnaissance correction
 

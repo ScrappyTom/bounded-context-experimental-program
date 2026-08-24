@@ -19,7 +19,8 @@ not a reliable end-to-end task-performance architecture:
 exact external custody
 + ordinary chronology while healthy
 + host-owned response and control reserves
-+ deterministic first-fit pressure relief under a frozen scan order
++ deterministic first-fit pressure relief under a frozen scan order, restricted
+  to prospectively rendered strictly positive-savings substitutions
 + exact reopen on actor demand
 + reactive exact reentry as an unpromoted fallback when declared relief is
   insufficient
@@ -83,15 +84,33 @@ call and zero retries. Both exact results executed below the frozen batch cap;
 the gate consumed 40,676 serialized tokens. This qualifies action transport,
 not downstream utility.
 
-The measured I1–I4 runner and audits are now complete offline. A provider-free
-whole-loop harness exercised result delivery, pressure relief, work replacement,
-candidate effects, current checks, submission, external evaluation, sealing,
-and the actor-horizon stop; it made zero model/GPU calls. Full pinned-asset
-hashes, runtime quiescence, the qualification seal, 21 runtime tests, and five
-evaluator tests passed. No measured configuration has run, so ingress/work
-substitution, complementarity, interference, and artifact value remain wholly
-unobserved. The only next live step is the separately authorized frozen
-four-configuration run.
+The owner subsequently authorized and completed that I1–I4 run. It used 98
+actor calls, 40 work-maintenance calls, and 2,112,973 serialized tokens. Both
+candidate axes activated: I2/I4 used multi-range ingress repeatedly, and I3/I4
+accepted 38 bounded work replacements. Yet every candidate remained the exact
+nine-word initial stub, with no mutation, effect uptake, check, or submission.
+
+The interaction result is not merely that two components failed. Batch ingress
+increased ranges per accepted decision while larger exact results accelerated
+turnover and exhausted the reactive-reentry budget in both batch arms. The
+work sidecar produced genuine cross-source prose, but repeated bounded
+replacement shed earlier citations; both final work records cited only four
+sources despite 13/14-source provenance allowlists. The sidecar was semantic
+state, not an exact partial charter or independently checkable task artifact.
+The actor therefore still faced an all-or-nothing final construction action.
+
+One I1 relief event replaced a one-line exact body with a receipt that cost 79
+more prompt tokens. The sealed cell remains descriptive, I2–I4 remain
+mechanically qualified local negatives, and the complete factorial is censored.
+Every successor runtime must restrict the deterministic scan to prospectively
+rendered strictly positive-savings substitutions.
+
+The active route is now an offline systems Stage 0 for semantic integration ×
+exact incremental task-artifact externalization × version-bound verification,
+with batch ingress, exact reopen, pressure relief, effects, repair, and closure
+kept live as one trajectory. This is not note, patch, and checker component
+qualification. See `E40_INGRESS_WORK_INTERACTION_RESULT.md` and
+`NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`.
 
 ## Loose-ends audit
 
@@ -123,6 +142,7 @@ inventory, not a queue:
 | Host-enumerated minimal-release semantic tie-break | Distinct but optional | It would isolate selection identity while keeping relief amount host-owned, but the mechanical baseline already works locally. Test only if independent worlds implicate release identity. |
 | Automatic phase selection and arbitrary decomposition | Open and removed from default | The v0 scout's fixed-call phase schedule fired before task-state completion and at low occupancy. Reactive v1 does not reset context merely because a phase label/call number arrived. |
 | Deterministic chronology folding beyond current materialization | Open | It may later reduce reentry cost, but no current discovery route assumes it. |
+| Longer I1–I4 sidecar/whole-final continuation | Current route closed | Both active functions were observed, all candidates remained unchanged, semantic grounding contracted, and one cell exposed a relief defect. The next question is artifact coupling, not more horizon under the same state/action geometry. |
 
 “Open” means scientifically unknown. It does not mean selected, owed, or
 authorized.
@@ -150,6 +170,8 @@ authorized.
 | Exact evaluator replay requires the external world to reproduce byte-for-byte. | Candidate-generated UUID text caused one literal replay mismatch while behavior, defect class, candidate, and repair remained stable. | Preserve exact raw result custody separately from a prospectively deterministic candidate-bound model-visible diagnostic. |
 | Broad reconnaissance would reveal whether context remained the dominant constraint. | E37 stayed below 7,110 prompt tokens, rejected 19/39 responses, produced two strong-partial artifacts with current visible checks, and closed both prematurely. Exact-state D6 repeated one donor's false closure. | Treat expression/admission, relation-to-action binding, verification coverage, and readiness as interacting system boundaries. Do not default back to context-layout tuning. |
 | A known ordinary-success calibration would expose a downstream success path under the common profile. | E37 D3 never reached construction because seven fenced tree requests consumed its horizon. | Preserve the literal failure, but classify downstream coding capability as unobserved. Qualify the observation surface before using it to compare deeper capabilities. |
+| Bounded batch ingress would convert call budget into useful evidence throughput. | Multi-range actions activated and increased ranges per accepted read, but their larger exact results accelerated turnover; both batch arms exhausted the reentry budget and neither produced artifact work. | Treat ingress bandwidth and residency pressure as coupled; do not promote batching from coverage alone. |
+| A bounded cumulative-work object would let streamed evidence become durable task work. | The replacement sidecars produced real cross-source prose, then shed earlier citation grounding and remained detached from exact partial artifact effects and checks. No candidate changed even after I4 saw all 14 sources. | Distinguish semantic sidecar state from exact incremental task work. Test their coupling with version-bound feedback in a complete trajectory, not as isolated expression components. |
 
 ## Provisional ownership split for the mechanical comparator
 
@@ -162,7 +184,8 @@ Host-owned mechanical responsibilities:
 - exact custody, versions, hashes, and reopenability;
 - prompt accounting and prospective capacity checks;
 - response reserve and the treatment's exactly preflighted transition reserve;
-- deterministic first-fit pressure relief with immediate stop at feasibility;
+- deterministic first-fit pressure relief over prospectively rendered,
+  strictly positive-savings candidates with immediate stop at feasibility;
 - deterministic receipt substitution and admission;
 - exact current-world and reactive reentry mechanics;
 - exact observation-to-candidate currentness bindings; and
@@ -264,19 +287,27 @@ the low-pressure reference map:
    after successful effect uptake; and
 5. fresh exact state can preserve an incorrect control disposition.
 
-The active checkpoint compares viable whole configurations under authentic
-pressure. The source-residue × incremental-work candidate was prospectively
-closed at its final expression gate, so no reduced A/C comparison is permitted.
-The frozen successor crosses evidence-ingress bandwidth with bounded cumulative
-task-native work while common exact custody, first-fit relief, reopen,
-action/effect handling, current verification, and readiness evaluation remain
-live around them. The study follows induced demand and artifact state through
-the feedback horizon rather than treating
-batch reads or intermediate work as isolated component qualifications.
+The I1–I4 checkpoint subsequently measured viable whole configurations under
+authentic pressure. Batch ingress and bounded work both activated, but none of
+98 actor decisions produced candidate work. Batch arms exchanged decision
+bandwidth for larger resident results and reached the reentry ceiling. Work
+arms generated 38 accepted semantic replacements at substantial cost, then
+ended with only four cited sources each despite broader provenance bindings.
+The result is a trajectory interaction failure, not evidence that either
+function was inert.
 
-Action-transport qualification was a blocking apparatus gate, not a successor
-component experiment. It passed 2/2 and remains apparatus evidence only. The
-enriched fixtures remain useful for triangulation, not prevalence. No
-D1/D3/D4 repair, D6 wording variant, task, or GPU call is authorized
-automatically. The finite I1–I4 interaction runner is frozen; only that exact
-measured run is presently eligible for explicit authorization.
+The design also clarified that its "task-native work" object was still a
+detached, lossy integration sidecar. It was not an exact partial candidate with
+requirement bindings, current effects, and a feedback surface. The active
+checkpoint now asks how semantic integration, exact incremental artifact state,
+and version-bound verification interact while evidence ingress, relief,
+reopen, action admission, repair, and closure remain live.
+
+The next step is offline Stage 0 only. It must repair the positive-savings
+relief invariant, reconstruct the historical work-to-artifact gap, define a
+non-oracular exact partial-work surface, and prove a feasible complete horizon.
+It should use E40 as a design/audit donor while preferentially qualifying a
+fresh task world for measured breadth rather than treating the same prefix as
+an automatic control.
+No D1/D3/D4 repair, D6 wording variant, I1–I4 extension, or GPU call is
+authorized automatically.

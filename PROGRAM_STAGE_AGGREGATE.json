@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 31 successor stages through E39",
+  "scope": "parent bank plus 32 successor stages through E40",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 31,
-    "follow_on_model_calls": 262,
-    "follow_on_serialized_tokens": 2829431,
-    "unique_cited_experiment_commits": 27
+    "successor_stages": 32,
+    "follow_on_model_calls": 400,
+    "follow_on_serialized_tokens": 4942404,
+    "unique_cited_experiment_commits": 28
   },
   "stages": [
     {
@@ -330,6 +330,16 @@
       "serialized_tokens": 40676,
       "included_in_follow_on_totals": true,
       "primary_disposition": "one-range and three-range batch actions passed 2/2; I1-I4 interaction runner frozen offline with no measured utility trajectories yet"
+    },
+    {
+      "stage_id": "S32",
+      "name": "ingress by bounded semantic-work measured interaction",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-ingress-work-interaction-scout-v0", "result_commit": "ea03f6c7e5d11e0f9f1013eef573215767c58ad1", "count_as_experiment_commit": true}],
+      "model_calls": 138,
+      "serialized_tokens": 2112973,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "batch ingress and bounded semantic work activated but produced no candidate progress; semantic grounding contracted, batch geometry accelerated reentry use, and one I1 negative-savings receipt censored the complete factorial"
     }
   ]
 }

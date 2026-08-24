@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: governing direction; first candidate apparatus closed; successor measured interaction frozen with GPU withheld
+Status: governing direction; first pressure-active interaction measured; artifact-coupling systems Stage 0 selected
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -97,7 +97,7 @@ No ordinary actor received these states, so the result is apparatus evidence,
 not persistence utility. The prospective stopping rule forbids another prompt,
 seed, cap, scaffold, or format repair.
 
-The next candidate interaction is:
+The successor interaction was:
 
 ```text
 evidence-ingress bandwidth
@@ -105,22 +105,24 @@ evidence-ingress bandwidth
 cumulative task-native work externalization
 ```
 
-This follows directly from the E36 system geometry: exact first-fit relief kept
+It followed directly from the E36 system geometry: exact first-fit relief kept
 evidence entering, but one bounded read consumed each actor decision and no
 cumulative work formed. The final apparatus gate separately showed that a
 bounded evidence-integration record can be expressed in both bootstrap and
-joint-state shapes. Its downstream value remains untested.
+joint-state shapes. Its downstream value was then untested.
 
-The successor must compare complete configurations, not run the three passing
-apparatus cases as post-hoc treatments. Details and limits are in
+The successor compared complete configurations rather than running the three
+passing apparatus cases as post-hoc treatments. Details and limits are in
 `E38_INTERACTION_APPARATUS_DISPOSITION.md`.
 
-### Active successor Stage 0
+### Measured successor disposition
 
-The finite successor is frozen for measurement at
-`qwen38-ingress-work-interaction-scout-v0@1c041e2c55e0cc1f735e056df84a156c15bd8679`:
+The finite successor was frozen at
+`qwen38-ingress-work-interaction-scout-v0@1c041e2c55e0cc1f735e056df84a156c15bd8679`
+and measured at result commit
+`ea03f6c7e5d11e0f9f1013eef573215767c58ad1`:
 
-| Configuration | Actor-selected ingress | Cumulative task-native work |
+| Configuration | Actor-selected ingress | Bounded evidence-integration state |
 |---|---|---|
 | I1 | one exact range | disabled |
 | I2 | bounded batch of 1–3 exact ranges | disabled |
@@ -143,18 +145,47 @@ may erase that feedback.
 
 The two-call expression qualification of the new one-range and three-range
 batch objects passed 2/2 with one attempt per call, zero retries, and 40,676
-serialized tokens. It is apparatus evidence only; no actor consumed a batch in
-a measured trajectory.
+serialized tokens. The measured run then used 98 actor calls, 40 work calls,
+and 2,112,973 serialized tokens. Batch ingress and bounded work both activated.
+No configuration mutated, checked, or submitted; every candidate remained the
+initial nine-word stub.
 
-The I1–I4 runner is now frozen as
-`2026-08-24-ingress-work-interaction-measured-v0`. Its provider-free harness
-exercised all four whole loops, including the treatment-induced work/demotion
-cascade, exact candidate/effect/check flow, external evaluation, sealing, and
-a terminal fixture proving that no work-maintenance call occurs after the actor
-horizon is exhausted. Full asset hashes, runtime quiescence, 21 runtime tests,
-five evaluator tests, and the qualification seal all passed. The measured GPU
-run remains unauthorized, and these apparatus checks add no interaction-utility
-evidence.
+Batching increased ranges per accepted actor decision while its larger exact
+results accelerated turnover and exhausted the reentry cap in I2 and I4.
+Maintenance produced 38 admitted cross-source replacement records, but final
+I3 and I4 prose cited only four sources each despite 13/14-source mechanical
+bindings. The bounded work object was a detached, lossy semantic sidecar—not a
+versioned, incrementally checkable task artifact—so the actor still faced a
+single whole-charter construction transition.
+
+One I1 substitution expanded rather than reduced the prompt by 79 tokens. I1
+is apparatus-affected descriptive evidence, I2–I4 are mechanically qualified
+local negatives, and the complete factorial is censored. The exact result and
+claim limits are in `E40_INGRESS_WORK_INTERACTION_RESULT.md`.
+
+### Active systems Stage 0
+
+The next selected question is:
+
+```text
+semantic integration
+× exact incremental task-artifact externalization
+× version-bound feedback and repair
+```
+
+It retains live evidence ingress, exact custody, positive-savings pressure
+relief, reopen, effects, resumption, readiness, and closure. It does not split
+notes, patch actions, and checks into independent component tests. The unit is
+the complete trajectory: does binding model-authored interpretation to exact,
+revisable requirement/evidence entries and partial task sections create a
+productive artifact/feedback loop, or merely move the failure to anchoring,
+revision cost, final assembly, or closure?
+
+Offline Stage 0 must first repair relief eligibility, reconstruct the E40
+work-to-artifact gap, define non-oracular exact partial-work and currentness
+bindings, and prove a viable evidence→work→effect→check→repair→closure horizon.
+The current contract is
+`NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`. No GPU run is authorized.
 
 ### Closed historical question
 
@@ -182,7 +213,7 @@ interfere:
 The question is not which object is intrinsically best. It is how each complete
 configuration changes the subsequent information economy.
 
-## Candidate interaction scout
+## Closed historical candidate interaction scout
 
 Use one authentic cross-source task whose ordinary trajectory reaches real
 prompt pressure and whose artifact can be externally evaluated. All measured
@@ -288,7 +319,7 @@ A defensible trigger may be a prospectively task-declared mechanical event,
 provided that event is defined before inference and does not assert semantic
 sufficiency. It may also be the reactive condition already earned by prior
 work: first-fit has exhausted every eligible body and the next legitimate
-packet still cannot preserve the frozen reserves. The active successor uses
+packet still cannot preserve the frozen reserves. The E39 design used
 only the latter rule; it does not schedule a fresh frame merely because a
 coverage label or call count is reached. If reactive reentry occurs, each arm
 receives only its own legitimately accumulated persistent state:
@@ -345,7 +376,7 @@ An interaction claim requires literal evidence from more than one
 configuration. A single successful artifact does not establish
 complementarity; a single failure does not establish interference.
 
-## Stage 0 gates
+## Historical Stage 0 gates for the closed residue portfolio
 
 Before GPU authorization, the checkpoint must establish:
 
@@ -360,7 +391,7 @@ Before GPU authorization, the checkpoint must establish:
 5. exact rules for when residues are produced/replaced and when partial work is
    materialized;
 6. a non-oracular common resumption policy; scheduled reentry is not required,
-   and the active successor uses reactive capacity exhaustion only;
+   and the E39 successor used reactive capacity exhaustion only;
 7. frozen candidate/task/evidence-bound quality and readiness rules;
 8. accounting that charges each configuration for its maintenance and carrier
    costs; and
@@ -376,6 +407,8 @@ This direction does not authorize:
 
 - another low-pressure task sampler interpreted as context interaction;
 - a sequence of isolated digest, note, artifact, reentry, or closure probes;
+- a longer I1–I4 sidecar/whole-final continuation or another detached-note
+  format;
 - silent repair of E37's malformed actions;
 - a universal semantic schema or permanent four-dimensional prompt;
 - automatic relevance scoring or phase discovery;
@@ -384,9 +417,9 @@ This direction does not authorize:
 - post-outcome addition of a configuration because the first result is
   disappointing.
 
-The first checkpoint may refine the task-native intermediate artifact and
-mechanical triggers offline. Any material change after measured behavior begins
-requires a new frozen contract.
+The active offline checkpoint may refine the task-native incremental artifact,
+feedback surface, and mechanical triggers before freezing a comparison. Any
+material change after measured behavior begins requires a new frozen contract.
 
 ## Promotion rule
 

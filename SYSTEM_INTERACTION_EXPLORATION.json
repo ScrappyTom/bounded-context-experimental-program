@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-24",
-  "status": "measured_interaction_frozen_gpu_withheld",
+  "status": "measured_interaction_complete_artifact_coupling_stage0_selected",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "authentic_prompt_pressure",
@@ -21,7 +21,7 @@
     "final_result_commit": "362868ae25a7301a9fe34a90e59768318537c852",
     "same_route_successor_forbidden": true
   },
-  "next_candidate_interaction": {
+  "completed_ingress_work_interaction": {
     "axis_a": "one_range_vs_bounded_multi_range_evidence_ingress_per_actor_decision",
     "axis_b": "whole_final_artifact_only_vs_bounded_cumulative_task_native_work",
     "configurations": [
@@ -30,9 +30,10 @@
       "I3_one_range_and_cumulative_work",
       "I4_bounded_multi_range_and_cumulative_work"
     ],
-    "status": "measured_interaction_frozen_gpu_withheld",
+    "status": "local_negative_with_apparatus_censoring",
     "repository": "ScrappyTom/qwen38-ingress-work-interaction-scout-v0",
     "freeze_commit": "1c041e2c55e0cc1f735e056df84a156c15bd8679",
+    "result_commit": "ea03f6c7e5d11e0f9f1013eef573215767c58ad1",
     "authentic_boundary": {
       "ordinary_prompt_tokens": 21442,
       "prompt_ceiling_tokens": 20992,
@@ -58,7 +59,21 @@
       "maximum_provider_calls": 152,
       "attempts_per_call": 1,
       "retries": 0,
-      "gpu_authorized": false
+      "gpu_authorized": true,
+      "completed": true,
+      "actual_actor_calls": 98,
+      "actual_work_calls": 40,
+      "actual_provider_calls": 138,
+      "actual_serialized_tokens": 2112973,
+      "candidate_changes": 0,
+      "checks": 0,
+      "submissions": 0
+    },
+    "apparatus_qualification": {
+      "affected_configuration": "I1",
+      "failure": "RESULT-020 receipt cost 79 more rendered prompt tokens than its exact one-line body",
+      "effect": "complete 2x2 factorial censored",
+      "successor_rule": "scan only prospectively rendered strictly positive-savings receipt substitutions"
     },
     "required_stage0_gates": [
       "bounded_non_oracular_multi_range_action",
@@ -68,9 +83,36 @@
       "feasible_acquisition_through_closure_horizon"
     ]
   },
+  "next_system_interaction": {
+    "status": "offline_stage0_selected_gpu_not_authorized",
+    "question": "semantic persistence x exact incremental task-artifact externalization x version-bound verification and repair under live ingress and common host-owned capacity safety",
+    "unit_of_analysis": "complete evidence_to_work_to_effect_to_feedback_to_closure trajectory",
+    "leading_systems": [
+      "detached_bounded_integration_plus_whole_final_artifact",
+      "artifact_coupled_requirement_evidence_and_partial_section_state_plus_incremental_verification"
+    ],
+    "non_isolation": [
+      "evidence_ingress_remains_live",
+      "pressure_relief_and_exact_reopen_remain_live",
+      "semantic_integration_is_measured_through_exact_artifact_use",
+      "effects_checks_repair_readiness_and_closure_are_in_horizon",
+      "expression_qualification_is_apparatus_only"
+    ],
+    "required_offline_gates": [
+      "positive_savings_relief_regression",
+      "E40_work_to_artifact_geometry_audit",
+      "fresh_world_preferred_with_E40_as_design_donor_only",
+      "non_oracular_exact_partial_work_and_provenance",
+      "work_and_candidate_version_bound_feedback",
+      "viable_complete_horizon_with_action_admission_loss",
+      "provider_free_full_loop_qualification"
+    ],
+    "governing_document": "NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md"
+  },
   "common_live_functions": [
     "exact_external_custody",
     "deterministic_first_fit_pressure_relief",
+    "prospective_positive_savings_relief_eligibility",
     "exact_reopen",
     "qualified_action_transport",
     "candidate_bound_effects",

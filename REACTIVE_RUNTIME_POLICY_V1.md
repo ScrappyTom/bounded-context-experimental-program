@@ -1,6 +1,6 @@
 # Mechanical pressure baseline v1
 
-Date: 2026-08-23  
+Date: 2026-08-24
 Status: evaluated reference instrument; not the active architecture or research route
 
 ## Correction from v0
@@ -22,7 +22,10 @@ exact external custody and access
 + ordinary chronology while healthy
 + host-owned response and named control reserves
 + on authentic prospective result overflow:
-     deterministic first-fit relief under a frozen scan order
+     prospectively render each exact-body→receipt candidate
+     skip substitutions with zero or negative token recovery
+     deterministic first-fit relief among positive-savings candidates
+       under a frozen scan order
      and immediate stop at feasibility
 + exact reopen on actor demand
 + reactive exact reentry only if the declared relief class is insufficient
@@ -32,9 +35,9 @@ exact external custody and access
 ```
 
 The host owns exact custody, version/hash binding, token accounting, reserves,
-receipt substitution, and admission. The actor supplies ordinary task decisions
-and actual read/reopen demand. No model manager predicts the whole working set
-in this reference condition.
+prospective receipt-cost calculation, receipt substitution, and admission. The
+actor supplies ordinary task decisions and actual read/reopen demand. No model
+manager predicts the whole working set in this reference condition.
 
 ## Reentry admissibility
 
@@ -87,6 +90,19 @@ The result qualifies the policy's narrow use as a mechanical pressure and
 observation instrument. It does not qualify it as a complete working-state or
 task-performance architecture and does not select a longer receipt-only
 continuation.
+
+E40 subsequently exposed an apparatus correction to the eligibility law. One
+I1 one-line exact observation was technically custodied and marked eligible,
+but its rendered receipt increased the prompt by 79 tokens. The following
+substitution restored feasibility, so the literal trajectory continued; the
+first operation was nevertheless not relief and censors the full E40 matrix.
+
+The corrected baseline therefore defines eligibility by the complete
+prospectively rendered prompt delta, not object class alone. Equal- or
+negative-savings substitutions remain exact-resident. If no positive candidate
+can preserve the frozen reserves, the runtime follows its predeclared reactive
+reentry or terminal path. This is a mandatory safety correction, not a new
+eviction optimization branch.
 
 ## Claim bound
 

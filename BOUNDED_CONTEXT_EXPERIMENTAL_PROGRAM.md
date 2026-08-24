@@ -89,15 +89,32 @@ source residue exceeded its 256-token budget at 310 tokens. The prospective
 stopping rule closes that route and the A/B/C/D design without any utility
 claim.
 
-E39 now freezes that checkpoint: evidence-ingress bandwidth and cumulative
-task-native work externalization share the same measured loop under common
-exact custody and pressure relief. This is not an isolated work-component test:
-ingress changes result size, pressure, and call budget, while work changes
-residency, later demand, construction, and anchoring risk. The bounded
-multi-range action passed 2/2 live expression fixtures, and the complete I1–I4
-runner passed its provider-free whole-loop harness and offline preflight. No
-I1–I4 trajectory has run, so no interaction or utility claim exists. The frozen
-measured GPU run still requires explicit authorization.
+E39 froze that checkpoint and E40 measured it. The I1–I4 run crossed evidence-
+ingress bandwidth with bounded replacement semantic work under common exact
+custody and pressure relief. It used 98 actor calls and 40 work calls. Both
+functions activated, but all candidates remained the initial nine-word stub:
+zero mutations, checks, or submissions.
+
+Batch ingress bought ranges per accepted decision while larger exact results
+accelerated turnover and exhausted the reentry budget in both batch arms.
+Bounded work produced grounded cross-source prose, then repeatedly shed earlier
+citations; final I3 and I4 records each cited only four sources despite broader
+mechanical provenance. Crucially, this state was a detached semantic sidecar,
+not an exact partial task artifact with effects and feedback. The actor retained
+an all-or-nothing final construction action.
+
+One I1 receipt expanded the rendered prompt by 79 tokens. The sealed cell is
+apparatus-affected, the full factorial is censored, and successor relief must
+scan only prospectively rendered strictly positive-savings substitutions.
+I2–I4 remain mechanically qualified local negatives.
+
+The active work is now an offline systems Stage 0 for semantic integration ×
+exact incremental task-artifact externalization × version-bound verification
+and repair, while ingress, pressure, reopen, effects, resumption, readiness,
+and closure stay live. This explicitly does not split notes, patches, and
+checks into isolated component studies. See
+`E40_INGRESS_WORK_INTERACTION_RESULT.md` and
+`NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`.
 
 ## Current position
 
@@ -108,12 +125,20 @@ measured GPU run still requires explicit authorization.
   while model-facing residency changes.
 - **LR:** exact reopen handles were behaviorally usable; Qwen3.8 repeatedly
   requested and received demoted exact content.
-- **LR:** pressure-triggered, minimum-necessary replacement of old exact-backed
-  result bodies with receipts restored otherwise blocked result delivery in two
-  seeds without changing the historical next decision.
+- **LR:** pressure-triggered, scan-order-minimal replacement of old exact-backed
+  result bodies with smaller receipts restored otherwise blocked result
+  delivery in two seeds without changing the historical next decision.
 - **LR:** the same oldest-first rule repeatedly maintained physical operability
   over 12 additional decisions per seed, but late behavior included substantial
   reopen churn and an exact period-three loop in one seed.
+- **AF/LR:** E40 exposed that relief eligibility must be based on prospective
+  rendered savings, not merely exact custody. One one-line body expanded by 79
+  prompt tokens when receipted; the sealed cell is apparatus-affected and the
+  successor rule skips all nonpositive substitutions.
+- **LR:** bounded batching and semantic work co-activated at an authentic
+  pressure boundary, but no candidate changed across 98 actor calls. Larger
+  batch results accelerated reentry use; bounded replacement work generated
+  cross-source prose while progressively losing prior citation grounding.
 - **AF:** at those late endpoints, accumulated actions, receipts, errors, and
   access history prevented four task-declared documents from co-residing even
   after remaining old result bodies were minimized.
@@ -1041,7 +1066,7 @@ preserved the incumbent next decision. Dedicated mode therefore solved the
 control-plane race but did not produce a stable or minimum-necessary working
 set in this formulation. No prompt-tuning successor is selected.
 
-### Program-phase disposition after E37
+### Program-phase disposition after E40
 
 Incremental tuning at the completed donor boundaries is closed. The program has
 not completed broad capability discovery and has not selected an architecture.
@@ -1080,15 +1105,25 @@ checks, and submitted prematurely; D6 reconstructed D2's closure disposition
 from exact current state without correcting readiness.
 
 This is evidence that the reset exposed useful low-pressure boundaries, but it
-did not test how those boundaries interact with context lifecycle. The next
-checkpoint must compare complete pressure-active configurations rather than
-repairing the same cells or routing each observed failure into its own
-component study.
+did not test how those boundaries interact with context lifecycle. E38's first
+interaction apparatus then stopped prospectively before utility measurement.
+E39/E40 supplied the first measured pressure-active interaction: bounded batch
+ingress and replacement semantic work both became live, yet neither alone nor
+together produced candidate work. The work state accumulated interpretations
+but lost earlier grounding and remained detached from an exact partial artifact
+and feedback surface.
 
-The active direction is `SYSTEM_INTERACTION_EXPLORATION.md`, governed by the
-broader `STRUCTURED_EXPLORATION_ROADMAP.md`. Candidate mechanism families below
-are retained as a hypothesis catalog, not a queue. No GPU calls are authorized
-by this routing decision.
+The next checkpoint therefore compares complete pressure-active systems in
+which semantic integration is either detached or bound to exact incremental
+task work with version-current feedback. It keeps ingress, pressure, reopen,
+effects, repair, and closure live. This is a system-coupling question, not a
+queue of isolated note, patch, or checker repairs.
+
+The active direction is `NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`, under
+`SYSTEM_INTERACTION_EXPLORATION.md` and the broader
+`STRUCTURED_EXPLORATION_ROADMAP.md`. Candidate mechanism families below are
+retained as a hypothesis catalog, not a queue. The selected work is offline
+Stage 0; no GPU calls are authorized by this routing decision.
 
 ## Candidate mechanism families — historical hypothesis catalog
 

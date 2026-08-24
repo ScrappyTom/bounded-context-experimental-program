@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 27 experiment commit bindings were resolved through the named local
+The current 28 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -91,18 +91,28 @@ externalization under common exact custody and pressure relief. The disposition
 and new obligations are in
 [E38_INTERACTION_APPARATUS_DISPOSITION.md](E38_INTERACTION_APPARATUS_DISPOSITION.md).
 
-That successor now has a measured-run freeze in
-[`qwen38-ingress-work-interaction-scout-v0`](https://github.com/ScrappyTom/qwen38-ingress-work-interaction-scout-v0)
-at commit `1c041e2c55e0cc1f735e056df84a156c15bd8679`. It crosses
-actor-selected one-range versus bounded batch ingress with whole-final-only
-versus bounded cumulative task-native work across four viable post-pressure
-configurations. The complete systems handoff is
-[E39_INGRESS_WORK_STAGE0_HANDOFF.md](E39_INGRESS_WORK_STAGE0_HANDOFF.md).
-Its two-call batch-action expression qualification passed 2/2 and consumed
-40,676 serialized tokens. The provider-free I1–I4 harness, full asset preflight,
-21 runtime tests, five evaluator tests, and custody checks pass. Those are
-apparatus results only. The frozen measured I1–I4 run has not begun and requires
-new explicit GPU authorization.
+That successor was frozen at
+[`qwen38-ingress-work-interaction-scout-v0@1c041e2`](https://github.com/ScrappyTom/qwen38-ingress-work-interaction-scout-v0/commit/1c041e2c55e0cc1f735e056df84a156c15bd8679)
+and measured at result commit
+[`ea03f6c`](https://github.com/ScrappyTom/qwen38-ingress-work-interaction-scout-v0/commit/ea03f6c7e5d11e0f9f1013eef573215767c58ad1).
+It used 98 actor calls and 40 maintenance calls across I1–I4. Batching and
+bounded semantic work both activated, but every candidate remained the exact
+nine-word initial stub: zero mutations, checks, or submissions. Batch geometry
+accelerated residency turnover and reentry use; bounded replacement work
+generated cross-source prose but progressively shed earlier grounding and
+remained detached from an incrementally checkable task artifact. One I1
+negative-savings receipt substitution censors the complete factorial; I2–I4
+remain mechanically qualified local negatives. The Stage 0 history is
+[E39_INGRESS_WORK_STAGE0_HANDOFF.md](E39_INGRESS_WORK_STAGE0_HANDOFF.md) and the
+measured systems disposition is
+[E40_INGRESS_WORK_INTERACTION_RESULT.md](E40_INGRESS_WORK_INTERACTION_RESULT.md).
+
+The next selected work is an offline Stage 0 for a different whole-system
+interaction: semantic integration × exact incremental task-artifact
+externalization × candidate-bound verification, with live ingress and common
+host-owned capacity safety. It explicitly does not isolate notes, patches, or
+checks as standalone components. The design obligations are in
+[NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md](NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md).
 
 The validity envelope remains strict: exact custody, complete model-visible
 history, one attempt with no hidden retry, hard limits, exact candidate/effect
@@ -117,6 +127,6 @@ at result commit `ea8f4cfa5888998d6193f57316e9cd41cf1639b6`, frozen from
 [DISCOVERY_STAGE0_HANDOFF.json](DISCOVERY_STAGE0_HANDOFF.json); the measured
 machine disposition is [DISCOVERY_TRANCHE_RESULT.json](DISCOVERY_TRANCHE_RESULT.json).
 
-No GPU run is authorized by these documents. The next eligible scope is the
-separately frozen I1–I4 measured interaction named above and still requires
-owner authorization at its exact commit.
+No GPU run is authorized by these documents. The next work is offline systems
+geometry, relief-apparatus repair, and full-loop qualification before any new
+freeze or authorization request.

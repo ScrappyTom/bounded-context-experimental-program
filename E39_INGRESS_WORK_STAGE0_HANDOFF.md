@@ -2,11 +2,17 @@
 
 Date: 2026-08-24
 
-Status: batch-action qualification passed 2/2; measured interaction frozen;
-measured GPU run not authorized
+Status: historical Stage 0 handoff; batch-action qualification passed 2/2;
+the subsequently authorized measured interaction is complete
 
 Standalone repository:
 [qwen38-ingress-work-interaction-scout-v0@1c041e2](https://github.com/ScrappyTom/qwen38-ingress-work-interaction-scout-v0/commit/1c041e2c55e0cc1f735e056df84a156c15bd8679)
+
+Measured result:
+[qwen38-ingress-work-interaction-scout-v0@ea03f6c](https://github.com/ScrappyTom/qwen38-ingress-work-interaction-scout-v0/commit/ea03f6c7e5d11e0f9f1013eef573215767c58ad1)
+
+Program disposition:
+`E40_INGRESS_WORK_INTERACTION_RESULT.md`
 
 ## System question
 
@@ -92,15 +98,18 @@ preflight passed with full pinned model/runtime hashes, qualification-seal
 verification, runtime quiescence, 21 runtime tests, five evaluator tests, and
 zero model/GPU calls.
 
-No I1–I4 trajectory has run. The current repository is a frozen design and
-apparatus result, not a measured interaction result.
+## Subsequent measured disposition
 
-## Eligible authorization
+The owner authorized the exact frozen scope above. The run completed in the
+declared order with 98 actor calls, 40 work calls, 138 provider calls, and
+2,112,973 serialized tokens. Both axes activated, but none of the four
+configurations changed the initial candidate, checked, or submitted. Bounded
+work generated grounded semantic prose but progressively shed earlier source
+grounding and remained detached from an incrementally checkable task artifact.
 
-Only this exact new scope is eligible:
-
-> I authorize the frozen ingress-work interaction run at commit
-> 1c041e2c55e0cc1f735e056df84a156c15bd8679, run ID
-> 2026-08-24-ingress-work-interaction-measured-v0: configurations I1, I2, I3,
-> and I4 in that order; at most 104 actor calls and 48 work-maintenance calls,
-> at most 152 provider calls total, one attempt per call, zero retries.
+The frozen auditor also found one I1 substitution whose receipt was 79 tokens
+larger than its one-line exact body. I1 is therefore apparatus-affected
+descriptive evidence and the complete 2×2 matrix is censored. I2–I4 remain
+mechanically qualified local negatives. See
+`E40_INGRESS_WORK_INTERACTION_RESULT.md` for the full interpretation and
+mandatory positive-savings relief correction.

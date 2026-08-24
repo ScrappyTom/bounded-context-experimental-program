@@ -9,6 +9,8 @@ repositories remain the authoritative raw custody.
 Status key: `AF` = apparatus fact; `LR` = bounded local result; `CH` = candidate
 hypothesis; `IN` = tested but primary comparison inconclusive; `NQ` = planned
 comparison not qualified; `UT` = untested.
+Combined labels identify mixed evidence within one stage; for example `LR/AF`
+means literal local behavior with a material apparatus qualification.
 
 | ID | Status | Boundary / operation | Supported statement | Claim limit | Evidence |
 |---|---|---|---|---|---|
@@ -48,6 +50,10 @@ comparison not qualified; `UT` = untested.
 | E34 | LR | dedicated maintenance-only exact residency selection | Both manager calls returned valid feasible release sets, but removed 6,527 and 6,956 prompt tokens where only 394 and 1,045 were required. Incumbent next-decision preservation was 0/2; both actors immediately requested the same released source object. | Two seeds, one task/world, one maintenance prompt, and one actor decision. Reopens were requested but not executed. This is a local negative for selection utility, not model-managed residency generally. | [dedicated-maintenance result](https://github.com/ScrappyTom/qwen38-dedicated-workspace-maintenance-v0/commit/44bade979d0ba1f1a2df3f2c919146c29d4c6868) |
 | E35 | LR | fresh-task whole-method scout / scheduled low-occupancy reentry | Seven cells passed exact replay and one remains sealed observational evidence after candidate-generated UUID text made literal evaluator replay differ. No prompt exceeded 9,948 tokens, no result-body relief or reopen occurred, and treatment only performed two scheduled fresh reentries per trajectory. Qualified useful completion was control 2/4 and treatment 0/3; one raw ineligible treatment also completed. Scheduled reentry reduced cache reuse in every pair and clearly harmed one qualified code seed. | This is evidence against unconditional call-count reentry at low occupancy, not against pressure-triggered first-fit relief or reactive reentry when chronology is the active burden. The research task was call-constrained and 19/71 actions were rejected. | [fresh-task scout result](https://github.com/ScrappyTom/qwen38-fresh-task-whole-method-scout-v0/commit/56654598e26a49e502888c8f60fca06cf5f40335) |
 | E36 | LR | fresh-task pressure-qualified first-fit continuation | In the separately qualified seed-314159 v2 cell/aggregate and seed-43 action/lifecycle history, each 18-call continuation resolved ten later pressure events through sixteen substitutions and 80,497 cumulative recovered prompt tokens. Seed 43's history is post-freeze replay-qualified; its primary v1 cell/aggregate remains sealed-aborted. Each sequence produced sixteen novel non-overlapping source reads, two over-range rejections, no exact reopen, and no mutation, check, or submission. The actor-call budget ended with a feasible pending S12 packet and required evidence still incomplete. | One fresh Ceiba task and one donor boundary. Seed 43 and seed 314159 had identical model-facing sequences and are seed variants, not independent-world replications or equal primary cells. This supports repeated mechanical operability and a forward-streaming acquisition pattern; it does not establish artifact utility, semantic continuity, acquisition-stopping failure, convergence, or longer-horizon behavior. | [pressure-qualified result](https://github.com/ScrappyTom/qwen38-pressure-qualified-lifecycle-scout-v1/commit/e4dcd58fa554e7e36b99e6cb454803cd099d2044) |
+| E37 | LR | capability-terrain reconnaissance | Across 39 low-pressure calls, 19 responses failed action admission; two cells produced strong-partial artifacts, took up effects, ran current narrow checks, and closed prematurely. No pressure or persistence interaction activated. | Enriched low-pressure reference, not prevalence or context-interaction evidence. | [breadth result](https://github.com/ScrappyTom/qwen38-capability-terrain-reconnaissance-v0/commit/ea8f4cfa5888998d6193f57316e9cd41cf1639b6) |
+| E38 | NQ | source-residue × cumulative-work interaction apparatus | Three frozen four-call gates improved acceptance from 1/4 to 3/4; both work shapes qualified, but the final cold-start residue used 310 tokens against a 256-token cap. | No ordinary actor consumed a maintenance object; utility was not tested and the declared route is closed. | [apparatus result](https://github.com/ScrappyTom/qwen38-system-interaction-persistence-scout-v0/commit/362868ae25a7301a9fe34a90e59768318537c852) |
+| E39 | AF/LR | ingress-action qualification and I1–I4 freeze | One- and three-range batch actions passed 2/2 live fixtures; the provider-free full interaction loop and preflight passed. | Action transport and apparatus only; measured utility is E40. | [freeze](https://github.com/ScrappyTom/qwen38-ingress-work-interaction-scout-v0/commit/1c041e2c55e0cc1f735e056df84a156c15bd8679) |
+| E40 | LR/AF | ingress × bounded semantic-work interaction | Across 98 actor and 40 maintenance calls, batching and semantic work activated but all candidates stayed unchanged. Batch geometry accelerated reentry use; replacement work lost prior citation breadth and remained detached from exact partial artifact effects/checks. | One task/world/model/seed. One I1 negative-savings receipt censors the complete factorial; I2–I4 are mechanically qualified local negatives. | [measured result](https://github.com/ScrappyTom/qwen38-ingress-work-interaction-scout-v0/commit/ea03f6c7e5d11e0f9f1013eef573215767c58ad1) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
@@ -61,6 +67,7 @@ comparison not qualified; `UT` = untested.
 | H11 | LR | bounded structured frontier expression | The tested schema qualified syntactic/token closure in 2/2 cases but migrated failure to clipped semantic fields and one invalid handle. | No actor calls; not utility-ready unchanged. | E10–E11, E15 |
 | H12 | LR | closure-safe structured frontier expression | Returned prose and handles were locally complete, but neither full object closed under the frozen interface; both length-terminated and the live grammar omitted declared length limits. | 0/2 complete acceptance. Frontier schema-expression tuning is closed; utility was not tested. | E15–E16 |
 | H13 | NQ | one-case cross-type effect retention | The complete exact effect and observation could not co-reside with the inherited standing set under the frozen envelope. | Behavioral utility untested; changing another object would be a different treatment. | E08–E09, E17–E18 |
+| H14 | CH | semantic integration × exact incremental task artifact × version-bound feedback | E40 generated semantic interpretations without exact artifact flow under a whole-final-only surface. A complete system that binds those interpretations to revisable requirement/evidence entries and partial sections may preserve useful work and create feedback, or may instead anchor errors and move cost to revision/assembly. | Selected for offline Stage 0 only. No provider calls, utility result, or architecture promotion. The interaction must retain ingress, pressure, effects, repair, readiness, and closure rather than splitting the functions into component tests. | E36, E38–E40; `NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md` |
 
 ## Active selection
 
@@ -359,6 +366,51 @@ The provider-free harness exercised I1–I4 through delivery, candidate effect,
 check, submit, external evaluation, sealing, aggregate audit, and an explicit
 actor-horizon stop. Full pinned runtime hashes, quiescence, source/provenance
 locks, the qualification seal, 21 runtime tests, and five evaluator tests pass.
-No measured configuration has run. Disposition: **AF** for the measured study
-and **LR** only for the narrow two-call expression gate. GPU authorization is
-withheld.
+At this stage, no measured configuration had run. Disposition: **AF** for the
+frozen measured apparatus and **LR** only for the narrow two-call expression
+gate. The subsequently authorized outcome is recorded as E40.
+
+## E40 — ingress × cumulative-work measured interaction
+
+Source:
+`ScrappyTom/qwen38-ingress-work-interaction-scout-v0@ea03f6c7e5d11e0f9f1013eef573215767c58ad1`
+
+Authorized freeze:
+`1c041e2c55e0cc1f735e056df84a156c15bd8679`
+
+Run ID:
+`2026-08-24-ingress-work-interaction-measured-v0`
+
+The four configurations completed in frozen order with 98 actor calls, 40
+work-maintenance calls, 138 provider calls, one attempt per call, zero retries,
+and 2,112,973 serialized tokens. Multi-range actions activated repeatedly in
+I2 and I4. I3 and I4 accepted 38 bounded work replacements. All four exact
+candidates remained the initial nine-word stub; there were zero mutations,
+effect-uptake decisions, checks, or submissions. Mechanical readiness is
+`not_ready` with 0/16 criteria met.
+
+Batch ingress increased ranges admitted per successful actor read while larger
+results accelerated exact turnover and reactive-reentry use. Both batch arms
+hit the two-reentry ceiling. The work sidecars generated substantive
+cross-source prose, but repeated replacement shed prior grounding: each final
+record cited four sources despite mechanical bindings to 13 and 14 sources.
+I4 exposed all 14 sources and still returned to exact reopens rather than
+constructing the charter.
+
+The result identifies a coupling failure. Evidence ingress and semantic
+interpretation were active, but the semantic object was a detached,
+non-authoritative sidecar rather than an exact partial task artifact with
+version-bound effects and feedback. The actor retained an all-or-nothing final
+construction action.
+
+The frozen auditor found one I1 substitution that replaced a one-line body
+with a receipt costing 79 additional prompt tokens. I1 is sealed
+apparatus-affected descriptive evidence; I2–I4 are mechanically qualified
+local negatives; the full 2×2 factorial is censored. Future relief must scan
+only prospectively rendered strictly positive-savings candidates.
+
+Disposition: **LR/AF** — local negative interaction result with apparatus
+censoring. No configuration is promoted and no same-configuration extension is
+selected. The next offline Stage 0 tests semantic integration × exact
+incremental task-artifact externalization × version-bound verification as a
+complete live system, not as isolated note, patch, or checker components.

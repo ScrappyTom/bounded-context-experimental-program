@@ -2,8 +2,8 @@
 
 Date: 2026-08-24
 
-Status: evidence-bounded program narrative through E39; measured I1–I4 GPU run
-not authorized
+Status: evidence-bounded program narrative through E40; artifact-coupling
+systems Stage 0 selected, no successor GPU run authorized
 
 ## What we learned
 
@@ -206,12 +206,13 @@ reopens, or fast submission.
 ## Program scale and experimental discipline
 
 The original parent bank contained 42 exactly replayed model requests. Through
-E36, 28 successor stages represent another 209 runner-qualified model calls and
-2,602,486 serialized tokens, including the four imported outline-continuation
-calls, all 71 executed whole-method scout calls, and 54 calls in the pressure-
-qualified study: 14 interface-qualification calls, four screening calls, and 36
-continuation calls. Zero-call eligibility, capacity, reconciliation, and cross-
-study audits are not included in that token total. The whole-method scout's
+E40, 32 successor stages represent another 400 runner-qualified model/provider
+calls and 4,942,404 serialized tokens. This includes apparatus qualifications,
+the 71-call whole-method scout, the 54-call pressure-qualified study, the
+39-call breadth tranche, the 12-call closed interaction qualification, the
+two-call ingress-action qualification, and E40's 138 provider calls. Zero-call
+eligibility, capacity, reconciliation, and cross-study audits remain in the
+stage ledger but add no calls or tokens. The whole-method scout's
 replay-ineligible cell remains included as actual execution cost but not as
 qualified primary evidence. The pressure-scout total counts seed 43 and seed
 314159 once each and excludes the consumed backend generation from its aborted
@@ -1020,8 +1021,52 @@ and provenance locks, the qualification seal, 21 runtime tests, and five
 evaluator tests. The frozen repository is
 `ScrappyTom/qwen38-ingress-work-interaction-scout-v0@1c041e2c55e0cc1f735e056df84a156c15bd8679`.
 
-No I1–I4 model trajectory has run. The program therefore has a qualified batch
-transport and a frozen interaction apparatus, but no result about whether
-batch ingress and cumulative work substitute, complement, interfere, improve
-artifact quality, or move the failure. The measured run requires separate
-explicit GPU authorization.
+The owner subsequently authorized the exact frozen I1–I4 scope. Its measured
+outcome is recorded below as stage 32.
+
+## 32. Ingress × bounded semantic work: active interaction without artifact work
+
+The run completed in frozen order with 98 actor calls, 40 work-maintenance
+calls, and 2,112,973 serialized tokens. Multi-range ingress activated in I2/I4,
+and I3/I4 accepted 38 bounded replacement work records. Every configuration
+nevertheless ended on the identical nine-word initial candidate: zero
+mutations, effect-uptake decisions, checks, or submissions.
+
+Batching improved ranges per accepted read decision, but its larger exact
+results accelerated residency turnover. Both batch configurations reached the
+two-reentry ceiling, and each later acquired three exact reopens. Batching was
+therefore simultaneously an ingress-bandwidth change and a residency-pressure
+change.
+
+The maintenance actors generated real cross-source prose. I3's work record
+eventually reached 13 source IDs over its lifetime; I4 also cited 13 and saw all
+14 sources. Repeated bounded replacement did not preserve that breadth. Both
+final records cited only four sources, and one I4 rewrite dropped every prior
+citation. Mechanical provenance lists survived, but the relationships they
+named did not necessarily remain in the prose.
+
+The decisive design distinction is that this "cumulative work" was a lossy,
+non-authoritative semantic sidecar. It was not a versioned partial charter,
+requirement/evidence matrix with task semantics, or section artifact whose
+effects could be taken up and checked. The actor still had to jump from
+evidence plus sidecar to one complete 1,800–2,000-word charter replacement.
+That transition never occurred.
+
+The frozen post-run audit found one I1 negative-savings relief event: a receipt
+for a one-line result increased the prompt by 79 tokens before the next
+substitution restored feasibility. I1 remains sealed descriptive evidence,
+I2–I4 remain mechanically qualified local negatives, and the full factorial is
+censored. Successor relief must scan only prospectively rendered strictly
+positive-savings substitutions.
+
+This is the first measured interaction result, and it moves the program beyond
+asking whether semantic state can be emitted. Both ingress and interpretation
+were active. What failed was their coupling to durable, exact, independently
+checkable task work and the action/feedback loop.
+
+The next selected work is an offline Stage 0 for semantic integration × exact
+incremental task-artifact externalization × version-bound verification and
+repair under live ingress and common host-owned capacity safety. It is a
+whole-system contrast, not isolated note, patch, or checker qualification. See
+`E40_INGRESS_WORK_INTERACTION_RESULT.md` and
+`NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`. No GPU successor is authorized.

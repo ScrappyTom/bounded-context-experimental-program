@@ -25,7 +25,7 @@ class SystemInteractionDirectionTests(unittest.TestCase):
             self.contract["non_isolation_rules"],
         )
 
-    def test_closed_first_scout_and_successor_are_explicit(self):
+    def test_closed_scout_measured_interaction_and_successor_are_explicit(self):
         closed = self.contract["closed_first_interaction"]
         self.assertEqual(4, len(closed["configurations"]))
         self.assertIn("semantic_residue", closed["axis_a"])
@@ -40,20 +40,37 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         )
         self.assertTrue(closed["same_route_successor_forbidden"])
 
-        successor = self.contract["next_candidate_interaction"]
-        self.assertEqual(4, len(successor["configurations"]))
-        self.assertIn("multi_range", successor["axis_a"])
-        self.assertIn("cumulative", successor["axis_b"])
+        completed = self.contract["completed_ingress_work_interaction"]
+        self.assertEqual(4, len(completed["configurations"]))
+        self.assertIn("multi_range", completed["axis_a"])
+        self.assertIn("cumulative", completed["axis_b"])
         self.assertEqual(
-            "offline_stage0_frozen_measured_interaction_not_frozen",
-            successor["status"],
+            "local_negative_with_apparatus_censoring",
+            completed["status"],
         )
         self.assertEqual(
-            "a4ba94b921896ce442c8bcbde87aa23009e09eb3",
-            successor["freeze_commit"],
+            "1c041e2c55e0cc1f735e056df84a156c15bd8679",
+            completed["freeze_commit"],
         )
-        self.assertEqual(2, successor["remaining_live_gate"]["maximum_model_calls"])
-        self.assertFalse(successor["remaining_live_gate"]["gpu_authorized"])
+        self.assertEqual(138, completed["measured_run"]["actual_provider_calls"])
+        self.assertTrue(completed["measured_run"]["completed"])
+        self.assertEqual("I1", completed["apparatus_qualification"]["affected_configuration"])
+
+        successor = self.contract["next_system_interaction"]
+        self.assertEqual("offline_stage0_selected_gpu_not_authorized", successor["status"])
+        self.assertIn("exact incremental task-artifact", successor["question"])
+        self.assertIn(
+            "effects_checks_repair_readiness_and_closure_are_in_horizon",
+            successor["non_isolation"],
+        )
+        self.assertIn(
+            "positive_savings_relief_regression",
+            successor["required_offline_gates"],
+        )
+        self.assertIn(
+            "fresh_world_preferred_with_E40_as_design_donor_only",
+            successor["required_offline_gates"],
+        )
         self.assertEqual("authentic_prompt_pressure", self.contract["required_activation"])
 
     def test_feedback_loop_remains_live(self):
@@ -66,6 +83,10 @@ class SystemInteractionDirectionTests(unittest.TestCase):
             "independent_artifact_quality_and_readiness",
         }
         self.assertTrue(required.issubset(set(self.contract["common_live_functions"])))
+        self.assertIn(
+            "prospective_positive_savings_relief_eligibility",
+            self.contract["common_live_functions"],
+        )
         self.assertFalse(self.contract["gpu_authorized"])
 
 
