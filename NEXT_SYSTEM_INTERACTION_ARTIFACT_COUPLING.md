@@ -2,12 +2,20 @@
 
 Date: 2026-08-24
 
-Status: offline Stage 0 implemented and qualified; four-call live expression gate pending; no GPU run authorized
+Status: offline Stage 0 and four-call live expression gate qualified; authentic pressure screen pending; no further GPU run authorized
 
 Implementation binding:
 [qwen38-artifact-coupled-integration-scout-v0@7d71c7d](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7d71c7d666403da7f0be9494a77a771435144f69)
 
+Expression result:
+[qwen38-artifact-coupled-integration-scout-v0@4879237](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/4879237170eae60735afbac55dabaf578d6a5aae)
+
+Pressure-screen freeze:
+[qwen38-artifact-coupled-integration-scout-v0@7423d21](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7423d214d5d2a5b77514b0acff43d547743b422e)
+
 Exact handoff: `E41_ARTIFACT_COUPLING_STAGE0_HANDOFF.md`
+
+Pressure handoff: `E43_ARTIFACT_COUPLING_PRESSURE_SCREEN_HANDOFF.md`
 
 ## Why this is the next system question
 
@@ -92,10 +100,11 @@ contains:
 
 The copied corpus contains 55,169 offline tokens, but Stage 0 explicitly marks
 activation unqualified. Accessible-world size is not used as a proxy for what
-an actor will actually materialize. The next live stages are therefore an
-apparatus-only four-call expression gate and, only after a passing committed
-handoff, one ordinary screening trajectory. The measured fork remains
-ineligible until that screen reaches an authentic result-delivery overflow.
+an actor will actually materialize. The apparatus-only four-call expression
+gate passed 4/4 with one attempt per call and zero retries. The next live stage
+is therefore one ordinary screening trajectory under the committed handoff.
+The measured fork remains ineligible until that screen reaches an authentic
+result-delivery overflow.
 
 A third joint state should be admitted only if offline geometry identifies a
 distinct unresolved interaction that D0/A1 cannot distinguish. It must not be

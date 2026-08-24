@@ -116,10 +116,18 @@ checker component qualification. See `E40_INGRESS_WORK_INTERACTION_RESULT.md`,
 `E41_ARTIFACT_COUPLING_STAGE0_HANDOFF.md`, and
 `NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`.
 
-The live experiment is not yet eligible. A four-call expression gate must pass
-and be committed first. A separate ordinary no-relief screen must then produce
-a real result-delivery overflow. The 55,169-token accessible corpus is not
-treated as proof that the actor will realize pressure.
+The four-call expression gate passed and is committed at
+`4879237170eae60735afbac55dabaf578d6a5aae`: 4/4 cases accepted, one attempt
+per call, zero retries. This removes expression transport as the immediate
+apparatus blocker but adds no task-utility evidence. A separate ordinary
+no-relief screen must still produce a real result-delivery overflow. The
+55,169-token accessible corpus is not treated as proof that the actor will
+realize pressure.
+
+The exact pressure-screen runner and independently reconciled qualification
+handoff are frozen at `7423d214d5d2a5b77514b0acff43d547743b422e`.
+The screen is a boundary selector with no relief or maintenance, not a treatment
+result. It remains GPU-unauthorized.
 
 ## Loose-ends audit
 

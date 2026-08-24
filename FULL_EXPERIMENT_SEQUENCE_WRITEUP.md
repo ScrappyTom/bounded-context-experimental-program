@@ -2,8 +2,8 @@
 
 Date: 2026-08-24
 
-Status: evidence-bounded program narrative through E41 offline Stage 0;
-artifact-coupling live qualification pending, no successor GPU run authorized
+Status: evidence-bounded program narrative through E43 pressure-screen
+handoff; authentic pressure screen pending, no successor GPU run authorized
 
 ## What we learned
 
@@ -206,8 +206,8 @@ reopens, or fast submission.
 ## Program scale and experimental discipline
 
 The original parent bank contained 42 exactly replayed model requests. Through
-E41 Stage 0, 33 successor stages represent another 400 runner-qualified model/provider
-calls and 4,942,404 serialized tokens. This includes apparatus qualifications,
+E43, 35 successor stages represent another 404 runner-qualified model/provider
+calls and 4,954,051 serialized tokens. This includes apparatus qualifications,
 the 71-call whole-method scout, the 54-call pressure-qualified study, the
 39-call breadth tranche, the 12-call closed interaction qualification, the
 two-call ingress-action qualification, and E40's 138 provider calls. Zero-call
@@ -1108,3 +1108,45 @@ shapes; then an ordinary no-relief screening trajectory that must actually
 produce a result-delivery overflow. Only that exact boundary may seed a
 contemporaneous detached/coupled measured fork. No GPU call is authorized by
 this offline stage.
+
+## 34. Artifact-coupled maintenance and action expression qualifies
+
+At frozen commit
+`7d71c7d666403da7f0be9494a77a771435144f69`, four live cases tested the exact
+transport needed by the planned systems: initialize and replace bounded
+integration state, emit an incremental decision-section action, and emit a
+task-ledger replacement action. All four stopped normally and passed their
+frozen admission rules with one attempt and zero retries.
+
+The two maintenance bodies used 1,004 and 1,505 tokens under the 1,600-token
+limit. Total usage was 8,671 prompt and 2,976 completion tokens. Exact provider
+custody, the run-tree seal, runtime gate, and GPU release independently verify.
+The append-only result is frozen at
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@4879237170eae60735afbac55dabaf578d6a5aae`.
+
+This passes an apparatus gate only. No ordinary actor consumed the output, no
+candidate utility was tested, and no artifact-quality or readiness claim was
+made. Authentic prompt pressure also remains unestablished. The next eligible
+operation is the separately authorized ordinary no-relief screen; the measured
+detached/coupled fork remains ineligible until that screen produces a genuine
+result-delivery overflow.
+
+## 35. Pressure-screen prerequisite becomes exact and reachable
+
+The post-run handoff was then hardened at
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@7423d214d5d2a5b77514b0acff43d547743b422e`.
+Before any server starts, the screen now independently reconciles the exact
+qualification path, original freeze and run ID, all four case admissions,
+attempt policy, result/seal/audit hashes, independent audit, and the explicit
+absence of measured authorization. Twenty-one offline tests pass.
+
+The frozen screen is ordinary chronology with no relief, semantic maintenance,
+or reentry. It uses seed 271830, at most 30 calls, 700,000 serialized tokens,
+and a 20,992-token prompt allowance. Only a newly acquired exact result that
+makes the next packet overflow qualifies the boundary. Submission or resource
+exhaustion before pressure is non-diagnostic.
+
+This is a zero-call apparatus stage. It adds no behavioral evidence and does
+not authorize GPU execution. Its purpose is to ensure that the next live call,
+if separately authorized, selects an authentic common boundary rather than
+quietly treating accessible-world size as realized context pressure.

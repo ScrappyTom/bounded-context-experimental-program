@@ -189,12 +189,14 @@ integration systems, and exercises evidence→relief→integration→effect→ch
 repair→recheck→submission provider-free. Nineteen tests pass.
 
 The task world contains 55,169 source tokens, but activation remains
-unqualified by design. The live sequence is: four-call expression gate;
-committed audit; ordinary no-relief pressure screen; then a contemporaneous
-two-system fork only if that screen reaches authentic result-delivery
-overflow. The current contract is
+unqualified by design. The four-call expression gate and committed audit have
+now passed. The live sequence continues with an ordinary no-relief pressure
+screen, then a contemporaneous two-system fork only if that screen reaches
+authentic result-delivery overflow. The current contract is
 `NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`; the exact handoff is
-`E41_ARTIFACT_COUPLING_STAGE0_HANDOFF.md`. No GPU run is authorized.
+`E41_ARTIFACT_COUPLING_STAGE0_HANDOFF.md`, and the frozen pressure-screen
+contract is `E43_ARTIFACT_COUPLING_PRESSURE_SCREEN_HANDOFF.md`. No further GPU
+run is authorized.
 
 ### Closed historical question
 

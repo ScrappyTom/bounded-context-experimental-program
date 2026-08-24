@@ -58,8 +58,14 @@ class SystemInteractionDirectionTests(unittest.TestCase):
 
         successor = self.contract["next_system_interaction"]
         self.assertEqual(
-            "offline_stage0_qualified_live_expression_pending_gpu_not_authorized",
+            "live_expression_qualified_pressure_screen_pending_gpu_not_authorized",
             successor["status"],
+        )
+        self.assertTrue(successor["implementation"]["live_expression_qualified"])
+        self.assertEqual(4, successor["implementation"]["expression_model_calls"])
+        self.assertEqual(
+            "7423d214d5d2a5b77514b0acff43d547743b422e",
+            successor["implementation"]["pressure_screen_freeze_commit"],
         )
         self.assertIn("exact incremental task-artifact", successor["question"])
         self.assertIn(

@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 33 successor stages through E41 offline Stage 0",
+  "scope": "parent bank plus 35 successor stages through E43 pressure-screen handoff qualification",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 33,
-    "follow_on_model_calls": 400,
-    "follow_on_serialized_tokens": 4942404,
-    "unique_cited_experiment_commits": 29
+    "successor_stages": 35,
+    "follow_on_model_calls": 404,
+    "follow_on_serialized_tokens": 4954051,
+    "unique_cited_experiment_commits": 31
   },
   "stages": [
     {
@@ -350,6 +350,26 @@
       "serialized_tokens": 0,
       "included_in_follow_on_totals": true,
       "primary_disposition": "fresh two-file task and D0/A1 whole-system contrast implemented; positive-savings relief and provider-free feedback loops qualified; live expression and authentic-pressure gates remain pending"
+    },
+    {
+      "stage_id": "S34",
+      "name": "artifact-coupled maintenance and task-action expression qualification",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "4879237170eae60735afbac55dabaf578d6a5aae", "count_as_experiment_commit": true}],
+      "model_calls": 4,
+      "serialized_tokens": 11647,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "all four maintenance and task-action expression cases passed with one attempt and zero retries; apparatus-only gate passed; measured actor remains unauthorized"
+    },
+    {
+      "stage_id": "S35",
+      "name": "artifact-coupled pressure-screen handoff hardening",
+      "stage_type": "eligibility",
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "7423d214d5d2a5b77514b0acff43d547743b422e", "count_as_experiment_commit": true}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "passing four-call handoff independently reconciled to exact run, audit, hashes, admissions, seal, and no measured authorization; ordinary no-relief screen frozen but GPU-unauthorized"
     }
   ]
 }

@@ -432,12 +432,13 @@ Stage 0 has now:
 - bound independent artifact quality and readiness identically outside both
   actor policies.
 
-The remaining gates are live rather than design work. Four expression calls
-must qualify maintenance initialization/replacement and the two new
-task-artifact action shapes. A later ordinary screen must then demonstrate
-real result-delivery pressure; the 55,169-token source corpus alone is not an
-activation argument. Only that exact boundary can authorize construction of
-the measured two-system fork. See `E41_ARTIFACT_COUPLING_STAGE0_HANDOFF.md`.
+The first live gate is complete. Four expression calls qualified maintenance
+initialization/replacement and both new task-artifact action shapes. A later
+ordinary screen must still demonstrate real result-delivery pressure; the
+55,169-token source corpus alone is not an activation argument. Only that exact
+boundary can authorize construction of the measured two-system fork. See
+`E41_ARTIFACT_COUPLING_STAGE0_HANDOFF.md` and
+`E43_ARTIFACT_COUPLING_PRESSURE_SCREEN_HANDOFF.md`.
 
 E36 remains the pressure-qualified evidence-streaming case, E37 the
 low-pressure breadth reference, E38 the closed residue-expression route, E39
@@ -446,8 +447,8 @@ full obligations are in
 `NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`.
 
 No GPU call is authorized. The finite contrast and frozen offline commit now
-exist; owner authorization is required separately for expression qualification,
-pressure screening, and any measured fork.
+exist; expression qualification is now complete, while owner authorization is
+required separately for pressure screening and any measured fork.
 
 ## What will not be optimized in this phase
 

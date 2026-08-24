@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-24",
-  "status": "measured_interaction_complete_artifact_coupling_stage0_implemented_expression_pending",
+  "status": "measured_interaction_complete_artifact_coupling_expression_qualified_pressure_screen_pending",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "authentic_prompt_pressure",
@@ -84,7 +84,7 @@
     ]
   },
   "next_system_interaction": {
-    "status": "offline_stage0_qualified_live_expression_pending_gpu_not_authorized",
+    "status": "live_expression_qualified_pressure_screen_pending_gpu_not_authorized",
     "question": "semantic persistence x exact incremental task-artifact externalization x version-bound verification and repair under live ingress and common host-owned capacity safety",
     "unit_of_analysis": "complete evidence_to_work_to_effect_to_feedback_to_closure trajectory",
     "leading_systems": [
@@ -100,6 +100,11 @@
       "base_actor_prompt_tokens_offline": 2747,
       "offline_tests_passed": 19,
       "provider_free_system_fixtures_passed": 2,
+      "expression_result_commit": "4879237170eae60735afbac55dabaf578d6a5aae",
+      "pressure_screen_freeze_commit": "7423d214d5d2a5b77514b0acff43d547743b422e",
+      "expression_model_calls": 4,
+      "expression_serialized_tokens": 11647,
+      "live_expression_qualified": true,
       "activation_qualified": false,
       "gpu_authorized": false
     },
@@ -119,8 +124,6 @@
       "provider_free_full_loop_qualification"
     ],
     "pending_live_gates": [
-      "four_call_maintenance_and_new_action_expression_qualification",
-      "committed_qualification_handoff",
       "ordinary_no_relief_screen_reaches_authentic_result_delivery_pressure",
       "measured_fork_budgets_derived_from_exact_screened_boundary"
     ],

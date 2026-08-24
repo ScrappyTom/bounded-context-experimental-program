@@ -2,10 +2,15 @@
 
 Date: 2026-08-24
 
-Status: offline apparatus qualified; live expression gate pending; measured GPU run unauthorized
+Status: offline apparatus and live expression gate qualified; pressure screen and measured GPU run unauthorized
 
 Standalone repository:
 [qwen38-artifact-coupled-integration-scout-v0@7d71c7d](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7d71c7d666403da7f0be9494a77a771435144f69)
+
+Expression result:
+[qwen38-artifact-coupled-integration-scout-v0@4879237](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/4879237170eae60735afbac55dabaf578d6a5aae)
+
+Pressure-screen handoff: `E43_ARTIFACT_COUPLING_PRESSURE_SCREEN_HANDOFF.md`
 
 ## What changed
 
@@ -106,24 +111,31 @@ mechanically complete candidates remain `not_adjudicated` until independent,
 condition-blinded semantic review. Submission remains a proposal, not proof of
 success.
 
+## Expression qualification result
+
+The four frozen live cases passed 4/4 with one attempt per call and zero
+retries. Both bounded maintenance outputs stopped normally below the 1,600
+body-token admission limit. Both new task-artifact action shapes parsed and
+passed their declared admission rules. Total usage was 8,671 prompt and 2,976
+completion tokens. Exact provider custody, run-tree seal, runtime gate, and GPU
+release all passed independent post-run audit.
+
+This is expression evidence only. No ordinary actor consumed the maintenance
+state, no measured trajectory ran, and no artifact-quality or readiness claim
+was made.
+
 ## Remaining live gates
 
 The frozen implementation does **not** authorize the measured interaction.
 Execution proceeds in this order:
 
-1. Four-call expression qualification:
-   - maintenance initialization;
-   - maintenance replacement;
-   - incremental decision-section action; and
-   - task-ledger replacement action.
-2. Commit and audit the exact qualification result.
-3. Run one ordinary, no-relief screening trajectory only under a new frozen
+1. Run one ordinary, no-relief screening trajectory only under a new frozen
    commit and authorization.
-4. Qualify the task only if a newly acquired exact result makes the next
+2. Qualify the task only if a newly acquired exact result makes the next
    ordinary packet exceed the 20,992-token prompt allowance.
-5. Freeze contemporaneous `D0_DETACHED` and `A1_COUPLED` continuations from
+3. Freeze contemporaneous `D0_DETACHED` and `A1_COUPLED` continuations from
    that exact common boundary.
-6. Follow both through artifact quality, effect uptake, verification, repair,
+4. Follow both through artifact quality, effect uptake, verification, repair,
    readiness, closure, or a frozen terminal budget.
 
 The measured runner is intentionally not frozen before the authentic boundary

@@ -440,10 +440,49 @@ The relief selector skips equal- and negative-savings receipts, directly
 repairing the E40 apparatus defect.
 
 The source corpus contains 55,169 tokenizer tokens and the empty actor packet
-2,747, but authentic pressure is not yet established. A four-call expression
-gate and a later ordinary no-relief pressure screen remain mandatory before
-the measured two-system fork can be frozen.
+2,747, but authentic pressure is not yet established. The four-call expression
+gate subsequently passed as E42. A later ordinary no-relief pressure screen
+remains mandatory before the measured two-system fork can be frozen.
 
 Disposition: **AF/EL** — offline apparatus feasible and experiment lineage
 qualified; no behavioral utility, pressure activation, or architecture claim.
 GPU execution remains unauthorized.
+
+## E42 — artifact-coupled maintenance and task-action expression qualification
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@4879237170eae60735afbac55dabaf578d6a5aae`
+
+The frozen four-call gate accepted 4/4 cases with one attempt per call and zero
+retries. Q1 and Q2 produced normally stopped bounded integration replacements
+of 1,004 and 1,505 body tokens under the unchanged 1,600-token admission cap.
+Q3 emitted the required incremental decision-section action. Q4 emitted the
+required task-ledger replacement and passed its source-bound integration
+validation. Total usage was 8,671 prompt plus 2,976 completion tokens.
+
+Exact request/response custody, runtime assets, the run-tree seal, and runtime
+release all passed the independent post-run audit. No ordinary actor consumed
+these objects and the result explicitly leaves the measured actor
+unauthorized.
+
+Disposition: **AF/EL** — the live maintenance and task-action transport needed
+by the two-system design is locally qualified. This is not evidence of
+artifact quality, observed-source provenance adequacy, pressure activation,
+task utility, or useful completion. The next gate is the separately authorized
+ordinary no-relief pressure screen.
+
+## E43 — pressure-screen qualification-handoff hardening
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@7423d214d5d2a5b77514b0acff43d547743b422e`
+
+The no-relief screen now independently reconciles the committed expression
+handoff to the exact run path, original freeze, four accepted cases, one-attempt
+authorization, result/seal/audit hashes, independent audit, and explicit lack
+of measured-actor authorization before starting a model server. Twenty-one
+offline tests pass.
+
+Disposition: **AF/EL** — the boundary-selection runner and prerequisite are
+mechanically qualified. No provider call occurred, authentic pressure remains
+unobserved in this task, and neither D0 nor A1 is behaviorally tested. The
+screen remains GPU-unauthorized.

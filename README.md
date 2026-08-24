@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 29 experiment commit bindings were resolved through the named local
+The current 31 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -121,6 +121,17 @@ result-delivery overflow. See
 and
 [NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md](NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md).
 
+The four-call live expression gate subsequently passed at result commit
+[`4879237`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/4879237170eae60735afbac55dabaf578d6a5aae).
+Both bounded maintenance cases and both new task-artifact action shapes were
+accepted with one attempt and zero retries. This qualifies transport only; it
+does not establish task utility or authorize the measured fork.
+
+The pressure-screen prerequisite and exact no-relief runner are frozen at
+[`7423d21`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7423d214d5d2a5b77514b0acff43d547743b422e).
+See
+[E43_ARTIFACT_COUPLING_PRESSURE_SCREEN_HANDOFF.md](E43_ARTIFACT_COUPLING_PRESSURE_SCREEN_HANDOFF.md).
+
 The validity envelope remains strict: exact custody, complete model-visible
 history, one attempt with no hidden retry, hard limits, exact candidate/effect
 identity, independent quality evaluation, and no post-outcome cell alteration.
@@ -135,6 +146,6 @@ at result commit `ea8f4cfa5888998d6193f57316e9cd41cf1639b6`, frozen from
 machine disposition is [DISCOVERY_TRANCHE_RESULT.json](DISCOVERY_TRANCHE_RESULT.json).
 
 No GPU run is authorized by these documents. The next eligible live operation
-is the frozen four-call maintenance/new-action expression qualification. A
-pressure screen and measured interaction each require a later committed
-handoff, new frozen commit, and explicit authorization.
+is the ordinary no-relief pressure screen at the committed qualification
+handoff. The measured interaction requires a later authentic boundary,
+committed fork, and separate explicit authorization.
