@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: artifact-coupling interaction measured; fresh-world whole-system transfer Stage 0 selected
+Status: Northstar fresh-world transfer Stage 0 frozen; authentic pressure screen is the next gate
 
 ## Research-phase reset
 
@@ -463,17 +463,22 @@ calls without submission and ended with strong-partial, not-ready artifacts.
 The coupled package also retained an obsolete experimental roadmap. Coupling
 therefore demonstrated capitalization of both useful work and semantic error.
 
-The next selected work is not a larger E46 budget, a maintenance-prompt repair,
-or component ablation. It is an offline fresh-world transfer design for the
-complete interaction. The design must keep a viable comparator and all common
-functions live, while prospectively leaving enough actor decisions after first
-construction for effect uptake, current check, repair, recheck, and closure.
-Stale semantic commitments and unsupported requirement bindings must be scored
-as artifact defects.
+That fresh-world design is now complete as E47 at
+`qwen38-artifact-coupled-integration-scout-v0@40272d6cc0c5aa2eda7bb5df9394ff02d767829d`.
+It preserves the complete interaction on an independent Northstar migration
+world and freezes a viable detached/coupled comparator, exact candidate-bound
+evaluation, explicit readiness blockers, and an event-contingent 22-plus-8
+actor budget. The latter leaves a four-decision clean path plus four-decision
+allowance after construction for effect uptake, check, repair, recheck, and
+closure. Provider-free full-loop fixtures and 36 tests pass.
 
-Transfer is a falsification gate. If coupling again accelerates construction
-without improving candidate-bound quality or readiness, the route should be
-deprioritized. No task, runner, freeze, or provider call is yet authorized.
+Transfer remains a falsification gate. If coupling again accelerates
+construction without improving candidate-bound quality or readiness, the
+route should be deprioritized. The next eligible operation is not the measured
+fork: it is the frozen 18-call ordinary Northstar pressure screen. It must
+observe authentic pending-result overflow after meaningful acquisition and
+prove strictly positive first-fit feasibility. Accessible corpus size is not
+accepted as activation, and no GPU call is authorized by this roadmap.
 
 ## What will not be optimized in this phase
 

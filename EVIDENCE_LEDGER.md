@@ -60,6 +60,7 @@ means literal local behavior with a material apparatus qualification.
 | E44 | LR | fresh artifact-coupling result-delivery pressure | After eight calls and 92,296 serialized tokens, exact `RESULT-008` made the prospective prompt 21,959 tokens against a 20,992-token allowance, a 967-token deficit. Five exact observations had been accepted, three actions rejected, and the candidate was unchanged. | Boundary-selection result only. No relief, semantic maintenance, artifact coupling, reentry, check, mutation, or submission ran. | [pressure-screen result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/84037853555362380125a244619894535768056f) |
 | E45 | AF/NQ | matched detached-versus-artifact-coupled continuation freeze | The exact E44 fork now hydrates into two complete post-pressure systems. Both retain live ingress, positive relief, maintenance, effects, incremental edits, checks, repair, reactive reentry, and closure; the treatment changes whether accepted integration remains a detached sidecar or becomes exact task-world state. Provider-free full loops and 27 tests pass. | Apparatus and causal-design qualification only. No measured provider call or behavioral utility result; GPU execution requires new exact authorization. | [measured freeze](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/4937083f29df3247a84b3b399c0a7ae922ddb020) |
 | E46 | LR | detached-versus-artifact-coupled measured interaction | Across 40 actor and 19 maintenance calls, A1 coupling changed candidate state before continuation, reached a full decision/check eight calls earlier, and ended with broader citation. Both systems exhausted 20 actor calls, neither submitted, and both final candidates were independently strong-partial/not-ready; A1 also preserved a stale experimental roadmap. | One task/world/boundary/actor seed and fixed arm order. Condition-masked investigator adjudication, not third-party blind. Behavioral leverage and durable task-work flow are supported locally; useful-completion advantage, semantic dominance, transfer, and architecture value are not. | [measured result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/c11d55a7f143747156831de0b189523ee1bcd776) |
+| E47 | AF/NQ | Northstar fresh-world artifact-coupling transfer Stage 0 | A new 14-source Northstar migration world, matched D0/A1 whole systems, candidate-bound evaluator/readiness protocol, authentic pressure screen, and construction-contingent 22-plus-8 actor budget are frozen. Thirty-six tests and provider-free D0/A1 loops pass through effect uptake, check, repair, recheck, and closure. | Zero provider calls. Fixtures qualify apparatus and decision geometry, not behavioral utility or activation. The 61,500-token accessible world is not pressure evidence; a separately authorized ordinary live screen must establish the exact pending-result fork. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/40272d6cc0c5aa2eda7bb5df9394ff02d767829d) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
@@ -575,10 +576,35 @@ reentry, and 37.1 more wall seconds. Three maintenance outputs across the arms
 were rejected; the frozen fallback retained prior state. These are endogenous
 whole-configuration costs, not an isolated carrier score.
 
-Disposition: **LR** — artifact coupling locally converts bounded semantic
-maintenance into durable exact task work and accelerates construction/feedback,
-while also capitalizing stale semantic state. No useful-completion advantage,
-semantic dominance, transfer, or architecture promotion is established. The
-same boundary is closed; the next eligible gate is offline fresh-world transfer
-design with enough post-construction decisions for effect uptake, checking,
-repair, recheck, and closure.
+Disposition at E46: **LR** — artifact coupling locally converts bounded
+semantic maintenance into durable exact task work and accelerates
+construction/feedback, while also capitalizing stale semantic state. No
+useful-completion advantage, semantic dominance, transfer, or architecture
+promotion is established. The same boundary is closed; E47 records the
+subsequent offline fresh-world transfer design.
+
+## E47 — Northstar fresh-world transfer offline Stage 0
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@40272d6cc0c5aa2eda7bb5df9394ff02d767829d`
+
+The transfer apparatus now uses an independent Northstar multi-region
+event-ingestion migration with fourteen exactly pinned sources. It preserves
+the whole D0 detached versus A1 artifact-coupled interaction rather than
+isolating maintenance, ingress, patching, or checking. Common functions include
+actor-selected ingress, custody/reopen, positive-savings first-fit relief,
+maintenance, ordinary candidate work, effects, currentness-bound checks,
+repair, reactive reentry, closure, and independent evaluation.
+
+Candidate readiness is bound to the exact task, world, evidence, evaluator,
+and candidate; a mechanical pass alone remains `not_adjudicated`. The actor
+gets up to 22 calls to reach a frozen construction milestone and then exactly
+eight further calls, leaving a four-decision clean check/repair/recheck/closure
+path plus four-decision allowance. Provider-free full loops exercised this
+path in both arms, and all 36 offline tests passed.
+
+Disposition: **AF/NQ** — the fresh task, comparator, evaluator, budgets,
+runners, and preflight are qualified. No provider call occurred. Authentic
+interaction activation is not inferred from the 61,500-token corpus; the next
+gate is the separately authorized ordinary 18-call pressure screen, and the
+measured fork remains ineligible until its exact boundary is committed.

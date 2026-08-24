@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 38 successor stages through E46 artifact-coupled measured interaction",
+  "scope": "parent bank plus 39 successor stages through E47 Northstar transfer offline Stage 0",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 38,
+    "successor_stages": 39,
     "follow_on_model_calls": 471,
     "follow_on_serialized_tokens": 5922096,
-    "unique_cited_experiment_commits": 34
+    "unique_cited_experiment_commits": 35
   },
   "stages": [
     {
@@ -400,6 +400,16 @@
       "serialized_tokens": 875749,
       "included_in_follow_on_totals": true,
       "primary_disposition": "artifact coupling accelerated full construction and checking and broadened citation, but both configurations exhausted twenty actor calls with strong-partial not-ready candidates; coupled state also retained a stale roadmap, so behavioral leverage did not establish useful-completion or semantic-quality dominance"
+    },
+    {
+      "stage_id": "S39",
+      "name": "Northstar fresh-world artifact-coupling transfer offline Stage 0",
+      "stage_type": "eligibility",
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "40272d6cc0c5aa2eda7bb5df9394ff02d767829d", "count_as_experiment_commit": true}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "fresh independent Northstar world, matched detached/coupled whole systems, candidate-bound evaluator, and event-contingent 22-plus-8 actor budget qualified offline; provider-free full loops and 36 tests pass, while authentic pressure remains a required live screen rather than an inference from corpus size"
     }
   ]
 }

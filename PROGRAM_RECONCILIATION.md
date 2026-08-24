@@ -147,6 +147,19 @@ other required distinctions shallowly. The result is local mixed evidence for
 the complete coupled configuration, not semantic dominance or architecture
 promotion. See `E46_ARTIFACT_COUPLING_INTERACTION_RESULT.md`.
 
+The independent transfer Stage 0 is now frozen at
+`qwen38-artifact-coupled-integration-scout-v0@40272d6cc0c5aa2eda7bb5df9394ff02d767829d`.
+It replaces the earlier program-world task with a Northstar multi-region event
+ingestion migration and preserves the complete detached/coupled interaction.
+The evaluator and readiness protocol are exact candidate/task/evidence bound,
+and the trajectory budget is contingent on construction rather than a fixed
+phase clock: at most 22 actor decisions to reach a mechanical construction
+milestone, followed by exactly eight decisions for effect uptake, check,
+repair, recheck, and closure. Thirty-six tests and both provider-free complete
+loops pass. This is apparatus qualification only; a frozen ordinary live
+screen must still establish authentic pending-result pressure before a
+measured fork can exist. See `E47_NORTHSTAR_TRANSFER_STAGE0_HANDOFF.md`.
+
 ## Loose-ends audit
 
 The audit found no unresolved custody, publication, replay, or adjudication
@@ -210,6 +223,7 @@ authorized.
 | A fresh artifact-coupling task would be diagnostic because its source corpus was large. | E41 treated corpus size only as supply. E44 then established realized demand: after eight ordinary calls, an exact pending observation created a 967-token delivery deficit while the candidate was still unchanged. | Use the exact E44 state as the common pre-treatment fork; do not inject investigator-selected evidence or infer activation from world size. |
 | Artifact coupling could be tested as a patch-like component. | E45 instead keeps the complete evidence-to-work-to-effect-to-feedback-to-closure loop live. The treatment changes whether accepted semantic integration is detached context or exact task-world capital, which can endogenously change residency, later maintenance, artifact revisions, checking, cost, and closure. | Interpret D0 and A1 as whole configurations first. Component attribution or ablation is premature until a joint trajectory effect exists. |
 | Making semantic integration exact task work would necessarily improve completion. | E46 showed large trajectory leverage: A1 reached construction/checking earlier and cited more sources. Both arms still ended strong-partial/not-ready, and A1 carried a stale roadmap into its final artifact. | Artifact coupling can capitalize progress and error. Retain it as a local mixed whole-system result; require fresh-world candidate-bound quality or closure value before promotion. |
+| A fresh transfer could be qualified by corpus size and a fixed total horizon. | E47 keeps the 61,500-token accessible world separate from realized pressure and makes the post-construction budget event-contingent. Provider-free D0/A1 loops demonstrate that check, repair, recheck, and closure remain reachable after construction. | Require the ordinary live screen to establish the exact activation boundary; do not authorize the measured fork from offline size or fixture behavior. |
 
 ## Provisional ownership split for the mechanical comparator
 
@@ -356,9 +370,13 @@ therefore has positive local evidence for durable task-work flow and negative
 evidence against assuming that persistence confers semantic correctness or
 useful completion.
 
-The exact E46 fork is closed. The next eligible operation is offline design of
-a fresh-world transfer that preserves the complete interaction and reserves a
-realistic post-construction path through effect uptake, independent check,
-repair, recheck, and closure. No D1/D3/D4 repair, D6 wording variant, I1–I4
-extension, E44 screen rerun, E46 longer horizon, maintenance-prompt tuning, or
-GPU call is authorized automatically.
+The exact E46 fork is closed. E47 has completed the offline fresh-world
+transfer design and frozen the independent Northstar task, viable comparator,
+candidate-bound evaluator/readiness rules, pressure-screen runner, and
+construction-contingent 22-plus-8 actor budget. The next eligible operation is
+only the separately owner-authorized ordinary 18-call Northstar pressure
+screen. The measured D0/A1 run remains ineligible until that screen establishes
+and commits an authentic result-delivery boundary with positive first-fit
+feasibility. No D1/D3/D4 repair, D6 wording variant, I1–I4 extension, E44 screen
+rerun, E46 longer horizon, maintenance-prompt tuning, or GPU call is authorized
+automatically.

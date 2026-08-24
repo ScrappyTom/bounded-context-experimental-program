@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 34 experiment commit bindings were resolved through the named local
+The current 35 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -175,7 +175,18 @@ at result commit `ea8f4cfa5888998d6193f57316e9cd41cf1639b6`, frozen from
 [DISCOVERY_STAGE0_HANDOFF.json](DISCOVERY_STAGE0_HANDOFF.json); the measured
 machine disposition is [DISCOVERY_TRANCHE_RESULT.json](DISCOVERY_TRANCHE_RESULT.json).
 
-No GPU run is authorized by these documents. The next eligible program work is
-offline fresh-world transfer design for the complete artifact-coupled
-interaction, with a prospectively viable post-construction horizon. The exact
-E46 boundary is closed to same-route extension or prompt tuning.
+The fresh-world transfer Stage 0 is now frozen at
+[`qwen38-artifact-coupled-integration-scout-v0@40272d6`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/40272d6cc0c5aa2eda7bb5df9394ff02d767829d).
+It supplies an independent Northstar task/world, a viable detached-versus-
+artifact-coupled whole-system comparator, candidate-bound evaluation and
+readiness, and an event-contingent 22-plus-8 actor budget that preserves a real
+post-construction check/repair/recheck/closure path. Thirty-six tests and both
+provider-free full-loop fixtures pass. See
+[E47_NORTHSTAR_TRANSFER_STAGE0_HANDOFF.md](E47_NORTHSTAR_TRANSFER_STAGE0_HANDOFF.md).
+
+No GPU run is authorized by these documents. The next eligible operation is
+the frozen ordinary 18-call Northstar pressure screen. It must establish
+realized pending-result pressure and positive first-fit feasibility; the
+61,500-token accessible world is not itself an activation result. The measured
+D0/A1 fork remains ineligible until that live boundary is sealed. The exact E46
+boundary remains closed to same-route extension or prompt tuning.
