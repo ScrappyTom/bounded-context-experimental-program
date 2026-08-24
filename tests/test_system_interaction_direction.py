@@ -44,7 +44,16 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         self.assertEqual(4, len(successor["configurations"]))
         self.assertIn("multi_range", successor["axis_a"])
         self.assertIn("cumulative", successor["axis_b"])
-        self.assertEqual("design_direction_not_frozen", successor["status"])
+        self.assertEqual(
+            "offline_stage0_frozen_measured_interaction_not_frozen",
+            successor["status"],
+        )
+        self.assertEqual(
+            "a4ba94b921896ce442c8bcbde87aa23009e09eb3",
+            successor["freeze_commit"],
+        )
+        self.assertEqual(2, successor["remaining_live_gate"]["maximum_model_calls"])
+        self.assertFalse(successor["remaining_live_gate"]["gpu_authorized"])
         self.assertEqual("authentic_prompt_pressure", self.contract["required_activation"])
 
     def test_feedback_loop_remains_live(self):

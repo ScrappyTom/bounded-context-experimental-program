@@ -2,7 +2,7 @@
 
 Date: 2026-08-23
 
-Status: governing direction; first candidate apparatus closed; successor interaction not yet frozen
+Status: governing direction; first candidate apparatus closed; successor Stage 0 frozen with live batch-action gate pending
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -114,6 +114,36 @@ joint-state shapes. Its downstream value remains untested.
 The successor must compare complete configurations, not run the three passing
 apparatus cases as post-hoc treatments. Details and limits are in
 `E38_INTERACTION_APPARATUS_DISPOSITION.md`.
+
+### Active successor Stage 0
+
+The finite successor is frozen at
+`qwen38-ingress-work-interaction-scout-v0@a4ba94b921896ce442c8bcbde87aa23009e09eb3`:
+
+| Configuration | Actor-selected ingress | Cumulative task-native work |
+|---|---|---|
+| I1 | one exact range | disabled |
+| I2 | bounded batch of 1–3 exact ranges | disabled |
+| I3 | one exact range | bounded replacement evidence-integration record |
+| I4 | bounded batch of 1–3 exact ranges | bounded replacement evidence-integration record |
+
+Exact custody, deterministic first-fit relief, reopen, strict actions,
+candidate-bound effects and checks, reactive capacity reentry, and external
+readiness adjudication remain common. Work is generated only when first-fit
+newly externalizes a previously visible exact source observation. Batch ranges
+are selected by the actor; the host may not choose semantically useful evidence.
+
+The offline audit deliberately preserves system coupling. The common pressure
+transition externalizes `RESULT-001`. In work-enabled arms that triggers a
+charged bootstrap update; carrying the resulting work packet then requires
+first-fit externalization of `RESULT-002`, which triggers a second replacement
+update. The work treatment therefore changes both semantic continuity and
+exact residency. Analysis is trajectory-level; no additive main-effect claim
+may erase that feedback.
+
+The only remaining live Stage 0 gate is a two-call expression qualification of
+the new one-range and three-range batch objects. It is apparatus evidence only.
+The measured four-configuration run remains neither frozen nor authorized.
 
 ### Closed historical question
 
@@ -243,11 +273,14 @@ economics.
 Resumption should not be studied as a fifth isolated treatment. It should be a
 common lifecycle event through which the four configurations pass.
 
-A defensible trigger is a prospectively task-declared mechanical event such as
-delivery of every mandatory source identity, provided that event is defined
-before inference and does not assert semantic sufficiency. At that event, each
-arm enters a fresh construction frame containing only its own legitimately
-accumulated persistent state:
+A defensible trigger may be a prospectively task-declared mechanical event,
+provided that event is defined before inference and does not assert semantic
+sufficiency. It may also be the reactive condition already earned by prior
+work: first-fit has exhausted every eligible body and the next legitimate
+packet still cannot preserve the frozen reserves. The active successor uses
+only the latter rule; it does not schedule a fresh frame merely because a
+coverage label or call count is reached. If reactive reentry occurs, each arm
+receives only its own legitimately accumulated persistent state:
 
 - exact current candidate/work product;
 - its receipts and/or source-bound residues according to configuration;
@@ -255,8 +288,9 @@ accumulated persistent state:
 - exact handles to everything else; and
 - no investigator-selected unread source or readiness cue.
 
-If an arm never reaches the event, that is a trajectory outcome. If task
-geometry cannot supply a non-oracular common event, the scout is not qualified.
+If an arm never reaches the condition, reentry is simply nonactivated. The
+common policy and admissibility rules—not identical event timing after actor
+behavior diverges—provide parity.
 
 ## Interaction outcomes
 
@@ -314,9 +348,8 @@ Before GPU authorization, the checkpoint must establish:
    actor budget across configurations;
 5. exact rules for when residues are produced/replaced and when partial work is
    materialized;
-6. a non-oracular common resumption trigger through which every measured arm
-   can pass, so residency, persistent state, construction, and feedback remain
-   in the same observed loop;
+6. a non-oracular common resumption policy; scheduled reentry is not required,
+   and the active successor uses reactive capacity exhaustion only;
 7. frozen candidate/task/evidence-bound quality and readiness rules;
 8. accounting that charges each configuration for its maintenance and carrier
    costs; and

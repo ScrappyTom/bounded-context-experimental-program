@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-23",
-  "status": "first_candidate_apparatus_closed_successor_direction_only",
+  "status": "successor_stage0_frozen_batch_action_live_gate_pending",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "authentic_prompt_pressure",
@@ -30,7 +30,24 @@
       "I3_one_range_and_cumulative_work",
       "I4_bounded_multi_range_and_cumulative_work"
     ],
-    "status": "design_direction_not_frozen",
+    "status": "offline_stage0_frozen_measured_interaction_not_frozen",
+    "repository": "ScrappyTom/qwen38-ingress-work-interaction-scout-v0",
+    "freeze_commit": "a4ba94b921896ce442c8bcbde87aa23009e09eb3",
+    "authentic_boundary": {
+      "ordinary_prompt_tokens": 21442,
+      "prompt_ceiling_tokens": 20992,
+      "first_fit_prompt_tokens": 19818,
+      "first_externalized_result_id": "RESULT-001"
+    },
+    "preserved_interaction_cost": "work_enabled_I3_I4_externalize_RESULT-002_and_owe_second_work_update_before_first_actor",
+    "remaining_live_gate": {
+      "run_id": "2026-08-23-ingress-action-expression-qualification-v0",
+      "maximum_model_calls": 2,
+      "attempts_per_call": 1,
+      "retries": 0,
+      "measured_utility": false,
+      "gpu_authorized": false
+    },
     "required_stage0_gates": [
       "bounded_non_oracular_multi_range_action",
       "work_production_call_and_decision_economics",

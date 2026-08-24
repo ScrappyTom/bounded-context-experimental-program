@@ -90,7 +90,17 @@ is now evidence-ingress bandwidth × cumulative task-native work
 externalization under common exact custody and pressure relief. The disposition
 and new obligations are in
 [E38_INTERACTION_APPARATUS_DISPOSITION.md](E38_INTERACTION_APPARATUS_DISPOSITION.md).
-No successor runner or GPU work is authorized.
+
+That successor now has an offline Stage 0 freeze in
+[`qwen38-ingress-work-interaction-scout-v0`](https://github.com/ScrappyTom/qwen38-ingress-work-interaction-scout-v0)
+at commit `a4ba94b921896ce442c8bcbde87aa23009e09eb3`. It crosses
+actor-selected one-range versus bounded batch ingress with whole-final-only
+versus bounded cumulative task-native work across four viable post-pressure
+configurations. The complete systems handoff is
+[E39_INGRESS_WORK_STAGE0_HANDOFF.md](E39_INGRESS_WORK_STAGE0_HANDOFF.md).
+Only its two-call batch-action expression qualification is eligible for a new
+explicit GPU authorization; the measured I1–I4 interaction is not frozen or
+authorized.
 
 The validity envelope remains strict: exact custody, complete model-visible
 history, one attempt with no hidden retry, hard limits, exact candidate/effect
@@ -105,5 +115,6 @@ at result commit `ea8f4cfa5888998d6193f57316e9cd41cf1639b6`, frozen from
 [DISCOVERY_STAGE0_HANDOFF.json](DISCOVERY_STAGE0_HANDOFF.json); the measured
 machine disposition is [DISCOVERY_TRANCHE_RESULT.json](DISCOVERY_TRANCHE_RESULT.json).
 
-No successor GPU run is authorized by these documents. The next measured wave
-requires a new finite checkpoint, frozen Stage 0 package, and owner review.
+No GPU run is authorized by these documents. The next eligible call is the
+separately frozen two-call apparatus qualification named above and still
+requires owner authorization.

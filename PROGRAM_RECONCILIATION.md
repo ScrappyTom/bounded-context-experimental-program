@@ -67,6 +67,24 @@ externalization, with exact custody, first-fit relief, reopen, effects, checks,
 and readiness evaluation common. It is a new system design, not an A/C salvage
 cell from the failed matrix.
 
+That design is now frozen offline at
+`qwen38-ingress-work-interaction-scout-v0@a4ba94b921896ce442c8bcbde87aa23009e09eb3`.
+Its measured unit is the complete I1–I4 configuration trajectory. The batch
+axis is actor-selected and non-oracular; the work axis is a bounded replacement
+evidence-integration artifact triggered by actual exact-body externalization.
+The preflight preserves the coupling rather than normalizing it away: carrying
+work in I3/I4 forces `RESULT-002` out after the common `RESULT-001` demotion,
+and that second externalization owes a second fully charged work update before
+the first actor decision. This is treatment economics and feedback, not a
+component-isolation defect.
+
+All four actor packets remain feasible, work and reactive-reentry geometries
+fit, 13 runtime tests and five inherited evaluator tests pass, and evaluator
+governance is rebound to the current exact task lock. The only remaining Stage
+0 gate is two live calls testing one-range and three-range `read_batch`
+expression. Passing it will not authorize the measured interaction; it returns
+to a second offline runner and overflow-disposition audit.
+
 ## Loose-ends audit
 
 The audit found no unresolved custody, publication, replay, or adjudication
@@ -238,18 +256,19 @@ the low-pressure reference map:
    after successful effect uptake; and
 5. fresh exact state can preserve an incorrect control disposition.
 
-The next checkpoint must compare viable whole configurations under authentic
+The active checkpoint compares viable whole configurations under authentic
 pressure. The source-residue × incremental-work candidate was prospectively
-closed at its final expression gate, so it is not the active checkpoint and no
-reduced A/C comparison is permitted. The next candidate crosses evidence-ingress
-bandwidth with bounded cumulative task-native work while common exact custody,
-first-fit relief, reopen, action/effect handling, current verification, and
-readiness evaluation remain live around them. The study must follow induced
-demand and artifact state through the feedback horizon rather than treating
+closed at its final expression gate, so no reduced A/C comparison is permitted.
+The frozen successor crosses evidence-ingress bandwidth with bounded cumulative
+task-native work while common exact custody, first-fit relief, reopen,
+action/effect handling, current verification, and readiness evaluation remain
+live around them. The study follows induced demand and artifact state through
+the feedback horizon rather than treating
 batch reads or intermediate work as isolated component qualifications.
 
 Action-transport qualification is a blocking apparatus gate, not a successor
 component experiment. The enriched fixtures remain useful for triangulation,
 not prevalence. No D1/D3/D4 repair, D6 wording variant, task, or GPU call is
-authorized automatically. A finite Stage 0 interaction contract must return
-for owner review.
+authorized automatically. The finite Stage 0 interaction contract has returned
+for owner review; only its two-call apparatus gate is presently eligible for
+explicit authorization.
