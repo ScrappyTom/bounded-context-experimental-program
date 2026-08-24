@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: offline prerequisite and runner qualified; GPU execution unauthorized
+Status: historical pre-run handoff; screen subsequently passed as E44
 
 Frozen repository:
 [qwen38-artifact-coupled-integration-scout-v0@7423d21](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7423d214d5d2a5b77514b0acff43d547743b422e)
@@ -54,12 +54,15 @@ Before starting a server, the frozen runner independently verifies:
 - the independent audit disposition; and
 - the explicit absence of measured-actor authorization.
 
-The pressure screen requires a new exact user authorization. This document and
-the frozen repository do not provide it.
+The pressure screen subsequently received exact owner authorization and passed
+at result commit
+[`8403785`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/84037853555362380125a244619894535768056f).
+The literal result is recorded in
+`E44_ARTIFACT_COUPLING_PRESSURE_SCREEN_RESULT.md`.
 
 ## Claim limits
 
-A qualifying screen would establish realized result-delivery pressure in this
-fresh trajectory. It would not establish that relief, semantic integration, or
-artifact coupling is useful. Those questions require a separately frozen and
-authorized measured fork from the exact screened boundary.
+The qualifying screen establishes realized result-delivery pressure in this
+fresh trajectory. It does not establish that relief, semantic integration, or
+artifact coupling is useful. The separately frozen measured fork is E45 and
+still requires explicit authorization.

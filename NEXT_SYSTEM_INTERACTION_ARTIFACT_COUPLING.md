@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: offline Stage 0 and four-call live expression gate qualified; authentic pressure screen pending; no further GPU run authorized
+Status: authentic pressure qualified; matched D0/A1 continuation frozen and offline-qualified; GPU execution unauthorized
 
 Implementation binding:
 [qwen38-artifact-coupled-integration-scout-v0@7d71c7d](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7d71c7d666403da7f0be9494a77a771435144f69)
@@ -13,9 +13,19 @@ Expression result:
 Pressure-screen freeze:
 [qwen38-artifact-coupled-integration-scout-v0@7423d21](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7423d214d5d2a5b77514b0acff43d547743b422e)
 
+Pressure-screen result:
+[qwen38-artifact-coupled-integration-scout-v0@8403785](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/84037853555362380125a244619894535768056f)
+
+Measured freeze:
+[qwen38-artifact-coupled-integration-scout-v0@4937083](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/4937083f29df3247a84b3b399c0a7ae922ddb020)
+
 Exact handoff: `E41_ARTIFACT_COUPLING_STAGE0_HANDOFF.md`
 
 Pressure handoff: `E43_ARTIFACT_COUPLING_PRESSURE_SCREEN_HANDOFF.md`
+
+Pressure result: `E44_ARTIFACT_COUPLING_PRESSURE_SCREEN_RESULT.md`
+
+Measured freeze: `E45_ARTIFACT_COUPLING_MEASURED_FREEZE.md`
 
 ## Why this is the next system question
 
@@ -63,8 +73,8 @@ The measured object is the resulting trajectory and feedback loop.
 
 ## Candidate whole-system contrast
 
-Stage 0 should qualify a small finite contrast, not a large component matrix.
-The leading two-system design is:
+Stage 0 qualified a small finite contrast rather than a large component matrix.
+The frozen two-system design is:
 
 | System | Semantic integration carrier | Task-work surface | Feedback |
 |---|---|---|---|
@@ -95,16 +105,24 @@ contains:
 - submission custody and external-readiness separation;
 - the corrected strictly-positive relief selector;
 - a no-relief authentic-pressure screening runner; and
-- 19 passing offline tests plus a passing provider-free end-to-end fixture in
-  both systems.
+- a passing provider-free end-to-end fixture in both systems and, after exact
+  E44-boundary hydration, 27 passing offline tests.
 
-The copied corpus contains 55,169 offline tokens, but Stage 0 explicitly marks
-activation unqualified. Accessible-world size is not used as a proxy for what
-an actor will actually materialize. The apparatus-only four-call expression
-gate passed 4/4 with one attempt per call and zero retries. The next live stage
-is therefore one ordinary screening trajectory under the committed handoff.
-The measured fork remains ineligible until that screen reaches an authentic
-result-delivery overflow.
+The copied corpus contains 55,169 offline tokens, and Stage 0 correctly refused
+to use accessible-world size as realized pressure. The apparatus-only four-call
+expression gate passed 4/4. The later ordinary screen then supplied the missing
+activation evidence: after eight actor calls, pending `RESULT-008` made the
+next packet 21,959 tokens against a 20,992-token allowance. The exact candidate
+was unchanged and the 967-token deficit is now the common pre-treatment fork.
+
+The measured continuation is implemented from that exact state. Its
+provider-free fixture preserves the interaction cascade: positive relief
+externalizes evidence; each real externalization invokes bounded integration;
+the complete packet is rerendered after maintenance state and effect; the
+ordinary actor can then read, revise either artifact, absorb candidate effects,
+check, repair, reopen, and submit. D0's first maintenance leaves the boundary
+candidate unchanged, while A1's first maintenance changes it before the next
+actor decision. Twenty-seven tests and the final offline preflight pass.
 
 A third joint state should be admitted only if offline geometry identifies a
 distinct unresolved interaction that D0/A1 cannot distinguish. It must not be
@@ -151,9 +169,11 @@ The next measured systems should share:
 Batching remains live because E40 showed its tradeoff with residency. It is not
 being isolated as a throughput feature or assumed to be beneficial.
 
-## Offline Stage 0 work
+## Completed offline Stage 0 work
 
-Before another provider call, Stage 0 must perform these systems checks.
+The completed Stage 0 performed the following systems checks before freezing
+the measured continuation. They remain prospective constraints on E45 rather
+than post-outcome explanations.
 
 ### 1. Reconstruct the E40 work-to-artifact gap
 
@@ -184,13 +204,12 @@ The sealed E40 run remains unchanged.
 
 ### 3. Qualify an authentic task and viable horizon
 
-World size alone is insufficient. Stage 0 should preferentially qualify a
+World size alone is insufficient. Stage 0 therefore qualified a
 fresh cross-source task world with the same broad interaction geometry rather
 than reuse the exact Ceiba pressure prefix again. E40 is a design and offline
-audit donor, not an automatic historical control. If no fresh task activates
-the required loop without investigator-selected evidence, stop rather than
-manufacture pressure. Any same-world scout remains explicitly local and does
-not count as transfer.
+audit donor, not an automatic historical control. E44 then supplied the
+required authentic result-delivery boundary without investigator-selected
+evidence. This remains one world and does not count as transfer.
 
 Stage 0 must show a plausible realized path through:
 
@@ -280,9 +299,10 @@ the optimization target.
 
 ## Stopping and promotion
 
-Do not launch until the offline Stage 0 package proves positive-relief safety,
-non-oracular parity, a viable end-to-end horizon, exact work/check versioning,
-and an interpretable finite comparison.
+The offline launch gates are satisfied: positive-relief safety, non-oracular
+parity, a viable end-to-end horizon, exact work/check versioning, exact E44
+boundary hydration, and an interpretable finite comparison all pass. This is
+apparatus readiness, not authority to call the provider.
 
 One exploratory seed per whole system is sufficient to detect initial signal.
 A valid negative must not be dropped. A second seed or transfer task follows

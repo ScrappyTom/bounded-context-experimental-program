@@ -206,11 +206,12 @@ reopens, or fast submission.
 ## Program scale and experimental discipline
 
 The original parent bank contained 42 exactly replayed model requests. Through
-E43, 35 successor stages represent another 404 runner-qualified model/provider
-calls and 4,954,051 serialized tokens. This includes apparatus qualifications,
+E45, 37 successor stages represent another 412 runner-qualified model/provider
+calls and 5,046,347 serialized tokens. This includes apparatus qualifications,
 the 71-call whole-method scout, the 54-call pressure-qualified study, the
 39-call breadth tranche, the 12-call closed interaction qualification, the
-two-call ingress-action qualification, and E40's 138 provider calls. Zero-call
+two-call ingress-action qualification, E40's 138 provider calls, and E44's
+eight-call authentic pressure screen. Zero-call
 eligibility, capacity, reconciliation, and cross-study audits remain in the
 stage ledger but add no calls or tokens. The whole-method scout's
 replay-ineligible cell remains included as actual execution cost but not as
@@ -1150,3 +1151,65 @@ This is a zero-call apparatus stage. It adds no behavioral evidence and does
 not authorize GPU execution. Its purpose is to ensure that the next live call,
 if separately authorized, selects an authentic common boundary rather than
 quietly treating accessible-world size as realized context pressure.
+
+## 36. Fresh artifact-coupling task reaches authentic pressure
+
+The owner authorized the frozen ordinary screen at commit
+`7423d214d5d2a5b77514b0acff43d547743b422e`. The run completed eight actor
+calls with one attempt each, zero retries, and 92,296 serialized tokens.
+
+The actor acquired five exact source observations and made three rejected
+requests while traversing the fresh program corpus. Its final valid batch read
+produced `RESULT-008` from `S10` and `S11`. The host acquired and custodied that
+result, but adding it to the ordinary chronology produced a 21,959-token next
+prompt against the 20,992-token allowance. The exact 967-token deficit is an
+authentic result-delivery boundary rather than a projection from accessible
+world size.
+
+Four earlier results had crossed later model decisions. `RESULT-008` had not.
+The composite candidate remained byte-identical to its initial hash; no relief,
+semantic maintenance, reentry, check, or submission occurred. The run therefore
+selects a common pre-treatment fork without supplying treatment evidence.
+
+An independent audit reproduced the prompt count with the offline tokenizer,
+verified the pending-result and prior-delivery ledger, reconciled all eight
+provider-attempt receipts and the 79-file run seal, and confirmed runtime
+release. The append-only result is
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@84037853555362380125a244619894535768056f`.
+
+## 37. Matched artifact-coupling interaction becomes executable
+
+The exact E44 boundary was then hydrated into both planned systems. The
+measured causal contrast remains narrow but system-level: bounded integration
+is a detached model-facing sidecar in D0 and the exact task-required evidence
+ledger in A1. The semantic production instruction, seed, budget, pressure
+rule, actor surface, evaluator, and resource ceilings remain common.
+
+The runner preserves the endogenous feedback created by that distinction.
+Strictly positive first-fit relief triggers maintenance only when an exact
+evidence body is actually externalized. Maintenance receives the prior bounded
+state plus the newly externalized exact observation and cannot cite catalog-only
+sources. The accepted bytes and exact effect enter the next actor packet. In
+A1, later actor revisions to the coupled ledger can become the next maintenance
+prior, but only with source IDs already delivered to that actor. This is the
+intended artifact/semantic feedback loop, not an isolated expression test.
+
+Ordinary actor actions remain live for single and batch reads, exact reopen,
+task-ledger replacement, eight incremental decision sections, whole-decision
+replacement, current candidate-bound checks, repair, and submission. Reactive
+reentry is available only after positive relief is exhausted; no scheduled
+phase reset exists. Final mechanical evaluation is candidate-bound but does not
+self-authorize readiness.
+
+A provider-free execution ran the authentic pressure fork through both systems.
+Both paths used real positive relief and multiple maintenance updates, delivered
+candidate effects, mutated decision sections, ran a check, repaired, rechecked,
+and submitted. Before the first actor, D0 preserved the boundary candidate hash
+and A1 changed it through maintenance. This qualifies the complete apparatus,
+not utility.
+
+The frozen contract permits 20 continuation actor calls and 12 maintenance
+calls per system, 64 provider calls total, one attempt per call, and zero
+retries. Twenty-seven tests and the final preflight pass. The GPU-unauthorized
+freeze is
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@4937083f29df3247a84b3b399c0a7ae922ddb020`.

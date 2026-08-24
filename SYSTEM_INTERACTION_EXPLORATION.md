@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: governing direction; first pressure-active interaction measured; artifact-coupling systems Stage 0 implemented offline
+Status: governing direction; artifact-coupling pressure qualified; matched whole-system continuation frozen and GPU-unauthorized
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -163,7 +163,7 @@ is apparatus-affected descriptive evidence, I2–I4 are mechanically qualified
 local negatives, and the complete factorial is censored. The exact result and
 claim limits are in `E40_INGRESS_WORK_INTERACTION_RESULT.md`.
 
-### Active systems Stage 0
+### Active artifact-coupling interaction
 
 The next selected question is:
 
@@ -181,22 +181,40 @@ revisable requirement/evidence entries and partial task sections create a
 productive artifact/feedback loop, or merely move the failure to anchoring,
 revision cost, final assembly, or closure?
 
-Offline Stage 0 is implemented at
+Offline Stage 0 began at
 `qwen38-artifact-coupled-integration-scout-v0@7d71c7d666403da7f0be9494a77a771435144f69`.
 It reconstructs the E40 work-to-artifact gap, fixes relief eligibility, defines
 one fresh two-file task candidate, implements detached and candidate-coupled
 integration systems, and exercises evidence→relief→integration→effect→check→
-repair→recheck→submission provider-free. Nineteen tests pass.
+repair→recheck→submission provider-free.
 
-The task world contains 55,169 source tokens, but activation remains
-unqualified by design. The four-call expression gate and committed audit have
-now passed. The live sequence continues with an ordinary no-relief pressure
-screen, then a contemporaneous two-system fork only if that screen reaches
-authentic result-delivery overflow. The current contract is
-`NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`; the exact handoff is
-`E41_ARTIFACT_COUPLING_STAGE0_HANDOFF.md`, and the frozen pressure-screen
-contract is `E43_ARTIFACT_COUPLING_PRESSURE_SCREEN_HANDOFF.md`. No further GPU
-run is authorized.
+The four-call expression gate passed 4/4 at `4879237170eae60735afbac55dabaf578d6a5aae`.
+The independently qualified ordinary screen then reached authentic
+result-delivery pressure at `84037853555362380125a244619894535768056f`:
+after eight actor calls and 92,296 serialized tokens, pending exact
+`RESULT-008` made the prospective prompt 21,959 tokens against the frozen
+20,992-token allowance. The candidate remained unchanged, and no treatment
+had run. This is realized endogenous pressure rather than an inference from
+the 55,169-token accessible corpus.
+
+The matched continuation is frozen at
+`4937083f29df3247a84b3b399c0a7ae922ddb020`. Both arms begin from that exact
+task, candidate, history, result ledger, and pending observation. Both keep
+actor-selected ingress, strictly positive first-fit relief, semantic
+maintenance, exact reopen, incremental task-artifact actions, effects,
+version-bound checks, repair, reactive reentry, readiness, and closure live.
+`D0_DETACHED` retains accepted integration as a non-authoritative sidecar;
+`A1_COUPLED` writes it into the exact task-required evidence ledger so that it
+changes candidate identity and participates in downstream feedback. The
+provider-free full loops, measured preflight, and 27 tests pass.
+
+This is a trajectory-level systems comparison. Artifact coupling is not being
+isolated from the operations whose value it may change. Any measured
+difference initially belongs to D0 or A1 as a complete configuration. The
+current contract is `NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`; the screen
+result is `E44_ARTIFACT_COUPLING_PRESSURE_SCREEN_RESULT.md`, and the measured
+freeze is `E45_ARTIFACT_COUPLING_MEASURED_FREEZE.md`. No measured GPU run is
+authorized.
 
 ### Closed historical question
 

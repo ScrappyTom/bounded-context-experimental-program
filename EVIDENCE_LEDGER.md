@@ -54,6 +54,11 @@ means literal local behavior with a material apparatus qualification.
 | E38 | NQ | source-residue × cumulative-work interaction apparatus | Three frozen four-call gates improved acceptance from 1/4 to 3/4; both work shapes qualified, but the final cold-start residue used 310 tokens against a 256-token cap. | No ordinary actor consumed a maintenance object; utility was not tested and the declared route is closed. | [apparatus result](https://github.com/ScrappyTom/qwen38-system-interaction-persistence-scout-v0/commit/362868ae25a7301a9fe34a90e59768318537c852) |
 | E39 | AF/LR | ingress-action qualification and I1–I4 freeze | One- and three-range batch actions passed 2/2 live fixtures; the provider-free full interaction loop and preflight passed. | Action transport and apparatus only; measured utility is E40. | [freeze](https://github.com/ScrappyTom/qwen38-ingress-work-interaction-scout-v0/commit/1c041e2c55e0cc1f735e056df84a156c15bd8679) |
 | E40 | LR/AF | ingress × bounded semantic-work interaction | Across 98 actor and 40 maintenance calls, batching and semantic work activated but all candidates stayed unchanged. Batch geometry accelerated reentry use; replacement work lost prior citation breadth and remained detached from exact partial artifact effects/checks. | One task/world/model/seed. One I1 negative-savings receipt censors the complete factorial; I2–I4 are mechanically qualified local negatives. | [measured result](https://github.com/ScrappyTom/qwen38-ingress-work-interaction-scout-v0/commit/ea03f6c7e5d11e0f9f1013eef573215767c58ad1) |
+| E41 | AF | artifact-coupled integration Stage 0 | A fresh 14-source task and matched D0/A1 systems were implemented with exact incremental task work, version-bound effects/checks, positive-savings relief, and provider-free complete-loop fixtures. | Offline apparatus only; accessible-world size did not establish realized pressure or utility. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7d71c7d666403da7f0be9494a77a771435144f69) |
+| E42 | LR/AF | artifact-coupled maintenance and action expression | Four frozen live cases qualified 4/4: two bounded integration replacements and both incremental task-artifact action shapes were admitted with one attempt and zero retries. | Transport and expression only; no ordinary actor consumed the objects and no task utility was measured. | [expression result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/4879237170eae60735afbac55dabaf578d6a5aae) |
+| E43 | AF | pressure-screen handoff hardening | The screen runner independently binds the exact E42 handoff, run hashes, admission facts, seal, audit, and authorization state before starting the provider. | Pre-run apparatus only; it did not itself establish pressure or behavior. | [screen freeze](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7423d214d5d2a5b77514b0acff43d547743b422e) |
+| E44 | LR | fresh artifact-coupling result-delivery pressure | After eight calls and 92,296 serialized tokens, exact `RESULT-008` made the prospective prompt 21,959 tokens against a 20,992-token allowance, a 967-token deficit. Five exact observations had been accepted, three actions rejected, and the candidate was unchanged. | Boundary-selection result only. No relief, semantic maintenance, artifact coupling, reentry, check, mutation, or submission ran. | [pressure-screen result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/84037853555362380125a244619894535768056f) |
+| E45 | AF/NQ | matched detached-versus-artifact-coupled continuation freeze | The exact E44 fork now hydrates into two complete post-pressure systems. Both retain live ingress, positive relief, maintenance, effects, incremental edits, checks, repair, reactive reentry, and closure; the treatment changes whether accepted integration remains a detached sidecar or becomes exact task-world state. Provider-free full loops and 27 tests pass. | Apparatus and causal-design qualification only. No measured provider call or behavioral utility result; GPU execution requires new exact authorization. | [measured freeze](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/4937083f29df3247a84b3b399c0a7ae922ddb020) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
@@ -67,7 +72,7 @@ means literal local behavior with a material apparatus qualification.
 | H11 | LR | bounded structured frontier expression | The tested schema qualified syntactic/token closure in 2/2 cases but migrated failure to clipped semantic fields and one invalid handle. | No actor calls; not utility-ready unchanged. | E10–E11, E15 |
 | H12 | LR | closure-safe structured frontier expression | Returned prose and handles were locally complete, but neither full object closed under the frozen interface; both length-terminated and the live grammar omitted declared length limits. | 0/2 complete acceptance. Frontier schema-expression tuning is closed; utility was not tested. | E15–E16 |
 | H13 | NQ | one-case cross-type effect retention | The complete exact effect and observation could not co-reside with the inherited standing set under the frozen envelope. | Behavioral utility untested; changing another object would be a different treatment. | E08–E09, E17–E18 |
-| H14 | CH | semantic integration × exact incremental task artifact × version-bound feedback | E40 generated semantic interpretations without exact artifact flow under a whole-final-only surface. A complete system that binds those interpretations to revisable requirement/evidence entries and partial sections may preserve useful work and create feedback, or may instead anchor errors and move cost to revision/assembly. | Selected for offline Stage 0 only. No provider calls, utility result, or architecture promotion. The interaction must retain ingress, pressure, effects, repair, readiness, and closure rather than splitting the functions into component tests. | E36, E38–E40; `NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md` |
+| H14 | CH | semantic integration × exact incremental task artifact × version-bound feedback | E40 generated semantic interpretations without exact artifact flow under a whole-final-only surface. E44 now supplies an authentic common pressure fork, and E45 makes the complete D0/A1 interaction executable: accepted integration either remains a detached sidecar or becomes exact, revisable task-world state with effects and feedback. | Pressure and apparatus are qualified, but behavioral utility remains untested and GPU-unauthorized. Any future claim belongs initially to each whole configuration and must retain ingress, relief, effects, repair, readiness, and closure in the feedback loop. | E36, E38–E45; `NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md` |
 
 ## Active selection
 
@@ -482,7 +487,55 @@ authorization, result/seal/audit hashes, independent audit, and explicit lack
 of measured-actor authorization before starting a model server. Twenty-one
 offline tests pass.
 
-Disposition: **AF/EL** — the boundary-selection runner and prerequisite are
-mechanically qualified. No provider call occurred, authentic pressure remains
-unobserved in this task, and neither D0 nor A1 is behaviorally tested. The
-screen remains GPU-unauthorized.
+Disposition: **AF/EL** — the boundary-selection runner and prerequisite were
+mechanically qualified. At this historical stage no provider call had occurred
+and pressure was still unobserved. E44 supersedes that activation uncertainty;
+neither D0 nor A1 was behaviorally tested by E43.
+
+## E44 — authentic artifact-coupling pressure boundary
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@84037853555362380125a244619894535768056f`
+
+The authorized ordinary no-relief screen made eight actor calls and consumed
+92,296 serialized tokens with one attempt per call and zero retries. Five
+exact source observations were accepted and three ordinary actions were
+rejected. The eighth action acquired valid `S10` and `S11` ranges as exact
+`RESULT-008`, but adding that result would produce a 21,959-token prompt
+against the frozen 20,992-token allowance: a 967-token deficit.
+
+The candidate remained byte-identical at
+`eb63671008e22987e37ff1ebc26a8ddb29f92ec55ee1d3d1ad0d7d1d64ae181e`.
+No maintenance, relief, reentry, mutation, check, or submission occurred. The
+full model-visible history, result ledger, pending exact result, token
+arithmetic, provider exchange, and runtime cleanup passed the frozen audits.
+
+Disposition: **LR** — authentic fresh-task result-delivery pressure and a
+common pre-treatment fork are established. This is not evidence for either
+planned system or for artifact coupling itself.
+
+## E45 — artifact-coupled measured interaction freeze
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@4937083f29df3247a84b3b399c0a7ae922ddb020`
+
+The exact E44 task, messages, candidate, delivered-result ledger, and pending
+`RESULT-008` now hydrate into two viable post-pressure systems. In
+`D0_DETACHED`, accepted bounded semantic integration remains a
+non-authoritative model-facing sidecar. In `A1_COUPLED`, the same maintenance
+operation writes the exact task-required evidence ledger, changes candidate
+identity, emits an actor-visible effect, and enters later version-bound checks
+and revisions.
+
+Both configurations keep actor-selected ingress, exact custody and reopen,
+strictly positive first-fit relief, maintenance triggered by real
+externalization, ordinary incremental artifact edits, effect uptake, checks,
+repair, reactive reentry only after relief exhaustion, submission, and
+external readiness evaluation in one feedback loop. The provider-free fixture
+exercised those interactions through repair and submission in both systems;
+27 tests and the measured preflight pass.
+
+Disposition: **AF/NQ** — the whole-system contrast is implemented and
+mechanically qualified. No measured provider call has occurred, so utility,
+quality, induced demand, and architecture promotion remain untested. The GPU
+run requires a new exact owner authorization.

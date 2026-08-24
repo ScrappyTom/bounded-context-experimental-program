@@ -639,6 +639,52 @@ ordinary screen must reveal realized demand and chronology growth before the
 interaction fork is eligible. This preserves the program's distinction between
 accessible supply and endogenous model-facing demand.
 
+## Artifact-coupling realized demand and common fork
+
+E44 supplied that missing demand evidence. The ordinary no-relief actor made
+eight calls, accepted five exact observations, accumulated three rejected
+actions, and then acquired exact `RESULT-008`. The result could not enter the
+next model decision: the prospective prompt was 21,959 tokens against a
+20,992-token allowance, a deficit of 967. The candidate was still unchanged.
+
+This is economically different from showing that the corpus is larger than
+the window. Supply was large in E41; E44 demonstrates that actor-selected
+ingress, result sizes, protocol losses, and chronology jointly produced an
+actual blocked delivery. The exact task, candidate, visible history, delivered
+objects, and pending observation now form a shared pre-treatment state. No
+later evidence has been selected for the actor by the investigator.
+
+## Artifact coupling as a feedback-system treatment
+
+E45 makes the next contrast executable without reducing it to a patch or note
+component. Both systems pay for bounded semantic-integration maintenance after
+real externalization and keep ordinary ingress, pressure relief, exact reopen,
+incremental task work, effects, checks, repair, reactive reentry, readiness,
+and closure live. The treatment changes what economic asset accepted
+integration becomes:
+
+```text
+D0_DETACHED
+semantic integration -> resident, lossy, non-authoritative sidecar
+
+A1_COUPLED
+semantic integration -> exact task-ledger bytes -> candidate effect
+                     -> later actor revision and version-bound feedback
+```
+
+This jointly changes resident stock, candidate state, effect traffic,
+maintenance inputs, feedback currency, switching cost, and induced future
+demand. Those endogenous consequences are the point of the experiment, not
+confounds to normalize away. The initial result must therefore be attributed
+to the complete D0 or A1 trajectory. Only a later transferred joint effect
+could justify component ablation.
+
+The provider-free fixture proves that both feedback systems can traverse
+positive relief, maintenance, candidate/effect uptake, incremental revision,
+stale and current checks, repair, and submission. It supplies no behavioral or
+economic utility evidence. E45 remains GPU-unauthorized until the owner grants
+the exact frozen call budget.
+
 ## Low-pressure reconnaissance correction
 
 E37 then sampled multiple tasks while every prompt remained far below the

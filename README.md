@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 31 experiment commit bindings were resolved through the named local
+The current 33 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -107,16 +107,16 @@ remain mechanically qualified local negatives. The Stage 0 history is
 measured systems disposition is
 [E40_INGRESS_WORK_INTERACTION_RESULT.md](E40_INGRESS_WORK_INTERACTION_RESULT.md).
 
-The next whole-system Stage 0 is now implemented at
+The initial artifact-coupling Stage 0 was implemented at
 [`qwen38-artifact-coupled-integration-scout-v0@7d71c7d`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7d71c7d666403da7f0be9494a77a771435144f69).
 It compares an equally costly detached semantic-integration sidecar against a
 system in which the same accepted integration bytes become an exact,
 versioned, task-required evidence ledger. Both actors retain batch ingress,
 exact reopen, incremental decision-section work, checks, repair, and closure.
-Nineteen offline tests and both provider-free full-loop fixtures pass. The
-fresh 14-source corpus contains 55,169 offline tokens, but realized pressure is
-deliberately unqualified until a live ordinary screen reaches an authentic
-result-delivery overflow. See
+At that commit, nineteen offline tests and both provider-free full-loop
+fixtures passed. The fresh 14-source corpus contains 55,169 offline tokens,
+but Stage 0 correctly left realized pressure unqualified until a live ordinary
+screen reached an authentic result-delivery overflow. See
 [E41_ARTIFACT_COUPLING_STAGE0_HANDOFF.md](E41_ARTIFACT_COUPLING_STAGE0_HANDOFF.md)
 and
 [NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md](NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md).
@@ -132,6 +132,25 @@ The pressure-screen prerequisite and exact no-relief runner are frozen at
 See
 [E43_ARTIFACT_COUPLING_PRESSURE_SCREEN_HANDOFF.md](E43_ARTIFACT_COUPLING_PRESSURE_SCREEN_HANDOFF.md).
 
+The authorized screen then reached an authentic boundary after eight calls and
+92,296 serialized tokens. Its pending `RESULT-008` made the prospective prompt
+21,959 tokens against the 20,992-token allowance, a 967-token deficit. The
+candidate remained unchanged and no lifecycle treatment ran. The exact fork is
+committed at
+[`8403785`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/84037853555362380125a244619894535768056f)
+and documented in
+[E44_ARTIFACT_COUPLING_PRESSURE_SCREEN_RESULT.md](E44_ARTIFACT_COUPLING_PRESSURE_SCREEN_RESULT.md).
+
+The matched D0/A1 continuation is now fully implemented and offline-qualified
+at
+[`4937083`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/4937083f29df3247a84b3b399c0a7ae922ddb020).
+It keeps ingress, relief, semantic maintenance, exact artifact effects,
+ordinary incremental work, checks, repair, reentry, and closure in the same
+feedback loop. The treatment is whether accepted bounded integration remains a
+detached model-facing sidecar or becomes the exact task-required evidence
+ledger. See
+[E45_ARTIFACT_COUPLING_MEASURED_FREEZE.md](E45_ARTIFACT_COUPLING_MEASURED_FREEZE.md).
+
 The validity envelope remains strict: exact custody, complete model-visible
 history, one attempt with no hidden retry, hard limits, exact candidate/effect
 identity, independent quality evaluation, and no post-outcome cell alteration.
@@ -146,6 +165,6 @@ at result commit `ea8f4cfa5888998d6193f57316e9cd41cf1639b6`, frozen from
 machine disposition is [DISCOVERY_TRANCHE_RESULT.json](DISCOVERY_TRANCHE_RESULT.json).
 
 No GPU run is authorized by these documents. The next eligible live operation
-is the ordinary no-relief pressure screen at the committed qualification
-handoff. The measured interaction requires a later authentic boundary,
-committed fork, and separate explicit authorization.
+is the frozen D0-then-A1 measured interaction at commit `4937083`, subject to a
+new exact owner authorization for its 40-actor-call, 24-maintenance-call,
+64-provider-call ceiling.

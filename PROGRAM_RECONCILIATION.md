@@ -105,14 +105,13 @@ mechanically qualified local negatives, and the complete factorial is censored.
 Every successor runtime must restrict the deterministic scan to prospectively
 rendered strictly positive-savings substitutions.
 
-The active systems Stage 0 is implemented at
+The artifact-coupling Stage 0 began at
 `qwen38-artifact-coupled-integration-scout-v0@7d71c7d666403da7f0be9494a77a771435144f69`.
 It compares detached versus exact task-artifact coupling of the same bounded
 semantic-integration operation, while batch ingress, exact reopen,
 positive-savings relief, incremental actor work, effects, version-bound
-checks, repair, and closure remain live. Nineteen offline tests and both
-provider-free end-to-end configurations pass. This is not note, patch, and
-checker component qualification. See `E40_INGRESS_WORK_INTERACTION_RESULT.md`,
+checks, repair, and closure remain live. This is not note, patch, and checker
+component qualification. See `E40_INGRESS_WORK_INTERACTION_RESULT.md`,
 `E41_ARTIFACT_COUPLING_STAGE0_HANDOFF.md`, and
 `NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`.
 
@@ -125,9 +124,22 @@ no-relief screen must still produce a real result-delivery overflow. The
 realize pressure.
 
 The exact pressure-screen runner and independently reconciled qualification
-handoff are frozen at `7423d214d5d2a5b77514b0acff43d547743b422e`.
-The screen is a boundary selector with no relief or maintenance, not a treatment
-result. It remains GPU-unauthorized.
+handoff were frozen at `7423d214d5d2a5b77514b0acff43d547743b422e`.
+The authorized screen then reached authentic pressure after eight actor calls
+and 92,296 serialized tokens. Its exact pending `RESULT-008` made the next
+prompt 21,959 tokens against a 20,992-token allowance, a 967-token deficit,
+while the candidate remained unchanged. The boundary is sealed at
+`84037853555362380125a244619894535768056f`.
+
+The matched continuation is now frozen at
+`4937083f29df3247a84b3b399c0a7ae922ddb020`. `D0_DETACHED` keeps accepted
+bounded integration as a non-authoritative sidecar; `A1_COUPLED` writes the
+same maintenance product into the exact task-required evidence ledger, so it
+changes candidate identity and participates in later effects, checks, repair,
+and actor revisions. Ingress, pressure relief, maintenance, work-product
+updates, feedback, reentry, readiness, and closure remain live in both systems.
+The provider-free full loops, measured preflight, and 27 tests pass. No
+measured GPU call is authorized yet.
 
 ## Loose-ends audit
 
@@ -189,6 +201,8 @@ authorized.
 | A known ordinary-success calibration would expose a downstream success path under the common profile. | E37 D3 never reached construction because seven fenced tree requests consumed its horizon. | Preserve the literal failure, but classify downstream coding capability as unobserved. Qualify the observation surface before using it to compare deeper capabilities. |
 | Bounded batch ingress would convert call budget into useful evidence throughput. | Multi-range actions activated and increased ranges per accepted read, but their larger exact results accelerated turnover; both batch arms exhausted the reentry budget and neither produced artifact work. | Treat ingress bandwidth and residency pressure as coupled; do not promote batching from coverage alone. |
 | A bounded cumulative-work object would let streamed evidence become durable task work. | The replacement sidecars produced real cross-source prose, then shed earlier citation grounding and remained detached from exact partial artifact effects and checks. No candidate changed even after I4 saw all 14 sources. | Distinguish semantic sidecar state from exact incremental task work. Test their coupling with version-bound feedback in a complete trajectory, not as isolated expression components. |
+| A fresh artifact-coupling task would be diagnostic because its source corpus was large. | E41 treated corpus size only as supply. E44 then established realized demand: after eight ordinary calls, an exact pending observation created a 967-token delivery deficit while the candidate was still unchanged. | Use the exact E44 state as the common pre-treatment fork; do not inject investigator-selected evidence or infer activation from world size. |
+| Artifact coupling could be tested as a patch-like component. | E45 instead keeps the complete evidence-to-work-to-effect-to-feedback-to-closure loop live. The treatment changes whether accepted semantic integration is detached context or exact task-world capital, which can endogenously change residency, later maintenance, artifact revisions, checking, cost, and closure. | Interpret D0 and A1 as whole configurations first. Component attribution or ablation is premature until a joint trajectory effect exists. |
 
 ## Provisional ownership split for the mechanical comparator
 
@@ -320,11 +334,15 @@ checkpoint now asks how semantic integration, exact incremental artifact state,
 and version-bound verification interact while evidence ingress, relief,
 reopen, action admission, repair, and closure remain live.
 
-The next step is offline Stage 0 only. It must repair the positive-savings
-relief invariant, reconstruct the historical work-to-artifact gap, define a
-non-oracular exact partial-work surface, and prove a feasible complete horizon.
-It should use E40 as a design/audit donor while preferentially qualifying a
-fresh task world for measured breadth rather than treating the same prefix as
-an automatic control.
-No D1/D3/D4 repair, D6 wording variant, I1–I4 extension, or GPU call is
-authorized automatically.
+That offline Stage 0, live expression qualification, and authentic pressure
+screen are now complete as E41–E44. E45 freezes the next whole-system question
+from the byte-exact E44 boundary. It does not ask whether a note, patch action,
+or checker works in isolation. It asks whether the same bounded semantic
+integration has different trajectory value when it becomes exact,
+incrementally revisable task-world state with effects and feedback rather than
+remaining a detached sidecar.
+
+The next eligible live operation is the D0-then-A1 measured continuation at
+`4937083f29df3247a84b3b399c0a7ae922ddb020`, subject to a new exact owner GPU
+authorization. No D1/D3/D4 repair, D6 wording variant, I1–I4 extension, E44
+screen rerun, or measured call is authorized automatically.

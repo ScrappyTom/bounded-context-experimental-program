@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-24",
-  "status": "measured_interaction_complete_artifact_coupling_expression_qualified_pressure_screen_pending",
+  "status": "artifact_coupling_authentic_pressure_qualified_measured_fork_frozen_gpu_unauthorized",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "authentic_prompt_pressure",
@@ -84,7 +84,7 @@
     ]
   },
   "next_system_interaction": {
-    "status": "live_expression_qualified_pressure_screen_pending_gpu_not_authorized",
+    "status": "authentic_pressure_qualified_measured_D0_A1_fork_frozen_gpu_not_authorized",
     "question": "semantic persistence x exact incremental task-artifact externalization x version-bound verification and repair under live ingress and common host-owned capacity safety",
     "unit_of_analysis": "complete evidence_to_work_to_effect_to_feedback_to_closure trajectory",
     "leading_systems": [
@@ -93,19 +93,35 @@
     ],
     "implementation": {
       "repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0",
-      "freeze_commit": "7d71c7d666403da7f0be9494a77a771435144f69",
+      "stage0_commit": "7d71c7d666403da7f0be9494a77a771435144f69",
       "task_source_count": 14,
       "task_source_bytes": 238874,
       "task_source_tokens_offline": 55169,
       "base_actor_prompt_tokens_offline": 2747,
-      "offline_tests_passed": 19,
+      "offline_tests_passed": 27,
       "provider_free_system_fixtures_passed": 2,
       "expression_result_commit": "4879237170eae60735afbac55dabaf578d6a5aae",
       "pressure_screen_freeze_commit": "7423d214d5d2a5b77514b0acff43d547743b422e",
+      "pressure_screen_result_commit": "84037853555362380125a244619894535768056f",
+      "measured_freeze_commit": "4937083f29df3247a84b3b399c0a7ae922ddb020",
       "expression_model_calls": 4,
       "expression_serialized_tokens": 11647,
       "live_expression_qualified": true,
-      "activation_qualified": false,
+      "pressure_screen_actor_calls": 8,
+      "pressure_screen_serialized_tokens": 92296,
+      "pressure_screen_pending_result_id": "RESULT-008",
+      "pressure_screen_prospective_prompt_tokens": 21959,
+      "pressure_screen_prompt_allowance_tokens": 20992,
+      "pressure_screen_deficit_tokens": 967,
+      "activation_qualified": true,
+      "measured_offline_preflight_passed": true,
+      "measured_run_id": "2026-08-24-artifact-coupled-interaction-measured-v0",
+      "measured_configuration_order": ["D0_DETACHED", "A1_COUPLED"],
+      "measured_maximum_actor_calls": 40,
+      "measured_maximum_maintenance_calls": 24,
+      "measured_maximum_provider_calls": 64,
+      "measured_attempts_per_call": 1,
+      "measured_retries": 0,
       "gpu_authorized": false
     },
     "non_isolation": [
@@ -124,8 +140,9 @@
       "provider_free_full_loop_qualification"
     ],
     "pending_live_gates": [
-      "ordinary_no_relief_screen_reaches_authentic_result_delivery_pressure",
-      "measured_fork_budgets_derived_from_exact_screened_boundary"
+      "explicit_owner_authorization_for_frozen_D0_then_A1_provider_budget",
+      "measured_whole_configuration_continuation",
+      "condition_blinded_candidate_quality_and_readiness_adjudication"
     ],
     "governing_document": "NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md"
   },

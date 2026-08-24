@@ -58,15 +58,31 @@ class SystemInteractionDirectionTests(unittest.TestCase):
 
         successor = self.contract["next_system_interaction"]
         self.assertEqual(
-            "live_expression_qualified_pressure_screen_pending_gpu_not_authorized",
+            "authentic_pressure_qualified_measured_D0_A1_fork_frozen_gpu_not_authorized",
             successor["status"],
         )
         self.assertTrue(successor["implementation"]["live_expression_qualified"])
+        self.assertTrue(successor["implementation"]["activation_qualified"])
+        self.assertTrue(successor["implementation"]["measured_offline_preflight_passed"])
+        self.assertEqual(27, successor["implementation"]["offline_tests_passed"])
         self.assertEqual(4, successor["implementation"]["expression_model_calls"])
         self.assertEqual(
             "7423d214d5d2a5b77514b0acff43d547743b422e",
             successor["implementation"]["pressure_screen_freeze_commit"],
         )
+        self.assertEqual(
+            "84037853555362380125a244619894535768056f",
+            successor["implementation"]["pressure_screen_result_commit"],
+        )
+        self.assertEqual(
+            "4937083f29df3247a84b3b399c0a7ae922ddb020",
+            successor["implementation"]["measured_freeze_commit"],
+        )
+        self.assertEqual(967, successor["implementation"]["pressure_screen_deficit_tokens"])
+        self.assertEqual(40, successor["implementation"]["measured_maximum_actor_calls"])
+        self.assertEqual(24, successor["implementation"]["measured_maximum_maintenance_calls"])
+        self.assertEqual(64, successor["implementation"]["measured_maximum_provider_calls"])
+        self.assertFalse(successor["implementation"]["gpu_authorized"])
         self.assertIn("exact incremental task-artifact", successor["question"])
         self.assertIn(
             "effects_checks_repair_readiness_and_closure_are_in_horizon",
