@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 33 experiment commit bindings were resolved through the named local
+The current 34 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -151,6 +151,17 @@ detached model-facing sidecar or becomes the exact task-required evidence
 ledger. See
 [E45_ARTIFACT_COUPLING_MEASURED_FREEZE.md](E45_ARTIFACT_COUPLING_MEASURED_FREEZE.md).
 
+The owner then authorized the complete measured continuation. It finished 40
+actor calls and 19 maintenance calls at result commit
+[`c11d55a`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/c11d55a7f143747156831de0b189523ee1bcd776).
+Artifact coupling was behaviorally active: A1 changed candidate state before
+the first continuation decision and reached a full decision/check eight calls
+earlier than D0. Both systems nevertheless exhausted their actor-call budgets
+without submission and ended with independently strong-partial, not-ready
+artifacts. A1 broadened citation but retained a stale roadmap, so no
+semantic-quality or useful-completion advantage was established. See
+[E46_ARTIFACT_COUPLING_INTERACTION_RESULT.md](E46_ARTIFACT_COUPLING_INTERACTION_RESULT.md).
+
 The validity envelope remains strict: exact custody, complete model-visible
 history, one attempt with no hidden retry, hard limits, exact candidate/effect
 identity, independent quality evaluation, and no post-outcome cell alteration.
@@ -164,7 +175,7 @@ at result commit `ea8f4cfa5888998d6193f57316e9cd41cf1639b6`, frozen from
 [DISCOVERY_STAGE0_HANDOFF.json](DISCOVERY_STAGE0_HANDOFF.json); the measured
 machine disposition is [DISCOVERY_TRANCHE_RESULT.json](DISCOVERY_TRANCHE_RESULT.json).
 
-No GPU run is authorized by these documents. The next eligible live operation
-is the frozen D0-then-A1 measured interaction at commit `4937083`, subject to a
-new exact owner authorization for its 40-actor-call, 24-maintenance-call,
-64-provider-call ceiling.
+No GPU run is authorized by these documents. The next eligible program work is
+offline fresh-world transfer design for the complete artifact-coupled
+interaction, with a prospectively viable post-construction horizon. The exact
+E46 boundary is closed to same-route extension or prompt tuning.

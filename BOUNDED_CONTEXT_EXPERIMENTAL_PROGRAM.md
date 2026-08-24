@@ -108,12 +108,20 @@ apparatus-affected, the full factorial is censored, and successor relief must
 scan only prospectively rendered strictly positive-savings substitutions.
 I2–I4 remain mechanically qualified local negatives.
 
-The active work is now an offline systems Stage 0 for semantic integration ×
-exact incremental task-artifact externalization × version-bound verification
-and repair, while ingress, pressure, reopen, effects, resumption, readiness,
-and closure stay live. This explicitly does not split notes, patches, and
-checks into isolated component studies. See
-`E40_INGRESS_WORK_INTERACTION_RESULT.md` and
+E41–E45 implemented, qualified, and froze the next complete-system contrast.
+E46 then measured it. Coupling semantic integration to the exact task ledger
+changed candidate lineage before continuation, accelerated full construction
+and checking, and broadened citation. Both coupled and detached systems still
+exhausted twenty actor calls with strong-partial, not-ready artifacts; the
+coupled artifact also retained a stale roadmap.
+
+This is local mixed evidence: exact task-work coupling is behaviorally active
+and can preserve cumulative work, but it can also capitalize semantic error
+and did not improve useful completion. The same boundary is closed. The active
+work is offline fresh-world transfer design for the complete interaction, with
+a viable comparator and enough post-construction decisions for effect uptake,
+checking, repair, recheck, and closure. See
+`E46_ARTIFACT_COUPLING_INTERACTION_RESULT.md` and
 `NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`.
 
 ## Current position
@@ -1066,7 +1074,7 @@ preserved the incumbent next decision. Dedicated mode therefore solved the
 control-plane race but did not produce a stable or minimum-necessary working
 set in this formulation. No prompt-tuning successor is selected.
 
-### Program-phase disposition after E40
+### Program-phase disposition after E46
 
 Incremental tuning at the completed donor boundaries is closed. The program has
 not completed broad capability discovery and has not selected an architecture.
@@ -1113,17 +1121,19 @@ together produced candidate work. The work state accumulated interpretations
 but lost earlier grounding and remained detached from an exact partial artifact
 and feedback surface.
 
-The next checkpoint therefore compares complete pressure-active systems in
-which semantic integration is either detached or bound to exact incremental
-task work with version-current feedback. It keeps ingress, pressure, reopen,
-effects, repair, and closure live. This is a system-coupling question, not a
-queue of isolated note, patch, or checker repairs.
+E41–E46 then compared complete pressure-active systems in which the same
+semantic integration remained detached or became exact incremental task work
+with version-current feedback. Coupling changed the full trajectory and moved
+construction/checking earlier, but it did not produce a ready artifact and it
+retained a stale semantic commitment. This supports task-work conversion and
+anchoring as coexisting effects, not a general coupling benefit.
 
-The active direction is `NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`, under
-`SYSTEM_INTERACTION_EXPLORATION.md` and the broader
-`STRUCTURED_EXPLORATION_ROADMAP.md`. Candidate mechanism families below are
-retained as a hypothesis catalog, not a queue. The selected work is offline
-Stage 0; no GPU calls are authorized by this routing decision.
+The active direction remains `NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`
+under `SYSTEM_INTERACTION_EXPLORATION.md` and the broader
+`STRUCTURED_EXPLORATION_ROADMAP.md`, but the original boundary is complete.
+Candidate mechanism families below remain a hypothesis catalog, not a queue.
+The selected work is offline fresh-world transfer Stage 0; no GPU calls are
+authorized by this routing decision.
 
 ## Candidate mechanism families — historical hypothesis catalog
 

@@ -59,6 +59,7 @@ means literal local behavior with a material apparatus qualification.
 | E43 | AF | pressure-screen handoff hardening | The screen runner independently binds the exact E42 handoff, run hashes, admission facts, seal, audit, and authorization state before starting the provider. | Pre-run apparatus only; it did not itself establish pressure or behavior. | [screen freeze](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7423d214d5d2a5b77514b0acff43d547743b422e) |
 | E44 | LR | fresh artifact-coupling result-delivery pressure | After eight calls and 92,296 serialized tokens, exact `RESULT-008` made the prospective prompt 21,959 tokens against a 20,992-token allowance, a 967-token deficit. Five exact observations had been accepted, three actions rejected, and the candidate was unchanged. | Boundary-selection result only. No relief, semantic maintenance, artifact coupling, reentry, check, mutation, or submission ran. | [pressure-screen result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/84037853555362380125a244619894535768056f) |
 | E45 | AF/NQ | matched detached-versus-artifact-coupled continuation freeze | The exact E44 fork now hydrates into two complete post-pressure systems. Both retain live ingress, positive relief, maintenance, effects, incremental edits, checks, repair, reactive reentry, and closure; the treatment changes whether accepted integration remains a detached sidecar or becomes exact task-world state. Provider-free full loops and 27 tests pass. | Apparatus and causal-design qualification only. No measured provider call or behavioral utility result; GPU execution requires new exact authorization. | [measured freeze](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/4937083f29df3247a84b3b399c0a7ae922ddb020) |
+| E46 | LR | detached-versus-artifact-coupled measured interaction | Across 40 actor and 19 maintenance calls, A1 coupling changed candidate state before continuation, reached a full decision/check eight calls earlier, and ended with broader citation. Both systems exhausted 20 actor calls, neither submitted, and both final candidates were independently strong-partial/not-ready; A1 also preserved a stale experimental roadmap. | One task/world/boundary/actor seed and fixed arm order. Condition-masked investigator adjudication, not third-party blind. Behavioral leverage and durable task-work flow are supported locally; useful-completion advantage, semantic dominance, transfer, and architecture value are not. | [measured result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/c11d55a7f143747156831de0b189523ee1bcd776) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
@@ -72,7 +73,7 @@ means literal local behavior with a material apparatus qualification.
 | H11 | LR | bounded structured frontier expression | The tested schema qualified syntactic/token closure in 2/2 cases but migrated failure to clipped semantic fields and one invalid handle. | No actor calls; not utility-ready unchanged. | E10–E11, E15 |
 | H12 | LR | closure-safe structured frontier expression | Returned prose and handles were locally complete, but neither full object closed under the frozen interface; both length-terminated and the live grammar omitted declared length limits. | 0/2 complete acceptance. Frontier schema-expression tuning is closed; utility was not tested. | E15–E16 |
 | H13 | NQ | one-case cross-type effect retention | The complete exact effect and observation could not co-reside with the inherited standing set under the frozen envelope. | Behavioral utility untested; changing another object would be a different treatment. | E08–E09, E17–E18 |
-| H14 | CH | semantic integration × exact incremental task artifact × version-bound feedback | E40 generated semantic interpretations without exact artifact flow under a whole-final-only surface. E44 now supplies an authentic common pressure fork, and E45 makes the complete D0/A1 interaction executable: accepted integration either remains a detached sidecar or becomes exact, revisable task-world state with effects and feedback. | Pressure and apparatus are qualified, but behavioral utility remains untested and GPU-unauthorized. Any future claim belongs initially to each whole configuration and must retain ingress, relief, effects, repair, readiness, and closure in the feedback loop. | E36, E38–E45; `NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md` |
+| H14 | LR | semantic integration × exact incremental task artifact × version-bound feedback | E46 crossed the E40 sidecar/task-work gap: A1 maintenance changed candidate lineage and accelerated full construction/checking, while D0 kept the same operation detached. A1 cited more sources and used fewer serialized tokens, but both candidates were strong partial/not ready and A1 retained a stale roadmap. | One task/world/boundary/seed. This is local mixed evidence for a whole coupled configuration, not isolated component utility. Same-boundary tuning is closed; fresh-world transfer must show candidate-bound quality or closure value before promotion. | E36, E38–E46; `E46_ARTIFACT_COUPLING_INTERACTION_RESULT.md` |
 
 ## Active selection
 
@@ -539,3 +540,45 @@ Disposition: **AF/NQ** — the whole-system contrast is implemented and
 mechanically qualified. No measured provider call has occurred, so utility,
 quality, induced demand, and architecture promotion remain untested. The GPU
 run requires a new exact owner authorization.
+
+## E46 — artifact-coupled measured interaction
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@c11d55a7f143747156831de0b189523ee1bcd776`
+
+The authorized D0-then-A1 run completed 40 actor calls and 19 maintenance calls
+with one attempt per call, zero retries, and 875,749 serialized tokens. Every
+positive relief substitution, maintenance trigger, candidate/evaluator binding,
+cell seal, aggregate seal, and runtime release passed the mechanical audit.
+
+Coupling was strongly active. In A1 the maintenance product changed the exact
+candidate before actor call 1, redirected early evidence demand, produced a
+full decision at call 5 and first check at call 6, and ended with thirteen
+distinct decision citations. D0 kept the same integration operation detached,
+first changed the candidate at call 5, and first checked at call 14. Both arms
+continued through ingress, relief, maintenance, candidate effects, checks, and
+repair; neither used exact reopen.
+
+The leverage did not establish useful completion. Both arms exhausted twenty
+actor calls without submission. D0's 1,511-word decision and A1's 1,561-word
+decision each passed fourteen of fifteen mechanical criteria but missed the
+1,600-word floor. Candidate-bound semantic review classified both as strong
+partials and not ready. A1 was broader on source use and stronger on several
+cost/readiness distinctions, but retained the already-completed E39/E40 design
+as its proposed next experiment. D0 selected the current post-E40 route but
+left more required distinctions shallow. Neither candidate semantically
+dominates.
+
+A1 used 13,137 fewer serialized tokens and achieved 19.94% rather than 15.82%
+aggregate prompt-cache reuse, but used one more provider call, one more reactive
+reentry, and 37.1 more wall seconds. Three maintenance outputs across the arms
+were rejected; the frozen fallback retained prior state. These are endogenous
+whole-configuration costs, not an isolated carrier score.
+
+Disposition: **LR** — artifact coupling locally converts bounded semantic
+maintenance into durable exact task work and accelerates construction/feedback,
+while also capitalizing stale semantic state. No useful-completion advantage,
+semantic dominance, transfer, or architecture promotion is established. The
+same boundary is closed; the next eligible gate is offline fresh-world transfer
+design with enough post-construction decisions for effect uptake, checking,
+repair, recheck, and closure.

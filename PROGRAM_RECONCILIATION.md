@@ -131,15 +131,21 @@ prompt 21,959 tokens against a 20,992-token allowance, a 967-token deficit,
 while the candidate remained unchanged. The boundary is sealed at
 `84037853555362380125a244619894535768056f`.
 
-The matched continuation is now frozen at
-`4937083f29df3247a84b3b399c0a7ae922ddb020`. `D0_DETACHED` keeps accepted
-bounded integration as a non-authoritative sidecar; `A1_COUPLED` writes the
-same maintenance product into the exact task-required evidence ledger, so it
-changes candidate identity and participates in later effects, checks, repair,
-and actor revisions. Ingress, pressure relief, maintenance, work-product
-updates, feedback, reentry, readiness, and closure remain live in both systems.
-The provider-free full loops, measured preflight, and 27 tests pass. No
-measured GPU call is authorized yet.
+The matched continuation was frozen at
+`4937083f29df3247a84b3b399c0a7ae922ddb020` and completed at result commit
+`c11d55a7f143747156831de0b189523ee1bcd776`. It used 40 actor calls, 19
+maintenance calls, and 875,749 serialized tokens. Coupling was behaviorally
+active: A1 changed candidate state before continuation, reached a full
+decision/check eight calls earlier than D0, and ended with thirteen rather
+than ten distinct decision citations.
+
+That leverage did not become useful completion. Both systems exhausted twenty
+actor calls, neither submitted, and both final candidates were independently
+strong-partial/not-ready. A1 preserved a stale roadmap pointing to the already
+completed E39/E40 design; D0 selected the current route but treated more of the
+other required distinctions shallowly. The result is local mixed evidence for
+the complete coupled configuration, not semantic dominance or architecture
+promotion. See `E46_ARTIFACT_COUPLING_INTERACTION_RESULT.md`.
 
 ## Loose-ends audit
 
@@ -203,6 +209,7 @@ authorized.
 | A bounded cumulative-work object would let streamed evidence become durable task work. | The replacement sidecars produced real cross-source prose, then shed earlier citation grounding and remained detached from exact partial artifact effects and checks. No candidate changed even after I4 saw all 14 sources. | Distinguish semantic sidecar state from exact incremental task work. Test their coupling with version-bound feedback in a complete trajectory, not as isolated expression components. |
 | A fresh artifact-coupling task would be diagnostic because its source corpus was large. | E41 treated corpus size only as supply. E44 then established realized demand: after eight ordinary calls, an exact pending observation created a 967-token delivery deficit while the candidate was still unchanged. | Use the exact E44 state as the common pre-treatment fork; do not inject investigator-selected evidence or infer activation from world size. |
 | Artifact coupling could be tested as a patch-like component. | E45 instead keeps the complete evidence-to-work-to-effect-to-feedback-to-closure loop live. The treatment changes whether accepted semantic integration is detached context or exact task-world capital, which can endogenously change residency, later maintenance, artifact revisions, checking, cost, and closure. | Interpret D0 and A1 as whole configurations first. Component attribution or ablation is premature until a joint trajectory effect exists. |
+| Making semantic integration exact task work would necessarily improve completion. | E46 showed large trajectory leverage: A1 reached construction/checking earlier and cited more sources. Both arms still ended strong-partial/not-ready, and A1 carried a stale roadmap into its final artifact. | Artifact coupling can capitalize progress and error. Retain it as a local mixed whole-system result; require fresh-world candidate-bound quality or closure value before promotion. |
 
 ## Provisional ownership split for the mechanical comparator
 
@@ -334,15 +341,24 @@ checkpoint now asks how semantic integration, exact incremental artifact state,
 and version-bound verification interact while evidence ingress, relief,
 reopen, action admission, repair, and closure remain live.
 
-That offline Stage 0, live expression qualification, and authentic pressure
-screen are now complete as E41–E44. E45 freezes the next whole-system question
-from the byte-exact E44 boundary. It does not ask whether a note, patch action,
-or checker works in isolation. It asks whether the same bounded semantic
-integration has different trajectory value when it becomes exact,
-incrementally revisable task-world state with effects and feedback rather than
-remaining a detached sidecar.
+That offline Stage 0, live expression qualification, authentic pressure screen,
+and measured interaction are now complete as E41–E46. E46 confirms that the
+semantic/task-artifact coupling changes the entire trajectory rather than
+acting like an isolated patch feature: it altered early evidence demand,
+candidate lineage, maintenance and reentry counts, construction timing, source
+breadth, feedback, and cost.
 
-The next eligible live operation is the D0-then-A1 measured continuation at
-`4937083f29df3247a84b3b399c0a7ae922ddb020`, subject to a new exact owner GPU
-authorization. No D1/D3/D4 repair, D6 wording variant, I1–I4 extension, E44
-screen rerun, or measured call is authorized automatically.
+The system result is mixed. A1 crossed the missing semantic-to-task-work
+boundary and reached full construction/checking much earlier, but both arms
+exhausted the same actor-call budget with strong-partial, not-ready artifacts.
+A1's exact durable work also retained a stale experimental route. The program
+therefore has positive local evidence for durable task-work flow and negative
+evidence against assuming that persistence confers semantic correctness or
+useful completion.
+
+The exact E46 fork is closed. The next eligible operation is offline design of
+a fresh-world transfer that preserves the complete interaction and reserves a
+realistic post-construction path through effect uptake, independent check,
+repair, recheck, and closure. No D1/D3/D4 repair, D6 wording variant, I1–I4
+extension, E44 screen rerun, E46 longer horizon, maintenance-prompt tuning, or
+GPU call is authorized automatically.

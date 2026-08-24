@@ -206,12 +206,13 @@ reopens, or fast submission.
 ## Program scale and experimental discipline
 
 The original parent bank contained 42 exactly replayed model requests. Through
-E45, 37 successor stages represent another 412 runner-qualified model/provider
-calls and 5,046,347 serialized tokens. This includes apparatus qualifications,
+E46, 38 successor stages represent another 471 runner-qualified model/provider
+calls and 5,922,096 serialized tokens. This includes apparatus qualifications,
 the 71-call whole-method scout, the 54-call pressure-qualified study, the
 39-call breadth tranche, the 12-call closed interaction qualification, the
-two-call ingress-action qualification, E40's 138 provider calls, and E44's
-eight-call authentic pressure screen. Zero-call
+two-call ingress-action qualification, E40's 138 provider calls, E44's
+eight-call authentic pressure screen, and E46's 59-call measured interaction.
+Zero-call
 eligibility, capacity, reconciliation, and cross-study audits remain in the
 stage ledger but add no calls or tokens. The whole-method scout's
 replay-ineligible cell remains included as actual execution cost but not as
@@ -1213,3 +1214,55 @@ calls per system, 64 provider calls total, one attempt per call, and zero
 retries. Twenty-seven tests and the final preflight pass. The GPU-unauthorized
 freeze is
 `ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@4937083f29df3247a84b3b399c0a7ae922ddb020`.
+
+## 38. Artifact coupling accelerates construction without earning completion
+
+The owner authorized the exact D0-then-A1 continuation. Both configurations
+ran to the frozen twenty-actor-call ceiling with one attempt per provider call,
+zero retries, and clean runtime release. The aggregate comprised 40 actor calls,
+19 maintenance calls, 59 provider calls, and 875,749 serialized tokens. The
+append-only result is
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@c11d55a7f143747156831de0b189523ee1bcd776`.
+
+The causal treatment was strongly active. D0's first maintenance results
+remained detached and left the boundary candidate unchanged. A1's same
+maintenance products became the exact evidence-ledger artifact, changed the
+candidate before actor call 1, and altered the first evidence request. A1
+produced a complete decision at call 5 and checked it at call 6; D0 first
+checked at call 14. A1's final decision cited thirteen distinct sources versus
+D0's ten.
+
+The earlier construction did not yield useful completion. Both trajectories
+exhausted their actor-call budgets and neither submitted. D0 finished at 1,511
+decision words and A1 at 1,561, so each passed fourteen of fifteen mechanical
+criteria but missed the exact 1,600-word floor. D0 delivered all twelve
+candidate effects but spent its last two decisions on rejected no-effect
+repetitions. A1 produced sixteen effects, delivered fifteen, and ended before
+the last effect could enter another decision.
+
+Condition-masked candidate-bound semantic review classified both packages as
+strong partial and not ready. D0 met three of twelve semantic requirements,
+partially met eight, and did not meet one. A1 met four, partially met seven, and
+did not meet one. A1 was broader on source use, cost, and readiness governance,
+but its final roadmap incorrectly proposed the already-completed E39/E40
+interaction as future work. D0 selected the current post-E40 route but left
+more systems distinctions at assertion level. Neither artifact dominates.
+
+Coupling also changed the cost and lifecycle vector. A1 used 13,137 fewer
+serialized tokens and had higher aggregate prompt-cache reuse, while consuming
+one more provider call, one more reactive reentry, and 37.1 more wall seconds.
+Three maintenance outputs were rejected across both arms; prior accepted state
+was retained exactly. No exact reopen occurred.
+
+This is the first local evidence that bounded semantic integration can become
+durable exact task work with candidate effects, feedback, and independent
+evaluation. It is equally evidence that exact persistence can capitalize stale
+semantic commitments. Artifact coupling therefore earns transfer-level
+interaction study, not default architecture status.
+
+The same boundary is closed. A longer E46 continuation, another same-prefix
+seed, or maintenance wording/budget repair would tune the observed system
+rather than test transfer. The next eligible gate is offline design of a fresh
+task/world that preserves viable detached and coupled configurations and
+prospectively leaves enough decisions after first construction for effect
+uptake, checking, repair, recheck, and closure. No GPU call is authorized.

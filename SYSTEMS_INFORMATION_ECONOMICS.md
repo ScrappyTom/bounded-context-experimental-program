@@ -682,8 +682,64 @@ could justify component ablation.
 The provider-free fixture proves that both feedback systems can traverse
 positive relief, maintenance, candidate/effect uptake, incremental revision,
 stale and current checks, repair, and submission. It supplies no behavioral or
-economic utility evidence. E45 remains GPU-unauthorized until the owner grants
-the exact frozen call budget.
+economic utility evidence. E45 remained apparatus-only until the owner granted
+the exact frozen call budget; E46 records the measured result.
+
+## Artifact-coupling measured result: capitalization without completion
+
+E46 makes the asset-class distinction behaviorally real. In the coupled arm,
+semantic maintenance changed the exact candidate before the next ordinary
+decision and then participated in later reads, revisions, checks, and repair.
+The coupled system reached a full decision and first check eight actor calls
+earlier than the detached system and ended with broader source citation.
+
+This is positive evidence for conversion flow:
+
+```text
+model-authored integration
+    -> exact task artifact
+    -> candidate effect
+    -> later actor uptake
+    -> independently evaluable work
+```
+
+It is not positive evidence for final utility. Both arms exhausted twenty actor
+calls, neither submitted, and both candidates were strong partial/not ready.
+The coupled artifact also retained an obsolete experimental roadmap. Exact
+task-world capitalization preserved an interpretation that should have been
+revised.
+
+The information-economic lesson is two-sided:
+
+```text
+artifact coupling
+    can amortize useful semantic work
+    and can capitalize stale semantic work
+
+exact versioning
+    makes both durable and inspectable
+    but does not decide which is correct
+```
+
+The cost vector was also non-monotonic. Coupling added maintenance/effect and
+reentry work, reduced actor prompt cost and total serialized tokens, increased
+cache reuse slightly, and increased wall time. It changed evidence demand and
+the number of maintenance opportunities. There is no context-independent
+“artifact tokens versus sidecar tokens” exchange rate.
+
+The terminal resource migrated from prompt capacity and absence of cumulative
+work to actor decision bandwidth after construction. A1's last effect could not
+cross another decision; D0's last two decisions were no-effect repetitions.
+Future geometry must explicitly budget effect uptake, current verification,
+repair, recheck, and closure after first construction rather than count the
+first artifact as the end of the path.
+
+Artifact coupling therefore earns fresh-world interaction transfer, not
+default infrastructure. Transfer must score stale requirement bindings and
+unsupported semantic commitments as first-class defects. If the same pattern
+recurs—faster construction without better candidate-bound quality or
+closure—the economic option should be closed rather than rescued through
+carrier tuning.
 
 ## Low-pressure reconnaissance correction
 

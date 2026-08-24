@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: authentic pressure qualified; matched D0/A1 continuation frozen and offline-qualified; GPU execution unauthorized
+Status: measured local mixed result complete; same-boundary route closed; fresh-world transfer Stage 0 pending
 
 Implementation binding:
 [qwen38-artifact-coupled-integration-scout-v0@7d71c7d](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7d71c7d666403da7f0be9494a77a771435144f69)
@@ -19,6 +19,9 @@ Pressure-screen result:
 Measured freeze:
 [qwen38-artifact-coupled-integration-scout-v0@4937083](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/4937083f29df3247a84b3b399c0a7ae922ddb020)
 
+Measured result:
+[qwen38-artifact-coupled-integration-scout-v0@c11d55a](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/c11d55a7f143747156831de0b189523ee1bcd776)
+
 Exact handoff: `E41_ARTIFACT_COUPLING_STAGE0_HANDOFF.md`
 
 Pressure handoff: `E43_ARTIFACT_COUPLING_PRESSURE_SCREEN_HANDOFF.md`
@@ -26,6 +29,8 @@ Pressure handoff: `E43_ARTIFACT_COUPLING_PRESSURE_SCREEN_HANDOFF.md`
 Pressure result: `E44_ARTIFACT_COUPLING_PRESSURE_SCREEN_RESULT.md`
 
 Measured freeze: `E45_ARTIFACT_COUPLING_MEASURED_FREEZE.md`
+
+Measured result: `E46_ARTIFACT_COUPLING_INTERACTION_RESULT.md`
 
 ## Why this is the next system question
 
@@ -127,6 +132,34 @@ actor decision. Twenty-seven tests and the final offline preflight pass.
 A third joint state should be admitted only if offline geometry identifies a
 distinct unresolved interaction that D0/A1 cannot distinguish. It must not be
 added after measured behavior merely to rescue a result.
+
+## Measured disposition
+
+The exact D0/A1 continuation completed 40 actor and 19 maintenance calls with
+one attempt per call, zero retries, and 875,749 serialized tokens. Coupling was
+strongly active: A1 changed the exact candidate before actor call 1, reached a
+full decision and check eight calls earlier than D0, and ended with thirteen
+distinct decision citations rather than ten.
+
+Both systems nevertheless exhausted twenty actor calls without submission.
+Each final candidate passed fourteen of fifteen mechanical gates but missed the
+1,600-word floor. Candidate-bound semantic adjudication classified both as
+strong partial and not ready. The coupled candidate was broader on cost and
+readiness governance but carried the already-completed E39/E40 design forward
+as its roadmap; the detached candidate had the current route but shallower
+coverage elsewhere.
+
+The interaction therefore has local behavioral leverage but no demonstrated
+useful-completion or semantic-quality advantage. A1 also changed maintenance,
+reentry, cache, effect, and wall-time economics, confirming that the causal
+unit is the complete feedback system rather than an isolated ledger feature.
+
+The exact E46 fork is closed to longer continuation, prompt repair, semantic
+budget tuning, and same-prefix replication. The only selected successor is an
+offline fresh-world transfer design that preserves viable complete systems and
+budgets a real post-construction path through effect uptake, independent check,
+repair, recheck, and closure. A recurrence that again accelerates construction
+without improving candidate-bound quality should deprioritize the route.
 
 ## Exact incremental work requirements
 
@@ -309,6 +342,7 @@ A valid negative must not be dropped. A second seed or transfer task follows
 only if the interaction remains interpretable; it is not skipped merely because
 the first outcome is harmful.
 
-No GPU work is authorized by this document. No architecture component is
-promoted unless the complete artifact/feedback trajectory first shows useful
-value and then transfers.
+No GPU work is authorized by this document. The measured boundary is complete,
+and no architecture component is promoted. A future transfer requires a new
+task/world, offline Stage 0, frozen evaluator and horizon, and separate owner
+authorization.

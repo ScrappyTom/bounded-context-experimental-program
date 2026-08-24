@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: first pressure-active interaction measured; artifact-coupling systems Stage 0 selected
+Status: artifact-coupling interaction measured; fresh-world whole-system transfer Stage 0 selected
 
 ## Research-phase reset
 
@@ -446,9 +446,34 @@ the historical freeze handoff, and E40 the measured interaction result. The
 full obligations are in
 `NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`.
 
-No GPU call is authorized. The finite contrast and frozen offline commit now
-exist; expression qualification is now complete, while owner authorization is
-required separately for pressure screening and any measured fork.
+The pressure screen and measured fork subsequently completed as E44–E46. No
+GPU call is authorized by this roadmap.
+
+### E46 result and fresh-world transfer gate
+
+The detached/coupled systems ran from the same authentic 967-token delivery
+deficit. Artifact coupling altered candidate state before continuation, changed
+evidence demand, reached a full decision/check eight calls earlier, and ended
+with broader source citation. That is the first measured evidence in this line
+that model-authored integration can cross into durable exact task work and
+participate in effects, feedback, and independent evaluation.
+
+It did not establish useful completion. Both systems exhausted twenty actor
+calls without submission and ended with strong-partial, not-ready artifacts.
+The coupled package also retained an obsolete experimental roadmap. Coupling
+therefore demonstrated capitalization of both useful work and semantic error.
+
+The next selected work is not a larger E46 budget, a maintenance-prompt repair,
+or component ablation. It is an offline fresh-world transfer design for the
+complete interaction. The design must keep a viable comparator and all common
+functions live, while prospectively leaving enough actor decisions after first
+construction for effect uptake, current check, repair, recheck, and closure.
+Stale semantic commitments and unsupported requirement bindings must be scored
+as artifact defects.
+
+Transfer is a falsification gate. If coupling again accelerates construction
+without improving candidate-bound quality or readiness, the route should be
+deprioritized. No task, runner, freeze, or provider call is yet authorized.
 
 ## What will not be optimized in this phase
 

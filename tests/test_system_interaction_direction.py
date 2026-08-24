@@ -56,9 +56,9 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         self.assertTrue(completed["measured_run"]["completed"])
         self.assertEqual("I1", completed["apparatus_qualification"]["affected_configuration"])
 
-        successor = self.contract["next_system_interaction"]
+        successor = self.contract["completed_artifact_coupling_interaction"]
         self.assertEqual(
-            "authentic_pressure_qualified_measured_D0_A1_fork_frozen_gpu_not_authorized",
+            "measured_local_mixed_no_useful_completion_advantage",
             successor["status"],
         )
         self.assertTrue(successor["implementation"]["live_expression_qualified"])
@@ -78,11 +78,19 @@ class SystemInteractionDirectionTests(unittest.TestCase):
             "4937083f29df3247a84b3b399c0a7ae922ddb020",
             successor["implementation"]["measured_freeze_commit"],
         )
+        self.assertEqual(
+            "c11d55a7f143747156831de0b189523ee1bcd776",
+            successor["implementation"]["measured_result_commit"],
+        )
         self.assertEqual(967, successor["implementation"]["pressure_screen_deficit_tokens"])
         self.assertEqual(40, successor["implementation"]["measured_maximum_actor_calls"])
         self.assertEqual(24, successor["implementation"]["measured_maximum_maintenance_calls"])
         self.assertEqual(64, successor["implementation"]["measured_maximum_provider_calls"])
-        self.assertFalse(successor["implementation"]["gpu_authorized"])
+        self.assertTrue(successor["implementation"]["gpu_authorized"])
+        self.assertTrue(successor["implementation"]["measured_completed"])
+        self.assertEqual(59, successor["implementation"]["actual_provider_calls"])
+        self.assertEqual(0, successor["result"]["useful_completion_count"])
+        self.assertEqual("none", successor["result"]["semantic_dominance"])
         self.assertIn("exact incremental task-artifact", successor["question"])
         self.assertIn(
             "effects_checks_repair_readiness_and_closure_are_in_horizon",
@@ -95,6 +103,21 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         self.assertIn(
             "fresh_task_and_candidate_lineage_with_E40_as_design_donor_only",
             successor["completed_offline_gates"],
+        )
+        transfer = self.contract["next_system_interaction"]
+        self.assertEqual(
+            "fresh_world_artifact_coupling_transfer_stage0_selected_not_implemented",
+            transfer["status"],
+        )
+        self.assertEqual("not_started", transfer["implementation"])
+        self.assertFalse(transfer["gpu_authorized"])
+        self.assertIn(
+            "prospective_budget_after_first_construction_for_effect_uptake_check_repair_recheck_and_closure",
+            transfer["required_properties"],
+        )
+        self.assertIn(
+            "longer_E46_same_boundary_continuation",
+            transfer["forbidden_successors"],
         )
         self.assertEqual("authentic_prompt_pressure", self.contract["required_activation"])
 

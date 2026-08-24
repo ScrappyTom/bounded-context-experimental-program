@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-24",
-  "status": "artifact_coupling_authentic_pressure_qualified_measured_fork_frozen_gpu_unauthorized",
+  "status": "artifact_coupling_measured_local_mixed_fresh_world_transfer_stage0_selected",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "authentic_prompt_pressure",
@@ -83,8 +83,8 @@
       "feasible_acquisition_through_closure_horizon"
     ]
   },
-  "next_system_interaction": {
-    "status": "authentic_pressure_qualified_measured_D0_A1_fork_frozen_gpu_not_authorized",
+  "completed_artifact_coupling_interaction": {
+    "status": "measured_local_mixed_no_useful_completion_advantage",
     "question": "semantic persistence x exact incremental task-artifact externalization x version-bound verification and repair under live ingress and common host-owned capacity safety",
     "unit_of_analysis": "complete evidence_to_work_to_effect_to_feedback_to_closure trajectory",
     "leading_systems": [
@@ -104,6 +104,7 @@
       "pressure_screen_freeze_commit": "7423d214d5d2a5b77514b0acff43d547743b422e",
       "pressure_screen_result_commit": "84037853555362380125a244619894535768056f",
       "measured_freeze_commit": "4937083f29df3247a84b3b399c0a7ae922ddb020",
+      "measured_result_commit": "c11d55a7f143747156831de0b189523ee1bcd776",
       "expression_model_calls": 4,
       "expression_serialized_tokens": 11647,
       "live_expression_qualified": true,
@@ -122,7 +123,18 @@
       "measured_maximum_provider_calls": 64,
       "measured_attempts_per_call": 1,
       "measured_retries": 0,
-      "gpu_authorized": false
+      "gpu_authorized": true,
+      "measured_completed": true,
+      "actual_actor_calls": 40,
+      "actual_maintenance_calls": 19,
+      "actual_provider_calls": 59,
+      "actual_serialized_tokens": 875749,
+      "D0_first_check_actor_call": 14,
+      "A1_first_check_actor_call": 6,
+      "D0_final_decision_words": 1511,
+      "A1_final_decision_words": 1561,
+      "D0_final_readiness": "not_ready",
+      "A1_final_readiness": "not_ready"
     },
     "non_isolation": [
       "evidence_ingress_remains_live",
@@ -139,12 +151,42 @@
       "work_and_candidate_version_bound_feedback",
       "provider_free_full_loop_qualification"
     ],
-    "pending_live_gates": [
+    "completed_live_gates": [
       "explicit_owner_authorization_for_frozen_D0_then_A1_provider_budget",
       "measured_whole_configuration_continuation",
-      "condition_blinded_candidate_quality_and_readiness_adjudication"
+      "condition_masked_candidate_bound_quality_and_readiness_adjudication"
     ],
-    "governing_document": "NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md"
+    "result": {
+      "D0_quality": "strong_partial",
+      "A1_quality": "strong_partial",
+      "useful_completion_count": 0,
+      "semantic_dominance": "none",
+      "local_interaction_disposition": "behaviorally_active_mixed_no_promotion"
+    },
+    "governing_document": "E46_ARTIFACT_COUPLING_INTERACTION_RESULT.md"
+  },
+  "next_system_interaction": {
+    "status": "fresh_world_artifact_coupling_transfer_stage0_selected_not_implemented",
+    "question": "Does the complete artifact-coupled interaction improve candidate-bound quality, repair, or correct closure in a fresh task/world when the horizon includes a viable post-construction path?",
+    "unit_of_analysis": "complete_fresh_world_configuration_trajectory",
+    "required_properties": [
+      "viable_detached_or_other_system_comparator",
+      "same_exact_custody_positive_relief_ingress_effects_checks_repair_and_readiness",
+      "prospective_budget_after_first_construction_for_effect_uptake_check_repair_recheck_and_closure",
+      "stale_semantic_commitments_scored_as_artifact_defects",
+      "no_investigator_selected_evidence_or_semantic_repair",
+      "independent_candidate_bound_quality_and_readiness"
+    ],
+    "forbidden_successors": [
+      "longer_E46_same_boundary_continuation",
+      "same_prefix_seed_replication",
+      "maintenance_prompt_or_budget_tuning",
+      "artifact_coupling_component_ablation_before_transfer_signal"
+    ],
+    "stopping_rule": "If fresh-world coupling again accelerates construction without improving candidate-bound quality or correct closure, deprioritize the route rather than tune the carrier.",
+    "implementation": "not_started",
+    "gpu_authorized": false,
+    "governing_document": "STRUCTURED_EXPLORATION_ROADMAP.md"
   },
   "common_live_functions": [
     "exact_external_custody",

@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: governing direction; artifact-coupling pressure qualified; matched whole-system continuation frozen and GPU-unauthorized
+Status: governing direction; artifact-coupling interaction measured; fresh-world transfer Stage 0 selected
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -163,7 +163,7 @@ is apparatus-affected descriptive evidence, I2–I4 are mechanically qualified
 local negatives, and the complete factorial is censored. The exact result and
 claim limits are in `E40_INGRESS_WORK_INTERACTION_RESULT.md`.
 
-### Active artifact-coupling interaction
+### Completed artifact-coupling interaction and transfer gate
 
 The next selected question is:
 
@@ -197,24 +197,31 @@ after eight actor calls and 92,296 serialized tokens, pending exact
 had run. This is realized endogenous pressure rather than an inference from
 the 55,169-token accessible corpus.
 
-The matched continuation is frozen at
-`4937083f29df3247a84b3b399c0a7ae922ddb020`. Both arms begin from that exact
-task, candidate, history, result ledger, and pending observation. Both keep
-actor-selected ingress, strictly positive first-fit relief, semantic
-maintenance, exact reopen, incremental task-artifact actions, effects,
-version-bound checks, repair, reactive reentry, readiness, and closure live.
-`D0_DETACHED` retains accepted integration as a non-authoritative sidecar;
-`A1_COUPLED` writes it into the exact task-required evidence ledger so that it
-changes candidate identity and participates in downstream feedback. The
-provider-free full loops, measured preflight, and 27 tests pass.
+The matched continuation was frozen at
+`4937083f29df3247a84b3b399c0a7ae922ddb020` and completed at
+`c11d55a7f143747156831de0b189523ee1bcd776`. Artifact coupling changed the
+candidate before continuation, redirected evidence demand, and reached a full
+decision/check eight actor calls earlier. A1 ended with broader citation and
+lower serialized-token cost.
 
-This is a trajectory-level systems comparison. Artifact coupling is not being
-isolated from the operations whose value it may change. Any measured
-difference initially belongs to D0 or A1 as a complete configuration. The
-current contract is `NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`; the screen
-result is `E44_ARTIFACT_COUPLING_PRESSURE_SCREEN_RESULT.md`, and the measured
-freeze is `E45_ARTIFACT_COUPLING_MEASURED_FREEZE.md`. No measured GPU run is
-authorized.
+Both arms nevertheless exhausted twenty actor calls, neither submitted, and
+both final candidates were strong partial/not ready. The coupled artifact also
+retained an obsolete experimental roadmap. The measured result therefore
+combines productive conversion flow with anchoring/interference and failure
+migration to post-construction decision bandwidth. It is trajectory-level
+mixed evidence, not an artifact-component win.
+
+The exact result and claim limits are in
+`E46_ARTIFACT_COUPLING_INTERACTION_RESULT.md`. The current contract remains
+`NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`, now closed for this boundary.
+
+The next selected question is transfer: does the complete coupled interaction
+improve candidate-bound quality, repair, or correct closure in a fresh
+task/world when a viable comparator and a realistic post-construction horizon
+are preserved? Offline Stage 0 must score stale semantic commitments as
+artifact defects and forbid investigator-selected evidence. If acceleration
+again fails to improve quality or readiness, the route should be deprioritized.
+No transfer task or GPU run is authorized.
 
 ### Closed historical question
 
