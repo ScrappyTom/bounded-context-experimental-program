@@ -50,6 +50,23 @@ not modules to test one by one. Confirmation and component ablation follow only
 after a whole configuration shows a meaningful joint effect and that pattern
 transfers to an independent world.
 
+Post-checkpoint correction: the first proposed interaction—source-bound
+semantic residue × incremental exact work—failed its prospective apparatus
+gate before any actor trajectory ran. Across v0, v1, and the declared-final v2
+gate, acceptance improved from 1/4 to 2/4 to 3/4. Provenance and
+intermediate-artifact separation were repaired, and both final work cases
+passed, but the first scaffolded residue still exceeded its fixed 256-token
+budget at 310 tokens. The frozen stop rule closes that dedicated residue route
+and the A/B/C/D design; no v3 is owed or allowed.
+
+This does not reopen isolated component scouting. E36 already exposed a whole
+pipeline in which one-read-per-call evidence ingress consumed the action
+horizon while no cumulative work formed. The next candidate interaction is
+therefore evidence-ingress bandwidth × cumulative task-native work
+externalization, with exact custody, first-fit relief, reopen, effects, checks,
+and readiness evaluation common. It is a new system design, not an A/C salvage
+cell from the failed matrix.
+
 ## Loose-ends audit
 
 The audit found no unresolved custody, publication, replay, or adjudication
@@ -222,13 +239,14 @@ the low-pressure reference map:
 5. fresh exact state can preserve an incorrect control disposition.
 
 The next checkpoint must compare viable whole configurations under authentic
-pressure. The first candidate interaction crosses source-bound semantic
-residue with incremental exact work while common exact custody, first-fit
-relief, reopen, action/effect handling, feedback, bounded resumption, and
-readiness evaluation remain live around them. The study follows induced demand
-and artifact state through the feedback horizon rather than splitting
-expression, relation binding, repair, and resumption into separate research
-queues.
+pressure. The source-residue × incremental-work candidate was prospectively
+closed at its final expression gate, so it is not the active checkpoint and no
+reduced A/C comparison is permitted. The next candidate crosses evidence-ingress
+bandwidth with bounded cumulative task-native work while common exact custody,
+first-fit relief, reopen, action/effect handling, current verification, and
+readiness evaluation remain live around them. The study must follow induced
+demand and artifact state through the feedback horizon rather than treating
+batch reads or intermediate work as isolated component qualifications.
 
 Action-transport qualification is a blocking apparatus gate, not a successor
 component experiment. The enriched fixtures remain useful for triangulation,

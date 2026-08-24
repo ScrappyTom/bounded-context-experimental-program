@@ -81,11 +81,21 @@ artifacts, took up their mutation effects, ran current visible checks, and
 closed prematurely. A fresh exact-state handoff repeated one donor's false
 closure.
 
-E37 is a low-pressure reference, not an interaction result. The next checkpoint
-must place residency, semantic persistence, exact work-product persistence,
-resumption, feedback, and closure in the same measured loop. Action-interface
-qualification is an apparatus gate; component ablation waits until a joint
-configuration demonstrates trajectory-level value.
+E37 is a low-pressure reference, not an interaction result. E38 then attempted
+to qualify the first interaction-first apparatus before measurement. Across
+three final-bounded four-call gates, acceptance improved from 1/4 to 2/4 to
+3/4. Provenance and cumulative-work expression qualified, but the final first
+source residue exceeded its 256-token budget at 310 tokens. The prospective
+stopping rule closes that route and the A/B/C/D design without any utility
+claim.
+
+The next checkpoint must place evidence-ingress bandwidth and cumulative
+task-native work externalization in the same measured loop under common exact
+custody and pressure relief. This is not an isolated work-component test:
+ingress changes result size, pressure, and call budget, while work changes
+residency, later demand, construction, and anchoring risk. Stage 0 must first
+qualify bounded multi-range acquisition and the work-production decision/call
+economics. No successor GPU run is authorized.
 
 ## Current position
 

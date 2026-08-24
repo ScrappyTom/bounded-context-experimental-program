@@ -206,3 +206,13 @@ run. The next checkpoint should select the smallest viable configuration set at
 an authentic pressure state that can expose the declared
 persistence×work-product interaction, then reserve independent-world transfer
 for a demonstrated signal. Its Stage 0 package must return for owner review.
+
+## Post-tranche route update
+
+The source-residue × work-product portfolio named above was later closed at its
+prospective final expression gate before any ordinary actor trajectory ran.
+This historical tranche result is not rewritten as though that later evidence
+already existed. The active program direction and stopping rule are now in
+`E38_INTERACTION_APPARATUS_DISPOSITION.md`: no v3 and no partial-cell salvage;
+the next candidate interaction is evidence-ingress bandwidth × cumulative
+task-native work externalization, pending a new offline Stage 0 design.

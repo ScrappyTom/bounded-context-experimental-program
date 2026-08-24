@@ -41,8 +41,8 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-All 25 cited experiment commit bindings were also resolved through the named
-local Git repositories in
+The prior 25 experiment commit bindings were resolved through the named local
+Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
 [NEXT_EXPERIMENT_S3_LOSSY_DIGEST_UTILITY.md](NEXT_EXPERIMENT_S3_LOSSY_DIGEST_UTILITY.md).
@@ -77,13 +77,20 @@ program intended to reach. Task diversity exposed several boundaries, but it
 did not show how context residency, semantic persistence, work-product
 persistence, feedback, and control change one another over time.
 
-The next checkpoint is interaction-first. It must compare viable whole
-configurations under authentic pressure and follow their induced information
-demand through cumulative work, resumption, feedback, repair, and closure. The
-first candidate scout crosses source-bound semantic residue with incremental
-exact work while holding the mechanical pressure substrate common. Apparatus
-qualification remains a precondition, not a separate research route, and
-component ablation waits until a joint configuration demonstrates signal.
+The first interaction-first candidate did not reach measured trajectories. Its
+three prospectively frozen expression gates improved from 1/4 to 2/4 to 3/4
+accepted cases, but the final scaffolded source-residue bootstrap still used
+310 tokens against the unchanged 256-token limit. Under its frozen stopping
+rule, the dedicated per-demotion source-residue route and the A/B/C/D scout are
+closed. This is an apparatus nonqualification, not a utility result.
+
+Both final task-native cumulative-work cases did qualify expression. Combined
+with E36's one-read-per-call streaming geometry, the next candidate interaction
+is now evidence-ingress bandwidth × cumulative task-native work
+externalization under common exact custody and pressure relief. The disposition
+and new obligations are in
+[E38_INTERACTION_APPARATUS_DISPOSITION.md](E38_INTERACTION_APPARATUS_DISPOSITION.md).
+No successor runner or GPU work is authorized.
 
 The validity envelope remains strict: exact custody, complete model-visible
 history, one attempt with no hidden retry, hard limits, exact candidate/effect

@@ -25,15 +25,26 @@ class SystemInteractionDirectionTests(unittest.TestCase):
             self.contract["non_isolation_rules"],
         )
 
-    def test_first_scout_crosses_two_persistence_functions(self):
-        interaction = self.contract["first_interaction"]
-        self.assertEqual(4, len(interaction["configurations"]))
-        self.assertIn("semantic_residue", interaction["axis_a"])
-        self.assertIn("incremental_exact", interaction["axis_b"])
+    def test_closed_first_scout_and_successor_are_explicit(self):
+        closed = self.contract["closed_first_interaction"]
+        self.assertEqual(4, len(closed["configurations"]))
+        self.assertIn("semantic_residue", closed["axis_a"])
+        self.assertIn("incremental_exact", closed["axis_b"])
         self.assertEqual(
             "mechanically_triggered_one_attempt_zero_retry",
-            interaction["maintenance_mode"],
+            closed["maintenance_mode"],
         )
+        self.assertEqual(
+            "not_qualified_after_declared_final_v2_gate",
+            closed["final_disposition"],
+        )
+        self.assertTrue(closed["same_route_successor_forbidden"])
+
+        successor = self.contract["next_candidate_interaction"]
+        self.assertEqual(4, len(successor["configurations"]))
+        self.assertIn("multi_range", successor["axis_a"])
+        self.assertIn("cumulative", successor["axis_b"])
+        self.assertEqual("design_direction_not_frozen", successor["status"])
         self.assertEqual("authentic_prompt_pressure", self.contract["required_activation"])
 
     def test_feedback_loop_remains_live(self):

@@ -297,8 +297,35 @@ work never co-activated in a matched trajectory.
 
 E37 closes the first breadth tranche as a low-pressure reference. It does not
 split observation surface, relation binding, feedback, readiness, and
-resumption into separate successor experiments. The next eligible checkpoint
-must compare viable whole configurations and follow the declared
-persistence×work-product interaction through induced demand, effects, feedback,
-artifact quality, and closure. No automatic repaired cell, second seed, or GPU
-successor is selected.
+resumption into separate successor experiments. No automatic repaired cell,
+second seed, or GPU successor is selected.
+
+## E38 — first interaction apparatus disposition
+
+Source:
+`ScrappyTom/qwen38-system-interaction-persistence-scout-v0@362868ae25a7301a9fe34a90e59768318537c852`
+
+The planned source-residue × cumulative-work interaction never reached an
+ordinary actor trajectory. Three prospectively frozen four-call apparatus gates
+used one attempt and zero retries, consuming 84,612 serialized tokens in total.
+Acceptance progressed from 1/4 to 2/4 to 3/4 as plain-text boundedness,
+source-provenance admission, intermediate-artifact separation, and empty-state
+bootstrapping were repaired.
+
+In final v2, all four outputs stopped naturally and remained within their exact
+source allowlists. Both task-native evidence-integration cases passed at 655
+and 734 tokens; the existing-residue update passed at 190. The first scaffolded
+residue produced 310 tokens against the unchanged 256-token limit and failed.
+
+Disposition: **NQ**. The prospective stopping rule closes the dedicated
+per-demotion source-residue route and makes the A/B/C/D measured design
+ineligible. There is no v3 and no post-hoc A/C salvage comparison. This is not
+a semantic-persistence utility result. It supplies a narrower apparatus fact:
+bounded task-native cumulative-work expression qualified in two final shapes,
+while the tiny per-source residue bootstrap did not.
+
+The next candidate whole-system interaction is evidence-ingress bandwidth ×
+cumulative task-native work externalization. It is motivated jointly by E36's
+one-read-per-call streaming/call-budget failure and E38's qualified work
+expression. No runner or GPU successor is authorized. See
+`E38_INTERACTION_APPARATUS_DISPOSITION.md`.

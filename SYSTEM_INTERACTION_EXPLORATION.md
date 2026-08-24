@@ -2,7 +2,7 @@
 
 Date: 2026-08-23
 
-Status: governing direction for the next checkpoint; documentation and offline design only
+Status: governing direction; first candidate apparatus closed; successor interaction not yet frozen
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -85,6 +85,37 @@ The program may still report where a trajectory literally failed. It must not
 turn those labels into a queue of isolated component experiments.
 
 ## First interaction question
+
+### Final apparatus disposition
+
+The source-bound semantic-residue × incremental-work candidate below is now a
+closed historical design. Its standalone repository ran three four-call
+expression gates with one attempt and zero retries. The declared-final v2 gate
+accepted three cases, including both task-native work shapes, but rejected the
+first semantic residue at 310 tokens against its unchanged 256-token limit.
+No ordinary actor received these states, so the result is apparatus evidence,
+not persistence utility. The prospective stopping rule forbids another prompt,
+seed, cap, scaffold, or format repair.
+
+The next candidate interaction is:
+
+```text
+evidence-ingress bandwidth
+×
+cumulative task-native work externalization
+```
+
+This follows directly from the E36 system geometry: exact first-fit relief kept
+evidence entering, but one bounded read consumed each actor decision and no
+cumulative work formed. The final apparatus gate separately showed that a
+bounded evidence-integration record can be expressed in both bootstrap and
+joint-state shapes. Its downstream value remains untested.
+
+The successor must compare complete configurations, not run the three passing
+apparatus cases as post-hoc treatments. Details and limits are in
+`E38_INTERACTION_APPARATUS_DISPOSITION.md`.
+
+### Closed historical question
 
 The first checkpoint should study the interaction between two different ways
 of making cognition persistent while exact evidence streams through a bounded

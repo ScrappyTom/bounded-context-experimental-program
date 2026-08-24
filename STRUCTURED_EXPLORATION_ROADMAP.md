@@ -239,8 +239,7 @@ Do not assign one experiment to each capability label in the table above. Those
 labels code events inside a trajectory; they are not presumed modules and do
 not define the experimental unit.
 
-The next portfolio compares viable end-to-end configurations under the same
-authentic pressure state. The first declared interaction is:
+The first declared interaction portfolio was:
 
 ```text
 source-bound semantic persistence
@@ -248,7 +247,7 @@ source-bound semantic persistence
 incremental exact work-product persistence
 ```
 
-The four configurations are:
+Its four prospectively declared configurations were:
 
 | Configuration | After source-body demotion | Before final construction |
 |---|---|---|
@@ -257,27 +256,21 @@ The four configurations are:
 | C | Exact identity/reopen receipt | Incremental exact task-native work |
 | D | Bounded source-bound semantic residue plus reopen | Incremental exact task-native work |
 
-Every configuration also includes the same exact world access, pressure relief,
-actor actions, effects, candidate-bound feedback, bounded resumption event, and
-external readiness evaluation. Those functions remain inside the measured
-loop; they are not separately “solved” before the interaction is observed.
+Every configuration would also have included the same exact world access,
+pressure relief, actor actions, effects, candidate-bound feedback, bounded
+resumption event, and external readiness evaluation.
 
-The initial scout should use one pressure-qualified task/world so all four
-configurations share an exact pre-divergence state. This is local interaction
-discovery, not independent recurrence. If a practically important joint pattern
-appears, the next step is the same configuration contrast in an independent
-world—not prompt tuning on the first donor.
+That portfolio did not reach actor-utility measurement. Across three frozen
+four-call expression gates, acceptance improved from 1/4 to 2/4 to 3/4, but the
+final source-residue bootstrap remained over its fixed budget. The prospective
+stop rule closes the whole A/B/C/D portfolio. Its matrix remains here as design
+history, not as an active or partially salvageable experiment.
 
-Stage 0 must derive a finite actor and maintenance budget from the complete
-loop: remaining acquisition, persistence production, incremental construction,
-resumption, effect uptake, checking, repair, and closure. A horizon that only
-allows the next read is ineligible. Each valid, invalid, harmful, or null
-configuration consumes its declared cell and budget; no outcome-dependent
-replacement is allowed.
-
-Freeze the task, exact pressure prefix, configuration rules, run order, call
-and token budgets, action transport, evaluator, and readiness basis before
-inference. No automatic extension or second interaction bank follows.
+The active successor candidate is specified under “Immediate program work.” It
+must satisfy the same general discipline: viable whole configurations, a finite
+budget derived from the complete feedback loop, no outcome-dependent cell
+replacement, and a frozen task, pressure prefix, run order, evaluator, and
+readiness basis before inference.
 
 ## Later interaction directions
 
@@ -363,33 +356,63 @@ discovery and its claims must be scoped accordingly.
 
 ## Immediate program work
 
+### E38 apparatus disposition and successor interaction
+
+The first declared source-residue × incremental-work scout is closed before
+measurement. Three separately frozen four-call gates accepted 1/4, 2/4, and
+3/4 shapes. V2 qualified both evidence-integration work shapes, natural stop,
+source allowlists, and intermediate-artifact separation, but its first
+source-residue output used 310 tokens against a fixed 256-token budget. The
+prospective stopping rule forbids v3 and makes the A/B/C/D design ineligible.
+
+Do not run only A and C after seeing this gate outcome. That would change the
+declared interaction post hoc. Do not raise the residue cap or add another
+scaffold. The apparatus result adds no downstream utility evidence.
+
+The next candidate portfolio crosses:
+
+```text
+one-range versus bounded multi-range evidence ingress
+×
+whole-final-artifact-only versus bounded cumulative evidence-integration work
+```
+
+All four configurations must remain whole systems under common exact custody,
+first-fit relief, reopen, action/effect admission, current checks, and external
+readiness evaluation. Ingress changes result size, pressure, and decision
+bandwidth; work changes residency, later demand, and construction state. The
+primary question is their induced interaction, not two isolated main effects.
+
+Before implementation, Stage 0 must qualify a non-oracular bounded batch-read
+surface, specify how work production shares or consumes decision bandwidth,
+prove evidence provenance, and leave a feasible horizon for construction,
+effect uptake, checking, repair, and closure. No successor GPU run is
+authorized.
+
 E36 remains the pressure-qualified evidence-streaming case, reconstructed in
 `E36_DECISION_GEOMETRY_AUDIT.md`. E37 is the completed first breadth tranche,
 reported in `DISCOVERY_TRANCHE_RESULT.md` and bound to experiment result commit
 `ea8f4cfa5888998d6193f57316e9cd41cf1639b6`.
 
-The next work is a post-tranche system-interaction checkpoint, not an automatic
-repair bank and not three isolated component routes. It must select at least one
-authentic pressure state where evidence ingress, bounded residency, persistent
-semantic residue, incremental exact work, resumption, feedback, and closure can
-operate in one measured loop.
+The next work remains a post-tranche system-interaction checkpoint, not an
+automatic repair bank and not isolated component routes. It must select at
+least one authentic pressure state where evidence ingress, bounded residency,
+cumulative work, resumption, feedback, and closure operate in one measured
+loop. The source-residue portfolio is closed; its failed expression gate is not
+a reason to discard semantic continuity as a general concern, but it is a
+reason not to keep tuning that particular dedicated residue interface.
 
-The first candidate comparison crosses source-bound semantic residue with
-incremental exact task work across four viable configurations. Exact custody,
-first-fit pressure relief, reopen, a qualified action transport, effects,
-checks, and external readiness evaluation are common infrastructure. A
-task-declared non-oracular resumption event lets the study observe what each
-configuration actually carries forward.
-
-The primary question is interaction: do the two persistence channels
-substitute, complement, interfere, or move the failure elsewhere? Relation
-binding, induced acquisition, effect uptake, repair, and readiness are outcomes
-inside that loop. They are not separately optimized before the loop is tested.
+The active candidate comparison crosses bounded evidence-ingress bandwidth
+with cumulative task-native work externalization. Exact custody, first-fit
+pressure relief, reopen, qualified action transport, effects, current checks,
+and external readiness evaluation remain common infrastructure. The primary
+question is whether ingress and work persistence substitute, complement,
+interfere, or move the failure elsewhere across the same feedback horizon.
 
 The checkpoint should preserve an ordinary-success reference and later seek
 independent-world transfer, but its first scout may be local if the authentic
-pressure state is unique. It should not rerun D1/D3/D4 merely with repaired
-formatting or repeat D6 with different wording.
+pressure state is unique. It must not rerun the closed residue gate, salvage
+only its accepted cells, or repeat E37 merely with repaired formatting.
 
 Before a new measured wave, Stage 0 must:
 
@@ -400,8 +423,8 @@ Before a new measured wave, Stage 0 must:
   blocking requirements outside the actor's visible check;
 - demonstrate a feasible action/effect/check/repair/closure path with enough
   horizon to observe the target function;
-- state how source-bound residue and exact intermediate work coexist, replace
-  prior state, and enter the common resumption frame;
+- state how single-range and bounded multi-range ingress interact with exact
+  cumulative work, residency, and the common resumption frame;
 - prove that every measured configuration is viable after pressure rather than
   comparing relief with an inevitable hard stop; and
 - return a finite portfolio, call/token ceilings, and frozen commit for owner

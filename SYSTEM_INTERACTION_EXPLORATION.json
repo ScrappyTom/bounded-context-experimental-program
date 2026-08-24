@@ -1,11 +1,11 @@
 {
-  "schema_version": "system-interaction-exploration-contract-v0",
+  "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-23",
-  "status": "offline_direction_only",
+  "status": "first_candidate_apparatus_closed_successor_direction_only",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "authentic_prompt_pressure",
-  "first_interaction": {
+  "closed_first_interaction": {
     "axis_a": "source_bound_semantic_residue_after_exact_body_demotion",
     "axis_b": "incremental_exact_task_native_work_product",
     "configurations": [
@@ -16,7 +16,28 @@
     ],
     "semantic_residue_trigger": "exact_source_body_demotion_under_common_pressure_rule",
     "incremental_work_trigger": "prospectively_declared_delivered_evidence_event",
-    "maintenance_mode": "mechanically_triggered_one_attempt_zero_retry"
+    "maintenance_mode": "mechanically_triggered_one_attempt_zero_retry",
+    "final_disposition": "not_qualified_after_declared_final_v2_gate",
+    "final_result_commit": "362868ae25a7301a9fe34a90e59768318537c852",
+    "same_route_successor_forbidden": true
+  },
+  "next_candidate_interaction": {
+    "axis_a": "one_range_vs_bounded_multi_range_evidence_ingress_per_actor_decision",
+    "axis_b": "whole_final_artifact_only_vs_bounded_cumulative_task_native_work",
+    "configurations": [
+      "I1_one_range_and_whole_final_artifact",
+      "I2_bounded_multi_range_and_whole_final_artifact",
+      "I3_one_range_and_cumulative_work",
+      "I4_bounded_multi_range_and_cumulative_work"
+    ],
+    "status": "design_direction_not_frozen",
+    "required_stage0_gates": [
+      "bounded_non_oracular_multi_range_action",
+      "work_production_call_and_decision_economics",
+      "exact_work_evidence_provenance",
+      "intermediate_vs_final_artifact_separation",
+      "feasible_acquisition_through_closure_horizon"
+    ]
   },
   "common_live_functions": [
     "exact_external_custody",

@@ -951,9 +951,39 @@ research unit is a complete pressure-active configuration, not one experiment
 for observation transport, another for relation binding, and another for
 resumption.
 
-The candidate interaction scout crosses source-bound semantic residue with
-incremental exact work while common pressure relief, reopen, actions, effects,
-feedback, bounded resumption, and readiness remain inside the same trajectory.
-The detailed correction is `SYSTEM_INTERACTION_EXPLORATION.md`; the tranche
-disposition is `DISCOVERY_TRANCHE_RESULT.md`. No automatic successor is
-authorized.
+The candidate interaction scout initially crossed source-bound semantic residue
+with incremental exact work while common pressure relief, reopen, actions,
+effects, feedback, bounded resumption, and readiness remained inside the same
+trajectory. Its subsequent apparatus disposition is recorded below; the
+tranche disposition remains `DISCOVERY_TRANCHE_RESULT.md`.
+
+## 30. Interaction apparatus qualification: route closed before utility
+
+The first interaction-first design was gated through three separately frozen
+four-call maintenance-expression qualifications. Acceptance improved from 1/4
+in v0, to 2/4 in v1, to 3/4 in the declared-final v2. All twelve calls used one
+attempt and zero retries and consumed 84,612 serialized tokens.
+
+The repairs were informative but finite. Mechanical source allowlists removed
+provenance violations, an evidence-integration discriminator prevented the
+intermediate work object from becoming a final charter, and an empty-state
+scaffold qualified both task-native work shapes. In v2 those work objects
+passed at 655 and 734 tokens, and an existing source-residue replacement passed
+at 190. The cold-start source residue still used 310 tokens against the frozen
+256-token limit.
+
+No maintenance output entered an ordinary actor trajectory. The result is
+therefore apparatus nonqualification, not evidence about semantic-persistence
+utility or cumulative-work utility. Because v2 was prospectively final, the
+dedicated per-demotion residue route and its complete A/B/C/D comparison are
+closed. There is no v3 and no post-hoc comparison of only the passing cells.
+
+The failure changes the next system question without returning to isolated
+component tuning. E36 had already shown a live loop in which exact evidence
+continued entering one bounded range per actor decision, older bodies became
+receipts, and the call budget expired before cumulative work formed. E38 now
+adds local expression feasibility for bounded task-native work. The next design
+direction therefore crosses evidence-ingress bandwidth with cumulative
+task-native work externalization under common exact custody and pressure
+relief. It is not yet frozen and no GPU successor is authorized. The governing
+disposition is `E38_INTERACTION_APPARATUS_DISPOSITION.md`.
