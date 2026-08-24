@@ -414,3 +414,36 @@ censoring. No configuration is promoted and no same-configuration extension is
 selected. The next offline Stage 0 tests semantic integration × exact
 incremental task-artifact externalization × version-bound verification as a
 complete live system, not as isolated note, patch, or checker components.
+
+## E41 — artifact-coupled integration offline Stage 0
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@7d71c7d666403da7f0be9494a77a771435144f69`
+
+The offline donor audit resolves the E40 representation ambiguity. I3/I4 had
+38 accepted bounded semantic replacements, but the current task candidate
+never changed, no candidate effect existed, and no actor-invoked check
+evaluated those bytes. The objects were semantic sidecars, not exact task work.
+
+The successor implements a fresh two-file task candidate over fourteen source
+documents pinned to exact Git objects. `D0_DETACHED` retains each accepted
+integration replacement as a non-authoritative sidecar.
+`A1_COUPLED` applies the same accepted bytes to the exact task-required evidence
+ledger, changing the composite candidate version and producing an effect. Both
+actors have the same batch/read/reopen, task-ledger, incremental section,
+whole-decision, check, and submit actions.
+
+Nineteen offline tests and both provider-free complete-loop fixtures pass.
+They cover positive-savings relief, integration, candidate effects, current
+checks, repair-induced staleness, current recheck, and submission proposal.
+The relief selector skips equal- and negative-savings receipts, directly
+repairing the E40 apparatus defect.
+
+The source corpus contains 55,169 tokenizer tokens and the empty actor packet
+2,747, but authentic pressure is not yet established. A four-call expression
+gate and a later ordinary no-relief pressure screen remain mandatory before
+the measured two-system fork can be frozen.
+
+Disposition: **AF/EL** — offline apparatus feasible and experiment lineage
+qualified; no behavioral utility, pressure activation, or architecture claim.
+GPU execution remains unauthorized.

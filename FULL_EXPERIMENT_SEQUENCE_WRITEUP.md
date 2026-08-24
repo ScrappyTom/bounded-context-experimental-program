@@ -2,8 +2,8 @@
 
 Date: 2026-08-24
 
-Status: evidence-bounded program narrative through E40; artifact-coupling
-systems Stage 0 selected, no successor GPU run authorized
+Status: evidence-bounded program narrative through E41 offline Stage 0;
+artifact-coupling live qualification pending, no successor GPU run authorized
 
 ## What we learned
 
@@ -206,7 +206,7 @@ reopens, or fast submission.
 ## Program scale and experimental discipline
 
 The original parent bank contained 42 exactly replayed model requests. Through
-E40, 32 successor stages represent another 400 runner-qualified model/provider
+E41 Stage 0, 33 successor stages represent another 400 runner-qualified model/provider
 calls and 4,942,404 serialized tokens. This includes apparatus qualifications,
 the 71-call whole-method scout, the 54-call pressure-qualified study, the
 39-call breadth tranche, the 12-call closed interaction qualification, the
@@ -1070,3 +1070,41 @@ repair under live ingress and common host-owned capacity safety. It is a
 whole-system contrast, not isolated note, patch, or checker qualification. See
 `E40_INGRESS_WORK_INTERACTION_RESULT.md` and
 `NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`. No GPU successor is authorized.
+
+## 33. Artifact-coupled integration: offline whole-system Stage 0
+
+The successor now exists as a fresh standalone task and runtime at
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@7d71c7d666403da7f0be9494a77a771435144f69`.
+Its offline audit makes the E40 gap exact: I3/I4 produced 38 accepted semantic
+replacements, but none was a task-candidate version, none generated an effect,
+and none was evaluated by an actor-invoked check.
+
+The new task uses fourteen exact program documents at a pinned donor commit and
+requires two exact deliverables: an evidence-integration ledger and an
+architecture decision. The candidate identity is a composite manifest hash.
+Both systems expose the same ordinary batch/read/reopen, task-ledger,
+incremental decision-section, whole-decision, check, and submit actions.
+
+The finite contrast changes the coupling of one semantic operation. In
+`D0_DETACHED`, accepted maintenance bytes remain a lossy non-authoritative
+sidecar and produce only a semantic-state effect. In `A1_COUPLED`, the same
+accepted bytes replace the task-required evidence-ledger file, change the
+composite candidate version, and produce a candidate effect. This makes
+maintenance-origin work visible to exact currentness, checks, later repair,
+and external adjudication without giving the coupled actor an exclusive
+ordinary patch operator.
+
+The pressure substrate now prospectively renders receipts and skips every
+equal- or negative-savings candidate. Nineteen offline tests pass, including
+the one-line-result regression that censored E40. Provider-free fixtures run
+both systems through read, delivery, relief, integration, actor work, effect,
+check, repair, stale/current recheck, and submission proposal.
+
+The accessible source corpus is 55,169 tokens, while the empty actor packet is
+2,747 tokens. The program does not repeat the E37 error of calling that
+difference realized pressure. Live eligibility has two sequential gates: a
+four-call expression qualification for maintenance and the two new action
+shapes; then an ordinary no-relief screening trajectory that must actually
+produce a result-delivery overflow. Only that exact boundary may seed a
+contemporaneous detached/coupled measured fork. No GPU call is authorized by
+this offline stage.

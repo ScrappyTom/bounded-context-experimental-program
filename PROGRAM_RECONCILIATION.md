@@ -105,12 +105,21 @@ mechanically qualified local negatives, and the complete factorial is censored.
 Every successor runtime must restrict the deterministic scan to prospectively
 rendered strictly positive-savings substitutions.
 
-The active route is now an offline systems Stage 0 for semantic integration ×
-exact incremental task-artifact externalization × version-bound verification,
-with batch ingress, exact reopen, pressure relief, effects, repair, and closure
-kept live as one trajectory. This is not note, patch, and checker component
-qualification. See `E40_INGRESS_WORK_INTERACTION_RESULT.md` and
+The active systems Stage 0 is implemented at
+`qwen38-artifact-coupled-integration-scout-v0@7d71c7d666403da7f0be9494a77a771435144f69`.
+It compares detached versus exact task-artifact coupling of the same bounded
+semantic-integration operation, while batch ingress, exact reopen,
+positive-savings relief, incremental actor work, effects, version-bound
+checks, repair, and closure remain live. Nineteen offline tests and both
+provider-free end-to-end configurations pass. This is not note, patch, and
+checker component qualification. See `E40_INGRESS_WORK_INTERACTION_RESULT.md`,
+`E41_ARTIFACT_COUPLING_STAGE0_HANDOFF.md`, and
 `NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`.
+
+The live experiment is not yet eligible. A four-call expression gate must pass
+and be committed first. A separate ordinary no-relief screen must then produce
+a real result-delivery overflow. The 55,169-token accessible corpus is not
+treated as proof that the actor will realize pressure.
 
 ## Loose-ends audit
 

@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 32 successor stages through E40",
+  "scope": "parent bank plus 33 successor stages through E41 offline Stage 0",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 32,
+    "successor_stages": 33,
     "follow_on_model_calls": 400,
     "follow_on_serialized_tokens": 4942404,
-    "unique_cited_experiment_commits": 28
+    "unique_cited_experiment_commits": 29
   },
   "stages": [
     {
@@ -340,6 +340,16 @@
       "serialized_tokens": 2112973,
       "included_in_follow_on_totals": true,
       "primary_disposition": "batch ingress and bounded semantic work activated but produced no candidate progress; semantic grounding contracted, batch geometry accelerated reentry use, and one I1 negative-savings receipt censored the complete factorial"
+    },
+    {
+      "stage_id": "S33",
+      "name": "artifact-coupled integration offline Stage 0",
+      "stage_type": "eligibility",
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "7d71c7d666403da7f0be9494a77a771435144f69", "count_as_experiment_commit": true}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "fresh two-file task and D0/A1 whole-system contrast implemented; positive-savings relief and provider-free feedback loops qualified; live expression and authentic-pressure gates remain pending"
     }
   ]
 }

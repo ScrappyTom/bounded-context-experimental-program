@@ -57,7 +57,10 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         self.assertEqual("I1", completed["apparatus_qualification"]["affected_configuration"])
 
         successor = self.contract["next_system_interaction"]
-        self.assertEqual("offline_stage0_selected_gpu_not_authorized", successor["status"])
+        self.assertEqual(
+            "offline_stage0_qualified_live_expression_pending_gpu_not_authorized",
+            successor["status"],
+        )
         self.assertIn("exact incremental task-artifact", successor["question"])
         self.assertIn(
             "effects_checks_repair_readiness_and_closure_are_in_horizon",
@@ -65,11 +68,11 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         )
         self.assertIn(
             "positive_savings_relief_regression",
-            successor["required_offline_gates"],
+            successor["completed_offline_gates"],
         )
         self.assertIn(
-            "fresh_world_preferred_with_E40_as_design_donor_only",
-            successor["required_offline_gates"],
+            "fresh_task_and_candidate_lineage_with_E40_as_design_donor_only",
+            successor["completed_offline_gates"],
         )
         self.assertEqual("authentic_prompt_pressure", self.contract["required_activation"])
 

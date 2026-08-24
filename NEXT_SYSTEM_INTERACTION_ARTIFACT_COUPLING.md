@@ -2,7 +2,12 @@
 
 Date: 2026-08-24
 
-Status: offline Stage 0 design and systems audit selected; no GPU run authorized
+Status: offline Stage 0 implemented and qualified; four-call live expression gate pending; no GPU run authorized
+
+Implementation binding:
+[qwen38-artifact-coupled-integration-scout-v0@7d71c7d](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7d71c7d666403da7f0be9494a77a771435144f69)
+
+Exact handoff: `E41_ARTIFACT_COUPLING_STAGE0_HANDOFF.md`
 
 ## Why this is the next system question
 
@@ -55,21 +60,50 @@ The leading two-system design is:
 
 | System | Semantic integration carrier | Task-work surface | Feedback |
 |---|---|---|---|
-| S0 — detached integration reference | bounded replacement sidecar | complete final artifact replacement | final/current candidate check |
-| S1 — artifact-coupled integration | versioned requirement/evidence and section work embedded in exact partial task state | incremental revision plus final assembly | partial-work and final candidate checks bound to exact versions |
+| `D0_DETACHED` | bounded replacement evidence ledger remains a non-authoritative sidecar | ledger replacement, incremental decision-section revision, or complete decision replacement | current composite-candidate check |
+| `A1_COUPLED` | the same accepted ledger bytes replace the exact task-required evidence-ledger file | the same ordinary actions plus maintenance-origin candidate effects | current composite-candidate check with stale/current binding after every effect |
 
 Both systems keep batching, ordinary reads, exact reopen, host-owned relief,
-reactive reentry, effects, and external readiness active. S1 is not "add a
-patch tool"; it changes where interpretation lives, how it survives context
+reactive reentry, effects, and external readiness active. A1 is not "add a
+patch tool"; both actors already have the same incremental section action. It
+changes where maintenance interpretation lives, how it survives context
 turnover, what the actor can do with it, and what feedback becomes available.
 
+## Implemented Stage 0 disposition
+
+The selected design is no longer only a plan. The standalone repository now
+contains:
+
+- a fresh 14-source, 238,874-byte task package pinned to exact donor Git
+  objects;
+- two task-required exact candidate files under one composite version hash;
+- strict ordinary action parsing and live JSON schemas;
+- bounded single/batch reads and exact reopen;
+- bounded integration maintenance with observed-source allowlists and a
+  closure-authorization guard;
+- detached and candidate-coupled maintenance effects;
+- incremental decision-section mutation;
+- candidate-bound stable checks and stale/current binding;
+- submission custody and external-readiness separation;
+- the corrected strictly-positive relief selector;
+- a no-relief authentic-pressure screening runner; and
+- 19 passing offline tests plus a passing provider-free end-to-end fixture in
+  both systems.
+
+The copied corpus contains 55,169 offline tokens, but Stage 0 explicitly marks
+activation unqualified. Accessible-world size is not used as a proxy for what
+an actor will actually materialize. The next live stages are therefore an
+apparatus-only four-call expression gate and, only after a passing committed
+handoff, one ordinary screening trajectory. The measured fork remains
+ineligible until that screen reaches an authentic result-delivery overflow.
+
 A third joint state should be admitted only if offline geometry identifies a
-distinct unresolved interaction that S0/S1 cannot distinguish. It must not be
+distinct unresolved interaction that D0/A1 cannot distinguish. It must not be
 added after measured behavior merely to rescue a result.
 
 ## Exact incremental work requirements
 
-The S1 artifact must be task-native and independently inspectable. A valid
+The A1 artifact must be task-native and independently inspectable. A valid
 shape may be a requirement-keyed evidence/decision matrix plus bounded charter
 sections, provided it obeys all of these rules:
 

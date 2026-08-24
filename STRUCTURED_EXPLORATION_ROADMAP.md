@@ -417,21 +417,27 @@ revised, checked, repaired, and finally assembled. It does not ask whether a
 patch action works in isolation. It asks whether changing the coupling among
 meaning, durable work, feedback, and actor decisions changes the trajectory.
 
-Stage 0 must now:
+Stage 0 has now:
 
-- reconstruct which E40 work versions could support meaningful task sections,
-  without claiming the historical actor would have written them;
-- preferentially qualify a fresh task world with the same interaction geometry;
-  E40 remains a design/audit donor rather than an automatic historical control;
-- implement and test strictly positive-savings relief eligibility;
-- freeze a non-oracular exact partial-work surface with provenance and
-  currentness bindings;
-- retain live bounded batch ingress so its throughput/residency interaction is
-  still observed;
-- qualify the whole evidence→work→effect→check→repair→closure loop
-  provider-free;
-- derive a viable horizon that includes observed action-admission loss; and
-- bind independent artifact quality and readiness identically across systems.
+- bound E40's accepted work to a detached-sidecar disposition with no candidate
+  effects or checks;
+- created a fresh task version and composite candidate over fourteen exactly
+  pinned program sources;
+- implemented and regression-tested strictly positive-savings relief;
+- frozen detached and artifact-coupled integration systems with identical
+  ordinary actor actions;
+- retained live bounded batch ingress and exact reopen;
+- qualified evidence→work→effect→check→repair→closure provider-free in both
+  systems; and
+- bound independent artifact quality and readiness identically outside both
+  actor policies.
+
+The remaining gates are live rather than design work. Four expression calls
+must qualify maintenance initialization/replacement and the two new
+task-artifact action shapes. A later ordinary screen must then demonstrate
+real result-delivery pressure; the 55,169-token source corpus alone is not an
+activation argument. Only that exact boundary can authorize construction of
+the measured two-system fork. See `E41_ARTIFACT_COUPLING_STAGE0_HANDOFF.md`.
 
 E36 remains the pressure-qualified evidence-streaming case, E37 the
 low-pressure breadth reference, E38 the closed residue-expression route, E39
@@ -439,8 +445,9 @@ the historical freeze handoff, and E40 the measured interaction result. The
 full obligations are in
 `NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`.
 
-No GPU call is authorized. Owner review is required after offline Stage 0
-returns a finite, interpretable whole-system contrast and exact frozen commit.
+No GPU call is authorized. The finite contrast and frozen offline commit now
+exist; owner authorization is required separately for expression qualification,
+pressure screening, and any measured fork.
 
 ## What will not be optimized in this phase
 

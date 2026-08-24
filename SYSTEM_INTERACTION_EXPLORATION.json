@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-24",
-  "status": "measured_interaction_complete_artifact_coupling_stage0_selected",
+  "status": "measured_interaction_complete_artifact_coupling_stage0_implemented_expression_pending",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "authentic_prompt_pressure",
@@ -84,13 +84,25 @@
     ]
   },
   "next_system_interaction": {
-    "status": "offline_stage0_selected_gpu_not_authorized",
+    "status": "offline_stage0_qualified_live_expression_pending_gpu_not_authorized",
     "question": "semantic persistence x exact incremental task-artifact externalization x version-bound verification and repair under live ingress and common host-owned capacity safety",
     "unit_of_analysis": "complete evidence_to_work_to_effect_to_feedback_to_closure trajectory",
     "leading_systems": [
-      "detached_bounded_integration_plus_whole_final_artifact",
-      "artifact_coupled_requirement_evidence_and_partial_section_state_plus_incremental_verification"
+      "D0_detached_bounded_integration_with_common_incremental_actor_surface",
+      "A1_same_integration_bytes_coupled_to_exact_task_ledger_with_candidate_effects"
     ],
+    "implementation": {
+      "repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0",
+      "freeze_commit": "7d71c7d666403da7f0be9494a77a771435144f69",
+      "task_source_count": 14,
+      "task_source_bytes": 238874,
+      "task_source_tokens_offline": 55169,
+      "base_actor_prompt_tokens_offline": 2747,
+      "offline_tests_passed": 19,
+      "provider_free_system_fixtures_passed": 2,
+      "activation_qualified": false,
+      "gpu_authorized": false
+    },
     "non_isolation": [
       "evidence_ingress_remains_live",
       "pressure_relief_and_exact_reopen_remain_live",
@@ -98,14 +110,19 @@
       "effects_checks_repair_readiness_and_closure_are_in_horizon",
       "expression_qualification_is_apparatus_only"
     ],
-    "required_offline_gates": [
+    "completed_offline_gates": [
       "positive_savings_relief_regression",
       "E40_work_to_artifact_geometry_audit",
-      "fresh_world_preferred_with_E40_as_design_donor_only",
+      "fresh_task_and_candidate_lineage_with_E40_as_design_donor_only",
       "non_oracular_exact_partial_work_and_provenance",
       "work_and_candidate_version_bound_feedback",
-      "viable_complete_horizon_with_action_admission_loss",
       "provider_free_full_loop_qualification"
+    ],
+    "pending_live_gates": [
+      "four_call_maintenance_and_new_action_expression_qualification",
+      "committed_qualification_handoff",
+      "ordinary_no_relief_screen_reaches_authentic_result_delivery_pressure",
+      "measured_fork_budgets_derived_from_exact_screened_boundary"
     ],
     "governing_document": "NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md"
   },

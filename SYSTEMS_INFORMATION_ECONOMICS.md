@@ -600,6 +600,45 @@ requirement provenance, current effects, and partial feedback—while ingress,
 pressure, recovery, repair, readiness, and closure remain live. That is a
 complete-system question about conversion and feedback, not a component score.
 
+## Artifact-coupling Stage 0 implementation
+
+The successor makes that economic distinction literal. Both systems pay for
+the same bounded semantic-integration operation. In `D0_DETACHED`, the accepted
+bytes remain a non-authoritative resident sidecar. In `A1_COUPLED`, those same
+bytes replace an exact task-required evidence-ledger file and therefore create
+a candidate version, an actor-visible effect, and a checkable currentness
+relation. Both actors can also revise the ledger and incrementally upsert final
+decision sections.
+
+This holds production opportunity approximately common while changing the
+downstream asset class:
+
+```text
+same semantic production
+        ↓
+detached resident state
+or
+exact task-world capital with effects and feedback
+```
+
+The distinction is economic, not merely representational. Coupling may let
+semantic work amortize through artifact persistence and checking. It may also
+anchor an early error, expand candidate/resident cost, generate stale
+verification, or accelerate false closure. The primary outcome is therefore
+the full quality- and readiness-grounded trajectory, not work tokens retained.
+
+The implementation also corrects relief accounting. A receipt is eligible only
+when its prospectively rendered substitution strictly lowers the complete
+current packet. Semantic/artifact growth after the substitution is charged in
+the next rerender. A recovery handle is no longer assumed to be cheaper merely
+because it is called a receipt.
+
+Finally, the fresh source corpus totals 55,169 tokens while the empty actor
+packet is 2,747 tokens. These are stock bounds, not a pressure event. A live
+ordinary screen must reveal realized demand and chronology growth before the
+interaction fork is eligible. This preserves the program's distinction between
+accessible supply and endogenous model-facing demand.
+
 ## Low-pressure reconnaissance correction
 
 E37 then sampled multiple tasks while every prompt remained far below the

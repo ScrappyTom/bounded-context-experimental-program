@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: governing direction; first pressure-active interaction measured; artifact-coupling systems Stage 0 selected
+Status: governing direction; first pressure-active interaction measured; artifact-coupling systems Stage 0 implemented offline
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -181,11 +181,20 @@ revisable requirement/evidence entries and partial task sections create a
 productive artifact/feedback loop, or merely move the failure to anchoring,
 revision cost, final assembly, or closure?
 
-Offline Stage 0 must first repair relief eligibility, reconstruct the E40
-work-to-artifact gap, define non-oracular exact partial-work and currentness
-bindings, and prove a viable evidence→work→effect→check→repair→closure horizon.
-The current contract is
-`NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`. No GPU run is authorized.
+Offline Stage 0 is implemented at
+`qwen38-artifact-coupled-integration-scout-v0@7d71c7d666403da7f0be9494a77a771435144f69`.
+It reconstructs the E40 work-to-artifact gap, fixes relief eligibility, defines
+one fresh two-file task candidate, implements detached and candidate-coupled
+integration systems, and exercises evidence→relief→integration→effect→check→
+repair→recheck→submission provider-free. Nineteen tests pass.
+
+The task world contains 55,169 source tokens, but activation remains
+unqualified by design. The live sequence is: four-call expression gate;
+committed audit; ordinary no-relief pressure screen; then a contemporaneous
+two-system fork only if that screen reaches authentic result-delivery
+overflow. The current contract is
+`NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`; the exact handoff is
+`E41_ARTIFACT_COUPLING_STAGE0_HANDOFF.md`. No GPU run is authorized.
 
 ### Closed historical question
 
