@@ -1,12 +1,12 @@
 # E39 — ingress × cumulative-work Stage 0 handoff
 
-Date: 2026-08-23
+Date: 2026-08-24
 
-Status: offline Stage 0 passed; two-call batch-action qualification pending;
-measured interaction not frozen or authorized
+Status: batch-action qualification passed 2/2; measured interaction frozen;
+measured GPU run not authorized
 
 Standalone repository:
-[qwen38-ingress-work-interaction-scout-v0@a4ba94b](https://github.com/ScrappyTom/qwen38-ingress-work-interaction-scout-v0/commit/a4ba94b921896ce442c8bcbde87aa23009e09eb3)
+[qwen38-ingress-work-interaction-scout-v0@1c041e2](https://github.com/ScrappyTom/qwen38-ingress-work-interaction-scout-v0/commit/1c041e2c55e0cc1f735e056df84a156c15bd8679)
 
 ## System question
 
@@ -43,35 +43,64 @@ budget exhaustion.
 - Work bootstrap and representative large-batch update prompts remain within
   the 25,088-token provider context including their completion ceilings.
 - A synthetic late reactive-reentry packet fits at 19,221 tokens.
-- Runtime tests: 13/13. Inherited evaluator tests: 5/5.
+- Runtime tests: 21/21. Inherited evaluator tests: 5/5.
 - The inherited evaluation law is rebound to this experiment's exact task lock.
 
 The treatment-induced second demotion is intentionally preserved. It is the
 real residency and maintenance cost of carrying cumulative work under pressure,
 not an imbalance to erase.
 
-## Remaining apparatus gate
+## Live apparatus result
 
-The new batch action must pass two exact live fixtures:
+The new batch action passed both prospectively frozen live fixtures:
 
 1. one requested range;
 2. three requested ranges.
 
-Both prompts fit offline and both exact results execute below the 12,000-token
-batch-result gate. Each call uses one attempt and zero retries. Failure closes
-this batch surface and the present 2×2 design; no prompt/schema repair loop is
-permitted.
+Run `2026-08-23-ingress-action-expression-qualification-v0` used two model
+calls, one attempt per call, and zero retries. Both responses were valid bounded
+`read_batch` actions, both stopped normally, and both exact results executed
+below the 12,000-token batch-result gate. The run consumed 40,676 serialized
+tokens: Q01 used 20,268 prompt and 31 completion tokens; Q02 used 20,307 prompt
+and 70 completion tokens. The exact run is sealed in the standalone result
+commit.
 
-Passing the gate is not measured utility and does not authorize I1–I4. The
-next offline checkpoint must bind the qualification, implement the measured
-loop including oversized-batch custody and the work-trigger cascade, rerun the
-red-team audit, and return a different frozen commit for authorization.
+This is action-transport qualification only. It supplies no evidence that batch
+ingress, cumulative work, or their interaction improves a trajectory.
+
+## Measured freeze
+
+The measured run is frozen as
+`2026-08-24-ingress-work-interaction-measured-v0` in configuration order I1,
+I2, I3, I4. Limits are 26 actor calls per configuration, 24 work-maintenance
+calls in each work-enabled configuration, 104 actor calls total, 48 work calls
+total, and 152 provider calls total. Every call has one attempt and zero
+retries; each configuration uses a fresh server.
+
+The runner preserves the interaction rather than normalizing it away. It
+implements exact oversized-batch custody without accidental admission,
+pending-result preservation across relief/reentry, version-bound check
+currency, no duplicate pending effect in a reentry packet, no maintenance call
+after actor-horizon exhaustion, exact candidate/effect/check uptake, external
+evaluation, cell seals, aggregate audit, and condition-blinded review packages.
+
+A provider-free whole-loop harness exercised I1–I4 through result delivery,
+candidate effect, check, submit, external evaluation, sealing, and audit. It
+also exercised a one-actor-call terminal fixture and confirmed that the pending
+result remained undelivered and no post-horizon work call occurred. The final
+preflight passed with full pinned model/runtime hashes, qualification-seal
+verification, runtime quiescence, 21 runtime tests, five evaluator tests, and
+zero model/GPU calls.
+
+No I1–I4 trajectory has run. The current repository is a frozen design and
+apparatus result, not a measured interaction result.
 
 ## Eligible authorization
 
-Only this exact scope is eligible:
+Only this exact new scope is eligible:
 
-> I authorize the frozen two-call ingress-action expression qualification at
-> commit a4ba94b921896ce442c8bcbde87aa23009e09eb3, run ID
-> 2026-08-23-ingress-action-expression-qualification-v0: at most 2 model calls,
-> one attempt per call, zero retries.
+> I authorize the frozen ingress-work interaction run at commit
+> 1c041e2c55e0cc1f735e056df84a156c15bd8679, run ID
+> 2026-08-24-ingress-work-interaction-measured-v0: configurations I1, I2, I3,
+> and I4 in that order; at most 104 actor calls and 48 work-maintenance calls,
+> at most 152 provider calls total, one attempt per call, zero retries.

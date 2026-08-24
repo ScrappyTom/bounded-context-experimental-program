@@ -1,9 +1,9 @@
 # What we learned: the full bounded-context experimental sequence
 
-Date: 2026-08-22
+Date: 2026-08-24
 
-Status: evidence-bounded program narrative through E36; no new inference or GPU
-authorization
+Status: evidence-bounded program narrative through E39; measured I1–I4 GPU run
+not authorized
 
 ## What we learned
 
@@ -985,5 +985,43 @@ receipts, and the call budget expired before cumulative work formed. E38 now
 adds local expression feasibility for bounded task-native work. The next design
 direction therefore crosses evidence-ingress bandwidth with cumulative
 task-native work externalization under common exact custody and pressure
-relief. It is not yet frozen and no GPU successor is authorized. The governing
-disposition is `E38_INTERACTION_APPARATUS_DISPOSITION.md`.
+relief. At the E38 checkpoint it was not yet frozen and no GPU successor was
+authorized. The governing disposition is
+`E38_INTERACTION_APPARATUS_DISPOSITION.md`.
+
+## 31. Ingress × cumulative-work interaction freeze
+
+The successor retained the systems question and changed both complete
+trajectory functions: actor-selected evidence ingress is one exact range or a
+bounded batch of one to three ranges, while task-native cumulative work is
+absent or maintained as a bounded replacement evidence-integration artifact.
+This yields I1–I4, with exact custody, first-fit relief, reopen, effects,
+candidate-bound checks, reactive reentry, and external evaluation common.
+
+The new batch action first passed a separately authorized two-call live gate.
+Both one-range and three-range fixtures produced valid normally stopped actions
+and exact bounded results. The gate used one attempt per call, zero retries,
+and 40,676 serialized tokens. This was expression qualification, not a utility
+experiment.
+
+Offline implementation then completed the measured whole-trajectory loop. It
+preserves the treatment-induced residency cascade rather than isolating away
+the interaction: the common pending result externalizes `RESULT-001`; carrying
+work in I3/I4 then forces `RESULT-002` out and requires a second charged work
+replacement before the first actor decision. Oversized batch results remain in
+exact custody without becoming actor-visible or reopenable, pending updates
+survive relief/reentry, observations and checks bind to candidate versions, and
+no maintenance call is made after the actor horizon is exhausted.
+
+A provider-free harness exercised all four configurations through candidate
+effect, check, submit, external evaluation, seals, and aggregate audit. The
+final preflight passed full model/runtime hashes, runtime quiescence, source
+and provenance locks, the qualification seal, 21 runtime tests, and five
+evaluator tests. The frozen repository is
+`ScrappyTom/qwen38-ingress-work-interaction-scout-v0@1c041e2c55e0cc1f735e056df84a156c15bd8679`.
+
+No I1–I4 model trajectory has run. The program therefore has a qualified batch
+transport and a frozen interaction apparatus, but no result about whether
+batch ingress and cumulative work substitute, complement, interfere, improve
+artifact quality, or move the failure. The measured run requires separate
+explicit GPU authorization.

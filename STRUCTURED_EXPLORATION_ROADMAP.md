@@ -1,8 +1,8 @@
 # Structured exploration roadmap
 
-Date: 2026-08-23
+Date: 2026-08-24
 
-Status: first breadth tranche complete; second checkpoint pending owner review
+Status: first breadth tranche complete; pressure-active interaction scout frozen for owner authorization
 
 ## Research-phase reset
 
@@ -383,11 +383,11 @@ readiness evaluation. Ingress changes result size, pressure, and decision
 bandwidth; work changes residency, later demand, and construction state. The
 primary question is their induced interaction, not two isolated main effects.
 
-Before implementation, Stage 0 must qualify a non-oracular bounded batch-read
-surface, specify how work production shares or consumes decision bandwidth,
-prove evidence provenance, and leave a feasible horizon for construction,
-effect uptake, checking, repair, and closure. No successor GPU run is
-authorized.
+Stage 0 has now qualified a non-oracular bounded batch-read surface, specified
+how work production shares provider bandwidth, proved exact work-evidence
+provenance, and retained a frozen horizon through construction, effect uptake,
+checking, repair, and closure. This completion does not authorize the measured
+GPU run.
 
 E36 remains the pressure-qualified evidence-streaming case, reconstructed in
 `E36_DECISION_GEOMETRY_AUDIT.md`. E37 is the completed first breadth tranche,
@@ -414,24 +414,28 @@ independent-world transfer, but its first scout may be local if the authentic
 pressure state is unique. It must not rerun the closed residue gate, salvage
 only its accepted cells, or repeat E37 merely with repaired formatting.
 
-Before a new measured wave, Stage 0 must:
+Stage 0 for this wave is now complete. It:
 
-- qualify the chosen action transport across the required small and large
+- qualified the chosen action transport across the required small and large
   action shapes under the exact live runtime as an apparatus gate, not a
   research cell;
-- freeze candidate/task/evidence-bound evaluation, including readiness and
+- froze candidate/task/evidence-bound evaluation, including readiness and
   blocking requirements outside the actor's visible check;
-- demonstrate a feasible action/effect/check/repair/closure path with enough
+- demonstrated a feasible action/effect/check/repair/closure path with enough
   horizon to observe the target function;
-- state how single-range and bounded multi-range ingress interact with exact
+- stated how single-range and bounded multi-range ingress interact with exact
   cumulative work, residency, and the common resumption frame;
-- prove that every measured configuration is viable after pressure rather than
+- proved that every measured configuration is viable after pressure rather than
   comparing relief with an inevitable hard stop; and
-- return a finite portfolio, call/token ceilings, and frozen commit for owner
-  review.
+- returned a finite I1–I4 portfolio, exact call ceilings, and frozen commit
+  `1c041e2c55e0cc1f735e056df84a156c15bd8679` for owner review.
 
-This roadmap authorizes documentation and offline analysis only. It does not
-authorize GPU inference or select a measured successor.
+The new `read_batch` surface passed its two-call live gate 2/2. The offline
+whole-loop harness and measured preflight also pass, but neither is utility
+evidence. The selected measured successor is
+`2026-08-24-ingress-work-interaction-measured-v0`; this roadmap still does not
+authorize its GPU inference. Explicit authorization at the frozen commit is
+required.
 
 ## What will not be optimized in this phase
 

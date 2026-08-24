@@ -1,8 +1,8 @@
 # System-interaction exploration
 
-Date: 2026-08-23
+Date: 2026-08-24
 
-Status: governing direction; first candidate apparatus closed; successor Stage 0 frozen with live batch-action gate pending
+Status: governing direction; first candidate apparatus closed; successor measured interaction frozen with GPU withheld
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -117,8 +117,8 @@ apparatus cases as post-hoc treatments. Details and limits are in
 
 ### Active successor Stage 0
 
-The finite successor is frozen at
-`qwen38-ingress-work-interaction-scout-v0@a4ba94b921896ce442c8bcbde87aa23009e09eb3`:
+The finite successor is frozen for measurement at
+`qwen38-ingress-work-interaction-scout-v0@1c041e2c55e0cc1f735e056df84a156c15bd8679`:
 
 | Configuration | Actor-selected ingress | Cumulative task-native work |
 |---|---|---|
@@ -141,9 +141,20 @@ update. The work treatment therefore changes both semantic continuity and
 exact residency. Analysis is trajectory-level; no additive main-effect claim
 may erase that feedback.
 
-The only remaining live Stage 0 gate is a two-call expression qualification of
-the new one-range and three-range batch objects. It is apparatus evidence only.
-The measured four-configuration run remains neither frozen nor authorized.
+The two-call expression qualification of the new one-range and three-range
+batch objects passed 2/2 with one attempt per call, zero retries, and 40,676
+serialized tokens. It is apparatus evidence only; no actor consumed a batch in
+a measured trajectory.
+
+The I1–I4 runner is now frozen as
+`2026-08-24-ingress-work-interaction-measured-v0`. Its provider-free harness
+exercised all four whole loops, including the treatment-induced work/demotion
+cascade, exact candidate/effect/check flow, external evaluation, sealing, and
+a terminal fixture proving that no work-maintenance call occurs after the actor
+horizon is exhausted. Full asset hashes, runtime quiescence, 21 runtime tests,
+five evaluator tests, and the qualification seal all passed. The measured GPU
+run remains unauthorized, and these apparatus checks add no interaction-utility
+evidence.
 
 ### Closed historical question
 

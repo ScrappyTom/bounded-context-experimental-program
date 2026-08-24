@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 29 successor stages through E37",
+  "scope": "parent bank plus 31 successor stages through E39",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 29,
-    "follow_on_model_calls": 248,
-    "follow_on_serialized_tokens": 2704143,
-    "unique_cited_experiment_commits": 25
+    "successor_stages": 31,
+    "follow_on_model_calls": 262,
+    "follow_on_serialized_tokens": 2829431,
+    "unique_cited_experiment_commits": 27
   },
   "stages": [
     {
@@ -310,6 +310,26 @@
       "serialized_tokens": 101657,
       "included_in_follow_on_totals": true,
       "primary_disposition": "low-pressure reference with no correct useful completion; action expression and premature closure were observed, two strong-partial artifacts showed construction and effect uptake, and the intended context/persistence interaction was not activated or adjudicated"
+    },
+    {
+      "stage_id": "S30",
+      "name": "source-residue by cumulative-work interaction apparatus qualification",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-system-interaction-persistence-scout-v0", "result_commit": "362868ae25a7301a9fe34a90e59768318537c852", "count_as_experiment_commit": true}],
+      "model_calls": 12,
+      "serialized_tokens": 84612,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "declared-final gate accepted 3/4 cases; cumulative-work expression qualified but cold-start source residue exceeded its frozen budget, closing the complete interaction before actor utility"
+    },
+    {
+      "stage_id": "S31",
+      "name": "ingress-action expression qualification and measured interaction freeze",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-ingress-work-interaction-scout-v0", "result_commit": "1c041e2c55e0cc1f735e056df84a156c15bd8679", "count_as_experiment_commit": true}],
+      "model_calls": 2,
+      "serialized_tokens": 40676,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "one-range and three-range batch actions passed 2/2; I1-I4 interaction runner frozen offline with no measured utility trajectories yet"
     }
   ]
 }

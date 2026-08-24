@@ -1,6 +1,6 @@
 # Experimental program for bounded context management
 
-Date: 2026-08-23
+Date: 2026-08-24
 
 Status: living research program; candidate mechanisms are not architecture
 
@@ -89,13 +89,15 @@ source residue exceeded its 256-token budget at 310 tokens. The prospective
 stopping rule closes that route and the A/B/C/D design without any utility
 claim.
 
-The next checkpoint must place evidence-ingress bandwidth and cumulative
-task-native work externalization in the same measured loop under common exact
-custody and pressure relief. This is not an isolated work-component test:
+E39 now freezes that checkpoint: evidence-ingress bandwidth and cumulative
+task-native work externalization share the same measured loop under common
+exact custody and pressure relief. This is not an isolated work-component test:
 ingress changes result size, pressure, and call budget, while work changes
-residency, later demand, construction, and anchoring risk. Stage 0 must first
-qualify bounded multi-range acquisition and the work-production decision/call
-economics. No successor GPU run is authorized.
+residency, later demand, construction, and anchoring risk. The bounded
+multi-range action passed 2/2 live expression fixtures, and the complete I1–I4
+runner passed its provider-free whole-loop harness and offline preflight. No
+I1–I4 trajectory has run, so no interaction or utility claim exists. The frozen
+measured GPU run still requires explicit authorization.
 
 ## Current position
 

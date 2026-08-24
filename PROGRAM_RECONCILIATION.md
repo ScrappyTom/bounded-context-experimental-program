@@ -1,6 +1,6 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
-Date: 2026-08-23
+Date: 2026-08-24
 Status: current program synthesis; system-interaction exploration active
 
 The detailed learned-first narrative for every phase is
@@ -67,8 +67,8 @@ externalization, with exact custody, first-fit relief, reopen, effects, checks,
 and readiness evaluation common. It is a new system design, not an A/C salvage
 cell from the failed matrix.
 
-That design is now frozen offline at
-`qwen38-ingress-work-interaction-scout-v0@a4ba94b921896ce442c8bcbde87aa23009e09eb3`.
+That design is now frozen for measurement at
+`qwen38-ingress-work-interaction-scout-v0@1c041e2c55e0cc1f735e056df84a156c15bd8679`.
 Its measured unit is the complete I1–I4 configuration trajectory. The batch
 axis is actor-selected and non-oracular; the work axis is a bounded replacement
 evidence-integration artifact triggered by actual exact-body externalization.
@@ -78,12 +78,20 @@ and that second externalization owes a second fully charged work update before
 the first actor decision. This is treatment economics and feedback, not a
 component-isolation defect.
 
-All four actor packets remain feasible, work and reactive-reentry geometries
-fit, 13 runtime tests and five inherited evaluator tests pass, and evaluator
-governance is rebound to the current exact task lock. The only remaining Stage
-0 gate is two live calls testing one-range and three-range `read_batch`
-expression. Passing it will not authorize the measured interaction; it returns
-to a second offline runner and overflow-disposition audit.
+The two live `read_batch` expression fixtures passed 2/2 with one attempt per
+call and zero retries. Both exact results executed below the frozen batch cap;
+the gate consumed 40,676 serialized tokens. This qualifies action transport,
+not downstream utility.
+
+The measured I1–I4 runner and audits are now complete offline. A provider-free
+whole-loop harness exercised result delivery, pressure relief, work replacement,
+candidate effects, current checks, submission, external evaluation, sealing,
+and the actor-horizon stop; it made zero model/GPU calls. Full pinned-asset
+hashes, runtime quiescence, the qualification seal, 21 runtime tests, and five
+evaluator tests passed. No measured configuration has run, so ingress/work
+substitution, complementarity, interference, and artifact value remain wholly
+unobserved. The only next live step is the separately authorized frozen
+four-configuration run.
 
 ## Loose-ends audit
 
@@ -266,9 +274,9 @@ live around them. The study follows induced demand and artifact state through
 the feedback horizon rather than treating
 batch reads or intermediate work as isolated component qualifications.
 
-Action-transport qualification is a blocking apparatus gate, not a successor
-component experiment. The enriched fixtures remain useful for triangulation,
-not prevalence. No D1/D3/D4 repair, D6 wording variant, task, or GPU call is
-authorized automatically. The finite Stage 0 interaction contract has returned
-for owner review; only its two-call apparatus gate is presently eligible for
-explicit authorization.
+Action-transport qualification was a blocking apparatus gate, not a successor
+component experiment. It passed 2/2 and remains apparatus evidence only. The
+enriched fixtures remain useful for triangulation, not prevalence. No
+D1/D3/D4 repair, D6 wording variant, task, or GPU call is authorized
+automatically. The finite I1–I4 interaction runner is frozen; only that exact
+measured run is presently eligible for explicit authorization.

@@ -1,6 +1,6 @@
 # Evidence ledger
 
-Date: 2026-08-23
+Date: 2026-08-24
 
 This ledger separates mechanical facts, local results, candidate hypotheses,
 and untested mechanisms. Links identify immutable result commits; the linked
@@ -327,5 +327,38 @@ while the tiny per-source residue bootstrap did not.
 The next candidate whole-system interaction is evidence-ingress bandwidth ×
 cumulative task-native work externalization. It is motivated jointly by E36's
 one-read-per-call streaming/call-budget failure and E38's qualified work
-expression. No runner or GPU successor is authorized. See
-`E38_INTERACTION_APPARATUS_DISPOSITION.md`.
+expression. See `E38_INTERACTION_APPARATUS_DISPOSITION.md`.
+
+## E39 — ingress × cumulative-work action qualification and measured freeze
+
+Source:
+`ScrappyTom/qwen38-ingress-work-interaction-scout-v0@1c041e2c55e0cc1f735e056df84a156c15bd8679`
+
+Qualification freeze:
+`a4ba94b921896ce442c8bcbde87aa23009e09eb3`
+
+Qualification run ID:
+`2026-08-23-ingress-action-expression-qualification-v0`
+
+The prospectively frozen one-range and three-range `read_batch` fixtures both
+passed. Each response was a valid bounded action, stopped normally, and
+executed to an exact result below the 12,000-token batch-result cap. The gate
+used two model calls, one attempt per call, zero retries, and 40,676 serialized
+tokens. This qualifies the action surface only. No batch result entered an
+ordinary measured trajectory, so it adds no evidence about acquisition value,
+semantic accumulation, cumulative work, artifact quality, or closure.
+
+The same result commit freezes the four-configuration interaction run
+`2026-08-24-ingress-work-interaction-measured-v0`: one-range versus bounded
+actor-selected batch ingress crossed with whole-final-only versus bounded
+replacement cumulative work. All configurations retain exact custody,
+first-fit pressure relief, exact reopen, action/effect/check flow, reactive
+reentry, and external readiness evaluation.
+
+The provider-free harness exercised I1–I4 through delivery, candidate effect,
+check, submit, external evaluation, sealing, aggregate audit, and an explicit
+actor-horizon stop. Full pinned runtime hashes, quiescence, source/provenance
+locks, the qualification seal, 21 runtime tests, and five evaluator tests pass.
+No measured configuration has run. Disposition: **AF** for the measured study
+and **LR** only for the narrow two-call expression gate. GPU authorization is
+withheld.

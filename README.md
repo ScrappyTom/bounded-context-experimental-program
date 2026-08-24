@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The prior 25 experiment commit bindings were resolved through the named local
+The current 27 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -91,16 +91,18 @@ externalization under common exact custody and pressure relief. The disposition
 and new obligations are in
 [E38_INTERACTION_APPARATUS_DISPOSITION.md](E38_INTERACTION_APPARATUS_DISPOSITION.md).
 
-That successor now has an offline Stage 0 freeze in
+That successor now has a measured-run freeze in
 [`qwen38-ingress-work-interaction-scout-v0`](https://github.com/ScrappyTom/qwen38-ingress-work-interaction-scout-v0)
-at commit `a4ba94b921896ce442c8bcbde87aa23009e09eb3`. It crosses
+at commit `1c041e2c55e0cc1f735e056df84a156c15bd8679`. It crosses
 actor-selected one-range versus bounded batch ingress with whole-final-only
 versus bounded cumulative task-native work across four viable post-pressure
 configurations. The complete systems handoff is
 [E39_INGRESS_WORK_STAGE0_HANDOFF.md](E39_INGRESS_WORK_STAGE0_HANDOFF.md).
-Only its two-call batch-action expression qualification is eligible for a new
-explicit GPU authorization; the measured I1–I4 interaction is not frozen or
-authorized.
+Its two-call batch-action expression qualification passed 2/2 and consumed
+40,676 serialized tokens. The provider-free I1–I4 harness, full asset preflight,
+21 runtime tests, five evaluator tests, and custody checks pass. Those are
+apparatus results only. The frozen measured I1–I4 run has not begun and requires
+new explicit GPU authorization.
 
 The validity envelope remains strict: exact custody, complete model-visible
 history, one attempt with no hidden retry, hard limits, exact candidate/effect
@@ -115,6 +117,6 @@ at result commit `ea8f4cfa5888998d6193f57316e9cd41cf1639b6`, frozen from
 [DISCOVERY_STAGE0_HANDOFF.json](DISCOVERY_STAGE0_HANDOFF.json); the measured
 machine disposition is [DISCOVERY_TRANCHE_RESULT.json](DISCOVERY_TRANCHE_RESULT.json).
 
-No GPU run is authorized by these documents. The next eligible call is the
-separately frozen two-call apparatus qualification named above and still
-requires owner authorization.
+No GPU run is authorized by these documents. The next eligible scope is the
+separately frozen I1–I4 measured interaction named above and still requires
+owner authorization at its exact commit.

@@ -1,6 +1,6 @@
 # Capability terrain map
 
-Date: 2026-08-23
+Date: 2026-08-24
 
 Status: updated after the first Qwen3.8 breadth tranche; not a prevalence estimate or architecture
 
@@ -108,11 +108,12 @@ particular, the next wave should not contain another:
 
 The first source-residue × incremental-work candidate failed its final
 apparatus gate and is closed under E38's prospective stopping rule. The next
-checkpoint should expose these boundaries inside one interaction-first
-configuration contrast rather than study them separately. Its candidate now
-crosses evidence-ingress bandwidth with cumulative task-native work under
+checkpoint exposes these boundaries inside one interaction-first configuration
+contrast rather than studying them separately. Its frozen candidate crosses
+evidence-ingress bandwidth with cumulative task-native work under
 common pressure relief, reopen, action/effect handling, bounded resumption,
-feedback, and external readiness evaluation.
+feedback, and external readiness evaluation. E39 qualified the bounded batch
+action 2/2 and froze the I1–I4 runner; downstream capability remains unmeasured.
 
 `SYSTEM_INTERACTION_EXPLORATION.md` defines the non-isolation rule and candidate
 four-configuration scout. `STRUCTURED_EXPLORATION_ROADMAP.md` retains a small
