@@ -160,6 +160,15 @@ loops pass. This is apparatus qualification only; a frozen ordinary live
 screen must still establish authentic pending-result pressure before a
 measured fork can exist. See `E47_NORTHSTAR_TRANSFER_STAGE0_HANDOFF.md`.
 
+That screen subsequently stopped after two valid batch reads. `RESULT-001`
+delivered S01–S03; pending `RESULT-002` held S04–S06 and created a 4,713-token
+overflow. Positive deterministic relief was feasible, but the frozen gate
+required four prior delivered source-observation result objects and only one
+batch result object had crossed a later actor boundary. The sealed run is
+mechanically valid but scientifically ineligible. Northstar task selection is
+closed, and no measured D0/A1 fork exists. See
+`E48_NORTHSTAR_PRESSURE_SCREEN_RESULT.md`.
+
 ## Loose-ends audit
 
 The audit found no unresolved custody, publication, replay, or adjudication
@@ -224,6 +233,7 @@ authorized.
 | Artifact coupling could be tested as a patch-like component. | E45 instead keeps the complete evidence-to-work-to-effect-to-feedback-to-closure loop live. The treatment changes whether accepted semantic integration is detached context or exact task-world capital, which can endogenously change residency, later maintenance, artifact revisions, checking, cost, and closure. | Interpret D0 and A1 as whole configurations first. Component attribution or ablation is premature until a joint trajectory effect exists. |
 | Making semantic integration exact task work would necessarily improve completion. | E46 showed large trajectory leverage: A1 reached construction/checking earlier and cited more sources. Both arms still ended strong-partial/not-ready, and A1 carried a stale roadmap into its final artifact. | Artifact coupling can capitalize progress and error. Retain it as a local mixed whole-system result; require fresh-world candidate-bound quality or closure value before promotion. |
 | A fresh transfer could be qualified by corpus size and a fixed total horizon. | E47 keeps the 61,500-token accessible world separate from realized pressure and makes the post-construction budget event-contingent. Provider-free D0/A1 loops demonstrate that check, repair, recheck, and closure remain reachable after construction. | Require the ordinary live screen to establish the exact activation boundary; do not authorize the measured fork from offline size or fixture behavior. |
+| A meaningful-acquisition pressure gate could count delivered result objects independently of ingress geometry. | E48's first three-source batch crossed a decision boundary, while the second three-source batch immediately overflowed. Physical activation arrived after one result object but six acquired source objects. | Treat ingress and activation units as one prospective system design. Close Northstar without retry; reconcile the rule offline before selecting another fresh task. |
 
 ## Provisional ownership split for the mechanical comparator
 
@@ -370,13 +380,12 @@ therefore has positive local evidence for durable task-work flow and negative
 evidence against assuming that persistence confers semantic correctness or
 useful completion.
 
-The exact E46 fork is closed. E47 has completed the offline fresh-world
-transfer design and frozen the independent Northstar task, viable comparator,
-candidate-bound evaluator/readiness rules, pressure-screen runner, and
-construction-contingent 22-plus-8 actor budget. The next eligible operation is
-only the separately owner-authorized ordinary 18-call Northstar pressure
-screen. The measured D0/A1 run remains ineligible until that screen establishes
-and commits an authentic result-delivery boundary with positive first-fit
-feasibility. No D1/D3/D4 repair, D6 wording variant, I1–I4 extension, E44 screen
-rerun, E46 longer horizon, maintenance-prompt tuning, or GPU call is authorized
-automatically.
+The exact E46 fork is closed. E47 completed the offline fresh-world design, and
+E48 then exposed authentic pressure before its frozen meaningful-acquisition
+threshold. The Northstar task selection is closed without retry; no measured
+D0/A1 fork exists. The next eligible work is offline systems reconciliation of
+activation semantics for a future fresh task, specifically the interaction
+among batch ingress, evidence coverage, result-object residency, and the point
+at which semantic/artifact coupling becomes eligible. No D1/D3/D4 repair, D6
+wording variant, I1–I4 extension, E44 or Northstar screen rerun, E46 longer
+horizon, maintenance-prompt tuning, or GPU call is authorized automatically.

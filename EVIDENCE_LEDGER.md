@@ -61,6 +61,7 @@ means literal local behavior with a material apparatus qualification.
 | E45 | AF/NQ | matched detached-versus-artifact-coupled continuation freeze | The exact E44 fork now hydrates into two complete post-pressure systems. Both retain live ingress, positive relief, maintenance, effects, incremental edits, checks, repair, reactive reentry, and closure; the treatment changes whether accepted integration remains a detached sidecar or becomes exact task-world state. Provider-free full loops and 27 tests pass. | Apparatus and causal-design qualification only. No measured provider call or behavioral utility result; GPU execution requires new exact authorization. | [measured freeze](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/4937083f29df3247a84b3b399c0a7ae922ddb020) |
 | E46 | LR | detached-versus-artifact-coupled measured interaction | Across 40 actor and 19 maintenance calls, A1 coupling changed candidate state before continuation, reached a full decision/check eight calls earlier, and ended with broader citation. Both systems exhausted 20 actor calls, neither submitted, and both final candidates were independently strong-partial/not-ready; A1 also preserved a stale experimental roadmap. | One task/world/boundary/actor seed and fixed arm order. Condition-masked investigator adjudication, not third-party blind. Behavioral leverage and durable task-work flow are supported locally; useful-completion advantage, semantic dominance, transfer, and architecture value are not. | [measured result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/c11d55a7f143747156831de0b189523ee1bcd776) |
 | E47 | AF/NQ | Northstar fresh-world artifact-coupling transfer Stage 0 | A new 14-source Northstar migration world, matched D0/A1 whole systems, candidate-bound evaluator/readiness protocol, authentic pressure screen, and construction-contingent 22-plus-8 actor budget are frozen. Thirty-six tests and provider-free D0/A1 loops pass through effect uptake, check, repair, recheck, and closure. | Zero provider calls. Fixtures qualify apparatus and decision geometry, not behavioral utility or activation. The 61,500-token accessible world is not pressure evidence; a separately authorized ordinary live screen must establish the exact pending-result fork. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/40272d6cc0c5aa2eda7bb5df9394ff02d767829d) |
+| E48 | LR/AF/NQ | Northstar early pressure screen | Two valid batch reads used one attempt each. Delivered `RESULT-001` covered S01–S03; pending `RESULT-002` covered S04–S06 and made the next prompt 25,705 tokens, 4,713 above the allowance. Demoting `RESULT-001` would reduce it to 14,654 tokens. | The frozen gate required four prior delivered source-observation result objects, but only one batch result object had crossed a later actor boundary. The sealed run is mechanically valid but scientifically ineligible; task selection closed, no D0/A1 fork exists, and no retry is authorized. | [screen result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/454c605e896a48878673686864552af20f52c5b0) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
@@ -608,3 +609,31 @@ runners, and preflight are qualified. No provider call occurred. Authentic
 interaction activation is not inferred from the 61,500-token corpus; the next
 gate is the separately authorized ordinary 18-call pressure screen, and the
 measured fork remains ineligible until its exact boundary is committed.
+
+## E48 — Northstar ineligible early pressure screen
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@454c605e896a48878673686864552af20f52c5b0`
+
+The authorized screen made two valid `read_batch` decisions with one attempt
+per call and zero retries. The first exact result, covering S01–S03, crossed a
+later actor boundary. The second, covering S04–S06, remained pending and made
+the next ordinary prompt 25,705 tokens against the 20,992-token allowance. The
+candidate stayed exact-initial, and neither check nor submission occurred.
+
+A positive first-fit substitution of the delivered first batch would admit the
+pending result at 14,654 tokens. Capacity pressure and relief feasibility are
+therefore authentic. The causal fork is not: the frozen gate required four
+prior delivered source-observation result objects, while only one three-source
+batch object was delivered. The task selection closed under its prospective
+stop rule.
+
+A separate post-run checker reconciles the seal, provider custody, exact token
+count, candidate and pending-result identity, relief, and runtime release. It
+also records that the frozen runner omitted a task-lock field required by the
+qualification auditor; the exact lock remained verified in the freeze binding,
+and the defect did not affect scientific ineligibility.
+
+Disposition: **LR/AF/NQ** — authentic early pressure and a batch-ingress by
+residency interaction are supported locally. Artifact-coupling utility,
+semantic quality, a measured fork, same-task retry, and gate relaxation are not.

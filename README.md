@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 35 experiment commit bindings were resolved through the named local
+The current 36 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -184,9 +184,17 @@ post-construction check/repair/recheck/closure path. Thirty-six tests and both
 provider-free full-loop fixtures pass. See
 [E47_NORTHSTAR_TRANSFER_STAGE0_HANDOFF.md](E47_NORTHSTAR_TRANSFER_STAGE0_HANDOFF.md).
 
-No GPU run is authorized by these documents. The next eligible operation is
-the frozen ordinary 18-call Northstar pressure screen. It must establish
-realized pending-result pressure and positive first-fit feasibility; the
-61,500-token accessible world is not itself an activation result. The measured
-D0/A1 fork remains ineligible until that live boundary is sealed. The exact E46
+The authorized Northstar screen is complete at
+[`qwen38-artifact-coupled-integration-scout-v0@454c605`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/454c605e896a48878673686864552af20f52c5b0).
+Two valid three-source batch reads created authentic pressure after only one
+prior batch-result object had crossed an actor boundary. The 4,713-token
+overflow and positive first-fit relief are mechanically real, but the frozen
+four-observation threshold was not met. The Northstar task selection is closed,
+and no measured D0/A1 fork exists. See
+[E48_NORTHSTAR_PRESSURE_SCREEN_RESULT.md](E48_NORTHSTAR_PRESSURE_SCREEN_RESULT.md).
+
+No GPU run is authorized by these documents. The next eligible work is offline
+systems reconciliation for a future fresh task whose activation semantics are
+prospectively aligned with its allowed ingress geometry. The Northstar screen
+must not be retried or regraded after the observed outcome, and the exact E46
 boundary remains closed to same-route extension or prompt tuning.

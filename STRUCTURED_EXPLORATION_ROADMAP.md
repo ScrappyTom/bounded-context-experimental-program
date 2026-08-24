@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: Northstar fresh-world transfer Stage 0 frozen; authentic pressure screen is the next gate
+Status: Northstar screen closed ineligible; future activation semantics require offline systems reconciliation
 
 ## Research-phase reset
 
@@ -472,13 +472,19 @@ actor budget. The latter leaves a four-decision clean path plus four-decision
 allowance after construction for effect uptake, check, repair, recheck, and
 closure. Provider-free full-loop fixtures and 36 tests pass.
 
-Transfer remains a falsification gate. If coupling again accelerates
-construction without improving candidate-bound quality or readiness, the
-route should be deprioritized. The next eligible operation is not the measured
-fork: it is the frozen 18-call ordinary Northstar pressure screen. It must
-observe authentic pending-result overflow after meaningful acquisition and
-prove strictly positive first-fit feasibility. Accessible corpus size is not
-accepted as activation, and no GPU call is authorized by this roadmap.
+Transfer remains a falsification gate, but Northstar did not reach its causal
+comparison. Its live screen made one three-source batch visible and acquired a
+second three-source batch; the pending result then overflowed by 4,713 tokens.
+Positive relief was feasible, but the frozen gate required four prior delivered
+result objects. The task selection therefore closed as scientifically
+ineligible rather than relaxing the threshold after observing the run.
+
+This is itself an interaction result: batch ingress increased evidence per
+decision while accelerating residency pressure relative to an activation rule
+defined in result-object units. The next eligible work is offline systems
+reconciliation for a future fresh task. Its meaningful-acquisition condition
+must be frozen in units consistent with its ingress geometry. No Northstar
+rerun, D0/A1 continuation, or GPU call is authorized by this roadmap.
 
 ## What will not be optimized in this phase
 
