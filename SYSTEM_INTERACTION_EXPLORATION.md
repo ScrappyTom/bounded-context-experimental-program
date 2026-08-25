@@ -437,6 +437,41 @@ Before GPU authorization, the checkpoint must establish:
 Failure of an apparatus gate blocks the scout. It does not become a measured
 negative for semantic persistence, exact work, or their interaction.
 
+## Current Stage 0: ingress-aligned Cedar transfer
+
+E48 showed that an activation rule expressed in delivered result objects is
+not invariant to an action surface that can package several sources into one
+result. The current Cedar design therefore freezes activation below the
+transport layer:
+
+```text
+delivered exact source-line intervals
+        -> union by source
+        -> source qualifies at 55/70 unique lines
+        -> at least four sources across three evidence domains
+        + pending observation contains novel source lines
+        + authentic result-delivery overflow
+        + protected-pending positive first-fit relief
+```
+
+This rule does not infer that four sources are semantically sufficient for the
+task. It establishes that materially distributed acquisition has occurred
+before the experimental fork. The domain taxonomy and thresholds are frozen
+before inference, host-computed, and absent from the actor-facing catalog.
+
+The permitted transport and gate were qualified together. All sixteen full
+single-source observations and all 120 full two-source batches fit their exact
+limits. A synthetic ordinary chronology reaches the coverage/domain gate at
+11,712 prompt tokens and a later admissible result produces an exact
+1,827-token overflow that one positive-savings substitution resolves. This is
+prospective reachability only; live actor demand remains the boundary selector.
+
+If the separately authorized screen qualifies, D0 and A1 will start from the
+same exact fork and retain the full ingress-to-closure loop. The design does
+not isolate semantic maintenance from artifact effects or feedback. If the
+screen pressures early, completes, or exhausts its budget before the gate, the
+task closes without retry or threshold repair.
+
 ## What is not selected
 
 This direction does not authorize:

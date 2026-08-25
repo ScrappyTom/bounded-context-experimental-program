@@ -106,17 +106,36 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         )
         transfer = self.contract["next_system_interaction"]
         self.assertEqual(
-            "fresh_world_artifact_coupling_transfer_stage0_selected_not_implemented",
+            "cedar_ingress_aligned_stage0_qualified_live_pressure_screen_pending",
             transfer["status"],
         )
-        self.assertEqual("not_started", transfer["implementation"])
+        self.assertEqual("offline_qualified", transfer["implementation"])
         self.assertFalse(transfer["gpu_authorized"])
+        self.assertEqual(
+            "a48d67a8cd888fd54b9c7a59a7e8f1dcd094241f",
+            transfer["stage0_commit"],
+        )
+        self.assertEqual(
+            "union_of_exact_source_lines_delivered_across_prior_actor_boundaries",
+            transfer["activation"]["unit"],
+        )
+        self.assertEqual(4, transfer["activation"]["minimum_qualifying_sources"])
+        self.assertEqual(3, transfer["activation"]["minimum_evidence_domains"])
+        self.assertFalse(transfer["activation"]["host_metadata_actor_visible"])
+        self.assertTrue(transfer["permitted_ingress"]["all_full_pairs_admissible"])
+        self.assertEqual(11712, transfer["prospective_geometry"]["maturity_prompt_tokens"])
+        self.assertEqual(1827, transfer["prospective_geometry"]["pressure_overflow_tokens"])
+        self.assertEqual(
+            "reachability_not_authentic_activation",
+            transfer["prospective_geometry"]["claim_limit"],
+        )
+        self.assertFalse(transfer["next_gate"]["gpu_authorized"])
         self.assertIn(
             "prospective_budget_after_first_construction_for_effect_uptake_check_repair_recheck_and_closure",
             transfer["required_properties"],
         )
         self.assertIn(
-            "longer_E46_same_boundary_continuation",
+            "northstar_retry_or_regrade",
             transfer["forbidden_successors"],
         )
         self.assertEqual("authentic_prompt_pressure", self.contract["required_activation"])

@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 36 experiment commit bindings were resolved through the named local
+The current 37 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -193,8 +193,22 @@ four-observation threshold was not met. The Northstar task selection is closed,
 and no measured D0/A1 fork exists. See
 [E48_NORTHSTAR_PRESSURE_SCREEN_RESULT.md](E48_NORTHSTAR_PRESSURE_SCREEN_RESULT.md).
 
-No GPU run is authorized by these documents. The next eligible work is offline
-systems reconciliation for a future fresh task whose activation semantics are
-prospectively aligned with its allowed ingress geometry. The Northstar screen
-must not be retried or regraded after the observed outcome, and the exact E46
-boundary remains closed to same-route extension or prompt tuning.
+That offline reconciliation is now complete. The fresh Cedar design is frozen
+at
+[`qwen38-artifact-coupled-integration-scout-v0@a48d67a`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/a48d67a8cd888fd54b9c7a59a7e8f1dcd094241f).
+Its activation unit is the union of exact source lines delivered across actor
+boundaries: four sources must each reach 55/70 lines across at least three
+host-frozen evidence domains, and a pending result must add novel lines.
+Result packaging, action count, world size, and host semantic readiness cannot
+qualify the gate. All sixteen full singles and all 120 permitted two-source
+batches fit the exact ingress cap. A prospective path reaches four-source,
+four-domain maturity at 11,712 prompt tokens and later reaches a feasible
+1,827-token result-delivery overflow. Provider-free full-system loops and 39
+tests pass. See
+[E49_CEDAR_INGRESS_ALIGNED_STAGE0_HANDOFF.md](E49_CEDAR_INGRESS_ALIGNED_STAGE0_HANDOFF.md).
+
+No GPU run is authorized by these documents. The next eligible work is the
+separately authorized 20-call ordinary Cedar pressure screen at the frozen E49
+commit. The Northstar screen must not be retried or regraded, prospective
+geometry must not be reported as live activation, and the measured Cedar D0/A1
+fork remains locked until an eligible boundary is audited and committed.

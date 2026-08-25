@@ -380,12 +380,31 @@ therefore has positive local evidence for durable task-work flow and negative
 evidence against assuming that persistence confers semantic correctness or
 useful completion.
 
-The exact E46 fork is closed. E47 completed the offline fresh-world design, and
-E48 then exposed authentic pressure before its frozen meaningful-acquisition
-threshold. The Northstar task selection is closed without retry; no measured
-D0/A1 fork exists. The next eligible work is offline systems reconciliation of
-activation semantics for a future fresh task, specifically the interaction
-among batch ingress, evidence coverage, result-object residency, and the point
-at which semantic/artifact coupling becomes eligible. No D1/D3/D4 repair, D6
-wording variant, I1–I4 extension, E44 or Northstar screen rerun, E46 longer
-horizon, maintenance-prompt tuning, or GPU call is authorized automatically.
+The exact E46 fork is closed. E47 completed the offline Northstar design, and
+E48 then exposed authentic pressure before its frozen result-object-count
+threshold. Northstar is closed without retry and has no measured D0/A1 fork.
+
+E49 completes the required offline reconciliation on a genuinely fresh Cedar
+task. Activation is now invariant to result packaging: it is computed from the
+union of exact source lines that crossed actor boundaries, requiring four
+sources at 55/70 lines across at least three frozen evidence domains plus novel
+pending lines. Result-object count, action count, world size, and host semantic
+readiness cannot qualify the gate. Domain and threshold metadata are omitted
+from the actor-facing catalog.
+
+The exact permitted ingress geometry was exhaustively enumerated. All sixteen
+full singles and all 120 full two-source batches are admissible. Two batches can
+reach four-source/four-domain maturity at 11,712 prompt tokens, and a later
+admissible result can create a 1,827-token overflow with positive first-fit
+relief. This establishes prospective reachability, not realized demand. An
+early live overflow still closes Cedar as non-diagnostic rather than changing
+the rule after observing behavior.
+
+The next eligible operation is therefore the frozen 20-call ordinary Cedar
+pressure screen at
+`qwen38-artifact-coupled-integration-scout-v0@a48d67a8cd888fd54b9c7a59a7e8f1dcd094241f`,
+subject to separate owner authorization. It contains no treatment. A measured
+D0/A1 fork remains prohibited until a qualifying exact boundary is audited,
+committed, refrozen, and separately authorized. No D1/D3/D4 repair, D6 wording
+variant, I1–I4 extension, E44/Northstar rerun, E46 longer horizon,
+maintenance-prompt tuning, or GPU call is authorized automatically.

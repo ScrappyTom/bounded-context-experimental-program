@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: Northstar screen closed ineligible; future activation semantics require offline systems reconciliation
+Status: Cedar ingress-aligned Stage 0 qualified offline; authentic live pressure pending
 
 ## Research-phase reset
 
@@ -481,10 +481,37 @@ ineligible rather than relaxing the threshold after observing the run.
 
 This is itself an interaction result: batch ingress increased evidence per
 decision while accelerating residency pressure relative to an activation rule
-defined in result-object units. The next eligible work is offline systems
-reconciliation for a future fresh task. Its meaningful-acquisition condition
-must be frozen in units consistent with its ingress geometry. No Northstar
-rerun, D0/A1 continuation, or GPU call is authorized by this roadmap.
+defined in result-object units. Northstar remains closed without rerun.
+
+### E49 Cedar ingress-aligned Stage 0
+
+The successor is frozen at
+`qwen38-artifact-coupled-integration-scout-v0@a48d67a8cd888fd54b9c7a59a7e8f1dcd094241f`.
+It uses source-line coverage as an invariant below single-versus-batch
+packaging. Four sources must each deliver at least 55/70 unique lines across at
+least three frozen evidence domains, and the pending result must add novel
+lines. Host semantic readiness, result count, action count, and accessible
+world size are not gates. Eligibility metadata is host-private.
+
+The 16-source Cedar world and exact action renderer show that every full single
+and every full two-source batch is admissible. A frozen synthetic path reaches
+the maturity rule at 11,712 prompt tokens and later reaches a feasible
+1,827-token pending-result overflow. This is the prospective systems check E48
+showed was missing: the activation condition and the allowed ingress geometry
+can coexist before pressure. It is not a substitute for a live trajectory.
+
+The future D0/A1 comparison remains a whole-system interaction. Both arms keep
+ingress, exact custody/reopen, positive-savings relief, semantic maintenance,
+incremental artifact effects, candidate-bound feedback, repair, recheck,
+closure, and external readiness evaluation active. The treatment remains only
+whether accepted integration is detached or exact task work.
+
+The next gate is the frozen 20-call ordinary Cedar pressure screen. It requires
+separate authorization and carries no treatment. Pressure before maturity,
+completion before pressure, or budget exhaustion closes this task as
+non-diagnostic. Only an eligible audited result commit may support a new
+measured freeze and separate D0/A1 authorization. No GPU call is authorized by
+this roadmap.
 
 ## What will not be optimized in this phase
 

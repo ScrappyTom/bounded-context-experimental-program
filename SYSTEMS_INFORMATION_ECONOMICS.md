@@ -500,6 +500,44 @@ criterion status, candidate binding, readiness, and a raw handle while exact
 UUID/time/path bytes remain external. This is deterministic materialization,
 not semantic repair.
 
+## Activation semantics are part of transport economics
+
+The Northstar screen added a second activation lesson. Its actor-facing batch
+action could acquire three sources in one result, while the experimental gate
+counted delivered result objects. Authentic pressure followed two batch
+actions: six sources had been acquired, but the rule observed only one prior
+result object. The run remained scientifically ineligible under its frozen
+contract.
+
+Thus an activation metric is not neutral bookkeeping. Its unit interacts with
+the information transport:
+
+```text
+source coverage per action
+    x packaging of observations into results
+    x result size and residency cost
+    x activation threshold unit
+    -> whether a scientifically meaningful fork is reachable before pressure
+```
+
+The Cedar Stage 0 corrects this prospectively by unioning exact delivered
+source-line intervals. A source matures at 55/70 lines; four matured sources
+must span three frozen evidence domains; the pending result must add novel
+lines. The metric is invariant to full reads, split reads, overlapping reads,
+and one- versus two-range result packaging. Host semantic readiness, action
+count, result count, and total world size are excluded.
+
+This is still a designed experimental maturity condition, not a claim that the
+actor knows enough to solve the task. Its economic purpose is narrower: ensure
+that a later treatment is introduced only after distributed evidence has
+actually crossed model boundaries, while allowing the actor's permitted
+ingress policy to determine how efficiently that coverage arrives.
+
+Exact prospective rendering now shows coexistence rather than merely a large
+world: maturity can occur at 11,712 prompt tokens, and a later admissible
+observation can create a 1,827-token overflow with positive relief. Only a live
+ordinary trajectory can determine whether that opportunity is realized.
+
 ## Pressure-qualified streaming result
 
 The later Ceiba scout activated authentic prospective overflow and therefore

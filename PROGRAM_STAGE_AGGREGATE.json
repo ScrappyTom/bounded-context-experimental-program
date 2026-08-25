@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 40 successor stages through E48 Northstar ineligible pressure screen",
+  "scope": "parent bank plus 41 successor stages through E49 Cedar ingress-aligned offline Stage 0",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 40,
+    "successor_stages": 41,
     "follow_on_model_calls": 473,
     "follow_on_serialized_tokens": 5939514,
-    "unique_cited_experiment_commits": 36
+    "unique_cited_experiment_commits": 37
   },
   "stages": [
     {
@@ -420,6 +420,16 @@
       "serialized_tokens": 17418,
       "included_in_follow_on_totals": true,
       "primary_disposition": "two valid three-source batch reads produced an authentic 4713-token pending-result overflow and feasible positive relief, but only one prior result object had crossed a model boundary; the frozen four-observation gate failed, the Northstar task selection closed, and no measured D0/A1 fork exists"
+    },
+    {
+      "stage_id": "S41",
+      "name": "Cedar ingress-aligned artifact-coupling transfer offline Stage 0",
+      "stage_type": "eligibility",
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "a48d67a8cd888fd54b9c7a59a7e8f1dcd094241f", "count_as_experiment_commit": true}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "fresh Cedar task aligns activation with exact delivered source-line coverage under one- or two-range ingress; all full singles and pairs are admissible, prospective maturity precedes feasible pressure, provider-free whole loops and 39 tests pass, and authentic live activation remains pending"
     }
   ]
 }

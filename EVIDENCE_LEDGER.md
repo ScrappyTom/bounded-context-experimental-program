@@ -62,6 +62,7 @@ means literal local behavior with a material apparatus qualification.
 | E46 | LR | detached-versus-artifact-coupled measured interaction | Across 40 actor and 19 maintenance calls, A1 coupling changed candidate state before continuation, reached a full decision/check eight calls earlier, and ended with broader citation. Both systems exhausted 20 actor calls, neither submitted, and both final candidates were independently strong-partial/not-ready; A1 also preserved a stale experimental roadmap. | One task/world/boundary/actor seed and fixed arm order. Condition-masked investigator adjudication, not third-party blind. Behavioral leverage and durable task-work flow are supported locally; useful-completion advantage, semantic dominance, transfer, and architecture value are not. | [measured result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/c11d55a7f143747156831de0b189523ee1bcd776) |
 | E47 | AF/NQ | Northstar fresh-world artifact-coupling transfer Stage 0 | A new 14-source Northstar migration world, matched D0/A1 whole systems, candidate-bound evaluator/readiness protocol, authentic pressure screen, and construction-contingent 22-plus-8 actor budget are frozen. Thirty-six tests and provider-free D0/A1 loops pass through effect uptake, check, repair, recheck, and closure. | Zero provider calls. Fixtures qualify apparatus and decision geometry, not behavioral utility or activation. The 61,500-token accessible world is not pressure evidence; a separately authorized ordinary live screen must establish the exact pending-result fork. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/40272d6cc0c5aa2eda7bb5df9394ff02d767829d) |
 | E48 | LR/AF/NQ | Northstar early pressure screen | Two valid batch reads used one attempt each. Delivered `RESULT-001` covered S01–S03; pending `RESULT-002` covered S04–S06 and made the next prompt 25,705 tokens, 4,713 above the allowance. Demoting `RESULT-001` would reduce it to 14,654 tokens. | The frozen gate required four prior delivered source-observation result objects, but only one batch result object had crossed a later actor boundary. The sealed run is mechanically valid but scientifically ineligible; task selection closed, no D0/A1 fork exists, and no retry is authorized. | [screen result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/454c605e896a48878673686864552af20f52c5b0) |
+| E49 | AF/NQ | Cedar ingress-aligned interaction Stage 0 | A fresh 16-source task freezes activation as delivered exact line coverage: four sources at 55/70 unique lines across three evidence domains plus novel pending lines. Every full single and two-source batch is admissible; prospective maturity fits at 11,712 tokens and a later admissible result creates a feasible 1,827-token overflow. Provider-free D0/A1 loops and 39 tests pass. | Zero provider calls. Exact geometry proves reachability, not authentic pressure, actor demand, coupling utility, or readiness. The ordinary Cedar screen and measured fork remain separately unauthorized. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/a48d67a8cd888fd54b9c7a59a7e8f1dcd094241f) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
@@ -637,3 +638,36 @@ and the defect did not affect scientific ineligibility.
 Disposition: **LR/AF/NQ** — authentic early pressure and a batch-ingress by
 residency interaction are supported locally. Artifact-coupling utility,
 semantic quality, a measured fork, same-task retry, and gate relaxation are not.
+
+## E49 — Cedar ingress-aligned interaction offline Stage 0
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@a48d67a8cd888fd54b9c7a59a7e8f1dcd094241f`
+
+The fresh Cedar wildfire-evacuation task uses sixteen deterministic 70-line
+sources across eleven evidence domains. Its permitted ingress is one range or
+an actor-selected batch of at most two ranges. Stage 0 rendered every full
+single and every one of the 120 possible full two-source pairs through the
+frozen wrapper/tokenizer; all fit the 6,500-token observation cap.
+
+Activation is no longer coupled to result packaging. The host unions exact
+source-line intervals that have crossed later actor boundaries. A source
+qualifies after 55 unique lines, and the fork requires four qualifying sources
+across three frozen domains plus novel pending lines. Result count, action
+count, world size, and semantic host judgment are expressly excluded. Domain
+and threshold metadata remain outside the actor-facing catalog.
+
+A prospectively rendered two-batch path reaches four sources/four domains at
+11,712 prompt tokens. A later fifth batch makes the packet 22,819 tokens, 1,827
+over the allowance; one protected-pending first-fit replacement lowers it to
+19,324. This proves the maturity gate can precede pressure under the exact
+allowed transport. It does not prove the actor will realize that path.
+
+The future D0/A1 comparator preserves the complete evidence-to-artifact loop,
+and an event-contingent 26-plus-8 actor budget leaves an explicit
+check/repair/recheck/closure tail after construction. Provider-free full loops,
+preflight, compilation, and 39 tests pass.
+
+Disposition: **AF/NQ** — task, geometry, activation semantics, comparator,
+evaluation, and apparatus qualify offline. Authentic activation and behavioral
+utility remain unmeasured. No provider call or measured authorization exists.

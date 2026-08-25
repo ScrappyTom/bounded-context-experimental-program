@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: measured local mixed result complete; same-boundary route closed; fresh-world transfer Stage 0 pending
+Status: measured local mixed result complete; Northstar closed ineligible; Cedar ingress-aligned transfer Stage 0 qualified offline
 
 Implementation binding:
 [qwen38-artifact-coupled-integration-scout-v0@7d71c7d](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7d71c7d666403da7f0be9494a77a771435144f69)
@@ -345,4 +345,32 @@ the first outcome is harmful.
 No GPU work is authorized by this document. The measured boundary is complete,
 and no architecture component is promoted. A future transfer requires a new
 task/world, offline Stage 0, frozen evaluator and horizon, and separate owner
+authorization.
+
+## Transfer update: Northstar closure and Cedar Stage 0
+
+Northstar supplied the fresh world but not an eligible fork. Its batch ingress
+acquired six sources in two results and reached real pressure after only one
+result object crossed a later decision, while the frozen gate counted result
+objects. The sealed screen remains valid and closed; it cannot be retried or
+regraded.
+
+Cedar now supplies the prospectively aligned successor at
+`qwen38-artifact-coupled-integration-scout-v0@a48d67a8cd888fd54b9c7a59a7e8f1dcd094241f`.
+The gate unions exact delivered source lines, requires four 55/70-line sources
+across three evidence domains, and requires novel pending lines. It is
+invariant to one- versus two-range result packaging and keeps the experimental
+domain metadata hidden from the actor.
+
+Exact enumeration shows every full single and two-source pair is admissible.
+Maturity fits at 11,712 prompt tokens; a later admissible observation can
+create a 1,827-token overflow with positive relief. Provider-free D0/A1 loops
+retain the complete ingress, pressure, maintenance, exact artifact, effect,
+check, repair, recheck, closure, and adjudication interaction. Thirty-nine
+tests pass.
+
+These are offline apparatus and reachability facts. The next live operation is
+the frozen 20-call ordinary Cedar screen, which requires separate owner
+authorization. It contains no treatment. The measured comparison remains
+locked behind a separately audited and committed qualifying boundary and a new
 authorization.
