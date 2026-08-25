@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
-  "date": "2026-08-24",
-  "status": "cedar_transfer_measured_maintenance_work_verification_interaction_selected_offline",
+  "date": "2026-08-25",
+  "status": "e57_reconciled_complete_global_replacement_closed_source_local_delta_system_stage0_selected",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "authentic_prompt_pressure",
@@ -306,31 +306,32 @@
     "governing_document": "E52_CEDAR_ARTIFACT_COUPLING_TRANSFER_RESULT.md"
   },
   "next_system_interaction": {
-    "status": "offline_system_interaction_design_selected",
-    "question": "How do maintenance cadence, ingress grouping, exact cumulative work, candidate-effect uptake, and protected verification bandwidth jointly determine whether pressure-streamed evidence becomes source-correct and closure-ready work?",
+    "status": "fresh_source_local_delta_system_stage0_selected",
+    "question": "Under authentic pressure, does source-local semantic transformation mechanically coupled into exact task work produce more source-correct cumulative work, current verification, and appropriate closure than direct actor-authored exact work?",
     "unit_of_analysis": "complete_pressure_active_evidence_to_work_to_feedback_to_closure_trajectory",
-    "design_donor": "E52_Cedar_terminal_and_maintenance_history",
-    "measurement_requires": "fresh_task_or_untouched_seed",
+    "design_donor": "E57_complete_replacement_cross_trajectory_reconciliation",
+    "measurement_requires": "fresh_task_with_non_isomorphic_source_ids_and_many_to_many_requirement_relations",
     "candidate_configuration_families": [
-      "synchronous_per_externalization_maintenance_with_exact_work",
-      "mechanically_batched_maintenance_with_exact_work",
-      "direct_actor_authored_incremental_work_without_per_demotion_maintenance"
+      "W0_direct_actor_authored_exact_evidence_and_artifact_work",
+      "L1_source_local_semantic_delta_mechanically_merged_into_exact_source_version_slots"
     ],
     "common_live_functions": [
       "authentic_pressure_and_positive_savings_relief",
       "exact_external_custody_and_reopen",
       "actor_selected_ingress",
+      "bounded_exact_source_version_register",
       "exact_versioned_task_work",
       "candidate_bound_effects_and_currentness",
       "check_repair_recheck_and_closure_surface",
       "independent_semantic_quality_and_readiness"
     ],
     "offline_preconditions": [
-      "reconstruct_all_36_maintenance_inputs_outputs_acceptance_and_costs",
-      "measure_semantic_content_in_rejected_outputs_without_retroactive_admission",
-      "bind_accepted_updates_to_later_candidate_versions_and_actor_actions",
-      "compute_provider_and_verification_bandwidth_under_each_candidate_cadence",
-      "freeze_mechanical_nonsemantic_maintenance_triggers",
+      "select_fresh_many_to_many_source_world_without_requirement_source_number_cueing",
+      "freeze_source_local_delta_scope_and_mechanical_per_source_merge",
+      "qualify_partial_input_delta_later_delta_and_source_version_replacement",
+      "qualify_direct_actor_register_and_incremental_artifact_actions",
+      "establish_authentic_realized_pressure_and_positive_relief",
+      "protect_effect_check_repair_recheck_and_closure_opportunity",
       "qualify_every_arm_as_a_viable_whole_system"
     ],
     "primary_outcomes": [
@@ -341,22 +342,26 @@
       "useful_completion"
     ],
     "secondary_outcomes": [
-      "maintenance_acceptance_and_rewrite_count",
+      "new_exact_evidence_capitalization_and_no_op_delta_count",
+      "unsupported_or_wrong_source_bindings",
+      "source_slot_turnover_and_register_growth",
       "actor_maintenance_and_total_provider_calls",
       "serialized_tokens_cache_and_latency",
       "evidence_turnover_reopens_and_reentry",
       "failure_migration"
     ],
     "forbidden_shortcuts": [
-      "same_boundary_prompt_wording_tune",
-      "maintenance_expression_acceptance_as_primary_utility",
+      "reuse_or_repair_Bluehaven",
+      "complete_global_ledger_third_arm",
+      "maturity_controller_inferred_from_one_world",
+      "delta_expression_acceptance_as_primary_utility",
       "relief_versus_death_control",
       "arm_without_exact_work_or_independent_evaluation",
       "post_outcome_semantic_trigger",
-      "automatic_promotion_from_A1_breadth"
+      "maintenance_readiness_or_submission_authority"
     ],
     "gpu_authorized": false,
-    "governing_document": "E52_CEDAR_ARTIFACT_COUPLING_TRANSFER_RESULT.md"
+    "governing_document": "NEXT_SYSTEM_INTERACTION_EVIDENCE_DELTA_SCOUT.md"
   },
   "common_live_functions": [
     "exact_external_custody",

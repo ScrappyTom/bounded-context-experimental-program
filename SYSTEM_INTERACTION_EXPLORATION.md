@@ -1,8 +1,8 @@
 # System-interaction exploration
 
-Date: 2026-08-24
+Date: 2026-08-25
 
-Status: governing direction; Bluehaven exposes partial-evidence semantic-completion hazard; frozen whole-system fork closed pending offline reconciliation
+Status: governing direction; E57 finds complete-global semantic replacement overloaded across worlds and selects source-local-delta × direct exact-work interaction Stage 0
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -652,3 +652,40 @@ The frozen B1/W1 comparison is therefore ineligible. The next systems step is
 not a revised B1 prompt on Bluehaven. It is an offline recurrence audit across
 prior maintenance runs, followed—if warranted—by a fresh whole-configuration
 comparison whose trigger is prospectively aligned with evidence maturity.
+
+## E57: evidence maturity is conditional; complete replacement is recurrent
+
+The offline recurrence audit does not justify an evidence-maturity controller.
+Only Bluehaven filled unseen requirements with unsupported content. Cedar's
+early partial-evidence outputs represented missingness correctly, showing that
+task geometry, identifier cues, prior state, and requested completeness all
+condition the outcome.
+
+The audit instead identifies a cross-world interaction around complete state
+replacement. Eight admitted E46/Cedar updates were byte-identical to prior
+accepted state despite new exact evidence. E46 retained a stale roadmap in
+coupled exact work. Cedar's complete carrier failed 26/36 calls across the two
+arms and displaced the verification tail. Bluehaven completed unsupported
+rows. A later trigger cannot by itself solve preservation, integration,
+currentness, and boundedness being recomputed together.
+
+The next candidate whole-system contrast replaces global rewriting with a
+source-scoped transformation:
+
+```text
+W0: actor-selected ingress -> actor-authored exact evidence/work
+L1: actor-selected ingress -> bounded source-local semantic delta
+                            -> mechanical source/version merge
+                            -> actor-authored exact artifact work
+```
+
+The transform can speak only about exact sources in its current input. It
+cannot fill a complete task ledger, edit unrelated source slots, or authorize
+readiness. The exact evidence register, artifact effects, current checks,
+repair, recheck, and closure surface remain inside the measured loop.
+
+This is not a component qualification dressed as a system study. Expression
+is a prospective gate; primary interpretation follows the complete
+configuration through induced demand, source-grounded artifact quality,
+effect uptake, verification, and readiness. The detailed Stage 0 contract is
+`NEXT_SYSTEM_INTERACTION_EVIDENCE_DELTA_SCOUT.md`.

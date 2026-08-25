@@ -1,0 +1,117 @@
+{
+  "schema_version": "evidence-maturity-reconciliation-config-v0",
+  "created": "2026-08-25",
+  "source_mode": "pinned_git_objects",
+  "repository": {
+    "id": "artifact_coupling",
+    "path": "E:\\qwen38-artifact-coupled-integration-scout-v0"
+  },
+  "donors": [
+    {
+      "stage_id": "E42",
+      "world_id": "architecture_program",
+      "role": "transport_reference",
+      "commit": "4879237170eae60735afbac55dabaf578d6a5aae",
+      "root": "qualification_runs/2026-08-24-artifact-coupled-maintenance-expression-qualification-v0/calls",
+      "result_glob": "*/RESULT.json",
+      "task_path": "task/TASK.md",
+      "task_lock_path": "task/TASK_SOURCE_LOCK.json"
+    },
+    {
+      "stage_id": "E46",
+      "world_id": "architecture_program",
+      "role": "trajectory_evidence",
+      "commit": "c11d55a7f143747156831de0b189523ee1bcd776",
+      "root": "runs/2026-08-24-artifact-coupled-interaction-measured-v0/cells",
+      "result_glob": "*/maintenance/*/RESULT.json",
+      "task_path": "task/TASK.md",
+      "task_lock_path": "task/TASK_SOURCE_LOCK.json",
+      "semantic_adjudication_path": "SEMANTIC_ADJUDICATION.json"
+    },
+    {
+      "stage_id": "E52",
+      "world_id": "cedar_valley",
+      "role": "trajectory_evidence",
+      "commit": "eec64f42564ebd014e048e6897485b095c634aa3",
+      "root": "runs/2026-08-25-cedar-artifact-coupling-transfer-measured-v0/cells",
+      "result_glob": "*/maintenance/*/RESULT.json",
+      "task_path": "task/TASK.md",
+      "task_lock_path": "task/TASK_SOURCE_LOCK.json",
+      "semantic_adjudication_path": "CEDAR_SEMANTIC_ADJUDICATION.json"
+    },
+    {
+      "stage_id": "E56",
+      "world_id": "bluehaven",
+      "role": "trajectory_evidence",
+      "commit": "9c0fdc537f26ff0a44f2cebc54c580cbd5f7b65d",
+      "root": "qualification_runs/2026-08-25-bluehaven-batched-maintenance-expression-qualification-v0/calls",
+      "result_glob": "*/RESULT.json",
+      "task_path": "task_bluehaven/TASK.md",
+      "task_lock_path": "task_bluehaven/TASK_SOURCE_LOCK.json"
+    }
+  ],
+  "semantic_annotations": {
+    "7fb5ee436cf5f336d7f52092b621556c42db6e4f6ee6c2a8f36fb671847a3d1b": {
+      "classifications": [
+        "grounded_partial_state",
+        "stale_semantic_selection"
+      ],
+      "basis": "The output is source-bound to broad S02/S03 program documents and marks unresolved evidence, but R11 selects an older ingress-by-work route from S02 rather than the later active artifact-coupling route in the same exact source. It then recurs byte-identically while corrective sources arrive."
+    },
+    "eb033f302a1b873deafb5410dd3e6ee7c930662b2cb08cae39db26b337064687": {
+      "classifications": [
+        "grounded_partial_state",
+        "stale_semantic_selection",
+        "downstream_capitalization"
+      ],
+      "basis": "This accepted maintenance output is the final coupled ledger. The frozen E46 adjudication finds its R11 roadmap materially stale; exact artifact coupling preserved that state into the final candidate."
+    },
+    "b248771bce2807ae058f29ae700ac3e90f858e8461d0caf0c7deb3af65aa5fa7": {
+      "classifications": [
+        "grounded_partial_state",
+        "carrier_failure"
+      ],
+      "basis": "With only Cedar S01/S02, the output explicitly marks unsupported R03-R10 evidence missing rather than inventing it. The call failed because the complete replacement exceeded its token budget."
+    },
+    "e2ae5498bda2c5f4d1e6614120811c74e9919d56deab808085315b01234f38f1": {
+      "classifications": [
+        "grounded_partial_state",
+        "identity_only_future_reference",
+        "carrier_failure"
+      ],
+      "basis": "The Cedar output marks absent domains missing. Its disallowed S12 token occurs as an identity-only pointer from exact S07, not as a claim sourced from unseen S12. The call also exceeded the carrier budget."
+    },
+    "faed56bd6a48681792bc6fd0101121e6a06e49d58a39ac4b16f3336b85e326c5": {
+      "classifications": [
+        "grounded_partial_state",
+        "identity_only_future_reference",
+        "carrier_failure"
+      ],
+      "basis": "The Cedar output marks unsupported domains missing. Bare S06/S07 mentions are relationship pointers from allowed S11/S12, not fabricated claims attributed to unseen source bodies. The call also exceeded the carrier budget."
+    },
+    "fb6d640e10fffae530bf4db28c76891c31967476e8fdeee0bed9c2d1b2c5e2c7": {
+      "classifications": [
+        "grounded_partial_state"
+      ],
+      "basis": "This accepted Cedar state is source-grounded and explicitly partial. On the immediately following invocation the same bytes recur after exact S05 fleet evidence is supplied; that context-dependent no-op is classified mechanically on the later record."
+    },
+    "d229fff79fcd41ab0237bd896bebc9ee10b40a458220c412246a82290864a92f": {
+      "classifications": [
+        "unsupported_semantic_completion",
+        "wrong_source_binding"
+      ],
+      "basis": "Only Bluehaven S01-S06 were supplied, yet the output asserted substantive S07-S12 content. Several bindings follow requirement number rather than source meaning: R11 cites S11 as an execution sequence although S11 is workforce, and R12 cites S12 as review blockers although S12 is mutual aid and cost."
+    },
+    "cdd1523acaf705bde22daf8b324a442813e410f7f64fea39cb6fbd164f8042e7": {
+      "classifications": [
+        "grounded_partial_state"
+      ],
+      "basis": "The broader Bluehaven replacement cites only the exact S01-S12 evidence available to the call and keeps readiness/checking unresolved. Admission establishes bounded provenance, not exhaustive semantic correctness."
+    }
+  },
+  "routing_rule": {
+    "unsupported_completion_minimum_independent_worlds": 2,
+    "if_recurrent": "design_fresh_evidence_maturity_triggered_complete_policy_comparison",
+    "if_not_recurrent": "do_not_promote_maturity_controller_and_route_from_recurring_complete_replacement_interaction"
+  }
+}

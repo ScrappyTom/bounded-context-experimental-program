@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 40 experiment commit bindings were resolved through the named local
+The current 44 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -287,3 +287,22 @@ audit in
 [NEXT_OFFLINE_EVIDENCE_MATURITY_RECONCILIATION.md](NEXT_OFFLINE_EVIDENCE_MATURITY_RECONCILIATION.md).
 It will determine whether partial-evidence semantic completion recurs across
 independent worlds before any maturity-triggered policy is designed.
+
+That audit is now complete as
+[E57](E57_EVIDENCE_MATURITY_RECONCILIATION.md). It reconstructed 57 trajectory
+maintenance calls from pinned E46/E52/E56 Git objects and made no provider
+call. Unsupported gap filling remained Bluehaven-local, so a generic
+evidence-maturity trigger was not promoted.
+
+The broader complete-replacement failure recurred. Eight accepted E46/Cedar
+rewrites repeated prior bytes despite new exact evidence; E46 retained a stale
+roadmap in coupled work; Cedar rejected 26/36 complete rewrites; and Bluehaven
+completed unseen rows. The program therefore closes acquisition-time global
+semantic replacement as a default operation.
+
+The next prospective Stage 0 is
+[source-local evidence deltas × direct exact work](NEXT_SYSTEM_INTERACTION_EVIDENCE_DELTA_SCOUT.md)
+on a fresh world. Both candidate configurations retain exact ingress and
+relief, task-native evidence/artifact state, effects, current checks, repair,
+recheck, closure proposal, and independent readiness evaluation. No
+standalone implementation or GPU run is authorized yet.

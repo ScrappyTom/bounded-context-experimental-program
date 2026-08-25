@@ -1403,3 +1403,23 @@ The next eligible stage is offline interaction analysis and prospective
 whole-system design under
 `NEXT_SYSTEM_INTERACTION_MAINTENANCE_WORK_VERIFICATION.md`. It does not
 authorize a GPU call or a maintenance-format tournament.
+
+## Current program phase after E57
+
+The evidence-maturity reconciliation closes complete global semantic
+replacement as the default acquisition-time operation. Literal unsupported
+completion was Bluehaven-local, so no general maturity detector is promoted.
+The recurrent cross-world result is broader: complete rewrites repeated stale
+state, failed to capitalize governing new sources, exceeded their carriers,
+and could make semantic errors exact and durable.
+
+The next research unit is a complete source-local-delta versus direct-exact-
+work system on a fresh world. The semantic arm may transform only its exact
+current batch and may update only mechanically keyed source/version slots.
+Both configurations must continue through incremental artifact construction,
+candidate-bound effects, current feedback, repair/recheck, and independently
+adjudicated closure.
+
+This is prospective Stage 0 work under
+`NEXT_SYSTEM_INTERACTION_EVIDENCE_DELTA_SCOUT.md`. It has no standalone
+implementation or provider authorization yet.

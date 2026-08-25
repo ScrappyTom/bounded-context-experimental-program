@@ -1447,3 +1447,45 @@ but the qualification did not. B1 fails its prospective gate and the B1/W1
 continuation is closed. The next selected work is an offline cross-trajectory
 audit of evidence maturity, completeness pressure, source binding, and
 downstream maintenance use—not a same-world B1 prompt repair.
+
+## 49. The offline audit shifts the problem from maturity to rewrite scope
+
+E57 reconstructed 57 trajectory maintenance calls across E46, Cedar, and
+Bluehaven from pinned Git objects, with E42 used only as a transport reference.
+It made no provider call.
+
+Bluehaven's literal unsupported completion did not recur in a second world.
+Cedar's partial-evidence outputs instead kept absent task domains explicitly
+missing. That closes the predeclared route to a generic evidence-maturity
+controller.
+
+The complete semantic replacement itself showed a recurring failure surface.
+Eight accepted replacements across E46 and Cedar were byte-identical to the
+prior accepted state despite new exact evidence. E46 selected and retained a
+stale roadmap; Cedar's complete rewrite carrier failed 26/36 calls and once
+ignored new S05 evidence governing a missing requirement; Bluehaven filled
+unseen rows and misbound requirement/source numbers.
+
+The causal sequence is now:
+
+```text
+exact streaming and first-fit relief work
+        ↓
+complete semantic replacement is introduced
+        ↓
+partial evidence may be marked missing OR fluently completed
+        ↓
+new evidence may be integrated OR ignored behind prior state
+        ↓
+broader state increases carrier and maintenance cost
+        ↓
+exact coupling preserves whichever semantics survived
+```
+
+The program therefore stops treating “one bounded complete ledger” as the
+default semantic continuity object. The next fresh whole-system scout will
+compare direct actor-authored exact work with source-local semantic deltas
+mechanically merged into exact source/version slots, while keeping ingress,
+pressure relief, incremental artifact effects, current feedback, repair,
+recheck, and readiness in the loop. This is a change in information flow, not
+a Bluehaven prompt repair.

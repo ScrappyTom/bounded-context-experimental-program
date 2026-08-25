@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-25
-Status: current program synthesis; Bluehaven B1 qualification failed on partial-evidence semantic completion; frozen B1/W1 continuation closed
+Status: current program synthesis; E57 closes complete-global semantic replacement as the acquisition-time default and selects a fresh source-local-delta whole-system scout
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -555,3 +555,56 @@ admission, and downstream work. Only then should the program select a fresh
 whole-system comparison, potentially contrasting an evidence-maturity-triggered
 semantic pathway with direct exact work. No GPU call or replacement policy is
 authorized by this reconciliation.
+
+## E57 reconciliation and route correction
+
+That cross-trajectory audit is complete. It reconstructed 57 trajectory
+maintenance invocations and four transport references directly from pinned
+Git objects. The trajectory maintenance work consumed 437,328 serialized
+tokens: 27 outputs were admitted and 30 rejected.
+
+The literal E56 failure did not recur. Cedar's early partial-evidence outputs
+marked absent domains missing rather than fabricating them. Unsupported
+semantic completion therefore remains a one-world result, and the program
+does not promote a generic evidence-maturity trigger.
+
+The complete-replacement operation did fail recurrently at system level:
+
+- six admitted E46 rewrites and two admitted Cedar rewrites were byte-
+  identical to prior state despite new exact evidence;
+- E46's first replacement selected a stale roadmap and repeated it while
+  corrective sources arrived; the coupled final ledger retained the error;
+- Cedar admitted only 5/18 complete rewrites per arm, with the carrier budget
+  consuming maintenance and verification opportunity; and
+- Bluehaven filled unsupported rows and misbound requirement numbers to
+  same-numbered sources.
+
+The corrected lesson is not “wait longer, then rewrite the whole ledger.” It
+is that global replacement bundled retention, new interpretation,
+completeness, currentness, and compression into one overloaded model call.
+Evidence maturity changed which failure appeared.
+
+The next discovery family is therefore a fresh whole-system comparison of:
+
+```text
+W0_DIRECT_EXACT_WORK
+ordinary actor converts exact evidence into a versioned task-native register
+
+L1_LOCAL_DELTA_COUPLED
+a separate bounded pass emits only source-local deltas for its exact input;
+the host mechanically merges those source/version slots into the same exact
+task-native register
+```
+
+Both configurations retain pressure relief, actor-selected ingress,
+incremental artifact work, effect/currentness binding, check, repair, recheck,
+closure proposal, and independent readiness evaluation. The comparison asks
+whether the entire delta-coupled operating policy produces better downstream
+work than direct actor externalization; it is not an isolated delta-format
+test.
+
+The prospective design is
+`NEXT_SYSTEM_INTERACTION_EVIDENCE_DELTA_SCOUT.md`. A new task must use
+many-to-many requirement/source relationships and non-isomorphic identifiers,
+and the local delta may not rewrite unseen or unrelated state. No standalone
+implementation or GPU run is authorized yet.

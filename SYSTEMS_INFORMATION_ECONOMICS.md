@@ -910,6 +910,44 @@ here, but the rejected provider call still cost 12,296 serialized tokens. A
 future trigger based on evidence maturity may avoid that failure, but it is a
 new policy whose opportunity and staleness costs must be measured, not assumed.
 
+## E57: the economic unit was overloaded semantic replacement
+
+The cross-trajectory audit rejects the simplest trigger interpretation.
+Unsupported completion occurred only in Bluehaven; Cedar represented missing
+evidence explicitly under similarly partial inputs. Evidence maturity is
+therefore a conditional state variable, not a sufficient routing rule.
+
+The recurring liability was the economic bundle inside one complete rewrite:
+
+```text
+retain old meaning
++ interpret new evidence
++ fill every task row
++ choose current over stale claims
++ compress into a fixed carrier
+```
+
+Across E46 and Cedar, eight admitted rewrites were byte-identical to the prior
+accepted state despite new exact evidence. They paid provider and carrier cost
+without increasing semantic stock. In Cedar, 26 of 36 maintenance calls were
+rejected; in E46, a stale route survived into exact coupled work; in
+Bluehaven, a small bounded output created false stock and was correctly denied
+admission.
+
+This adds two useful accounting terms:
+
+- **capitalization yield**: how much newly supplied exact evidence becomes
+  valid persistent task work; and
+- **rewrite exposure**: how much previously correct state is re-opened to
+  omission, staleness, or corruption during an update.
+
+Global replacement has high rewrite exposure even when the new information is
+local. The next scout tests a different investment shape: source-local deltas
+whose accepted bytes update only exact source/version slots, compared with
+direct actor-authored exact work. Its value still depends on downstream
+artifact and readiness outcomes; lower exposure or higher admission is not
+enough by itself.
+
 ## Low-pressure reconnaissance correction
 
 E37 then sampled multiple tasks while every prompt remained far below the

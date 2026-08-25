@@ -832,3 +832,37 @@ Disposition: **LR/AF** — bounded replacement is locally expressible with broad
 evidence, but B1 cold start is unsafe under partial evidence. The frozen B1/W1
 continuation is ineligible. This supports an evidence-maturity interaction
 hazard, not a general rejection of semantic maintenance.
+
+## E57 — cross-trajectory evidence-maturity reconciliation
+
+Source: `ScrappyTom/bounded-context-experimental-program` (offline audit;
+exact result commit recorded in the stage aggregate)
+
+The audit reconstructs all 57 E46/E52/E56 trajectory maintenance invocations
+from pinned Git objects, plus four E42 transport references. The trajectory
+calls used 437,328 serialized tokens. Twenty-seven outputs were admitted and
+thirty rejected; twenty-nine rejections were carrier-budget failures and one
+was Bluehaven's provenance failure.
+
+Unsupported semantic completion occurred only in Bluehaven. Cedar's early
+partial-evidence outputs explicitly marked absent requirements missing, so the
+predeclared two-world recurrence gate for a generic maturity controller is not
+met.
+
+The wider complete-replacement failure did recur. Six accepted E46 rewrites
+and two accepted Cedar rewrites were byte-identical to prior accepted state
+despite receiving new exact sources. Material cases include Cedar S05, which
+governed a missing fleet requirement, and E46 corrective program sources.
+E46's stale roadmap survived into its final coupled ledger; Cedar's carrier
+rejected 26/36 calls; Bluehaven completed unseen rows.
+
+Disposition: **AF/LR** — do not use repeated model-authored replacement of one
+complete global semantic state as the default acquisition-time operation.
+Evidence maturity changes the failure mode but is not a sufficient trigger.
+The next fresh interaction family is source-local evidence deltas mechanically
+merged into exact source/version slots versus direct actor-authored exact
+work, with the full artifact/effect/check/repair/closure loop active.
+
+Claim limit: source-ID admission is not exhaustive semantic correctness;
+Cedar's final source contradictions entered through ordinary actor work, and
+the audit does not attribute them to maintenance. No provider call occurred.

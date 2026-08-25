@@ -163,17 +163,29 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         )
         selected = self.contract["next_system_interaction"]
         self.assertEqual(
-            "offline_system_interaction_design_selected",
+            "fresh_source_local_delta_system_stage0_selected",
             selected["status"],
         )
-        self.assertIn("maintenance cadence", selected["question"])
+        self.assertIn("source-local semantic transformation", selected["question"])
         self.assertIn(
-            "mechanically_batched_maintenance_with_exact_work",
+            "W0_direct_actor_authored_exact_evidence_and_artifact_work",
+            selected["candidate_configuration_families"],
+        )
+        self.assertIn(
+            "L1_source_local_semantic_delta_mechanically_merged_into_exact_source_version_slots",
             selected["candidate_configuration_families"],
         )
         self.assertIn(
             "source_relationship_fidelity",
             selected["primary_outcomes"],
+        )
+        self.assertIn(
+            "check_repair_recheck_and_closure_surface",
+            selected["common_live_functions"],
+        )
+        self.assertIn(
+            "complete_global_ledger_third_arm",
+            selected["forbidden_shortcuts"],
         )
         self.assertFalse(selected["gpu_authorized"])
         self.assertEqual("authentic_prompt_pressure", self.contract["required_activation"])

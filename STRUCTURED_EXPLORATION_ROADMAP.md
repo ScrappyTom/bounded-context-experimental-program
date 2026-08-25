@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: Bluehaven B1 cold-start gate failed; measured fork closed; cross-trajectory evidence-maturity audit selected offline
+Status: E57 completed; complete-global replacement closed as default; fresh source-local-delta × direct exact-work scout selected for offline Stage 0
 
 ## Research-phase reset
 
@@ -631,6 +631,40 @@ measured fork is closed without prompt repair or trigger delay. Next perform a
 cross-trajectory offline audit of semantic-maintenance evidence maturity and
 source binding before choosing a fresh configuration. A future maturity-
 triggered policy is a new design, not B1 v1.
+
+### E57 Complete replacement, not maturity alone, is the recurring boundary
+
+The pinned-object audit covers 57 E46/E52/E56 trajectory maintenance calls.
+Only Bluehaven performed unsupported semantic completion, so the two-world
+gate for an evidence-maturity controller failed. Cedar showed that the same
+profile can preserve explicit missingness under partial evidence.
+
+Across E46 and Cedar, however, eight accepted replacements repeated the exact
+prior bytes while new exact sources were supplied. E46's stale route survived
+into coupled exact work; Cedar's complete carrier accepted only five of
+eighteen calls per arm. Together with Bluehaven's false completion, these are
+different manifestations of an overloaded complete-state rewrite.
+
+The next broad scout therefore narrows semantic authority and keeps the rest
+of the system active. It compares direct actor-authored exact evidence work
+with source-local semantic deltas mechanically merged into source/version
+slots. Both configurations continue through exact artifact work, effects,
+current checks, repair/recheck, and closure evaluation.
+
+This remains interaction exploration:
+
+```text
+evidence ingress and pressure
+× source-local semantic transformation or direct actor work
+× exact per-source work persistence
+× incremental artifact state
+× feedback and readiness
+```
+
+The fresh task must prevent requirement/source-number cueing, include
+many-to-many relation traps, and qualify the entire loop before measurement.
+See `NEXT_SYSTEM_INTERACTION_EVIDENCE_DELTA_SCOUT.md`. No GPU call is
+authorized.
 
 ## What will not be optimized in this phase
 

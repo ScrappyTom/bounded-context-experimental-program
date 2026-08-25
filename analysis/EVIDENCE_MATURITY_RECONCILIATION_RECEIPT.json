@@ -1,0 +1,22 @@
+{
+  "accepted_trajectory_invocations": 27,
+  "all_invocations": 61,
+  "audit_sha256": "945aebf52113d6cb7f08752eb2936ea397ed56adbe963a7c31d63c0b826878bf",
+  "byte_identical_accepted_replacements": 8,
+  "byte_identical_no_op_worlds": [
+    "architecture_program",
+    "cedar_valley"
+  ],
+  "checker_sha256": "64949daef6f9b26fd3f0d10f5cff6c6d033a54cbf1ba53db28a294d0f067f044",
+  "config_sha256": "1eb450b633de11316e19c7e74733d4bad573d6d69ccbb793710e995903b047e2",
+  "failures": [],
+  "gpu_calls": 0,
+  "passed": true,
+  "rejected_trajectory_invocations": 30,
+  "schema_version": "evidence-maturity-reconciliation-receipt-v0",
+  "selected_route": "do_not_promote_maturity_controller_and_route_from_recurring_complete_replacement_interaction",
+  "trajectory_invocations": 57,
+  "unsupported_completion_worlds": [
+    "bluehaven"
+  ]
+}
