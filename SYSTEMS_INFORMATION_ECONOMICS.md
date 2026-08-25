@@ -779,6 +779,57 @@ recurs—faster construction without better candidate-bound quality or
 closure—the economic option should be closed rather than rescued through
 carrier tuning.
 
+## Cedar transfer: quality signal under a maintenance bottleneck
+
+E52 changes the standing of exact work persistence without promoting it. On a
+fresh evacuation-planning task, A1's coupled system produced a materially
+stronger partial artifact than D0's detached system: broader source coverage,
+more requirement coverage, and sixteen of seventeen mechanical gates rather
+than twelve. This is the first transfer-level artifact-quality ordering for the
+coupled information economy.
+
+The ordering is not useful completion. Both artifacts were not ready. A1's
+broader work reversed source units and probabilities, had no current final
+check, and ended with an undelivered candidate effect. Exact persistence again
+showed symmetric capitalization:
+
+```text
+useful integration -> durable exact work -> later targeted repair
+wrong integration  -> durable exact work -> plausible but unsafe artifact
+```
+
+E52 also reveals a maintenance-flow constraint that E46 did not dominate.
+Each arm invoked eighteen semantic rewrites after positive externalizations,
+but only five qualified. The other thirteen consumed provider cost without
+changing accepted semantic state. A nineteenth externalization then exhausted
+the maintenance-call ceiling and ended the trajectory before current recheck
+and closure.
+
+The relevant economic object is therefore not the accepted semantic asset
+alone. It is the policy that schedules transformations:
+
+```text
+maintenance value at event t
+= expected downstream work/quality benefit
+- production and carrier cost
+- rewrite/rejection risk
+- candidate-effect and currentness work
+- actor and verification opportunity displaced
+```
+
+A mandatory rewrite after every demotion can be a poor investment even when
+some rewrites are useful. Conversely, batching transformations can reduce
+switching cost while increasing staleness, scope, and expression difficulty.
+Direct artifact work can substitute for semantic maintenance but spends actor
+decisions and may anchor early errors. These are state-dependent interaction
+policies, not component rankings.
+
+The next allocation question is thus maintenance cadence × exact work ×
+verification bandwidth. Its primary outcome must be source-correct quality and
+current readiness, not maintenance acceptance or citation breadth. E52's
+trajectory can support offline accounting and design, but fresh or untouched
+behavior is required for measurement.
+
 ## Low-pressure reconnaissance correction
 
 E37 then sampled multiple tasks while every prompt remained far below the

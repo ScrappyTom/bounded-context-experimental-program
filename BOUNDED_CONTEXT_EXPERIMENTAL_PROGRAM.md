@@ -1377,3 +1377,29 @@ Mechanisms may remain scope-specific. No general controller, universal
 semantic graph, permanent four-dimensional prompt, host relevance scorer,
 automatic phase classifier, learned eviction policy, summarization service, or
 multi-agent system is authorized by this program.
+
+## Current program phase after Cedar transfer
+
+The program has now observed exact artifact coupling in two independent task
+worlds. E46 showed earlier construction and broader grounding without semantic
+dominance. E52 produced a stronger coupled artifact than its detached
+comparator, but neither system was ready and the coupled artifact materially
+reversed source units and probabilities.
+
+This is sufficient to stop asking whether exact task-work persistence can be
+behaviorally active. It can. It is not sufficient to make it a default. The
+active systems question is how that persistent work interacts with the cadence
+and cost of semantic maintenance and with the finite bandwidth required for
+effect uptake, check, repair, recheck, and closure.
+
+E52 also changes maintenance accounting. A maintenance call is not a free
+sidecar operation attached to demotion. Under synchronous per-externalization
+maintenance, only five of eighteen outputs qualified in each arm and the
+maintenance-call ceiling terminated both trajectories. Future designs must
+declare maintenance scheduling as part of the policy and charge rejected
+outputs against the same total system budget.
+
+The next eligible stage is offline interaction analysis and prospective
+whole-system design under
+`NEXT_SYSTEM_INTERACTION_MAINTENANCE_WORK_VERIFICATION.md`. It does not
+authorize a GPU call or a maintenance-format tournament.

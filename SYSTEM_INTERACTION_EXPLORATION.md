@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: governing direction; artifact-coupling interaction measured; fresh-world transfer Stage 0 selected
+Status: governing direction; fresh-world artifact-coupling transfer measured; maintenance/work/verification interaction selected offline
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -437,7 +437,7 @@ Before GPU authorization, the checkpoint must establish:
 Failure of an apparatus gate blocks the scout. It does not become a measured
 negative for semantic persistence, exact work, or their interaction.
 
-## Current Stage 0: ingress-aligned Cedar transfer
+## Completed ingress-aligned Cedar transfer
 
 E48 showed that an activation rule expressed in delivered result objects is
 not invariant to an action surface that can package several sources into one
@@ -483,9 +483,71 @@ eight sources across six domains; pending S09–S10 added 140 novel lines and
 made the ordinary packet 2,384 tokens too large. One positive substitution of
 `RESULT-001` restores feasibility at 19,881 tokens. The candidate remained
 initial, and the audit/handoff now hydrates the same exact state into both
-whole systems. The next experiment is therefore the measured D0/A1
-interaction, not another activation screen; it remains separately
-GPU-unauthorized.
+whole systems.
+
+The separately authorized D0/A1 interaction then completed at `eec64f4` with
+38 actor calls, 36 maintenance calls, and 1,026,000 serialized tokens. A1
+coupling changed later evidence demand, produced more candidate effects, and
+ended with broader exact work: `strong_partial` versus D0's `weak_partial`.
+Neither system achieved useful completion or correct closure. A1's candidate
+also contained material source contradictions and lacked a current final
+check.
+
+This is a fresh-task interaction signal, not an isolated component result.
+Exact work persistence appears to help relationships survive long enough to
+shape later acquisition and repair. The same persistence can anchor incorrect
+relationships and creates additional effect/currentness work.
+
+The shared synchronous maintenance pathway became the terminal resource. Each
+arm attempted eighteen updates, accepted five, and lost thirteen provider
+calls to over-budget outputs. Both cells stopped after the next positive
+externalization, before the intended clean recheck and closure tail. The
+system did not fail only because a semantic object was too long: the policy of
+requiring a separate rewrite after every externalization coupled expression
+yield directly to actor horizon and verification capacity.
+
+## Selected interaction after E52
+
+The next selected question is:
+
+> Under authentic pressure, how should evidence ingress, semantic-maintenance
+> cadence, exact work-product persistence, candidate-effect uptake, and
+> protected verification bandwidth be jointly configured so that broader work
+> becomes source-correct and closure-ready rather than merely more complete in
+> form?
+
+This is not a maintenance-prompt experiment. A qualifying comparison must keep
+complete viable systems and vary a prospectively mechanical interaction
+policy, for example:
+
+| Configuration family | Maintenance cadence | Exact cumulative work | Verification opportunity |
+|---|---|---|---|
+| Synchronous reference | Every positive externalization | Present | Charged from common provider budget |
+| Batched interaction | Frozen evidence/work event or batch threshold | Present | Same total budget, fewer maintenance transitions |
+| Direct-work interaction | Actor updates task-native work from delivered evidence | Present | No mandatory separate maintenance call per demotion |
+
+These are candidate families for offline qualification, not a frozen matrix.
+The audit must first determine whether rejected maintenance outputs contained
+recoverable semantics, how accepted updates changed later work, and how much
+check/repair/recheck/closure bandwidth each cadence would preserve. A fresh
+task or untouched seed is required for measurement; the Cedar terminal state
+may be used only as a design donor.
+
+The causal object remains the full loop:
+
+```text
+ingress
+× pressure/externalization cadence
+× semantic transform timing
+× exact task work
+× effects/currentness
+× feedback, repair, and closure
+```
+
+Primary outcomes are source-correct artifact quality, current verification,
+appropriate readiness, and useful completion. Maintenance acceptance, note
+length, citation breadth, and speed are secondary system measurements. No new
+GPU work is authorized.
 
 ## What is not selected
 

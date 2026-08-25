@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-24",
-  "status": "cedar_authentic_pressure_qualified_measured_interaction_pending_authorization",
+  "status": "cedar_transfer_measured_maintenance_work_verification_interaction_selected_offline",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "authentic_prompt_pressure",
@@ -186,8 +186,8 @@
     "same_run_retry_forbidden": true,
     "scientific_evidence": false
   },
-  "next_system_interaction": {
-    "status": "cedar_authentic_pressure_qualified_measured_interaction_frozen",
+  "completed_cedar_transfer_interaction": {
+    "status": "measured_fresh_task_quality_signal_without_useful_completion",
     "question": "Does the complete artifact-coupled interaction improve evidence conversion, candidate-bound quality, repair, or correct closure in a fresh world after materially distributed evidence and authentic pressure are established under the same permitted ingress geometry?",
     "unit_of_analysis": "complete_fresh_world_configuration_trajectory",
     "repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0",
@@ -252,16 +252,36 @@
       "candidate_changed": false,
       "pressure_qualified": true
     },
-    "next_gate": {
+    "measured_run": {
       "freeze_commit": "f1610d1bf90b5847dbdbe0d981f4b1676abf4279",
+      "result_commit": "eec64f42564ebd014e048e6897485b095c634aa3",
       "run_id": "2026-08-25-cedar-artifact-coupling-transfer-measured-v0",
       "configuration_order": ["D0_DETACHED", "A1_COUPLED"],
       "maximum_actor_calls": 68,
       "maximum_maintenance_calls": 36,
       "maximum_provider_calls": 104,
+      "actual_actor_calls": 38,
+      "actual_maintenance_calls": 36,
+      "actual_provider_calls": 74,
+      "actual_serialized_tokens": 1026000,
       "attempts_per_call": 1,
       "retries": 0,
-      "gpu_authorized": false
+      "gpu_authorized": true,
+      "completed": true
+    },
+    "result": {
+      "D0_quality": "weak_partial",
+      "D0_semantic_score": {"met": 0, "partial": 9, "not_met": 3},
+      "A1_quality": "strong_partial",
+      "A1_semantic_score": {"met": 1, "partial": 11, "not_met": 0},
+      "D0_readiness": "not_ready",
+      "A1_readiness": "not_ready",
+      "useful_completion_count": 0,
+      "accepted_maintenance_updates_per_arm": 5,
+      "attempted_maintenance_updates_per_arm": 18,
+      "terminal_resource": "maintenance_call_budget",
+      "semantic_dominance": "A1_local_quality_advantage_without_useful_completion",
+      "safety_limit": "A1 contained material source-unit and probability contradictions and lacked current final verification"
     },
     "required_properties": [
       "viable_detached_or_other_system_comparator",
@@ -277,11 +297,66 @@
       "post_outcome_cedar_activation_change",
       "longer_E46_same_boundary_continuation",
       "maintenance_prompt_or_budget_tuning",
-      "artifact_coupling_component_ablation_before_transfer_signal"
+      "artifact_coupling_component_ablation_before_transfer_signal",
+      "longer_E52_same_boundary_continuation",
+      "retry_terminal_maintenance_event"
     ],
-    "implementation": "authentic_pressure_qualified_measured_interaction_frozen",
+    "implementation": "fresh_task_measured_interaction_complete",
     "gpu_authorized": false,
-    "governing_document": "E51_CEDAR_INGRESS_ALIGNED_PRESSURE_SCREEN_RESULT.md"
+    "governing_document": "E52_CEDAR_ARTIFACT_COUPLING_TRANSFER_RESULT.md"
+  },
+  "next_system_interaction": {
+    "status": "offline_system_interaction_design_selected",
+    "question": "How do maintenance cadence, ingress grouping, exact cumulative work, candidate-effect uptake, and protected verification bandwidth jointly determine whether pressure-streamed evidence becomes source-correct and closure-ready work?",
+    "unit_of_analysis": "complete_pressure_active_evidence_to_work_to_feedback_to_closure_trajectory",
+    "design_donor": "E52_Cedar_terminal_and_maintenance_history",
+    "measurement_requires": "fresh_task_or_untouched_seed",
+    "candidate_configuration_families": [
+      "synchronous_per_externalization_maintenance_with_exact_work",
+      "mechanically_batched_maintenance_with_exact_work",
+      "direct_actor_authored_incremental_work_without_per_demotion_maintenance"
+    ],
+    "common_live_functions": [
+      "authentic_pressure_and_positive_savings_relief",
+      "exact_external_custody_and_reopen",
+      "actor_selected_ingress",
+      "exact_versioned_task_work",
+      "candidate_bound_effects_and_currentness",
+      "check_repair_recheck_and_closure_surface",
+      "independent_semantic_quality_and_readiness"
+    ],
+    "offline_preconditions": [
+      "reconstruct_all_36_maintenance_inputs_outputs_acceptance_and_costs",
+      "measure_semantic_content_in_rejected_outputs_without_retroactive_admission",
+      "bind_accepted_updates_to_later_candidate_versions_and_actor_actions",
+      "compute_provider_and_verification_bandwidth_under_each_candidate_cadence",
+      "freeze_mechanical_nonsemantic_maintenance_triggers",
+      "qualify_every_arm_as_a_viable_whole_system"
+    ],
+    "primary_outcomes": [
+      "source_relationship_fidelity",
+      "candidate_bound_artifact_quality",
+      "current_effect_and_check_uptake",
+      "correct_readiness_and_closure",
+      "useful_completion"
+    ],
+    "secondary_outcomes": [
+      "maintenance_acceptance_and_rewrite_count",
+      "actor_maintenance_and_total_provider_calls",
+      "serialized_tokens_cache_and_latency",
+      "evidence_turnover_reopens_and_reentry",
+      "failure_migration"
+    ],
+    "forbidden_shortcuts": [
+      "same_boundary_prompt_wording_tune",
+      "maintenance_expression_acceptance_as_primary_utility",
+      "relief_versus_death_control",
+      "arm_without_exact_work_or_independent_evaluation",
+      "post_outcome_semantic_trigger",
+      "automatic_promotion_from_A1_breadth"
+    ],
+    "gpu_authorized": false,
+    "governing_document": "E52_CEDAR_ARTIFACT_COUPLING_TRANSFER_RESULT.md"
   },
   "common_live_functions": [
     "exact_external_custody",

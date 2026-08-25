@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: updated through the first pressure-active interaction; not a prevalence estimate or architecture
+Status: updated through fresh Cedar artifact-coupling transfer; not a prevalence estimate or architecture
 
 ## Purpose and limits
 
@@ -35,6 +35,7 @@ prevalence estimates, or model-specific capability claims.
 | Fresh whole-method code task | E35 | Independent task/world; effect/check/repair workflow, scheduled low-occupancy reentry treatment. |
 | Fresh Ceiba charter task | E36, E39–E40 | Independent large-world synthesis task; authentic pressure, receipt-only streaming, then a same-world ingress × semantic-work interaction. Seed and configuration variants remain one independence group, not transfer. |
 | Fresh architecture-decision package | E41–E46 | Independent fourteen-source synthesis task with authentic pressure and a matched detached/artifact-coupled continuation. D0/A1 share one boundary, actor seed, and fixed order; they are configurations, not independent recurrence. |
+| Fresh Cedar evacuation package | E49–E52 | Independent sixteen-source operations task with ingress-aligned authentic pressure and matched detached/coupled continuation. It is fresh-world transfer relative to E46, but D0/A1 still share one boundary, seed, and fixed order. |
 | Capability-terrain reconnaissance | E37 | Five source/candidate lineages across atlas navigation, research revision, and three code/review situations. D6 inherits D2 and is not independent. The portfolio is enriched from known fixtures and shares one profile/interface, so it broadens functional coverage without estimating prevalence. |
 | Sister Qwen 3.6 action/effect worlds | Experiments 101–113 in `bounded-context-harness-effects`: 17 named coding task worlds; reused tasks and frozen-state studies are identified separately | Cross-profile, cross-apparatus triangulation only. The bank broadens coding action/effect coverage but is neither Qwen3.8 context-window replication nor broad domain sampling. |
 
@@ -52,14 +53,14 @@ prevalence estimates, or model-specific capability claims.
 | Intended-action formation | Exact reentry produced a grounded mutation in one navigation seed; several older/fresh code cells formed edits; Ceiba produced only reads. E37 contained legible but rejected navigation/read intents and two admitted large replacements. | Action formation exists across worlds; expression and admission can hide it. | Code intent, expression, admission, and effect separately. Observe when evidence becomes a bounded plan, section, patch, or decision rather than only another read. |
 | Action organization | In the sister 105–112 selected audit, immediate target expression often predicted candidate materialization, but no observed operator/scope/position/sequence feature predicted correctness across enough matched blocks. Optional fresh response changed organization even when unused. | Strong within sister coding tasks; undercoded in the Qwen3.8 line. | First-class breadth axis: another read, inspection, bounded edit, whole-file mutation, staged operation, or no admitted action are different organizations of work. |
 | Action expression and admission | Note/frontier calls hit output/grammar limits; the fresh whole-method scout rejected 19/71 actor responses; Ceiba had two over-range action rejections. E37 rejected 19/39 responses at low occupancy: 11 fenced plausible objects, seven extra-syntax objects, and one array. In the sister 105–111 audit, 33/102 selected episodes stopped at response/channel expression before a candidate, and response headroom causally changed candidate materialization on new tasks. | Yes across multiple Qwen3.8 worlds and the sister profile, while exact causes and interfaces differ. | High-priority observation-surface boundary. Qualify transport across multiple task situations without silently repairing semantic choices; never infer downstream incapability from malformed output or correctness from successful admission. |
-| Durable work-product accumulation | Most navigation and Ceiba treatments exposed whole-artifact mutation. E40 charged 40 maintenance calls and admitted 38 lossy sidecars without candidate change. E46 then made maintenance-origin integration exact task state: A1 changed candidate lineage before continuation, reached full construction/checking earlier, and accumulated sixteen candidate effects. Both E46 artifacts remained strong partial/not ready. | Exact incremental task-work flow is now locally demonstrated in one fresh world; positive quality/closure utility has not transferred or recurred. | Gap narrowed from feasibility to utility. Transfer the complete coupled system once; score anchoring and stale commitments, and deprioritize if faster construction again fails to improve candidate-bound quality. |
+| Durable work-product accumulation | Most navigation and Ceiba treatments exposed whole-artifact mutation. E40 charged 40 maintenance calls and admitted 38 lossy sidecars without candidate change. E46 made maintenance-origin integration exact task state and accelerated construction. Cedar E52 transferred a quality ordering: A1 ended strong partial versus D0 weak partial, but neither was ready and A1 carried source contradictions. | Exact incremental task-work flow and one fresh-task quality signal now span two independent worlds; useful completion and safety do not. | Exact work persistence remains a promising systems function, not a component incumbent. Study its interaction with maintenance cadence, semantic correctness, effect uptake, and verification bandwidth. |
 | Effect/currentness uptake | Recurrent exact-state work delivered an inherited patch effect; fresh code reentry exposed stale-check/new-candidate ambiguity. E37 D2/D5 both took an admitted mutation effect into a later decision and then ran a current check. In the sister transition corpus, 62/63 candidate-bearing episodes ran a model-visible check, yet all 24 externally incorrect artifacts had green visible checks. | Effect-to-check continuation recurs across independent worlds; correct evidential use does not follow. | Split effect visibility, observation currency, feedback discrimination, useful repair, and closure. Use exact candidate-bound current/stale diagnostics. |
 | Feedback and repair | Imported false-closure audits activated repair. Sister evidence shows discriminating failures can activate useful repair, green incomplete checks can stabilize wrong artifacts, and malformed model-authored tests can cause perseveration after an artifact is correct. Mechanical authorship/provenance improved selection in 0/3 misleading states. | Yes across independent sister worlds, with functional analogues in the Qwen3.8 line. Rates and interventions are not pooled. | Explore repair under discriminating, nondiscriminating, stale, and misleading feedback. Do not equate “check ran” with useful feedback. |
 | Readiness and closure | H05 converted a reread into premature submission of a known strong partial. E37 D2 and D5 submitted independent strong-partial artifacts after visible checks passed; D6 then resubmitted D2 unchanged from exact current state. The sister funnel contained 39 correct artifacts among 70 candidates, 28 full successes, and 11 correct-artifact/noncompletion cases. | Yes: artifact quality, verification coverage, and closure dissociate across independent tasks, interfaces, and profiles. | Consequential recurring boundary eligible for cross-world confirmation. No generic progress cue is selected; exact external readiness adjudication remains mandatory. |
 | Response-level continuation | Sister Experiment 112 selected optional `yield_response` in 0/4 eligible states; its availability still changed action organization. Experiment 113 repaired the only eligible exact-prefix incomplete payload to an 8/8 artifact, but only 1/3 large blocks exposed the boundary and no economy advantage appeared. | Narrow local feasibility only. | Treat as response allocation/expression repair, not semantic resumption or decomposition. No promotion. |
 | Phase reentry and bounded resumption | Older Qwen3.8 code/research studies preserved core continuity in fresh phases; scheduled low-occupancy reentry in E35 paid cache cost and sometimes harmed continuity; reserved handoff did not guarantee action-ready selection. E37 D6 immediately recovered the donor's closure disposition from exact current state, but repeated its false readiness judgment. | Mixed direction across independent Qwen3.8 domains and triggers; D6 is same-lineage descriptive evidence. | Separate orientation/action-category continuity from correct semantic/readiness continuity. Do not promote automatic phase reset. |
 | Decomposition and reintegration | No completed study cleanly assigns bounded subwork and then measures reintegration of its exact and semantic output into the parent artifact. | No. | Genuine terrain gap. Keep child/role labels provisional and test only through a bounded authentic task. |
-| Model-authored semantic persistence | Qwen3.8 source digest increased short-horizon recovery; a progress package caused premature closure; E40 sidecars lost prior citation breadth. E46 coupled semantic integration to exact task work and accelerated construction, but both artifacts remained not ready and A1 preserved a stale roadmap. The sister coverage ledger was used in 6/6 cells while artifacts fell from 6/6 to 3/6. | Behavioral activity and risk recur across tasks and profiles. E46 adds local durable task-work leverage, not positive completion utility. | Semantic externalization changes demand, control, and artifact capital. Transfer the whole coupling once; do not optimize another detached note or assume persistence implies correctness. |
+| Model-authored semantic persistence | Qwen3.8 source digest increased short-horizon recovery; a progress package caused premature closure; E40 sidecars lost prior citation breadth. E46 coupled semantic integration to exact work and accelerated construction. E52 produced stronger coupled work but only 5/18 maintenance outputs qualified per arm; A1 preserved source-reversing errors. The sister coverage ledger was used in 6/6 cells while artifacts fell from 6/6 to 3/6. | Behavioral activity and risk recur across tasks and profiles. E52 adds fresh-task quality signal plus transform-yield and safety failures. | Semantic externalization changes demand, work, cost, and control. The next question is maintenance cadence × exact work × verification, not another detached note or expression format. |
 | Model-managed workspace allocation | Passive controls were unused; dedicated selection was reachable but over-released and immediately contradicted by next actor demand. | One navigation world only. | Current prompt-tuning route closed. Revisit only if independent worlds make release identity the dominant boundary. |
 
 ## What the map says now
@@ -76,9 +77,9 @@ Six conclusions are now comparatively broad:
    and can prevent downstream capability from becoming observable.
 5. Successful mutation and current-check uptake do not establish complete
    requirement binding or correct readiness.
-6. Exact artifact coupling can accelerate cumulative construction while also
-   preserving stale semantic commitments; persistence and correctness are
-   separate properties.
+6. Exact artifact coupling can accelerate or strengthen cumulative work while
+   also preserving stale or source-reversing semantic commitments;
+   persistence and correctness are separate properties.
 
 The largest coverage gaps are not another eviction choice. They are:
 
@@ -118,14 +119,17 @@ contracted, batch geometry accelerated reentry use, and no candidate changed.
 
 E41–E46 exposed semantic persistence × exact incremental artifact state ×
 version-bound feedback inside one full ingress/effect/repair/closure contrast.
-Artifact coupling accelerated construction and broadened grounding, but did not
-produce ready work and retained a stale roadmap. The next checkpoint is an
-offline fresh-world transfer design for that complete interaction, not a note,
-patch surface, or checker in isolation. `NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md`
-records the closed local result and transfer obligations;
+E49–E52 then transferred that whole interaction to Cedar. Coupling produced a
+stronger partial artifact than the detached arm, but not useful completion;
+material source contradictions remained and synchronous maintenance exhausted
+its call budget after accepting only 5/18 updates per arm. The next checkpoint
+is an offline maintenance-cadence × exact-work × verification-bandwidth design,
+not a note, patch surface, or checker in isolation.
+`NEXT_SYSTEM_INTERACTION_MAINTENANCE_WORK_VERIFICATION.md` records the selected
+question; `NEXT_SYSTEM_INTERACTION_ARTIFACT_COUPLING.md` records the closed route;
 `SYSTEM_INTERACTION_EXPLORATION.md` defines the non-isolation rule; and
 `STRUCTURED_EXPLORATION_ROADMAP.md` requires owner review before any measured
-transfer.
+successor.
 
 ## Pinned cross-program sources
 

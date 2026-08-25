@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: Cedar ingress-aligned Stage 0 qualified offline; authentic live pressure pending
+Status: Cedar transfer measured; exact-work quality signal observed; maintenance/work/verification interaction selected offline
 
 ## Research-phase reset
 
@@ -527,11 +527,38 @@ delivered and pending S09–S10 caused a 2,384-token overflow. Replacing only
 `RESULT-001` yields a feasible 19,881-token packet. The exact run seal, audit,
 handoff, and measured preflight pass.
 
-The next eligible operation is no longer another screen. It is the complete
-fresh-world detached/coupled continuation at result commit `f1610d1`, with all
-ingress, pressure, semantic integration, exact task work, effects, checks,
-repair, closure, and independent evaluation live. It remains GPU-unauthorized
-until the owner names that exact commit, run ID, order, and ceilings.
+The owner separately authorized that complete continuation. E52 records 38
+actor and 36 maintenance calls at result commit `eec64f4`. A1's coupled exact
+work produced a `strong_partial` artifact with broader source and requirement
+coverage; D0 remained `weak_partial`. Both were `not_ready`, neither submitted,
+and neither achieved useful completion. A1 also contained material source-unit
+and probability contradictions.
+
+The transfer therefore supplies a trajectory-level signal without an
+architecture win. Exact work persistence appears capable of carrying
+integration into later acquisition and repair, but persistence does not confer
+semantic correctness. The complete configuration also changed candidate
+effects and verification obligations.
+
+The shared maintenance schedule became terminal. Each arm synchronously
+invoked maintenance after every positive externalization, accepted only 5 of
+18 outputs, and exhausted that call budget before a current recheck/closure
+tail. The next roadmap question is consequently a joint system question:
+
+```text
+maintenance cadence and ingress grouping
+× exact cumulative work
+× effect/currentness uptake
+× protected verification and closure bandwidth
+```
+
+The next gate is an offline interaction-economics audit followed by a
+prospective whole-system design on fresh or untouched evidence. It may compare
+synchronous, mechanically batched, and direct actor-authored work pathways,
+but every arm must remain a viable evidence-to-work-to-feedback system. It may
+not treat output-bound compliance as the primary outcome or remove exact
+custody, pressure relief, artifact work, or independent evaluation from a
+control. No GPU call is authorized by this roadmap.
 
 ## What will not be optimized in this phase
 

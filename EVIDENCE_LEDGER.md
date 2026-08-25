@@ -65,6 +65,7 @@ means literal local behavior with a material apparatus qualification.
 | E49 | AF/NQ | Cedar ingress-aligned interaction Stage 0 | A fresh 16-source task freezes activation as delivered exact line coverage: four sources at 55/70 unique lines across three evidence domains plus novel pending lines. Every full single and two-source batch is admissible; prospective maturity fits at 11,712 tokens and a later admissible result creates a feasible 1,827-token overflow. Provider-free D0/A1 loops and 39 tests pass. | Zero provider calls. Exact geometry proves reachability, not authentic pressure, actor demand, coupling utility, or readiness. The ordinary Cedar screen and measured fork remain separately unauthorized. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/a48d67a8cd888fd54b9c7a59a7e8f1dcd094241f) |
 | E50 | AF/NQ | Cedar v0 zero-call apparatus abort and v1 freeze | The authorized v0 runner found an unrelated pre-existing `llama-server` before starting the project server and failed closed. Its sealed tree contains zero actor/provider calls. V1 changes only run/scope identity; 41 tests and offline preflight pass. | No GPU inference or behavioral evidence. V0 cannot be retried, the external process was not terminated by the project, and v1 at `952037a` needs separate authorization. | [abort and v1 freeze](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/952037afa399c0fd593605831d92f8988a81d4a4) |
 | E51 | LR/AF | Cedar ingress-aligned authentic pressure screen | Five accepted batch reads delivered S01–S08 across six domains. Pending S09–S10 added 140 novel lines and made the next prompt 23,376 tokens, 2,384 over the allowance. Replacing only `RESULT-001` yields 19,881 tokens. | Boundary and apparatus result only: no treatment, maintenance, candidate effect, check, evaluation, or closure ran. The measured fork qualifies but remains unauthorized. | [screen result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/f1610d1bf90b5847dbdbe0d981f4b1676abf4279) |
+| E52 | LR/AF | fresh-world detached-versus-artifact-coupled interaction | Across 38 actor and 36 maintenance calls, A1 produced a broader `strong_partial` artifact while D0 remained `weak_partial`. Both were independently `not_ready`, neither submitted, and neither achieved useful completion. Only 5/18 maintenance updates were accepted per arm; both stopped on the maintenance-call ceiling. | One fresh task/world/seed and fixed arm order. A1 contained material source contradictions and lacked a current recheck. This supports a local whole-configuration quality signal and a shared maintenance bottleneck, not isolated coupling, safe completion, or architecture value. | [transfer result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/eec64f42564ebd014e048e6897485b095c634aa3) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
@@ -78,7 +79,7 @@ means literal local behavior with a material apparatus qualification.
 | H11 | LR | bounded structured frontier expression | The tested schema qualified syntactic/token closure in 2/2 cases but migrated failure to clipped semantic fields and one invalid handle. | No actor calls; not utility-ready unchanged. | E10–E11, E15 |
 | H12 | LR | closure-safe structured frontier expression | Returned prose and handles were locally complete, but neither full object closed under the frozen interface; both length-terminated and the live grammar omitted declared length limits. | 0/2 complete acceptance. Frontier schema-expression tuning is closed; utility was not tested. | E15–E16 |
 | H13 | NQ | one-case cross-type effect retention | The complete exact effect and observation could not co-reside with the inherited standing set under the frozen envelope. | Behavioral utility untested; changing another object would be a different treatment. | E08–E09, E17–E18 |
-| H14 | LR | semantic integration × exact incremental task artifact × version-bound feedback | E46 crossed the E40 sidecar/task-work gap: A1 maintenance changed candidate lineage and accelerated full construction/checking, while D0 kept the same operation detached. A1 cited more sources and used fewer serialized tokens, but both candidates were strong partial/not ready and A1 retained a stale roadmap. | One task/world/boundary/seed. This is local mixed evidence for a whole coupled configuration, not isolated component utility. Same-boundary tuning is closed; fresh-world transfer must show candidate-bound quality or closure value before promotion. | E36, E38–E46; `E46_ARTIFACT_COUPLING_INTERACTION_RESULT.md` |
+| H14 | LR | semantic integration × exact incremental task artifact × version-bound feedback | E46 showed temporal leverage without semantic dominance. Fresh Cedar transfer E52 produced a stronger A1 artifact (`strong_partial`) than D0 (`weak_partial`) and broader targeted repair, but both were not ready. A1 also capitalized material source contradictions, and both arms terminated after only 5/18 maintenance updates qualified. | Two tasks, one seed each, compound configurations. Exact work persistence has a promising transfer-level quality signal but no useful completion, safety, recurrence, or cost promotion. The next question is maintenance cadence × work persistence × verification bandwidth, not isolated coupling. | E36, E38–E46, E49–E52; `E52_CEDAR_ARTIFACT_COUPLING_TRANSFER_RESULT.md` |
 
 ## Active selection
 
@@ -723,3 +724,48 @@ tree seal, root audit, handoff hydration, 41 tests, and measured preflight pass.
 Disposition: **LR/AF** — an authentic common pre-treatment fork is qualified.
 No D0/A1 behavior or utility is yet observed. The measured continuation is
 frozen at the result commit and requires separate authorization.
+
+## E52 — Cedar artifact-coupling transfer interaction
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@eec64f42564ebd014e048e6897485b095c634aa3`
+
+The authorized D0-then-A1 continuation made 38 actor calls and 36 maintenance
+calls, totaling 74 provider calls and 1,026,000 serialized tokens. Both cells
+used one attempt per call and zero retries, were sealed, passed the corrected
+aggregate audit, and released their fresh runtimes.
+
+The arms shared the Cedar pressure fork, positive first-fit relief, ingress,
+maintenance operation, ordinary artifact surface, checks, repair, evaluation,
+and budgets. Their first nine actor actions were identical. They diverged in
+later evidence demand and candidate work. D0 made three candidate effects; A1
+made eight. Both ran one check and continued repair/acquisition. Neither
+submitted or obtained a current final recheck.
+
+Candidate-bound semantic adjudication classified D0 `weak_partial` with 0 met,
+9 partial, and 3 not-met criteria. It produced 952 decision words with nine
+decision and seven ledger sources. A1 was `strong_partial` with 1 met and 11
+partial criteria, 1,290 words, fifteen decision sources, twelve ledger sources,
+and all required source IDs. A1 passed 16 of 17 mechanical gates versus D0's
+12 of 17.
+
+A1's breadth was not semantic readiness. It reversed source units and
+probabilities by describing a 5.8-hour arrival as 5.8 km/h wind, 42 percent
+wind-shift probability as 42 percent humidity, and 91 percent survey coverage
+as a 19 percent uncertainty allowance. These errors, incomplete R02–R12
+resolution, stale verification, and the undelivered final effect keep it
+`not_ready`.
+
+Only five of eighteen maintenance outputs were accepted in each arm. Thirteen
+per arm exceeded the frozen expression budget. Because every positive
+externalization synchronously owed maintenance, both trajectories exhausted
+that budget after the nineteenth externalization and lost the intended clean
+verification/closure tail. This is an interaction-level resource failure, not
+merely a malformed-note count.
+
+Disposition: **LR/AF** — exact work coupling has a fresh-task local artifact-
+quality signal, but it did not produce useful completion and did not prevent
+material semantic error. The exact Cedar fork is closed. The next eligible
+work is an offline whole-system audit and prospective comparison of maintenance
+cadence, exact work persistence, and verification bandwidth; no same-boundary
+prompt tuning or extra calls are selected.

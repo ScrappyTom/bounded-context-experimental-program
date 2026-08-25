@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: measured local mixed result complete; Northstar closed ineligible; Cedar ingress-aligned transfer Stage 0 qualified offline
+Status: route completed through fresh Cedar transfer; local quality signal without useful completion; exact D0/A1 path closed
 
 Implementation binding:
 [qwen38-artifact-coupled-integration-scout-v0@7d71c7d](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7d71c7d666403da7f0be9494a77a771435144f69)
@@ -21,6 +21,9 @@ Measured freeze:
 
 Measured result:
 [qwen38-artifact-coupled-integration-scout-v0@c11d55a](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/c11d55a7f143747156831de0b189523ee1bcd776)
+
+Cedar transfer result:
+[qwen38-artifact-coupled-integration-scout-v0@eec64f4](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/eec64f42564ebd014e048e6897485b095c634aa3)
 
 Exact handoff: `E41_ARTIFACT_COUPLING_STAGE0_HANDOFF.md`
 
@@ -389,3 +392,37 @@ domains precede a novel S09–S10 pending result and authentic 2,384-token
 overflow. Replacing only `RESULT-001` makes the same packet feasible. The exact
 handoff and measured preflight pass. The D0/A1 run is now the next eligible
 operation, but it is not authorized by the screen receipt or this document.
+
+## Cedar measured closure
+
+The owner separately authorized the frozen D0-then-A1 continuation. It
+completed at `eec64f42564ebd014e048e6897485b095c634aa3` with 38 actor calls,
+36 maintenance calls, 74 provider calls, one attempt per call, zero retries,
+and 1,026,000 serialized tokens.
+
+A1 produced a materially stronger partial artifact: fifteen decision sources,
+twelve ledger sources, and sixteen of seventeen mechanical gates, compared
+with D0's nine, seven, and twelve. Candidate-bound semantic review classified
+A1 `strong_partial` and D0 `weak_partial`.
+
+Neither system was complete or ready. A1 materially reversed source units and
+probabilities, ended without a current recheck, and left its final effect
+undelivered to another actor decision. D0 omitted or failed several operational
+domains. Neither submitted.
+
+The common synchronous maintenance path became terminal. Each arm accepted
+only five of eighteen maintenance outputs; thirteen per arm exceeded the
+frozen budget. Both cells stopped when a nineteenth externalization encountered
+the maintenance-call ceiling. This means the measured comparison embeds a
+severe common transform-yield and scheduling bottleneck.
+
+The artifact-coupling route is closed at this level. The correct claim is not
+that coupling won or failed in isolation. It changed the whole trajectory and
+yielded a fresh-task quality signal while also capitalizing semantic error and
+increasing effect/currentness work. Same-boundary extra calls, output-budget
+tuning, and terminal maintenance retry are not selected.
+
+The successor is
+`NEXT_SYSTEM_INTERACTION_MAINTENANCE_WORK_VERIFICATION.md`: a whole-system
+interaction design around maintenance cadence, exact cumulative work,
+candidate-effect uptake, and protected verification bandwidth.

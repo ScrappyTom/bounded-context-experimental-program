@@ -206,12 +206,14 @@ reopens, or fast submission.
 ## Program scale and experimental discipline
 
 The original parent bank contained 42 exactly replayed model requests. Through
-E46, 38 successor stages represent another 471 runner-qualified model/provider
-calls and 5,922,096 serialized tokens. This includes apparatus qualifications,
+E52, 44 successor stages represent another 552 runner-qualified model/provider
+calls and 7,022,958 serialized tokens. This includes apparatus qualifications,
 the 71-call whole-method scout, the 54-call pressure-qualified study, the
 39-call breadth tranche, the 12-call closed interaction qualification, the
 two-call ingress-action qualification, E40's 138 provider calls, E44's
-eight-call authentic pressure screen, and E46's 59-call measured interaction.
+eight-call authentic pressure screen, E46's 59-call measured interaction,
+Northstar's two-call ineligible screen, Cedar's five-call qualifying screen,
+and E52's 74-call measured transfer.
 Zero-call
 eligibility, capacity, reconciliation, and cross-study audits remain in the
 stage ledger but add no calls or tokens. The whole-method scout's
@@ -1266,3 +1268,113 @@ rather than test transfer. The next eligible gate is offline design of a fresh
 task/world that preserves viable detached and coupled configurations and
 prospectively leaves enough decisions after first construction for effect
 uptake, checking, repair, recheck, and closure. No GPU call is authorized.
+
+## 39. Northstar fresh-world transfer is qualified offline
+
+The first transfer design created a fresh fourteen-source Northstar migration
+task, a viable D0/A1 comparator, candidate-bound semantic evaluation, and an
+event-contingent 22-plus-8 actor horizon. Provider-free paths exercised effect
+uptake, check, repair, recheck, and closure. The result commit was
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@40272d6cc0c5aa2eda7bb5df9394ff02d767829d`.
+
+The 61,500-token accessible world did not qualify pressure. A separately
+authorized ordinary screen was still required. This preserved the lesson from
+the earlier whole-method scout: world supply and realized actor demand are
+different geometries.
+
+## 40. Northstar reaches pressure before its frozen activation gate
+
+The Northstar actor made two valid three-source batch reads. Delivered
+`RESULT-001` covered S01–S03; pending `RESULT-002` covered S04–S06 and made the
+next prompt 25,705 tokens, 4,713 above the allowance. Demoting `RESULT-001`
+would restore feasibility at 14,654 tokens.
+
+The frozen gate nevertheless required four delivered source-observation result
+objects, and only one batch object had crossed a later actor boundary. The
+underlying six-source acquisition was meaningful, but the activation unit was
+misaligned with its own batching surface. The sealed behavior remains valid;
+the causal fork is ineligible. Northstar closed without retry at
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@454c605e896a48878673686864552af20f52c5b0`.
+
+## 41. Cedar aligns activation with source-line ingress
+
+Cedar replaced result-object count with a prospective transport-invariant
+gate. The host unions exact source-line intervals that crossed actor decision
+boundaries. A source qualifies at 55 of 70 lines; the boundary requires four
+sources across three frozen domains and novel pending lines. World size,
+action count, result packaging, and host semantic readiness are not activation
+units.
+
+All sixteen full single-source results and all 120 permitted full pairs fit.
+A prospective path reached maturity at 11,712 prompt tokens and a later
+admissible result created a feasible 1,827-token overflow. Provider-free whole
+loops and 39 tests passed at
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@a48d67a8cd888fd54b9c7a59a7e8f1dcd094241f`.
+This established reachability, not live pressure.
+
+## 42. Cedar v0 fails closed before inference
+
+The first authorized Cedar screen found an unrelated live `llama-server`
+before starting its own provider. The project did not terminate that process.
+The v0 tree was sealed with zero model calls, so it supplied an apparatus fact
+but no behavioral evidence and could not be retried under the same run ID.
+
+A mechanically unchanged v1 was frozen at
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@952037afa399c0fd593605831d92f8988a81d4a4`.
+Only run/scope identity and downstream placeholder bindings changed. This stage
+reinforced that authorization and exact run identity do not silently transfer
+after a sealed abort.
+
+## 43. Cedar reaches an authentic ingress-aligned pressure fork
+
+The separately authorized v1 actor made five valid two-source reads. S01–S08
+crossed later model boundaries, covering eight full sources across six domains.
+Pending S09–S10 added 140 novel lines and made the ordinary next packet 23,376
+tokens, 2,384 over the allowance. Replacing only `RESULT-001` yielded 19,881
+tokens.
+
+The candidate remained untouched and all prospective gate conditions passed.
+The exact result, audit, handoff, and measured preflight were committed at
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@f1610d1bf90b5847dbdbe0d981f4b1676abf4279`.
+This supplied the fresh common fork E46 had earned but Northstar could not.
+
+## 44. Cedar transfers an artifact-quality signal and exposes maintenance as the terminal resource
+
+The owner authorized the frozen D0-then-A1 interaction. It completed 38 actor
+and 36 maintenance calls—74 provider calls and 1,026,000 serialized tokens—with
+one attempt per call and zero retries. The result is
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@eec64f42564ebd014e048e6897485b095c634aa3`.
+
+The first nine actor actions were identical. Later, coupling changed evidence
+demand, candidate effects, repair, and final work. D0 made three candidate
+effects and ended with a 952-word decision citing nine sources. A1 made eight
+effects and ended with 1,290 words citing fifteen sources; it cited every
+required source and passed sixteen of seventeen mechanical gates.
+
+Candidate-bound review gave a clear local quality ordering. D0 was
+`weak_partial` with zero met, nine partial, and three not-met semantic criteria.
+A1 was `strong_partial` with one met and eleven partial. Neither was ready,
+submitted, or usefully complete.
+
+A1's breadth concealed material semantic failure. It converted 5.8 hours into
+5.8 km/h, a 42 percent wind-shift probability into humidity, and 91 percent
+survey coverage into a 19 percent uncertainty allowance. Its final effect was
+not delivered to another actor decision, and neither arm obtained a current
+final recheck.
+
+The common maintenance path dominated the horizon. Each arm attempted eighteen
+synchronous integration rewrites but accepted only five; thirteen per arm
+exceeded the frozen expression budget. Both stopped after the next positive
+externalization exhausted the maintenance-call ceiling, leaving actor and
+verification opportunity unused.
+
+This is a fresh-task signal that exact task work can make semantic integration
+more cumulative and materially strengthen a partial artifact. It is also
+evidence that exact persistence can capitalize source error and that mandatory
+per-externalization semantic rewrites can become the governing resource.
+
+The E46→E52 route is now closed without architecture promotion. The next
+selected work is an offline whole-system analysis and prospective interaction
+design spanning maintenance cadence, exact cumulative work, effect/currentness
+uptake, and protected verification bandwidth. It is not another note-format,
+maintenance-prompt, or same-boundary horizon experiment.

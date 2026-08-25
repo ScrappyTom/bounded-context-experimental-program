@@ -104,13 +104,13 @@ class SystemInteractionDirectionTests(unittest.TestCase):
             "fresh_task_and_candidate_lineage_with_E40_as_design_donor_only",
             successor["completed_offline_gates"],
         )
-        transfer = self.contract["next_system_interaction"]
+        transfer = self.contract["completed_cedar_transfer_interaction"]
         self.assertEqual(
-            "cedar_authentic_pressure_qualified_measured_interaction_frozen",
+            "measured_fresh_task_quality_signal_without_useful_completion",
             transfer["status"],
         )
         self.assertEqual(
-            "authentic_pressure_qualified_measured_interaction_frozen",
+            "fresh_task_measured_interaction_complete",
             transfer["implementation"],
         )
         self.assertFalse(transfer["gpu_authorized"])
@@ -132,14 +132,23 @@ class SystemInteractionDirectionTests(unittest.TestCase):
             "reachability_not_authentic_activation",
             transfer["prospective_geometry"]["claim_limit"],
         )
-        self.assertFalse(transfer["next_gate"]["gpu_authorized"])
+        self.assertTrue(transfer["measured_run"]["gpu_authorized"])
+        self.assertTrue(transfer["measured_run"]["completed"])
         self.assertEqual(
             "f1610d1bf90b5847dbdbe0d981f4b1676abf4279",
-            transfer["next_gate"]["freeze_commit"],
+            transfer["measured_run"]["freeze_commit"],
         )
         self.assertEqual(
             "2026-08-25-cedar-artifact-coupling-transfer-measured-v0",
-            transfer["next_gate"]["run_id"],
+            transfer["measured_run"]["run_id"],
+        )
+        self.assertEqual(74, transfer["measured_run"]["actual_provider_calls"])
+        self.assertEqual(0, transfer["result"]["useful_completion_count"])
+        self.assertEqual("weak_partial", transfer["result"]["D0_quality"])
+        self.assertEqual("strong_partial", transfer["result"]["A1_quality"])
+        self.assertEqual(
+            "maintenance_call_budget",
+            transfer["result"]["terminal_resource"],
         )
         self.assertEqual(5, transfer["live_activation_result"]["actor_calls"])
         self.assertEqual(2384, transfer["live_activation_result"]["overflow_tokens"])
@@ -152,6 +161,21 @@ class SystemInteractionDirectionTests(unittest.TestCase):
             "northstar_retry_or_regrade",
             transfer["forbidden_successors"],
         )
+        selected = self.contract["next_system_interaction"]
+        self.assertEqual(
+            "offline_system_interaction_design_selected",
+            selected["status"],
+        )
+        self.assertIn("maintenance cadence", selected["question"])
+        self.assertIn(
+            "mechanically_batched_maintenance_with_exact_work",
+            selected["candidate_configuration_families"],
+        )
+        self.assertIn(
+            "source_relationship_fidelity",
+            selected["primary_outcomes"],
+        )
+        self.assertFalse(selected["gpu_authorized"])
         self.assertEqual("authentic_prompt_pressure", self.contract["required_activation"])
 
     def test_feedback_loop_remains_live(self):

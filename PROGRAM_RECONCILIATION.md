@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-24
-Status: current program synthesis; system-interaction exploration active
+Status: current program synthesis; Cedar transfer complete; maintenance/work/verification interaction selected offline
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -430,3 +430,58 @@ next eligible operation is the frozen D0-then-A1 measured continuation at
 `qwen38-artifact-coupled-integration-scout-v0@f1610d1bf90b5847dbdbe0d981f4b1676abf4279`,
 subject to separate authorization for at most 68 actor, 36 maintenance, and 104
 total provider calls. No result in E51 authorizes that run.
+
+E52 records the separately authorized measured result at
+`qwen38-artifact-coupled-integration-scout-v0@eec64f42564ebd014e048e6897485b095c634aa3`.
+The run completed 38 actor and 36 maintenance calls, totaling 74 provider calls
+and 1,026,000 serialized tokens. Both configurations acquired, constructed,
+checked, and repaired under authentic pressure. Neither submitted or achieved
+useful completion.
+
+The fresh transfer produces a real but qualified ordering. D0 ended
+`weak_partial` with 0 met, 9 partial, and 3 not-met semantic criteria. A1 ended
+`strong_partial` with 1 met and 11 partial criteria, cited all required
+sources, and passed 16 of 17 mechanical gates. Exact coupled work therefore
+participated in later evidence demand and repair and yielded a materially
+stronger partial artifact in a new domain.
+
+The same result prevents promotion. A1 converted source values into materially
+wrong relationships—5.8 hours became 5.8 km/h, 42 percent wind-shift
+probability became humidity, and 91 percent survey coverage became a 19
+percent allowance. It also ended without a current actor-visible recheck and
+with one final candidate effect not delivered to another actor decision.
+Exact task-work persistence can capitalize semantic error as well as useful
+integration.
+
+The common maintenance system became the terminal constraint. Both arms
+attempted 18 synchronous maintenance calls, but only five outputs per arm met
+the frozen bound. Thirteen rejected outputs per configuration consumed cost
+without updating semantic state. A nineteenth positive externalization then
+stopped each cell on the maintenance-call ceiling. Actor-call capacity and the
+intended clean check/repair/recheck/closure tail remained partially unused.
+
+This changes the program route. The E46→E52 transfer question is answered well
+enough to close same-configuration extension: exact work coupling has a local
+fresh-task quality signal but no completion, safety, or economic promotion.
+The next systems boundary is not another isolated artifact format or
+maintenance prompt. It is the interaction among:
+
+```text
+evidence ingress and demotion cadence
+× semantic-maintenance trigger and rewrite cost
+× exact cumulative work
+× candidate-effect/currentness obligations
+× protected check/repair/recheck/closure bandwidth
+```
+
+The immediate eligible work is offline. Reconstruct the 36 maintenance calls,
+their accepted/rejected semantic content, associated externalizations,
+candidate versions, checks, and displaced provider budget. Then design a fresh
+or untouched whole-system comparison in which every arm is viable and differs
+in prospectively mechanical maintenance cadence—not in whether exact custody,
+pressure relief, work, or evaluation exists.
+
+No same-boundary extra calls, terminal-event retry, output-budget rescue, or
+GPU run is authorized. A future measured scout must preserve the whole feedback
+loop and adjudicate source relationships, current verification, and readiness;
+it may not reduce the question to maintenance-expression acceptance.

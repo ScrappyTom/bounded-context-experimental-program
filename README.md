@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 39 experiment commit bindings were resolved through the named local
+The current 40 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -224,8 +224,24 @@ candidate remained untouched and the exact audit, handoff, seal, and measured
 preflight pass. See
 [E51_CEDAR_INGRESS_ALIGNED_PRESSURE_SCREEN_RESULT.md](E51_CEDAR_INGRESS_ALIGNED_PRESSURE_SCREEN_RESULT.md).
 
-No measured GPU run is authorized by these documents. The next eligible
-operation is the complete Cedar D0-then-A1 continuation frozen at the E51
-commit: at most 68 actor calls, 36 maintenance calls, and 104 provider calls,
-one attempt per call and zero retries. It requires separate exact owner
-authorization.
+The separately authorized Cedar D0/A1 continuation is complete at
+[`qwen38-artifact-coupled-integration-scout-v0@eec64f4`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/eec64f42564ebd014e048e6897485b095c634aa3).
+It used 38 actor and 36 maintenance calls, totaling 74 provider calls and
+1,026,000 serialized tokens. A1 produced a materially broader
+`strong_partial` candidate; D0 remained `weak_partial`. Both were independently
+`not_ready`, neither submitted, and neither achieved useful completion. A1's
+artifact also contained material source contradictions.
+
+The fresh-task signal matters: exact coupled work participated in later
+acquisition and repair and improved artifact breadth. The shared interaction
+also exposed the next bottleneck. Only 5 of 18 maintenance calls qualified in
+each arm, and both cells stopped on the maintenance-call ceiling before a
+current recheck and closure. The result is
+[E52_CEDAR_ARTIFACT_COUPLING_TRANSFER_RESULT.md](E52_CEDAR_ARTIFACT_COUPLING_TRANSFER_RESULT.md).
+
+The exact Cedar continuation is closed. The next eligible work is offline
+whole-system analysis and prospective design of the interaction among
+maintenance cadence, exact work-product persistence, effect uptake, and
+protected verification/closure bandwidth. It is not another prompt-format
+repair or an isolated artifact-coupling ablation. No new GPU run is authorized
+by these documents.
