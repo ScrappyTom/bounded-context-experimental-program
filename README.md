@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 38 experiment commit bindings were resolved through the named local
+The current 39 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -215,8 +215,17 @@ closed. A mechanically identical v1 runner is frozen at
 See
 [E50_CEDAR_PRESSURE_SCREEN_V0_ABORT_AND_V1_FREEZE.md](E50_CEDAR_PRESSURE_SCREEN_V0_ABORT_AND_V1_FREEZE.md).
 
-No GPU run is authorized by these documents. The next eligible work is the
-separately authorized 20-call ordinary Cedar pressure screen v1 at the E50
-commit. Prospective geometry must not be reported as live activation, and the
-measured Cedar D0/A1 fork remains locked until an eligible boundary is audited
-and committed.
+The separately authorized v1 screen then passed at
+[`qwen38-artifact-coupled-integration-scout-v0@f1610d1`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/f1610d1bf90b5847dbdbe0d981f4b1676abf4279).
+Five valid batch reads delivered eight full sources across six domains. Pending
+S09–S10 added 140 novel lines and made the ordinary packet 2,384 tokens too
+large; replacing only `RESULT-001` restores feasibility at 19,881 tokens. The
+candidate remained untouched and the exact audit, handoff, seal, and measured
+preflight pass. See
+[E51_CEDAR_INGRESS_ALIGNED_PRESSURE_SCREEN_RESULT.md](E51_CEDAR_INGRESS_ALIGNED_PRESSURE_SCREEN_RESULT.md).
+
+No measured GPU run is authorized by these documents. The next eligible
+operation is the complete Cedar D0-then-A1 continuation frozen at the E51
+commit: at most 68 actor calls, 36 maintenance calls, and 104 provider calls,
+one attempt per call and zero retries. It requires separate exact owner
+authorization.

@@ -106,10 +106,13 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         )
         transfer = self.contract["next_system_interaction"]
         self.assertEqual(
-            "cedar_ingress_aligned_stage0_qualified_live_pressure_screen_pending",
+            "cedar_authentic_pressure_qualified_measured_interaction_frozen",
             transfer["status"],
         )
-        self.assertEqual("offline_qualified", transfer["implementation"])
+        self.assertEqual(
+            "authentic_pressure_qualified_measured_interaction_frozen",
+            transfer["implementation"],
+        )
         self.assertFalse(transfer["gpu_authorized"])
         self.assertEqual(
             "a48d67a8cd888fd54b9c7a59a7e8f1dcd094241f",
@@ -131,13 +134,16 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         )
         self.assertFalse(transfer["next_gate"]["gpu_authorized"])
         self.assertEqual(
-            "952037afa399c0fd593605831d92f8988a81d4a4",
+            "f1610d1bf90b5847dbdbe0d981f4b1676abf4279",
             transfer["next_gate"]["freeze_commit"],
         )
         self.assertEqual(
-            "2026-08-25-cedar-ingress-aligned-pressure-screen-v1",
+            "2026-08-25-cedar-artifact-coupling-transfer-measured-v0",
             transfer["next_gate"]["run_id"],
         )
+        self.assertEqual(5, transfer["live_activation_result"]["actor_calls"])
+        self.assertEqual(2384, transfer["live_activation_result"]["overflow_tokens"])
+        self.assertTrue(transfer["live_activation_result"]["pressure_qualified"])
         self.assertIn(
             "prospective_budget_after_first_construction_for_effect_uptake_check_repair_recheck_and_closure",
             transfer["required_properties"],

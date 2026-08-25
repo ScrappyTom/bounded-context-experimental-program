@@ -521,6 +521,18 @@ retried. The unchanged v1 screen is frozen at
 pass. It requires new exact authorization even though the external process has
 since exited.
 
+E51 then qualified the v1 boundary without changing the frozen task or gate.
+After five accepted batch reads, eight full sources across six domains were
+delivered and pending S09–S10 caused a 2,384-token overflow. Replacing only
+`RESULT-001` yields a feasible 19,881-token packet. The exact run seal, audit,
+handoff, and measured preflight pass.
+
+The next eligible operation is no longer another screen. It is the complete
+fresh-world detached/coupled continuation at result commit `f1610d1`, with all
+ingress, pressure, semantic integration, exact task work, effects, checks,
+repair, closure, and independent evaluation live. It remains GPU-unauthorized
+until the owner names that exact commit, run ID, order, and ceilings.
+
 ## What will not be optimized in this phase
 
 Absent a validity blocker or independently recurring boundary, do not build or

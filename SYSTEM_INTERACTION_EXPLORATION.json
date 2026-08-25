@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-24",
-  "status": "cedar_ingress_aligned_stage0_qualified_live_activation_pending",
+  "status": "cedar_authentic_pressure_qualified_measured_interaction_pending_authorization",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "authentic_prompt_pressure",
@@ -187,7 +187,7 @@
     "scientific_evidence": false
   },
   "next_system_interaction": {
-    "status": "cedar_ingress_aligned_stage0_qualified_live_pressure_screen_pending",
+    "status": "cedar_authentic_pressure_qualified_measured_interaction_frozen",
     "question": "Does the complete artifact-coupled interaction improve evidence conversion, candidate-bound quality, repair, or correct closure in a fresh world after materially distributed evidence and authentic pressure are established under the same permitted ingress geometry?",
     "unit_of_analysis": "complete_fresh_world_configuration_trajectory",
     "repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0",
@@ -234,16 +234,34 @@
       "tests_passed": 41,
       "provider_calls": 0,
       "provider_free_complete_loops": 2,
-      "measured_fork_eligible": false
+      "measured_fork_eligible": true
+    },
+    "live_activation_result": {
+      "result_commit": "f1610d1bf90b5847dbdbe0d981f4b1676abf4279",
+      "run_id": "2026-08-25-cedar-ingress-aligned-pressure-screen-v1",
+      "actor_calls": 5,
+      "provider_calls": 5,
+      "serialized_tokens": 57444,
+      "delivered_qualifying_sources": 8,
+      "delivered_evidence_domains": 6,
+      "pending_novel_lines": 140,
+      "ordinary_prospective_prompt_tokens": 23376,
+      "overflow_tokens": 2384,
+      "positive_relief_result_ids": ["RESULT-001"],
+      "positive_relief_after_tokens": 19881,
+      "candidate_changed": false,
+      "pressure_qualified": true
     },
     "next_gate": {
-      "freeze_commit": "952037afa399c0fd593605831d92f8988a81d4a4",
-      "run_id": "2026-08-25-cedar-ingress-aligned-pressure-screen-v1",
-      "maximum_actor_calls": 20,
+      "freeze_commit": "f1610d1bf90b5847dbdbe0d981f4b1676abf4279",
+      "run_id": "2026-08-25-cedar-artifact-coupling-transfer-measured-v0",
+      "configuration_order": ["D0_DETACHED", "A1_COUPLED"],
+      "maximum_actor_calls": 68,
+      "maximum_maintenance_calls": 36,
+      "maximum_provider_calls": 104,
       "attempts_per_call": 1,
       "retries": 0,
-      "gpu_authorized": false,
-      "early_pressure_closes_task": true
+      "gpu_authorized": false
     },
     "required_properties": [
       "viable_detached_or_other_system_comparator",
@@ -261,9 +279,9 @@
       "maintenance_prompt_or_budget_tuning",
       "artifact_coupling_component_ablation_before_transfer_signal"
     ],
-    "implementation": "offline_qualified",
+    "implementation": "authentic_pressure_qualified_measured_interaction_frozen",
     "gpu_authorized": false,
-    "governing_document": "E49_CEDAR_INGRESS_ALIGNED_STAGE0_HANDOFF.md"
+    "governing_document": "E51_CEDAR_INGRESS_ALIGNED_PRESSURE_SCREEN_RESULT.md"
   },
   "common_live_functions": [
     "exact_external_custody",

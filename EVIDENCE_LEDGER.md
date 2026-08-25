@@ -64,6 +64,7 @@ means literal local behavior with a material apparatus qualification.
 | E48 | LR/AF/NQ | Northstar early pressure screen | Two valid batch reads used one attempt each. Delivered `RESULT-001` covered S01–S03; pending `RESULT-002` covered S04–S06 and made the next prompt 25,705 tokens, 4,713 above the allowance. Demoting `RESULT-001` would reduce it to 14,654 tokens. | The frozen gate required four prior delivered source-observation result objects, but only one batch result object had crossed a later actor boundary. The sealed run is mechanically valid but scientifically ineligible; task selection closed, no D0/A1 fork exists, and no retry is authorized. | [screen result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/454c605e896a48878673686864552af20f52c5b0) |
 | E49 | AF/NQ | Cedar ingress-aligned interaction Stage 0 | A fresh 16-source task freezes activation as delivered exact line coverage: four sources at 55/70 unique lines across three evidence domains plus novel pending lines. Every full single and two-source batch is admissible; prospective maturity fits at 11,712 tokens and a later admissible result creates a feasible 1,827-token overflow. Provider-free D0/A1 loops and 39 tests pass. | Zero provider calls. Exact geometry proves reachability, not authentic pressure, actor demand, coupling utility, or readiness. The ordinary Cedar screen and measured fork remain separately unauthorized. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/a48d67a8cd888fd54b9c7a59a7e8f1dcd094241f) |
 | E50 | AF/NQ | Cedar v0 zero-call apparatus abort and v1 freeze | The authorized v0 runner found an unrelated pre-existing `llama-server` before starting the project server and failed closed. Its sealed tree contains zero actor/provider calls. V1 changes only run/scope identity; 41 tests and offline preflight pass. | No GPU inference or behavioral evidence. V0 cannot be retried, the external process was not terminated by the project, and v1 at `952037a` needs separate authorization. | [abort and v1 freeze](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/952037afa399c0fd593605831d92f8988a81d4a4) |
+| E51 | LR/AF | Cedar ingress-aligned authentic pressure screen | Five accepted batch reads delivered S01–S08 across six domains. Pending S09–S10 added 140 novel lines and made the next prompt 23,376 tokens, 2,384 over the allowance. Replacing only `RESULT-001` yields 19,881 tokens. | Boundary and apparatus result only: no treatment, maintenance, candidate effect, check, evaluation, or closure ran. The measured fork qualifies but remains unauthorized. | [screen result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/f1610d1bf90b5847dbdbe0d981f4b1676abf4279) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
@@ -697,3 +698,28 @@ preflight pass. The external server later exited without project action.
 Disposition: **AF/NQ** — v0 supplies no scientific evidence and cannot be
 retried. V1 is frozen and technically unblocked but requires exact new owner
 authorization.
+
+## E51 — Cedar ingress-aligned authentic pressure screen
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@f1610d1bf90b5847dbdbe0d981f4b1676abf4279`
+
+The separately authorized v1 screen made five valid two-source batch reads:
+S01–S02 through S09–S10 in catalog order. All actions were accepted with one
+attempt and zero retries. S01–S08 crossed later actor boundaries, covering all
+70 lines from eight sources across six domains. Pending S09–S10 contributes
+140 novel lines. The candidate stayed exact-initial; no check or submission
+occurred.
+
+Adding pending `RESULT-005` produces 23,376 prompt tokens against the 20,992
+allowance. Protected-pending deterministic first-fit relief replaces only
+`RESULT-001` and yields 19,881 tokens. The line/domain maturity gate, pending
+novelty, physical pressure, and positive common relief therefore all pass on
+the live actor trajectory.
+
+Five provider calls consumed 57,444 serialized tokens. Runtime release, exact
+tree seal, root audit, handoff hydration, 41 tests, and measured preflight pass.
+
+Disposition: **LR/AF** — an authentic common pre-treatment fork is qualified.
+No D0/A1 behavior or utility is yet observed. The measured continuation is
+frozen at the result commit and requires separate authorization.

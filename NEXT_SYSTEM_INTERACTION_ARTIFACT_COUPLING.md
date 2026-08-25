@@ -382,3 +382,10 @@ zero actor/provider calls and supplies no experimental result. The mechanically
 unchanged v1 screen is frozen at
 `952037afa399c0fd593605831d92f8988a81d4a4`; it requires separate exact
 authorization.
+
+V1 then passed under separate authorization. At result commit
+`f1610d1bf90b5847dbdbe0d981f4b1676abf4279`, eight delivered sources across six
+domains precede a novel S09–S10 pending result and authentic 2,384-token
+overflow. Replacing only `RESULT-001` makes the same packet feasible. The exact
+handoff and measured preflight pass. The D0/A1 run is now the next eligible
+operation, but it is not authorized by the screen receipt or this document.

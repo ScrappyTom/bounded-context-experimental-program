@@ -417,3 +417,16 @@ run identity. E50 freezes a mechanically identical v1 at
 `qwen38-artifact-coupled-integration-scout-v0@952037afa399c0fd593605831d92f8988a81d4a4`.
 The external process later exited, but authorization does not transfer across
 run IDs or commits; v1 remains separately unauthorized.
+
+E51 records the separately authorized v1 result. Five valid batch reads
+delivered S01–S08 across six domains; pending S09–S10 added 140 novel lines and
+made the exact next prompt 23,376 tokens, 2,384 over the allowance. One common
+positive substitution of `RESULT-001` reduces it to 19,881. The candidate was
+untouched, every prospective ingress-aligned eligibility condition passed, and
+the measured preflight now hydrates both complete systems from the same fork.
+
+This qualifies the causal comparison without yet supplying its outcome. The
+next eligible operation is the frozen D0-then-A1 measured continuation at
+`qwen38-artifact-coupled-integration-scout-v0@f1610d1bf90b5847dbdbe0d981f4b1676abf4279`,
+subject to separate authorization for at most 68 actor, 36 maintenance, and 104
+total provider calls. No result in E51 authorizes that run.

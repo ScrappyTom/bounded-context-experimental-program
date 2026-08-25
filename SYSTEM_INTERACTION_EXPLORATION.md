@@ -478,6 +478,15 @@ The zero-call run is sealed and closed. V1 at `952037a` preserves the complete
 scientific contract and changes only run/scope identity; it is not authorized
 by the v0 receipt.
 
+V1 subsequently qualified the live fork. Five accepted batch reads delivered
+eight sources across six domains; pending S09–S10 added 140 novel lines and
+made the ordinary packet 2,384 tokens too large. One positive substitution of
+`RESULT-001` restores feasibility at 19,881 tokens. The candidate remained
+initial, and the audit/handoff now hydrates the same exact state into both
+whole systems. The next experiment is therefore the measured D0/A1
+interaction, not another activation screen; it remains separately
+GPU-unauthorized.
+
 ## What is not selected
 
 This direction does not authorize:
