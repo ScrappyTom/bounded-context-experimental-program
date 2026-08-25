@@ -25,7 +25,7 @@ class ProgramStageAggregateTests(unittest.TestCase):
     def test_declared_aggregate_passes(self):
         result = MODULE.verify(self.aggregate)
         self.assertTrue(result["passed"], result["failures"])
-        self.assertEqual(48, result["successor_stages"])
+        self.assertEqual(49, result["successor_stages"])
         self.assertEqual(560, result["follow_on_model_calls"])
         self.assertEqual(7_119_130, result["follow_on_serialized_tokens"])
         self.assertEqual(44, result["unique_cited_experiment_commits"])

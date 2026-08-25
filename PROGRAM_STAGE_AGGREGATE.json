@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 48 successor stages through E56 Bluehaven batched-maintenance qualification result",
+  "scope": "parent bank plus 49 successor stages through E57 evidence-maturity reconciliation",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,7 +8,7 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 48,
+    "successor_stages": 49,
     "follow_on_model_calls": 560,
     "follow_on_serialized_tokens": 7119130,
     "unique_cited_experiment_commits": 44
@@ -500,6 +500,16 @@
       "serialized_tokens": 25006,
       "included_in_follow_on_totals": true,
       "primary_disposition": "replacement through S12 qualified, but cold-start maintenance over partial exact evidence asserted substantive content under unseen S07-S12; the frozen validator rejected it, B1 failed its pre-measured gate, and the B1/W1 continuation is closed"
+    },
+    {
+      "stage_id": "S49",
+      "name": "cross-trajectory evidence-maturity and complete-replacement reconciliation",
+      "stage_type": "offline_audit",
+      "sources": [{"repository": "ScrappyTom/bounded-context-experimental-program", "result_commit": "dc58ce71a4ee28f942503d1f54f08f6bae0721f9", "count_as_experiment_commit": false}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "unsupported completion remained Bluehaven-local; complete global replacement failed recurrently through stale or no-op updates, carrier pressure, and error capitalization; a fresh source-local-delta versus direct exact-work whole-system Stage 0 is selected"
     }
   ]
 }
