@@ -306,10 +306,11 @@
     "governing_document": "E52_CEDAR_ARTIFACT_COUPLING_TRANSFER_RESULT.md"
   },
   "next_system_interaction": {
-    "status": "fresh_source_local_delta_system_stage0_selected",
+    "status": "meridian_offline_stage0_qualified_authentic_pressure_pending",
     "question": "Under authentic pressure, does source-local semantic transformation mechanically coupled into exact task work produce more source-correct cumulative work, current verification, and appropriate closure than direct actor-authored exact work?",
     "unit_of_analysis": "complete_pressure_active_evidence_to_work_to_feedback_to_closure_trajectory",
     "design_donor": "E57_complete_replacement_cross_trajectory_reconciliation",
+    "standalone_freeze": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@467ccc0d032af217b969a31315ee41005dbe2167",
     "measurement_requires": "fresh_task_with_non_isomorphic_source_ids_and_many_to_many_requirement_relations",
     "candidate_configuration_families": [
       "W0_direct_actor_authored_exact_evidence_and_artifact_work",
@@ -334,6 +335,15 @@
       "protect_effect_check_repair_recheck_and_closure_opportunity",
       "qualify_every_arm_as_a_viable_whole_system"
     ],
+    "offline_preconditions_disposition": "all_complete_except_authentic_realized_pressure_which_is_the_next_live_gate",
+    "next_live_operation": {
+      "run_id": "2026-08-25-meridian-source-local-delta-pressure-screen-v0",
+      "scope": "common_treatment_free_authentic_pressure_screen",
+      "maximum_actor_calls": 24,
+      "attempts_per_call": 1,
+      "retries": 0,
+      "authorized": false
+    },
     "primary_outcomes": [
       "source_relationship_fidelity",
       "candidate_bound_artifact_quality",

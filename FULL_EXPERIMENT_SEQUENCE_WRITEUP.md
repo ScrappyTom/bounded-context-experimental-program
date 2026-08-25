@@ -1489,3 +1489,31 @@ mechanically merged into exact source/version slots, while keeping ingress,
 pressure relief, incremental artifact effects, current feedback, repair,
 recheck, and readiness in the loop. This is a change in information flow, not
 a Bluehaven prompt repair.
+
+## 50. Meridian instantiates the source-local interaction as complete systems
+
+E58 freezes a fresh sterile-infusion recovery task and both candidate policies
+at `467ccc0d032af217b969a31315ee41005dbe2167`. Sixteen opaque source IDs feed an
+evaluator-held many-to-many twelve-requirement graph, avoiding Bluehaven's
+same-number source/requirement cue. Exact traps cover units, probability,
+coverage, shared capacity, targets versus observations, temperature,
+currentness, and independent readiness.
+
+W0 lets the ordinary actor externalize interpretation into bounded exact
+source/version slots. L1 separately transforms only newly externalized exact
+source results and mechanically replaces only those slots. Both continue
+through the same exact artifact, effects, current checks, repair/recheck,
+closure proposal, and external adjudication. W0 and L1 share exact input-result
+provenance and the same 650-token slot ceiling; L1 pays additional provider and
+carrier cost.
+
+The 23,730-token corpus has fully admissible single/pair ingress. A prospective
+ordinary path reaches 23,628 prompt tokens when the sixth two-source result is
+pending; one deterministic substitution restores 20,774. Both complete
+provider-free lifecycle fixtures pass, including stale-check repair and
+current recheck, and the repository passes 82 tests.
+
+This is an offline apparatus result. It neither proves authentic pressure nor
+source-local semantic fidelity. The next live operation is solely a common
+treatment-free pressure screen. An eligible sealed boundary must precede the
+live expression gate and the eventual whole-trajectory comparison.

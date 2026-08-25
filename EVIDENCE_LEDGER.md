@@ -866,3 +866,31 @@ work, with the full artifact/effect/check/repair/closure loop active.
 Claim limit: source-ID admission is not exhaustive semantic correctness;
 Cedar's final source contradictions entered through ordinary actor work, and
 the audit does not attribute them to maintenance. No provider call occurred.
+
+## E58 — Meridian source-local delta whole-system Stage 0
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@467ccc0d032af217b969a31315ee41005dbe2167`
+
+A fresh sixteen-source sterile-infusion world uses opaque source IDs and an
+evaluator-only many-to-many Q01–Q12 source graph. Every full single/pair read
+is admissible. A prospective six-batch path creates a 2,636-token exact result-
+delivery deficit; one protected-pending positive-savings substitution restores
+feasibility at 20,774 tokens.
+
+W0 gives the ordinary actor bounded source/version-slot work. L1 gives a
+separately costed provider only newly externalized source bytes and
+mechanically merges only those source/version slots. Both share exact ingress,
+custody, relief/reopen, incremental decision work, effects, current checks,
+repair/recheck, closure proposal, and independent readiness. Both enforce a
+650-token slot ceiling and exact input-result provenance.
+
+Complete provider-free loops pass for both arms, including version replacement,
+unrelated-slot preservation, failing check, repair-induced staleness, current
+recheck, and non-self-authorizing submission. The repository passes 82 tests.
+
+Disposition: **AF/NQ** — the two complete systems qualify mechanically and a
+realizable pressure opportunity exists. Authentic pressure, live delta
+expression, downstream task utility, and readiness remain unmeasured. The next
+eligible operation is only the common treatment-free 24-call pressure screen;
+no GPU call is authorized by this record.

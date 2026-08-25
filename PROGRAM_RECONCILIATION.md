@@ -1,7 +1,9 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-25
-Status: current program synthesis; E57 closes complete-global semantic replacement as the acquisition-time default and selects a fresh source-local-delta whole-system scout
+Status: current program synthesis; E58 implements and provider-free qualifies
+the fresh source-local-delta × direct exact-work systems; authentic common
+pressure remains the next live gate
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -608,3 +610,41 @@ The prospective design is
 many-to-many requirement/source relationships and non-isomorphic identifiers,
 and the local delta may not rewrite unseen or unrelated state. No standalone
 implementation or GPU run is authorized yet.
+
+## E58 Meridian offline system qualification
+
+The fresh Stage 0 is now implemented at
+`qwen38-artifact-coupled-integration-scout-v0@467ccc0d032af217b969a31315ee41005dbe2167`.
+Meridian uses sixteen opaque source IDs and an evaluator-only many-to-many
+Q01–Q12 source graph. Its exact corpus is 66,457 bytes and 23,730 frozen-
+tokenizer tokens. Every permitted full single and two-source batch fits; a
+prospective six-batch path creates a 2,636-token result-delivery deficit after
+ten distributed sources, and one positive-savings substitution restores a
+20,774-token prompt.
+
+The two configurations are viable complete policies, not component shells.
+Both include actor-selected ingress, exact custody, relief/reopen, an exact
+source/version register, incremental decision work, candidate effects,
+current checks, repair/recheck, closure proposal, and external readiness.
+W0 gives the ordinary actor a per-source slot action. L1 pays for a separate
+source-local transform whose output is mechanically merged into only the
+current source/version slots.
+
+Parity was hardened prospectively. Every W0 slot requires a matching exact
+source/version result that already crossed its actor boundary, and the host
+attaches exact result IDs. Both arms use the same frozen-tokenizer 650-token
+per-source ceiling. The semantic operation cannot edit an absent/unrelated
+source or authorize readiness.
+
+Complete provider-free loops in both arms exercised evidence ingestion,
+slot formation, unrelated-slot preservation, source-version replacement,
+artifact construction, a failing candidate-bound check, repair-induced
+staleness, current recheck, and closure proposal. Mechanical evaluation never
+self-authorized readiness. The repository passes 82 tests.
+
+This moves the program from design selection to a valid live activation gate;
+it does not establish delta expression or utility. The next eligible operation
+is only the common treatment-free 24-call Meridian pressure screen. It stops
+on work, check, submission, nonactivation, ineligible pressure, or budgets.
+Only an authentic qualified boundary may define a later expression case and
+complete measured continuation. No GPU call is authorized here.

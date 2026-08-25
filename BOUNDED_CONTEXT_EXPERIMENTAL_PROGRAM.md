@@ -1420,6 +1420,21 @@ Both configurations must continue through incremental artifact construction,
 candidate-bound effects, current feedback, repair/recheck, and independently
 adjudicated closure.
 
-This is prospective Stage 0 work under
-`NEXT_SYSTEM_INTERACTION_EVIDENCE_DELTA_SCOUT.md`. It has no standalone
-implementation or provider authorization yet.
+## Current program phase after E58
+
+The source-local interaction Stage 0 is implemented at
+`qwen38-artifact-coupled-integration-scout-v0@467ccc0d032af217b969a31315ee41005dbe2167`.
+The fresh Meridian world removes same-number source/requirement cues and
+qualifies both complete W0 direct-work and L1 local-delta policies offline.
+Exact input-result provenance, equal source-slot ceilings, incremental artifact
+state, effects, current checks, repair/recheck, closure proposal, and external
+readiness remain active across the comparison.
+
+The next operation is not another component or prompt variant. It is one
+common treatment-free ordinary trajectory asking whether actor demand reaches
+the prospectively defined mature pressure fork. Only an eligible sealed
+boundary may define the later expression gate and full W0/L1 continuation.
+
+This work is governed by `E58_MERIDIAN_SOURCE_LOCAL_DELTA_STAGE0.md` and
+`NEXT_SYSTEM_INTERACTION_EVIDENCE_DELTA_SCOUT.md`. No provider/GPU call is
+authorized by those documents.

@@ -2,8 +2,10 @@
 
 Date: 2026-08-25
 
-Status: prospective fresh-world Stage 0 design; no standalone implementation,
-freeze, provider call, or GPU authorization yet
+Status: offline Stage 0 implemented and provider-free qualified at
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@467ccc0d032af217b969a31315ee41005dbe2167`;
+authentic pressure, live delta expression, and measured utility remain pending;
+no provider/GPU call is authorized by this document
 
 ## Why this is the next interaction
 
@@ -208,6 +210,9 @@ Do not:
 - give L1 investigator-selected unread evidence; or
 - run W0 alone if L1 fails its prospective expression gate.
 
-Stage 0 ends with a frozen fresh task, evaluator, pressure screen, expression
-gate, complete runner, tests, exact commit, and a separate authorization
-request. This document authorizes none of those provider calls.
+Offline Stage 0 now supplies the fresh task, evaluator, treatment-free pressure
+screen, complete provider-free W0/L1 lifecycle fixtures, tests, exact commit,
+and inert authorization request. The exact live expression case and measured
+continuation are intentionally frozen only after an authentic common pressure
+history exists, so a prospective host path cannot choose treatment cadence or
+evidence identity. This document authorizes none of those provider calls.

@@ -2,7 +2,9 @@
 
 Date: 2026-08-25
 
-Status: governing direction; E57 finds complete-global semantic replacement overloaded across worlds and selects source-local-delta × direct exact-work interaction Stage 0
+Status: governing direction; E58 implements and provider-free qualifies the
+fresh source-local-delta × direct exact-work systems; authentic common pressure
+is the next live gate
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -689,3 +691,28 @@ is a prospective gate; primary interpretation follows the complete
 configuration through induced demand, source-grounded artifact quality,
 effect uptake, verification, and readiness. The detailed Stage 0 contract is
 `NEXT_SYSTEM_INTERACTION_EVIDENCE_DELTA_SCOUT.md`.
+
+## E58: complete offline systems qualify; behavior remains unmeasured
+
+Meridian instantiates both policies on a fresh sixteen-source world at
+`467ccc0d032af217b969a31315ee41005dbe2167`. Opaque source IDs, an evaluator-
+only many-to-many requirement graph, exact relation traps, candidate-bound
+effects/checks, repair/recheck, closure proposal, and external readiness keep
+the full information-to-action pipeline in scope.
+
+The local operation is narrow and mechanically governed. L1 may transform
+only newly externalized exact source bytes and replace only those source/
+version slots. W0 may write the same-sized slots only after matching exact
+source/version results crossed its own actor boundary. Both retain exact result
+provenance and the same 650-token ceiling.
+
+All full single/pair ingress actions fit, a prospective path reaches a real
+positive-savings pressure opportunity, both complete provider-free feedback
+loops pass, and the standalone repository passes 82 tests. These establish
+system validity and reachability, not semantic value.
+
+The next operation is deliberately still common: one treatment-free ordinary
+pressure screen. It observes whether actor demand creates the intended fork.
+Only a qualified sealed boundary can define the live expression case and the
+complete W0/L1 continuation. This ordering preserves interaction measurement
+while preventing a prospective host path from selecting evidence or cadence.

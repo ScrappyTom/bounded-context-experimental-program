@@ -163,9 +163,18 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         )
         selected = self.contract["next_system_interaction"]
         self.assertEqual(
-            "fresh_source_local_delta_system_stage0_selected",
+            "meridian_offline_stage0_qualified_authentic_pressure_pending",
             selected["status"],
         )
+        self.assertEqual(
+            "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@467ccc0d032af217b969a31315ee41005dbe2167",
+            selected["standalone_freeze"],
+        )
+        self.assertEqual(
+            "2026-08-25-meridian-source-local-delta-pressure-screen-v0",
+            selected["next_live_operation"]["run_id"],
+        )
+        self.assertFalse(selected["next_live_operation"]["authorized"])
         self.assertIn("source-local semantic transformation", selected["question"])
         self.assertIn(
             "W0_direct_actor_authored_exact_evidence_and_artifact_work",

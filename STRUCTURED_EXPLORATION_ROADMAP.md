@@ -2,7 +2,8 @@
 
 Date: 2026-08-24
 
-Status: E57 completed; complete-global replacement closed as default; fresh source-local-delta × direct exact-work scout selected for offline Stage 0
+Status: E58 offline Stage 0 complete; source-local-delta × direct exact-work
+systems qualify mechanically; authentic common pressure is the next live gate
 
 ## Research-phase reset
 
@@ -665,6 +666,26 @@ The fresh task must prevent requirement/source-number cueing, include
 many-to-many relation traps, and qualify the entire loop before measurement.
 See `NEXT_SYSTEM_INTERACTION_EVIDENCE_DELTA_SCOUT.md`. No GPU call is
 authorized.
+
+### E58 Meridian qualifies the full offline interaction
+
+The selected configuration family is implemented at
+`467ccc0d032af217b969a31315ee41005dbe2167`. Both arms are viable complete
+bounded-work systems over the same fresh world. They differ jointly in the
+owner and cost of source-local semantic externalization while sharing exact
+ingress/custody, pressure relief, per-source work persistence, incremental
+artifact state, effects, current checks, repair/recheck, closure proposal, and
+external readiness.
+
+The fresh task removes same-number requirement/source cues. W0 and L1 use the
+same 650-token source-slot budget and exact input-result provenance. The
+provider-free systems pass the whole evidence-to-verification loop, and a
+realizable positive-savings pressure path exists.
+
+The roadmap therefore advances to authentic activation, not another offline
+component. The next gate is one common treatment-free actor trajectory. Live
+delta expression and complete W0/L1 feedback measurement are frozen only from
+an eligible sealed boundary and require separate authorizations.
 
 ## What will not be optimized in this phase
 

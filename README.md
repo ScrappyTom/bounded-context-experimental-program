@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 44 experiment commit bindings were resolved through the named local
+The current 45 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -51,6 +51,12 @@ Each measured experiment remains a separately frozen, auditable repository.
 Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
+
+The freshest route is E58 Meridian: both source-local-delta and direct exact-
+work configurations pass complete offline system qualification on a fresh
+many-to-many world. Authentic common pressure is the next gate; no semantic
+utility or GPU result exists yet. See
+[E58_MERIDIAN_SOURCE_LOCAL_DELTA_STAGE0.md](E58_MERIDIAN_SOURCE_LOCAL_DELTA_STAGE0.md).
 
 The first breadth tranche is complete. Its 39 calls used one attempt each and
 zero retries. No prompt exceeded 7,110 tokens against the 20,992-token prompt
@@ -305,4 +311,19 @@ The next prospective Stage 0 is
 on a fresh world. Both candidate configurations retain exact ingress and
 relief, task-native evidence/artifact state, effects, current checks, repair,
 recheck, closure proposal, and independent readiness evaluation. No
-standalone implementation or GPU run is authorized yet.
+GPU run is authorized yet.
+
+That offline Stage 0 is now complete as
+[E58](E58_MERIDIAN_SOURCE_LOCAL_DELTA_STAGE0.md) at standalone commit
+[`467ccc0d`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/467ccc0d032af217b969a31315ee41005dbe2167).
+Meridian supplies a fresh opaque-ID, many-to-many 16-source world; exact
+source/result provenance and equal 650-token source-slot ceilings in both
+configurations; exhaustive admissible single/pair ingress; a realizable
+positive-savings pressure path; complete provider-free W0/L1 feedback loops;
+and 82 passing tests.
+
+E58 is apparatus qualification, not a semantic result. The next eligible live
+operation is only its treatment-free 24-call ordinary pressure screen. A
+qualified exact boundary would still require a separately frozen live delta
+expression gate and then a separately authorized complete W0/L1 continuation.
+No provider/GPU call is authorized by the program documentation.

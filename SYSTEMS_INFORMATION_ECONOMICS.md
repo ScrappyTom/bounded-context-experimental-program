@@ -1008,3 +1008,29 @@ the shortest horizon that can actually expose them.
 product is evidence about substitution, complementarity, interference, and
 failure migration among bounded-work configurations—not a polished context
 runtime or a ranking of isolated components.
+
+## E58: equal slot economics, different semantic-work ownership
+
+Meridian now holds resident source work constant at a common 650-token-per-
+source ceiling with exact input-result provenance. What differs is the system
+that produces it:
+
+```text
+W0 cost
+ordinary actor decision bandwidth used for source-local work
+
+L1 cost
+additional maintenance prompt + completion + cache/latency
+while ordinary actor decision bandwidth remains available
+```
+
+The eventual comparison therefore asks whether a separately paid semantic
+transform buys enough better cumulative work, evidence demand, verification,
+repair, and readiness to justify its cost. It does not compare a note with no
+note, nor equalize away provider expenditure or actor opportunity cost.
+
+Offline geometry establishes a realizable pressure investment point, and
+provider-free loops establish that both complete systems can reach feedback
+and closure mechanics. Neither establishes expected return. Authentic actor-
+selected pressure must occur before the information-economic comparison is
+rendered, and source-local expression must pass at that exact evidence state.
