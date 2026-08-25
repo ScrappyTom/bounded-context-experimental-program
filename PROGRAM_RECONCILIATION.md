@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-25
-Status: current program synthesis; Bluehaven authentic pressure fork qualified; batched-maintenance expression gate frozen and pending authorization
+Status: current program synthesis; Bluehaven B1 qualification failed on partial-evidence semantic completion; frozen B1/W1 continuation closed
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -535,3 +535,23 @@ Two exact three-result cases test initialization and bounded replacement at
 and 2,400-token admission bound. This is expression qualification only. The
 two calls require separate authorization, and no B1/W1 measured continuation
 is yet authorized.
+
+E56 records the separately authorized outcome. The S01–S06 initialization
+finished normally and stayed below the body budget, but asserted substantive
+claims under unseen S07–S12. It also misbound R11's execution obligation to
+the workforce source S11 and R12's review obligation to the mutual-aid source
+S12. The S01–S12 replacement case passed. The exact audit, seal, usage, and
+runtime release all qualify.
+
+This localizes a new systems hazard: complete semantic-state replacement can
+induce fluent gap filling when cadence fires before its evidence basis is
+mature. B1 therefore fails its prospective gate, and the frozen B1/W1
+continuation is closed. Changing its prompt, allowlist, or trigger on the same
+world would define a new treatment after observing the failure.
+
+The next work is offline and cross-trajectory: audit prior maintenance inputs
+and outputs for evidence maturity, completeness pressure, source binding,
+admission, and downstream work. Only then should the program select a fresh
+whole-system comparison, potentially contrasting an evidence-maturity-triggered
+semantic pathway with direct exact work. No GPU call or replacement policy is
+authorized by this reconciliation.

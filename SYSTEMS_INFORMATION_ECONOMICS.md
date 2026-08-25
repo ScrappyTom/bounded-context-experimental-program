@@ -890,6 +890,26 @@ all remain charged to B1. W1 will instead pay through ordinary actor decisions
 when it chooses exact ledger or decision work. This preserves the intended
 allocation contrast rather than counting maintenance expression as utility.
 
+E56 shows that the semantic investment also has a maturity constraint. The
+cold-start ledger cost only 1,057 output tokens and finished normally, yet it
+had negative admissible value because it filled unobserved parts of the task
+with false source bindings. The later 1,273-token replacement, backed through
+S12, passed.
+
+Thus maintenance value is not only a function of production and carrier cost:
+
+```text
+value(semantic transform)
+= f(evidence coverage, demanded completeness, task cues,
+    provenance discipline, future work, and timing)
+```
+
+An early small transform can be worse than no transform if it converts missing
+evidence into authoritative-looking work. Admission prevented capitalization
+here, but the rejected provider call still cost 12,296 serialized tokens. A
+future trigger based on evidence maturity may avoid that failure, but it is a
+new policy whose opportunity and staleness costs must be measured, not assumed.
+
 ## Low-pressure reconnaissance correction
 
 E37 then sampled multiple tasks while every prompt remained far below the

@@ -2,9 +2,9 @@
 
 Date: 2026-08-24
 
-Status: Bluehaven design instantiated and authentic common pressure fork
-qualified; two-call batched-maintenance expression gate frozen pending separate
-authorization; measured continuation not yet authorized
+Status: Bluehaven B1 cold-start expression failed; frozen B1/W1 continuation
+closed; cross-trajectory evidence-maturity/source-binding audit selected
+offline before any fresh design
 
 ## Why this is the next question
 

@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 47 successor stages through E55 Bluehaven batched-maintenance qualification freeze",
+  "scope": "parent bank plus 48 successor stages through E56 Bluehaven batched-maintenance qualification result",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 47,
-    "follow_on_model_calls": 558,
-    "follow_on_serialized_tokens": 7094124,
-    "unique_cited_experiment_commits": 43
+    "successor_stages": 48,
+    "follow_on_model_calls": 560,
+    "follow_on_serialized_tokens": 7119130,
+    "unique_cited_experiment_commits": 44
   },
   "stages": [
     {
@@ -490,6 +490,16 @@
       "serialized_tokens": 0,
       "included_in_follow_on_totals": true,
       "primary_disposition": "two exact three-result maintenance cases bind to the sealed common pressure history, fit with more than 10900 tokens after the completion allowance, and freeze a bounded transport-only gate; no qualification or measured continuation call is yet authorized"
+    },
+    {
+      "stage_id": "S48",
+      "name": "Bluehaven batched-maintenance expression qualification",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "9c0fdc537f26ff0a44f2cebc54c580cbd5f7b65d", "count_as_experiment_commit": true}],
+      "model_calls": 2,
+      "serialized_tokens": 25006,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "replacement through S12 qualified, but cold-start maintenance over partial exact evidence asserted substantive content under unseen S07-S12; the frozen validator rejected it, B1 failed its pre-measured gate, and the B1/W1 continuation is closed"
     }
   ]
 }

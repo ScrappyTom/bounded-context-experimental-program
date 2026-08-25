@@ -1423,3 +1423,27 @@ This is deliberately transport-only. Passing does not establish fidelity or
 utility, and the exact three-result groupings are not retroactively labeled as
 observed B1 maintenance events. The two calls remain unauthorized, as does the
 later B1/W1 continuation.
+
+## 48. Bluehaven exposes partial-evidence semantic completion
+
+The separately authorized gate made both frozen calls with no retry. Q1
+initialized from exact S01–S06; Q2 replaced a prior while exact inputs extended
+through S12. Both finished normally and stayed well under 2,400 output tokens.
+
+Q2 passed. Q1 failed because it cited S07–S12 outside its exact allowlist. The
+failure was substantive rather than a harmless unopened-source directory. It
+asserted hospital, tanker, warning, assay, execution, and review claims under
+unseen sources. It also mapped R11's execution obligation to exact source S11,
+which is actually workforce, and R12's review obligation to exact S12, which
+is actually mutual aid and cost.
+
+The combined result shows that the carrier can express a bounded replacement
+once evidence is broad enough, while an early complete-state obligation can
+induce fluent fabrication of missing semantic relations. The frozen admission
+rule prevented those claims from entering exact candidate work.
+
+Two calls consumed 25,006 serialized tokens. Audit and runtime release passed,
+but the qualification did not. B1 fails its prospective gate and the B1/W1
+continuation is closed. The next selected work is an offline cross-trajectory
+audit of evidence maturity, completeness pressure, source binding, and
+downstream maintenance use—not a same-world B1 prompt repair.

@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: governing direction; Bluehaven common pressure fork qualified; batched-maintenance transport gate frozen before whole-system comparison
+Status: governing direction; Bluehaven exposes partial-evidence semantic-completion hazard; frozen whole-system fork closed pending offline reconciliation
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -626,3 +626,29 @@ bounded carrier can be emitted. The whole trajectory must still decide whether
 that investment yields source-correct work and current readiness compared with
 W1. The measured continuation remains prohibited until the gate passes and a
 new exact runner/authorization are frozen.
+
+## E56: cadence × evidence maturity × state completeness
+
+The gate failed asymmetrically. A replacement with S01–S12 available passed;
+an initialization with only S01–S06 exact in the maintenance packet produced
+a complete-looking ledger that cited and asserted content under S07–S12.
+
+This adds a distinct interaction variable to the terrain:
+
+```text
+maintenance trigger cadence
+× exact evidence maturity at invocation
+× required semantic-state completeness
+× task and identifier cues
+→ grounded bounded state OR fabricated gap filling
+```
+
+The result prevents a common misdiagnosis. Increasing output budget would not
+help: Q1 used only 1,057 tokens. Relaxing source admission would make the
+system less safe. The failure occurred because the semantic operation was
+asked to fill a whole task state before its evidential inputs supported it.
+
+The frozen B1/W1 comparison is therefore ineligible. The next systems step is
+not a revised B1 prompt on Bluehaven. It is an offline recurrence audit across
+prior maintenance runs, followed—if warranted—by a fresh whole-configuration
+comparison whose trigger is prospectively aligned with evidence maturity.

@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: Bluehaven authentic pressure fork qualified; finite batched-maintenance transport gate frozen before whole-system continuation
+Status: Bluehaven B1 cold-start gate failed; measured fork closed; cross-trajectory evidence-maturity audit selected offline
 
 ## Research-phase reset
 
@@ -613,6 +613,24 @@ six exact pressure-history results. This grouping tests carrier expression;
 actual measured maintenance may fire only after three positive
 externalizations in B1. Passing does not establish utility. No measured arm
 is authorized by the gate.
+
+### E56 Partial-evidence semantic completion closes B1
+
+The two-call gate returned one rejection and one acceptance. The later
+S01–S12 replacement was bounded and source-admissible. The initial S01–S06
+replacement cited S07–S12 and made substantive unseen-source claims, including
+false same-number bindings from R11 to S11 and R12 to S12.
+
+This is not a carrier-size failure. It is an interaction among early cadence,
+partial exact evidence, complete-state obligations, task cues, and identifier
+geometry. The frozen admission rule prevented unsupported semantics from
+entering exact work.
+
+B1 does not qualify; W1 alone is not the frozen comparison. Bluehaven's live
+measured fork is closed without prompt repair or trigger delay. Next perform a
+cross-trajectory offline audit of semantic-maintenance evidence maturity and
+source binding before choosing a fresh configuration. A future maturity-
+triggered policy is a new design, not B1 v1.
 
 ## What will not be optimized in this phase
 
