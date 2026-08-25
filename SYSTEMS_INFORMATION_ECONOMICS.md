@@ -1034,3 +1034,24 @@ provider-free loops establish that both complete systems can reach feedback
 and closure mechanics. Neither establishes expected return. Authentic actor-
 selected pressure must occur before the information-economic comparison is
 rendered, and source-local expression must pass at that exact evidence state.
+
+## E59–E60: the investment event is now endogenous
+
+Meridian's ordinary actor created the prospective fork in six calls. Ten
+sources across ten evidence domains were already delivered when KNOLL+LOOM
+became pending. The packet exceeded the prompt allowance by 2,636 tokens and
+first-fit relief selected only `RESULT-001`, producing 20,774 tokens.
+
+This fixes the first semantic investment without investigator relevance
+selection. L1's first paid operation, if authorized, must transform exact
+AXIOM+BRAMBLE from the result the common lifecycle actually externalizes. Its
+economic cost includes the full 4,234-token maintenance prompt, completion,
+carrier, cache/latency, and all downstream demand it induces—not merely the
+admitted slot-token count.
+
+The expression gate still cannot establish return. A mechanically and
+materially safe delta may later substitute for exact recovery, complement
+other evidence, interfere with actor work, remain unused, or capitalize an
+error into exact work. Those outcomes require the complete W0/L1 trajectories
+through artifact effects, current checks, repair, closure, and external
+readiness. No continuation has yet run.

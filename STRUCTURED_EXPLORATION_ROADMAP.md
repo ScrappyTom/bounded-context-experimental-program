@@ -2,8 +2,9 @@
 
 Date: 2026-08-24
 
-Status: E58 offline Stage 0 complete; source-local-delta × direct exact-work
-systems qualify mechanically; authentic common pressure is the next live gate
+Status: E59 authentic common pressure qualified; E60 freezes the first exact
+boundary-native source-local expression gate; whole-system utility remains
+unmeasured
 
 ## Research-phase reset
 
@@ -686,6 +687,20 @@ The roadmap therefore advances to authentic activation, not another offline
 component. The next gate is one common treatment-free actor trajectory. Live
 delta expression and complete W0/L1 feedback measurement are frozen only from
 an eligible sealed boundary and require separate authorizations.
+
+### E59–E60 activate the interaction without scoring the treatment
+
+The common actor delivered ten sources across ten domains before KNOLL+LOOM
+created a 2,636-token pending-result deficit. One frozen first-fit substitution
+restores feasibility at 20,774 tokens. This qualifies the common fork after
+ordinary demand, with the candidate still unchanged and neither policy active.
+
+Because the lifecycle externalizes `RESULT-001`, the first L1 operation is now
+fixed prospectively to exact AXIOM+BRAMBLE. E60 freezes one 4,234-token call
+with strict local scope, equal 650-token source slots, and separate material-
+safety adjudication. It is an interface gate, not a component utility result.
+No W0/L1 continuation may be frozen or run until the gate passes, and every
+later measured trajectory remains a separately authorized whole-system study.
 
 ## What will not be optimized in this phase
 

@@ -163,7 +163,7 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         )
         selected = self.contract["next_system_interaction"]
         self.assertEqual(
-            "meridian_offline_stage0_qualified_authentic_pressure_pending",
+            "meridian_authentic_pressure_qualified_expression_gate_frozen_pending_live_call",
             selected["status"],
         )
         self.assertEqual(
@@ -171,8 +171,19 @@ class SystemInteractionDirectionTests(unittest.TestCase):
             selected["standalone_freeze"],
         )
         self.assertEqual(
-            "2026-08-25-meridian-source-local-delta-pressure-screen-v0",
+            "2026-08-25-meridian-source-delta-expression-qualification-v0",
             selected["next_live_operation"]["run_id"],
+        )
+        self.assertEqual(6, selected["live_activation_result"]["actor_calls"])
+        self.assertEqual(2636, selected["live_activation_result"]["overflow_tokens"])
+        self.assertTrue(selected["live_activation_result"]["pressure_qualified"])
+        self.assertEqual(
+            ["RESULT-001"],
+            selected["expression_gate_freeze"]["input_result_ids"],
+        )
+        self.assertEqual(0, selected["expression_gate_freeze"]["model_calls"])
+        self.assertFalse(
+            selected["expression_gate_freeze"]["measured_continuation_authorized"]
         )
         self.assertFalse(selected["next_live_operation"]["authorized"])
         self.assertIn("source-local semantic transformation", selected["question"])

@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-25",
-  "status": "e57_reconciled_complete_global_replacement_closed_source_local_delta_system_stage0_selected",
+  "status": "meridian_authentic_pressure_qualified_boundary_native_source_delta_expression_gate_frozen",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "authentic_prompt_pressure",
@@ -306,7 +306,7 @@
     "governing_document": "E52_CEDAR_ARTIFACT_COUPLING_TRANSFER_RESULT.md"
   },
   "next_system_interaction": {
-    "status": "meridian_offline_stage0_qualified_authentic_pressure_pending",
+    "status": "meridian_authentic_pressure_qualified_expression_gate_frozen_pending_live_call",
     "question": "Under authentic pressure, does source-local semantic transformation mechanically coupled into exact task work produce more source-correct cumulative work, current verification, and appropriate closure than direct actor-authored exact work?",
     "unit_of_analysis": "complete_pressure_active_evidence_to_work_to_feedback_to_closure_trajectory",
     "design_donor": "E57_complete_replacement_cross_trajectory_reconciliation",
@@ -335,11 +335,42 @@
       "protect_effect_check_repair_recheck_and_closure_opportunity",
       "qualify_every_arm_as_a_viable_whole_system"
     ],
-    "offline_preconditions_disposition": "all_complete_except_authentic_realized_pressure_which_is_the_next_live_gate",
-    "next_live_operation": {
+    "offline_preconditions_disposition": "complete; authentic realized pressure also qualified live and fixes the first treatment input",
+    "live_activation_result": {
+      "result_commit": "74f6d45107ce726543344f9a46c3d077e06c60e6",
       "run_id": "2026-08-25-meridian-source-local-delta-pressure-screen-v0",
-      "scope": "common_treatment_free_authentic_pressure_screen",
-      "maximum_actor_calls": 24,
+      "actor_calls": 6,
+      "provider_calls": 6,
+      "serialized_tokens": 69784,
+      "delivered_qualifying_sources": 10,
+      "delivered_evidence_domains": 10,
+      "pending_result_id": "RESULT-006",
+      "pending_novel_lines": 140,
+      "ordinary_prospective_prompt_tokens": 23628,
+      "overflow_tokens": 2636,
+      "positive_relief_result_ids": ["RESULT-001"],
+      "positive_relief_after_tokens": 20774,
+      "candidate_changed": false,
+      "pressure_qualified": true
+    },
+    "expression_gate_freeze": {
+      "freeze_commit": "1e0323945b1105aafba8c4b5fd0e4dc7f9f3180a",
+      "run_id": "2026-08-25-meridian-source-delta-expression-qualification-v0",
+      "case_id": "Q1_FIRST_ACTUAL_EXTERNALIZATION",
+      "input_result_ids": ["RESULT-001"],
+      "source_ids": ["AXIOM", "BRAMBLE"],
+      "prompt_tokens": 4234,
+      "provider_max_completion_tokens": 1800,
+      "total_admission_tokens": 1500,
+      "per_source_admission_tokens": 650,
+      "mechanical_and_material_safety_required": true,
+      "model_calls": 0,
+      "measured_continuation_authorized": false
+    },
+    "next_live_operation": {
+      "run_id": "2026-08-25-meridian-source-delta-expression-qualification-v0",
+      "scope": "boundary_native_source_local_delta_expression_and_material_safety_qualification",
+      "maximum_model_calls": 1,
       "attempts_per_call": 1,
       "retries": 0,
       "authorized": false

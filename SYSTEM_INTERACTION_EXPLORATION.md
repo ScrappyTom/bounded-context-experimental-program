@@ -2,9 +2,9 @@
 
 Date: 2026-08-25
 
-Status: governing direction; E58 implements and provider-free qualifies the
-fresh source-local-delta × direct exact-work systems; authentic common pressure
-is the next live gate
+Status: governing direction; E59 qualifies the authentic common pressure fork
+for the fresh source-local-delta × direct exact-work systems, and E60 freezes
+the first boundary-native expression gate; utility remains unmeasured
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -716,3 +716,24 @@ pressure screen. It observes whether actor demand creates the intended fork.
 Only a qualified sealed boundary can define the live expression case and the
 complete W0/L1 continuation. This ordering preserves interaction measurement
 while preventing a prospective host path from selecting evidence or cadence.
+
+## E59–E60: the interaction fork is authentic; treatment remains gated
+
+Ordinary Meridian demand produced six valid two-source batches. Ten sources
+across ten domains crossed actor boundaries before exact KNOLL+LOOM became
+pending. Its ordinary packet was 2,636 tokens too large; the frozen scan
+externalizes only `RESULT-001` and restores feasibility at 20,774 tokens.
+
+This is the intended systems activation: distributed evidence, a real
+residency transition, pending new information, unchanged artifact, and both
+candidate policies still inactive. It is not merely another first-fit test;
+it determines when and over which exact evidence the semantic/work-persistence
+interaction begins.
+
+The source-local gate is therefore one exact AXIOM+BRAMBLE operation over the
+first actual externalized result, not a matrix of investigator-created
+component cases. Mechanical source-scope admission is separated from material
+safety, and both are prerequisites rather than success outcomes. If the gate
+passes, interpretation remains whole-system: induced reads, later slot and
+artifact state, effects, verification currency, repair, closure, quality, and
+cost all remain in the measured loop. No such continuation is authorized yet.

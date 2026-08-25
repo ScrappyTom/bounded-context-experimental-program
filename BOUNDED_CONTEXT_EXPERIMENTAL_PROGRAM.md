@@ -1420,7 +1420,7 @@ Both configurations must continue through incremental artifact construction,
 candidate-bound effects, current feedback, repair/recheck, and independently
 adjudicated closure.
 
-## Current program phase after E58
+## Current program phase after E60
 
 The source-local interaction Stage 0 is implemented at
 `qwen38-artifact-coupled-integration-scout-v0@467ccc0d032af217b969a31315ee41005dbe2167`.
@@ -1430,11 +1430,21 @@ Exact input-result provenance, equal source-slot ceilings, incremental artifact
 state, effects, current checks, repair/recheck, closure proposal, and external
 readiness remain active across the comparison.
 
-The next operation is not another component or prompt variant. It is one
-common treatment-free ordinary trajectory asking whether actor demand reaches
-the prospectively defined mature pressure fork. Only an eligible sealed
-boundary may define the later expression gate and full W0/L1 continuation.
+That common trajectory has now qualified the mature pressure fork. Six valid
+batches delivered ten sources across ten domains; pending KNOLL+LOOM caused a
+2,636-token deficit, and externalizing only `RESULT-001` restored feasibility.
+The interaction is therefore anchored in ordinary actor demand rather than a
+synthetic packet.
 
-This work is governed by `E58_MERIDIAN_SOURCE_LOCAL_DELTA_STAGE0.md` and
-`NEXT_SYSTEM_INTERACTION_EVIDENCE_DELTA_SCOUT.md`. No provider/GPU call is
-authorized by those documents.
+The next operation is not a component matrix or prompt variant. It is one
+boundary-native expression/safety gate over the exact first lifecycle event:
+AXIOM+BRAMBLE from `RESULT-001`. Passing that one call is only an apparatus
+precondition for a later complete W0/L1 continuation; it is not semantic
+utility.
+
+This work is governed by `E58_MERIDIAN_SOURCE_LOCAL_DELTA_STAGE0.md`,
+`E59_MERIDIAN_PRESSURE_SCREEN_RESULT.md`,
+`E60_MERIDIAN_SOURCE_DELTA_QUALIFICATION_FREEZE.md`, and
+`NEXT_SYSTEM_INTERACTION_EVIDENCE_DELTA_SCOUT.md`. The single expression call
+requires exact separate authorization; no W0/L1 continuation is authorized by
+those documents.

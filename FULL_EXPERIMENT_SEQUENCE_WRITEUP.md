@@ -2,8 +2,9 @@
 
 Date: 2026-08-24
 
-Status: evidence-bounded program narrative through E43 pressure-screen
-handoff; authentic pressure screen pending, no successor GPU run authorized
+Status: evidence-bounded program narrative through E60; Meridian authentic
+pressure qualified and its first boundary-native source-local expression gate
+is frozen but has made zero model calls
 
 ## What we learned
 
@@ -1517,3 +1518,42 @@ This is an offline apparatus result. It neither proves authentic pressure nor
 source-local semantic fidelity. The next live operation is solely a common
 treatment-free pressure screen. An eligible sealed boundary must precede the
 live expression gate and the eventual whole-trajectory comparison.
+
+## 51. Meridian realizes the intended common interaction boundary
+
+The treatment-free Meridian screen followed the prospective ordinary path
+exactly enough to create a mature fork. Six valid two-source reads delivered
+AXIOM through JASPER across ten evidence domains; the sixth result acquired
+KNOLL+LOOM but could not enter another ordinary call.
+
+The prospective packet was 23,628 prompt tokens against 20,992 allowed.
+Replacing only delivered `RESULT-001` under frozen first-fit order reduced the
+same packet to 20,774 while protecting pending `RESULT-006`. The candidate was
+unchanged and no treatment, check, submission, rejection, or retry occurred.
+Six model calls consumed 69,784 serialized tokens.
+
+This matters because the later systems comparison no longer depends on a
+synthetic pressure reconstruction or investigator-selected evidence. Ordinary
+actor demand created broad distributed evidence, an exact pending update, and
+one reversible capacity operation. It still says nothing about whether the
+source-local representation will be safe or useful.
+
+## 52. The first semantic operation is frozen from the lifecycle, not invented
+
+First-fit selects `RESULT-001`, so the first possible L1 maintenance operation
+is now exactly determined: AXIOM+BRAMBLE leave full residency and may receive
+source-local semantic slots. E60 freezes one call over those exact bytes, exact
+versions, the authoritative task, and the empty initial register.
+
+The 4,234-token request has a 1,800-token completion allowance and strict
+1,500-token total/650-token per-source admission bounds. It cannot add absent
+source identities, rewrite the global register, or authorize closure. A
+separate frozen safety review checks only claims supported by AXIOM and
+BRAMBLE, including authority separation, exact endotoxin thresholds and
+observations, the meaning of 41 percent, hold/release logic, and currentness.
+
+This remains an interface gate inside a planned whole-system experiment. A
+passing one-call result would not count as semantic utility. It would merely
+allow the complete W0/L1 feedback trajectories to be frozen and separately
+authorized. A failure would close this exact local-expression route without
+same-boundary tuning. At the current freeze, no model call has occurred.

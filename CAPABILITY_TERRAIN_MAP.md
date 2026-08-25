@@ -2,7 +2,8 @@
 
 Date: 2026-08-25
 
-Status: updated through E57 cross-world maintenance reconciliation; not a prevalence estimate or architecture
+Status: updated through E60 Meridian authentic pressure and boundary-native
+expression freeze; not a prevalence estimate or architecture
 
 ## Purpose and limits
 

@@ -1,6 +1,6 @@
 # Evidence ledger
 
-Date: 2026-08-24
+Date: 2026-08-25
 
 This ledger separates mechanical facts, local results, candidate hypotheses,
 and untested mechanisms. Links identify immutable result commits; the linked
@@ -66,6 +66,14 @@ means literal local behavior with a material apparatus qualification.
 | E50 | AF/NQ | Cedar v0 zero-call apparatus abort and v1 freeze | The authorized v0 runner found an unrelated pre-existing `llama-server` before starting the project server and failed closed. Its sealed tree contains zero actor/provider calls. V1 changes only run/scope identity; 41 tests and offline preflight pass. | No GPU inference or behavioral evidence. V0 cannot be retried, the external process was not terminated by the project, and v1 at `952037a` needs separate authorization. | [abort and v1 freeze](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/952037afa399c0fd593605831d92f8988a81d4a4) |
 | E51 | LR/AF | Cedar ingress-aligned authentic pressure screen | Five accepted batch reads delivered S01–S08 across six domains. Pending S09–S10 added 140 novel lines and made the next prompt 23,376 tokens, 2,384 over the allowance. Replacing only `RESULT-001` yields 19,881 tokens. | Boundary and apparatus result only: no treatment, maintenance, candidate effect, check, evaluation, or closure ran. The measured fork qualifies but remains unauthorized. | [screen result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/f1610d1bf90b5847dbdbe0d981f4b1676abf4279) |
 | E52 | LR/AF | fresh-world detached-versus-artifact-coupled interaction | Across 38 actor and 36 maintenance calls, A1 produced a broader `strong_partial` artifact while D0 remained `weak_partial`. Both were independently `not_ready`, neither submitted, and neither achieved useful completion. Only 5/18 maintenance updates were accepted per arm; both stopped on the maintenance-call ceiling. | One fresh task/world/seed and fixed arm order. A1 contained material source contradictions and lacked a current recheck. This supports a local whole-configuration quality signal and a shared maintenance bottleneck, not isolated coupling, safe completion, or architecture value. | [transfer result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/eec64f42564ebd014e048e6897485b095c634aa3) |
+| E53 | AF/NQ | Bluehaven maintenance/work/verification Stage 0 | Fresh task geometry and provider-free B1/W1 loops qualified batching, direct work, candidate effects, current checks, repair/recheck, closure proposal, and external readiness. | Offline apparatus only; authentic pressure and behavioral utility were unmeasured. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/87cc19ea18bd5b24fe3ab9707176bc21e2b7e764) |
+| E54 | LR/AF | Bluehaven authentic common pressure | Six valid two-source batches delivered S01–S10; pending S11–S12 created a 2,828-token deficit and one protected-pending substitution restored feasibility at 20,917 tokens. | Common boundary only; neither policy ran. | [screen result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/e5f6dbcc328412702c0bca7202ae017a5332511a) |
+| E55 | AF/NQ | Bluehaven batched-maintenance expression freeze | Two exact three-result cases fit with large headroom under a 2,400-token admission bound. | Frozen transport gate; zero live calls and no utility claim. | [qualification freeze](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7051e20b3f46c4100292db5c767482b359362178) |
+| E56 | LR/AF | Bluehaven batched-maintenance expression | The broad-evidence replacement passed, while cold-start maintenance asserted substantive content under unseen S07–S12 and was rejected. | Two expression calls only; no ordinary actor consumed maintenance and the B1/W1 continuation closed. | [qualification result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/9c0fdc537f26ff0a44f2cebc54c580cbd5f7b65d) |
+| E57 | AF/LR | cross-world semantic-maintenance reconciliation | Bluehaven-style unsupported completion did not recur, but complete global replacement recurrently produced no-op/stale updates and high carrier rejection across worlds. | Offline reconstruction of heterogeneous trajectories; it selects a new interaction family rather than proving one universal cause. | [reconciliation](E57_EVIDENCE_MATURITY_RECONCILIATION.md) |
+| E58 | AF/NQ | Meridian source-local-delta versus direct exact-work Stage 0 | A fresh opaque-ID many-to-many world, provenance-bound equal source-slot budgets, admissible ingress, realizable pressure, and provider-free complete W0/L1 loops passed 82 tests. | Offline apparatus and reachability only. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/467ccc0d032af217b969a31315ee41005dbe2167) |
+| E59 | LR/AF | Meridian authentic common pressure | Six valid two-source batches delivered ten sources across ten domains. Pending KNOLL+LOOM made the ordinary packet 23,628 tokens, 2,636 over allowance; externalizing only `RESULT-001` restored 20,774. | Common pre-treatment fork only. No semantic maintenance, candidate action, check, submission, or policy utility was measured. | [screen result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/74f6d45107ce726543344f9a46c3d077e06c60e6) |
+| E60 | AF/NQ | Meridian boundary-native source-local expression freeze | One exact case binds the first actual externalization (`RESULT-001`, AXIOM+BRAMBLE), an empty prior register, a 4,234-token prompt, exact source scope, and separate transport/material-safety gates. | Zero model calls. The one expression call and every W0/L1 continuation remain separately unauthorized. | [qualification freeze](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/1e0323945b1105aafba8c4b5fd0e4dc7f9f3180a) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
@@ -894,3 +902,43 @@ realizable pressure opportunity exists. Authentic pressure, live delta
 expression, downstream task utility, and readiness remain unmeasured. The next
 eligible operation is only the common treatment-free 24-call pressure screen;
 no GPU call is authorized by this record.
+
+## E59 — Meridian authentic common pressure
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@74f6d45107ce726543344f9a46c3d077e06c60e6`
+
+Six valid two-source reads delivered AXIOM through JASPER across ten evidence
+domains. Pending `RESULT-006` added exact KNOLL+LOOM. The ordinary packet
+measured 23,628 prompt tokens against the 20,992-token allowance. Frozen
+first-fit relief externalizes only `RESULT-001` and yields 20,774 tokens.
+
+The candidate remained byte-identical. No check, submission, rejection,
+retry, treatment, or model-visible relief occurred. Six calls consumed 69,784
+serialized tokens; exact audit and runtime release passed.
+
+Disposition: **LR/AF** — ordinary demand created an authentic distributed-
+evidence pressure fork with feasible reversible relief. This is not evidence
+for W0, L1, semantic persistence, or task utility.
+
+## E60 — Meridian boundary-native source-local expression freeze
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@1e0323945b1105aafba8c4b5fd0e4dc7f9f3180a`
+
+The exact pressure lifecycle determines one first L1 event: externalization of
+`RESULT-001`, containing AXIOM and BRAMBLE. The one frozen case contains only
+that exact result, the exact empty source register, source/version bindings,
+and the authoritative task. It uses seed 427032, a 4,234-token prompt, a
+1,800-token completion allowance, a 1,500-token total output ceiling, and
+650-token per-source ceilings.
+
+Mechanical source-scope admission and prospectively frozen material-safety
+adjudication are separate. The safety facts all occur in the exact input. No
+later batch or global semantic state is investigator-supplied. The repository
+passes 90 offline tests.
+
+Disposition: **AF/NQ** — expression gate frozen, zero model calls. Passing
+would qualify transport and local material safety only; actor uptake, W0/L1
+utility, readiness, and economic value would remain unmeasured. The live call
+and all continuation require separate authorization.

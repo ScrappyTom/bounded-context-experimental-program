@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 45 experiment commit bindings were resolved through the named local
+The current 47 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -52,11 +52,20 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
-The freshest route is E58 Meridian: both source-local-delta and direct exact-
-work configurations pass complete offline system qualification on a fresh
-many-to-many world. Authentic common pressure is the next gate; no semantic
-utility or GPU result exists yet. See
-[E58_MERIDIAN_SOURCE_LOCAL_DELTA_STAGE0.md](E58_MERIDIAN_SOURCE_LOCAL_DELTA_STAGE0.md).
+The freshest route is Meridian E59–E60. The ordinary six-call screen realized
+the exact Stage 0 pressure geometry: ten distributed sources were delivered,
+KNOLL+LOOM became pending, the ordinary packet exceeded the allowance by 2,636
+tokens, and externalizing only exact `RESULT-001` restored feasibility at
+20,774 tokens. The common W0/L1 fork is therefore authentic. See
+[E59](E59_MERIDIAN_PRESSURE_SCREEN_RESULT.md).
+
+The first actual L1 maintenance input is no longer hypothetical: first-fit
+externalizes `RESULT-001`, containing AXIOM and BRAMBLE. E60 freezes one
+boundary-native 4,234-token expression/safety case over only those exact bytes
+and an empty source register. It has made zero model calls. One separately
+authorized expression call is now the only eligible live operation; no W0/L1
+continuation is authorized. See
+[E60](E60_MERIDIAN_SOURCE_DELTA_QUALIFICATION_FREEZE.md).
 
 The first breadth tranche is complete. Its 39 calls used one attempt each and
 zero retries. No prompt exceeded 7,110 tokens against the 20,992-token prompt
@@ -322,8 +331,15 @@ configurations; exhaustive admissible single/pair ingress; a realizable
 positive-savings pressure path; complete provider-free W0/L1 feedback loops;
 and 82 passing tests.
 
-E58 is apparatus qualification, not a semantic result. The next eligible live
-operation is only its treatment-free 24-call ordinary pressure screen. A
-qualified exact boundary would still require a separately frozen live delta
-expression gate and then a separately authorized complete W0/L1 continuation.
-No provider/GPU call is authorized by the program documentation.
+E58 was apparatus qualification, not a semantic result. E59 subsequently
+qualified its authentic common pressure fork at standalone commit
+[`74f6d45`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/74f6d45107ce726543344f9a46c3d077e06c60e6): six valid batches, 69,784
+serialized tokens, 23,628 prospective prompt tokens, and one `RESULT-001`
+substitution restoring 20,774. No treatment or candidate action ran.
+
+E60 now freezes the one exact boundary-native source-local expression case at
+[`1e03239`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/1e0323945b1105aafba8c4b5fd0e4dc7f9f3180a).
+It binds exact AXIOM+BRAMBLE bytes and versions from `RESULT-001`, uses an empty
+prior register, and separates mechanical admission from a prospectively frozen
+material-safety review. All 90 offline tests pass. The one model call requires
+separate authorization; no measured W0/L1 continuation is authorized.

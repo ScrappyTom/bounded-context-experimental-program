@@ -2,10 +2,12 @@
 
 Date: 2026-08-25
 
-Status: offline Stage 0 implemented and provider-free qualified at
-`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@467ccc0d032af217b969a31315ee41005dbe2167`;
-authentic pressure, live delta expression, and measured utility remain pending;
-no provider/GPU call is authorized by this document
+Status: authentic common pressure qualified at
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@74f6d45107ce726543344f9a46c3d077e06c60e6`;
+the first exact boundary-native delta gate is frozen at
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@1e0323945b1105aafba8c4b5fd0e4dc7f9f3180a`;
+live delta expression and measured W0/L1 utility remain pending and separately
+unauthorized by this document
 
 ## Why this is the next interaction
 
@@ -216,3 +218,25 @@ and inert authorization request. The exact live expression case and measured
 continuation are intentionally frozen only after an authentic common pressure
 history exists, so a prospective host path cannot choose treatment cadence or
 evidence identity. This document authorizes none of those provider calls.
+
+## Meridian live activation and exact next gate
+
+The common screen has now passed. Six valid actor calls delivered ten sources
+and acquired pending KNOLL+LOOM. The exact packet overflowed by 2,636 tokens;
+frozen first-fit relief externalizes only `RESULT-001` and restores 20,774
+tokens. Thus the first L1 event is fixed by ordinary lifecycle behavior rather
+than chosen after the fact.
+
+The one-call expression gate receives only exact `RESULT-001` (AXIOM and
+BRAMBLE), their exact versions, the authoritative task, and the empty initial
+register. Its prompt is 4,234 tokens; output admission is 1,500 total and 650
+per source. It must pass both literal transport validation and a material-
+safety review limited to facts in those exact sources.
+
+This gate is a prerequisite inside the whole-system experiment, not its unit
+of success. If it passes, the next offline step is to freeze complete W0 and L1
+continuations from the same exact pressure fork, including result delivery,
+subsequent actor demand, register/artifact effects, current verification,
+repair, recheck, closure proposal, and external readiness. That later
+comparison requires its own exact commit and authorization. If the gate fails,
+the current L1 route closes without same-boundary prompt or budget tuning.

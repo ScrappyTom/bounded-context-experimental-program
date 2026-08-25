@@ -1,9 +1,10 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-25
-Status: current program synthesis; E58 implements and provider-free qualifies
-the fresh source-local-delta × direct exact-work systems; authentic common
-pressure remains the next live gate
+Status: current program synthesis; E59 qualifies the authentic common Meridian
+pressure fork and E60 freezes its first boundary-native source-local expression
+gate; semantic expression and W0/L1 utility remain unmeasured and separately
+unauthorized
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -648,3 +649,45 @@ is only the common treatment-free 24-call Meridian pressure screen. It stops
 on work, check, submission, nonactivation, ineligible pressure, or budgets.
 Only an authentic qualified boundary may define a later expression case and
 complete measured continuation. No GPU call is authorized here.
+
+## E59 Meridian authentic common pressure
+
+The authorized treatment-free screen realized the prospectively frozen path
+rather than merely showing that such a path existed. Six valid two-source
+reads delivered AXIOM through JASPER across ten evidence domains. The sixth
+result, KNOLL+LOOM, remained pending. Adding it to the ordinary history yielded
+23,628 prompt tokens against the 20,992-token allowance, a 2,636-token deficit.
+
+Frozen first-fit relief selects only `RESULT-001` and produces a feasible
+20,774-token packet. The candidate remained unchanged; no check, submission,
+maintenance call, treatment action, retry, or rejected actor action occurred.
+Six calls consumed 69,784 serialized tokens, and the exact audit and runtime
+release passed.
+
+This is a clean common systems fork. It establishes that ordinary actor demand
+can create the intended interaction after broad distributed evidence, while
+neither arm has yet received a treatment. It does not support source-local
+semantic expression, actor uptake, artifact benefit, or readiness.
+
+## E60 first boundary-native source-local expression gate
+
+The observed lifecycle now fixes the first L1 maintenance input: first-fit
+externalizes exact `RESULT-001`, containing AXIOM and BRAMBLE. The offline
+freeze uses only that exact result, exact source/version bindings, the
+authoritative task, and the empty version-000 source register. This prevents
+the investigator from choosing a favorable later batch or supplying global
+semantic state after observing the trajectory.
+
+The single case has a 4,234-token prompt, a 1,800-token completion allowance,
+a 1,500-token total admission limit, and 650-token source limits. Mechanical
+transport and material safety are separate gates. The material criteria refer
+only to facts in the supplied AXIOM and BRAMBLE bytes; an earlier draft's
+out-of-input criterion was removed before inference. The output may omit
+content, but may not reverse or fabricate exact values, units, authority,
+currentness, probability meaning, or readiness.
+
+The standalone repository passes 90 offline tests. The qualification has made
+zero model calls and authorizes no continuation. One commit-bound expression
+call is the only eligible live operation. Passing would qualify the interface,
+not the W0/L1 system; failing would close this exact source-local expression
+route at this boundary without automatic same-world repair.
