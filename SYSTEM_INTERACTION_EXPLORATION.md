@@ -472,6 +472,12 @@ not isolate semantic maintenance from artifact effects or feedback. If the
 screen pressures early, completes, or exhausts its budget before the gate, the
 task closes without retry or threshold repair.
 
+The first authorized v0 screen did not reach this logic. A pre-existing
+external `llama-server` caused the exclusivity guard to stop before inference.
+The zero-call run is sealed and closed. V1 at `952037a` preserves the complete
+scientific contract and changes only run/scope identity; it is not authorized
+by the v0 receipt.
+
 ## What is not selected
 
 This direction does not authorize:

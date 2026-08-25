@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 41 successor stages through E49 Cedar ingress-aligned offline Stage 0",
+  "scope": "parent bank plus 42 successor stages through E50 Cedar v0 apparatus abort and v1 freeze",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 41,
+    "successor_stages": 42,
     "follow_on_model_calls": 473,
     "follow_on_serialized_tokens": 5939514,
-    "unique_cited_experiment_commits": 37
+    "unique_cited_experiment_commits": 38
   },
   "stages": [
     {
@@ -430,6 +430,16 @@
       "serialized_tokens": 0,
       "included_in_follow_on_totals": true,
       "primary_disposition": "fresh Cedar task aligns activation with exact delivered source-line coverage under one- or two-range ingress; all full singles and pairs are admissible, prospective maturity precedes feasible pressure, provider-free whole loops and 39 tests pass, and authentic live activation remains pending"
+    },
+    {
+      "stage_id": "S42",
+      "name": "Cedar v0 zero-call apparatus abort and v1 pressure-screen freeze",
+      "stage_type": "eligibility",
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "952037afa399c0fd593605831d92f8988a81d4a4", "count_as_experiment_commit": true}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "authorized v0 stopped before provider inference on an unrelated pre-existing llama-server and is exactly sealed with zero calls; mechanically identical v1 passes 41 tests and requires new authorization"
     }
   ]
 }

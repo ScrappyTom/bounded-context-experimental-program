@@ -175,6 +175,17 @@
     "positive_relief_prompt_tokens": 14654,
     "same_task_retry_forbidden": true
   },
+  "closed_cedar_v0_screen": {
+    "status": "sealed_apparatus_abort_before_provider_call",
+    "authorized_freeze_commit": "a48d67a8cd888fd54b9c7a59a7e8f1dcd094241f",
+    "run_id": "2026-08-25-cedar-ingress-aligned-pressure-screen-v0",
+    "actor_calls": 0,
+    "provider_calls": 0,
+    "failure": "pre_existing_external_llama_server",
+    "external_process_terminated_by_project": false,
+    "same_run_retry_forbidden": true,
+    "scientific_evidence": false
+  },
   "next_system_interaction": {
     "status": "cedar_ingress_aligned_stage0_qualified_live_pressure_screen_pending",
     "question": "Does the complete artifact-coupled interaction improve evidence conversion, candidate-bound quality, repair, or correct closure in a fresh world after materially distributed evidence and authentic pressure are established under the same permitted ingress geometry?",
@@ -220,13 +231,14 @@
       "A1_same_integration_as_exact_versioned_task_ledger"
     ],
     "offline_qualification": {
-      "tests_passed": 39,
+      "tests_passed": 41,
       "provider_calls": 0,
       "provider_free_complete_loops": 2,
       "measured_fork_eligible": false
     },
     "next_gate": {
-      "run_id": "2026-08-25-cedar-ingress-aligned-pressure-screen-v0",
+      "freeze_commit": "952037afa399c0fd593605831d92f8988a81d4a4",
+      "run_id": "2026-08-25-cedar-ingress-aligned-pressure-screen-v1",
       "maximum_actor_calls": 20,
       "attempts_per_call": 1,
       "retries": 0,

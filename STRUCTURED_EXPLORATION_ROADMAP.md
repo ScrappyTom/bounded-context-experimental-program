@@ -513,6 +513,14 @@ non-diagnostic. Only an eligible audited result commit may support a new
 measured freeze and separate D0/A1 authorization. No GPU call is authorized by
 this roadmap.
 
+The first v0 screen launch subsequently failed closed before inference because
+an unrelated `llama-server` process was already running. It contains zero
+actor/provider calls and no scientific outcome. V0 is sealed and cannot be
+retried. The unchanged v1 screen is frozen at
+`952037afa399c0fd593605831d92f8988a81d4a4`; all 41 tests and offline preflight
+pass. It requires new exact authorization even though the external process has
+since exited.
+
 ## What will not be optimized in this phase
 
 Absent a validity blocker or independently recurring boundary, do not build or

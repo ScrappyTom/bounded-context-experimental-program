@@ -130,6 +130,14 @@ class SystemInteractionDirectionTests(unittest.TestCase):
             transfer["prospective_geometry"]["claim_limit"],
         )
         self.assertFalse(transfer["next_gate"]["gpu_authorized"])
+        self.assertEqual(
+            "952037afa399c0fd593605831d92f8988a81d4a4",
+            transfer["next_gate"]["freeze_commit"],
+        )
+        self.assertEqual(
+            "2026-08-25-cedar-ingress-aligned-pressure-screen-v1",
+            transfer["next_gate"]["run_id"],
+        )
         self.assertIn(
             "prospective_budget_after_first_construction_for_effect_uptake_check_repair_recheck_and_closure",
             transfer["required_properties"],

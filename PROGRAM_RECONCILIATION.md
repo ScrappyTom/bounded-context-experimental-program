@@ -408,3 +408,12 @@ D0/A1 fork remains prohibited until a qualifying exact boundary is audited,
 committed, refrozen, and separately authorized. No D1/D3/D4 repair, D6 wording
 variant, I1–I4 extension, E44/Northstar rerun, E46 longer horizon,
 maintenance-prompt tuning, or GPU call is authorized automatically.
+
+Post-freeze apparatus event: the owner authorized the v0 Cedar screen, but the
+runner stopped before any provider call because an unrelated `llama-server`
+was already active. The repository did not terminate that process. The exact
+zero-call tree is sealed, supplies no behavioral evidence, and closes the v0
+run identity. E50 freezes a mechanically identical v1 at
+`qwen38-artifact-coupled-integration-scout-v0@952037afa399c0fd593605831d92f8988a81d4a4`.
+The external process later exited, but authorization does not transfer across
+run IDs or commits; v1 remains separately unauthorized.

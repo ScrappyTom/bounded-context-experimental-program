@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 37 experiment commit bindings were resolved through the named local
+The current 38 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -207,8 +207,16 @@ four-domain maturity at 11,712 prompt tokens and later reaches a feasible
 tests pass. See
 [E49_CEDAR_INGRESS_ALIGNED_STAGE0_HANDOFF.md](E49_CEDAR_INGRESS_ALIGNED_STAGE0_HANDOFF.md).
 
+The first authorized Cedar screen identity aborted before any model call when
+the frozen exclusivity guard found an unrelated live `llama-server`. The
+external process was not terminated; the zero-call attempt is sealed and v0 is
+closed. A mechanically identical v1 runner is frozen at
+[`qwen38-artifact-coupled-integration-scout-v0@952037a`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/952037afa399c0fd593605831d92f8988a81d4a4).
+See
+[E50_CEDAR_PRESSURE_SCREEN_V0_ABORT_AND_V1_FREEZE.md](E50_CEDAR_PRESSURE_SCREEN_V0_ABORT_AND_V1_FREEZE.md).
+
 No GPU run is authorized by these documents. The next eligible work is the
-separately authorized 20-call ordinary Cedar pressure screen at the frozen E49
-commit. The Northstar screen must not be retried or regraded, prospective
-geometry must not be reported as live activation, and the measured Cedar D0/A1
-fork remains locked until an eligible boundary is audited and committed.
+separately authorized 20-call ordinary Cedar pressure screen v1 at the E50
+commit. Prospective geometry must not be reported as live activation, and the
+measured Cedar D0/A1 fork remains locked until an eligible boundary is audited
+and committed.

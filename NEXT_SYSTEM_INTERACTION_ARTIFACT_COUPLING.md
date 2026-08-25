@@ -374,3 +374,11 @@ the frozen 20-call ordinary Cedar screen, which requires separate owner
 authorization. It contains no treatment. The measured comparison remains
 locked behind a separately audited and committed qualifying boundary and a new
 authorization.
+
+The first authorized screen identity (`...pressure-screen-v0`) subsequently
+failed closed before inference because the runner found an unrelated existing
+`llama-server`. The project did not terminate it. V0 is exactly sealed with
+zero actor/provider calls and supplies no experimental result. The mechanically
+unchanged v1 screen is frozen at
+`952037afa399c0fd593605831d92f8988a81d4a4`; it requires separate exact
+authorization.
