@@ -1378,3 +1378,48 @@ selected work is an offline whole-system analysis and prospective interaction
 design spanning maintenance cadence, exact cumulative work, effect/currentness
 uptake, and protected verification bandwidth. It is not another note-format,
 maintenance-prompt, or same-boundary horizon experiment.
+
+## 45. Bluehaven freezes a maintenance/work/verification allocation comparison
+
+The E52 accounting showed that synchronous maintenance consumed nearly half
+of provider calls while accepting only five of eighteen outputs per arm. It
+also showed that A1's material relation errors entered through ordinary actor
+work, so a larger maintenance bound alone would not repair the complete loop.
+
+Bluehaven therefore froze two viable complete policies on a new water-
+restoration task. B1 batches three positive externalizations into one coupled
+exact-ledger rewrite; W1 has no separate maintenance provider and gives its
+ordinary actor ownership of both exact ledger and incremental decision work.
+Both retain ingress, first-fit relief, candidate effects, current checks,
+repair/recheck opportunity, and external readiness evaluation. Offline
+geometry, provider-free loops, and 57 tests passed at
+`87cc19ea18bd5b24fe3ab9707176bc21e2b7e764`.
+
+## 46. Bluehaven reaches the intended common pressure boundary
+
+The separately authorized ordinary actor made six valid two-source reads with
+zero retries. S01–S10 crossed later actor boundaries. Pending S11–S12 then
+made the exact ordinary packet 23,820 tokens, 2,828 above the allowance.
+Replacing only the oldest exact visible result body, `RESULT-001`, yields a
+feasible 20,917-token packet.
+
+The candidate remained initial; no check or submission occurred. Six calls
+consumed 71,166 serialized tokens. Independent token recount, exact result
+reexecution, seal verification, and runtime-release audit all passed at
+`e5f6dbcc328412702c0bca7202ae017a5332511a`.
+
+This qualifies a common causal fork without measuring either policy.
+
+## 47. B1's bounded carrier is frozen as the last pre-measured gate
+
+A two-call qualification at
+`7051e20b3f46c4100292db5c767482b359362178` binds directly to the sealed
+pressure history. One case initializes a ledger from `RESULT-001`–`003`; the
+other replaces a frozen bounded prior using `RESULT-004`–`006`. Their prompts
+are 11,238 and 11,436 tokens, leaving more than 10,900 tokens after the frozen
+2,700-token completion allowance.
+
+This is deliberately transport-only. Passing does not establish fidelity or
+utility, and the exact three-result groupings are not retroactively labeled as
+observed B1 maintenance events. The two calls remain unauthorized, as does the
+later B1/W1 continuation.

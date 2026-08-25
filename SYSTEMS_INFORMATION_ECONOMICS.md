@@ -875,6 +875,21 @@ vector—quality, readiness, effect currency, calls, tokens, cache, latency,
 externalizations, reopens, and failure migration—not a scalar utility invented
 after observing the arms.
 
+E54 now supplies that authentic prefix. Six actor-selected two-source reads
+created mature distributed evidence ingress and a 2,828-token pending-result
+deficit without candidate work or feedback. One reversible first-fit
+substitution makes delivery feasible. The result removes uncertainty about
+whether Bluehaven can activate the lifecycle policy, but it says nothing yet
+about semantic return on investment.
+
+The E55 transport gate costs up to two additional provider calls before the
+measured comparison. Those calls are apparatus qualification, not free
+evidence for B1. In the measured economics, B1's maintenance calls, admitted
+bodies, candidate effects, cache disruption, and displaced opportunity will
+all remain charged to B1. W1 will instead pay through ordinary actor decisions
+when it chooses exact ledger or decision work. This preserves the intended
+allocation contrast rather than counting maintenance expression as utility.
+
 ## Low-pressure reconnaissance correction
 
 E37 then sampled multiple tasks while every prompt remained far below the

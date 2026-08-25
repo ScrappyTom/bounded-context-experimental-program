@@ -259,7 +259,15 @@ The fresh 16-source task passes offline Stage 0. A legal prospective path
 reaches mature pressure on batch six: 23,817 prompt tokens, 2,825 over the
 allowance, with one 2,903-token substitution restoring feasibility at 20,914.
 Both complete policies pass provider-free lifecycle fixtures and all 57 tests.
-This is prospective apparatus evidence only. The next eligible operation is
-the separately authorized 22-call ordinary Bluehaven pressure screen described
-in
-[E53_BLUEHAVEN_MAINTENANCE_WORK_VERIFICATION_STAGE0_HANDOFF.md](E53_BLUEHAVEN_MAINTENANCE_WORK_VERIFICATION_STAGE0_HANDOFF.md).
+That prospective geometry has now activated authentically. The separately
+authorized screen made six valid two-source reads, delivered S01–S10, and
+acquired pending S11–S12. The exact next packet is 23,820 tokens—2,828 over the
+allowance—and one `RESULT-001` substitution restores feasibility at 20,917.
+The candidate remained initial and the exact audit passed. See
+[E54_BLUEHAVEN_PRESSURE_SCREEN_RESULT.md](E54_BLUEHAVEN_PRESSURE_SCREEN_RESULT.md).
+
+The next eligible operation is only the separately authorized two-call
+batched-maintenance expression qualification frozen at
+`7051e20b3f46c4100292db5c767482b359362178`. It qualifies B1 transport, not
+utility. No B1/W1 measured continuation is authorized. See
+[E55_BLUEHAVEN_BATCHED_MAINTENANCE_QUALIFICATION_FREEZE.md](E55_BLUEHAVEN_BATCHED_MAINTENANCE_QUALIFICATION_FREEZE.md).

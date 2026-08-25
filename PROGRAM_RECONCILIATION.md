@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-25
-Status: current program synthesis; Bluehaven whole-system Stage 0 passed; ordinary pressure screen pending authorization
+Status: current program synthesis; Bluehaven authentic pressure fork qualified; batched-maintenance expression gate frozen and pending authorization
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -520,8 +520,18 @@ a 2,825-token deficit to 20,914 tokens. B1's three-result maintenance packets
 fit with at least 10,564 tokens remaining after the frozen completion
 allowance. Provider-free complete loops and 57 tests pass.
 
-This does not establish authentic pressure or model utility. Only the frozen
-22-call ordinary Bluehaven screen is now eligible, subject to separate exact
-authorization. The screen carries no treatment and may not be repaired if its
-trajectory is non-diagnostic. No maintenance qualification or measured B1/W1
-continuation is authorized.
+This did not itself establish authentic pressure or model utility. E54 now
+supplies the required live boundary. Six valid two-source actions delivered
+S01–S10 and acquired pending S11–S12. The exact next packet is 23,820 tokens,
+2,828 over the allowance; replacing only `RESULT-001` restores feasibility at
+20,917. The candidate remained initial, with no check or submission. The
+independent replay/token/custody audit passed.
+
+That result qualifies a common fork, not either operating policy. E55 freezes
+the remaining B1 transport gate at
+`qwen38-artifact-coupled-integration-scout-v0@7051e20b3f46c4100292db5c767482b359362178`.
+Two exact three-result cases test initialization and bounded replacement at
+11,238 and 11,436 prompt tokens, each with a 2,700-token completion allowance
+and 2,400-token admission bound. This is expression qualification only. The
+two calls require separate authorization, and no B1/W1 measured continuation
+is yet authorized.

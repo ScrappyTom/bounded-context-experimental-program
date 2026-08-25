@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: Cedar transfer measured; exact-work quality signal observed; maintenance/work/verification interaction selected offline
+Status: Bluehaven authentic pressure fork qualified; finite batched-maintenance transport gate frozen before whole-system continuation
 
 ## Research-phase reset
 
@@ -596,6 +596,23 @@ submission, no pressure, or infeasible relief closes Bluehaven unchanged. The
 screen requires separate authorization; a qualified boundary would still
 require later maintenance-expression and measured-run freezes and separate
 authorizations.
+
+### E54–E55 Bluehaven boundary and transport gate
+
+The separately authorized ordinary screen qualified after six valid
+two-source reads. S01–S10 crossed actor boundaries; pending S11–S12 created a
+2,828-token exact delivery deficit. Protected-pending first-fit relief selects
+only `RESULT-001` and produces a feasible 20,917-token packet. The candidate
+remained initial and no treatment, check, or submission occurred. The exact
+screen result is committed at `e5f6dbcc328412702c0bca7202ae017a5332511a`.
+
+The next gate is frozen at
+`qwen38-artifact-coupled-integration-scout-v0@7051e20b3f46c4100292db5c767482b359362178`.
+It uses two calls to qualify B1's complete bounded ledger replacement over the
+six exact pressure-history results. This grouping tests carrier expression;
+actual measured maintenance may fire only after three positive
+externalizations in B1. Passing does not establish utility. No measured arm
+is authorized by the gate.
 
 ## What will not be optimized in this phase
 

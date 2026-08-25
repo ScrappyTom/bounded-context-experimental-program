@@ -2,8 +2,9 @@
 
 Date: 2026-08-24
 
-Status: offline systems audit and prospective design selected; no runner,
-freeze, task, or GPU call authorized
+Status: Bluehaven design instantiated and authentic common pressure fork
+qualified; two-call batched-maintenance expression gate frozen pending separate
+authorization; measured continuation not yet authorized
 
 ## Why this is the next question
 

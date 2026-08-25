@@ -769,3 +769,50 @@ material semantic error. The exact Cedar fork is closed. The next eligible
 work is an offline whole-system audit and prospective comparison of maintenance
 cadence, exact work persistence, and verification bandwidth; no same-boundary
 prompt tuning or extra calls are selected.
+
+## E53 — Bluehaven maintenance/work/verification Stage 0
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@87cc19ea18bd5b24fe3ab9707176bc21e2b7e764`
+
+The offline E52 economics audit selected a finite whole-system allocation
+comparison: B1 batches every three positive externalizations into one coupled
+exact-ledger maintenance pass, while W1 has no separate maintenance provider
+and gives the actor direct ownership of ledger and decision work. Both retain
+exact ingress/custody/relief, candidate effects, current checks, repair,
+recheck, closure proposals, and external readiness adjudication.
+
+The fresh sixteen-source water-restoration task, exact source locks, relation-
+level evaluator, legal single/pair ingress, pressure reachability, bounded
+maintenance geometry, provider-free complete loops, and 57 tests passed.
+
+Disposition: **AF/NQ** — viable interaction geometry qualified offline;
+authentic pressure and both behavioral configurations remained unmeasured.
+
+## E54 — Bluehaven authentic common pressure screen
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@e5f6dbcc328412702c0bca7202ae017a5332511a`
+
+Six valid two-source reads delivered S01–S10 and acquired pending S11–S12.
+The exact pending packet measured 23,820 tokens, 2,828 above the prompt
+allowance. Replacing only `RESULT-001` with its reopenable receipt yields a
+feasible 20,917-token packet. The candidate remained initial; no check,
+submission, treatment, retry, or action rejection occurred. Six calls consumed
+71,166 serialized tokens. Exact replay/token/seal/runtime audit passed.
+
+Disposition: **LR/AF** — one authentic mature common pre-treatment fork is
+qualified. No B1/W1 utility or semantic continuity claim follows.
+
+## E55 — Bluehaven batched-maintenance expression freeze
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@7051e20b3f46c4100292db5c767482b359362178`
+
+Two exact three-result cases freeze B1's bounded complete-ledger transport.
+Their prompt geometry fits with more than 10,900 tokens remaining after the
+2,700-token completion allowance. Admission remains capped at 2,400 tokens
+with exact source allowlists and no closure authority.
+
+Disposition: **AF/NQ** — transport gate frozen, zero model calls. Separate
+authorization is required; measured B1/W1 continuation remains prohibited.

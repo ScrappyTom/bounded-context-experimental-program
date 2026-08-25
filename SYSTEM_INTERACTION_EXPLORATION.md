@@ -2,7 +2,7 @@
 
 Date: 2026-08-24
 
-Status: governing direction; fresh-world artifact-coupling transfer measured; maintenance/work/verification interaction selected offline
+Status: governing direction; Bluehaven common pressure fork qualified; batched-maintenance transport gate frozen before whole-system comparison
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -605,3 +605,24 @@ third configuration. Its only purpose is to establish a genuine, distributed,
 protected-pending result-delivery boundary selected by actor demand. Offline
 reachability does not count as activation, and no measured arm is authorized
 until that boundary exists.
+
+## Bluehaven authentic activation and remaining gate
+
+E54 establishes that boundary on the actor's realized path. Six consecutive
+valid batch actions delivered S01–S10 and acquired pending S11–S12. The
+ordinary packet exceeds the prompt allowance by 2,828 tokens; the first frozen
+positive substitution alone restores feasibility. The actor had not mutated,
+checked, or submitted, so both future policies inherit the same mature
+pre-work information history.
+
+The common prefix removes one source of causal ambiguity but does not make the
+future comparison a component test. B1 and W1 still differ jointly in
+maintenance cadence, semantic owner, provider expenditure, exact ledger
+effects, actor opportunities, induced evidence demand, and verification path.
+
+E55 freezes a two-call live expression gate for B1. It is an apparatus
+precondition, not the outcome unit: an accepted ledger proves only that the
+bounded carrier can be emitted. The whole trajectory must still decide whether
+that investment yields source-correct work and current readiness compared with
+W1. The measured continuation remains prohibited until the gate passes and a
+new exact runner/authorization are frozen.
