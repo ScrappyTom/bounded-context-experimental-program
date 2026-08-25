@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 44 successor stages through E52 Cedar artifact-coupling transfer interaction",
+  "scope": "parent bank plus 45 successor stages through E53 Bluehaven maintenance/work/verification Stage 0",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 44,
+    "successor_stages": 45,
     "follow_on_model_calls": 552,
     "follow_on_serialized_tokens": 7022958,
-    "unique_cited_experiment_commits": 40
+    "unique_cited_experiment_commits": 41
   },
   "stages": [
     {
@@ -460,6 +460,16 @@
       "serialized_tokens": 1026000,
       "included_in_follow_on_totals": true,
       "primary_disposition": "A1 produced a stronger partial exact artifact than D0 in a fresh task, but both were not ready and neither completed; material source contradictions remained, only five of eighteen maintenance updates qualified per arm, and both systems terminated on the shared maintenance-call budget"
+    },
+    {
+      "stage_id": "S45",
+      "name": "Bluehaven maintenance/work/verification interaction offline Stage 0",
+      "stage_type": "eligibility",
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "87cc19ea18bd5b24fe3ab9707176bc21e2b7e764", "count_as_experiment_commit": true}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "E52 economics select complete B1 batched-coupled versus W1 direct-work policies; fresh Bluehaven task, source-bound relation traps, legal pressure reachability, bounded maintenance geometry, provider-free effect/check/repair/recheck/closure loops, and 57 tests pass; authentic ordinary pressure remains pending and GPU-unauthorized"
     }
   ]
 }

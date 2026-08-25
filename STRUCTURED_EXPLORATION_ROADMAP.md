@@ -560,6 +560,43 @@ not treat output-bound compliance as the primary outcome or remove exact
 custody, pressure relief, artifact work, or independent evaluation from a
 control. No GPU call is authorized by this roadmap.
 
+### E53 Bluehaven maintenance/work/verification Stage 0
+
+The audit and fresh successor are frozen at
+`qwen38-artifact-coupled-integration-scout-v0@87cc19ea18bd5b24fe3ab9707176bc21e2b7e764`.
+The synchronous reference is retained historically rather than rerun. The
+finite live comparison, if its ordinary screen qualifies, is:
+
+```text
+B1_BATCHED_COUPLED
+three positive externalizations → one coupled ledger maintenance pass
++ actor incremental decision work + effect/current verification loop
+
+W1_DIRECT_WORK
+no separate maintenance provider
++ actor exact ledger/decision work + the same effect/current verification loop
+```
+
+This is an allocation comparison among complete systems. B1's cadence,
+semantic owner, added provider cost, candidate effects, and future actor demand
+co-vary. W1 substitutes scarce actor decisions for separate maintenance. Both
+retain exact custody, first-fit relief, reopen, candidate bindings, relation
+checks, protected postconstruction opportunity, and external readiness
+adjudication.
+
+Bluehaven's offline Stage 0 passes: exact answers are source-bound rather than
+task-leaked; all legal singles/pairs are admissible; a prospective legal path
+first pressures at 23,817 prompt tokens after distributed ingress; one
+positive substitution restores feasibility at 20,914; batched maintenance
+packets fit; provider-free complete feedback loops and 57 tests pass.
+
+Only the frozen 22-call ordinary pressure screen is eligible next. It contains
+no treatment. Pressure before the line/domain gate, candidate work/checking,
+submission, no pressure, or infeasible relief closes Bluehaven unchanged. The
+screen requires separate authorization; a qualified boundary would still
+require later maintenance-expression and measured-run freezes and separate
+authorizations.
+
 ## What will not be optimized in this phase
 
 Absent a validity blocker or independently recurring boundary, do not build or

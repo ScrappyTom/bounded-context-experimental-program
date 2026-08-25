@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
-Date: 2026-08-24
-Status: current program synthesis; Cedar transfer complete; maintenance/work/verification interaction selected offline
+Date: 2026-08-25
+Status: current program synthesis; Bluehaven whole-system Stage 0 passed; ordinary pressure screen pending authorization
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -485,3 +485,43 @@ No same-boundary extra calls, terminal-event retry, output-budget rescue, or
 GPU run is authorized. A future measured scout must preserve the whole feedback
 loop and adjudicate source relationships, current verification, and readiness;
 it may not reduce the question to maintenance-expression acceptance.
+
+E53 completes that offline allocation audit and freezes the finite successor
+at `qwen38-artifact-coupled-integration-scout-v0@87cc19ea18bd5b24fe3ab9707176bc21e2b7e764`.
+The audit establishes that synchronous Cedar maintenance consumed 48.6 percent
+of provider calls and about 28 percent of tokens, admitted only five of
+eighteen rewrites in each arm, and prevented the declared verification tail
+from becoming reachable. The material A1 relation errors entered through
+ordinary actor work, so fixing maintenance transport alone would not solve the
+complete feedback failure.
+
+Bluehaven consequently compares two whole operating policies rather than an
+isolated representation:
+
+```text
+B1: exact ingress + first-fit relief + every-three-externalization
+    coupled ledger maintenance + actor decision work + current feedback
+
+W1: exact ingress + first-fit relief + direct actor ledger/decision work
+    + current feedback, with no separate maintenance provider
+```
+
+The new task withholds exact answer values from the task contract, provides
+incremental exact decision work, and freezes relation-level checks for units,
+probabilities, coverage, shared capacity, revisions, and observed-versus-target
+timing. Both arms retain candidate effects, current/stale check binding,
+repair/recheck opportunity, submission as proposal, and independent readiness
+adjudication.
+
+Offline Stage 0 records a 3,309-token base prompt, a 23,453-token source
+corpus, legal full single/two-source ingress, and prospective mature pressure
+at 23,817 tokens. One frozen `RESULT-001` substitution restores the packet from
+a 2,825-token deficit to 20,914 tokens. B1's three-result maintenance packets
+fit with at least 10,564 tokens remaining after the frozen completion
+allowance. Provider-free complete loops and 57 tests pass.
+
+This does not establish authentic pressure or model utility. Only the frozen
+22-call ordinary Bluehaven screen is now eligible, subject to separate exact
+authorization. The screen carries no treatment and may not be repaired if its
+trajectory is non-diagnostic. No maintenance qualification or measured B1/W1
+continuation is authorized.

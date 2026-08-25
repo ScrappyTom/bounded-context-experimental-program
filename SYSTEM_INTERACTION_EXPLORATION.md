@@ -578,3 +578,30 @@ independent task world and, only after a joint configuration has signal,
 targeted ablation to learn which parts are necessary.
 
 No GPU work is authorized by this document.
+
+## Frozen implementation after E52
+
+E53 selects the prospective Bluehaven B1/W1 comparison at standalone commit
+`87cc19ea18bd5b24fe3ab9707176bc21e2b7e764`. It instantiates the selected
+interaction rather than returning to a component queue:
+
+| Function | B1 batched coupled | W1 direct work |
+|---|---|---|
+| evidence ingress | actor-selected exact single/two-source reads | same |
+| pressure response | positive deterministic first-fit relief | same |
+| semantic persistence | maintenance-owned exact ledger every three positive externalizations | actor-owned exact ledger |
+| work persistence | actor incremental exact decision | actor exact ledger and incremental decision |
+| effect/currentness | every accepted mutation invalidates earlier checks | same |
+| feedback/closure | current check, repair, recheck, submission proposal, external readiness | same |
+
+The comparison intentionally does not equalize away B1's provider cost. Both
+systems receive the same actor horizon; B1's separate maintenance calls are
+measured as an additional investment. This asks whether the full investment
+buys enough source-correct, current-verified work to justify its cost, while W1
+tests whether ordinary task decisions can externalize interpretation directly.
+
+The ordinary pressure screen is a common-prefix eligibility operation, not a
+third configuration. Its only purpose is to establish a genuine, distributed,
+protected-pending result-delivery boundary selected by actor demand. Offline
+reachability does not count as activation, and no measured arm is authorized
+until that boundary exists.

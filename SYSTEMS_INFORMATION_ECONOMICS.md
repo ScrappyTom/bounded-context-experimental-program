@@ -830,6 +830,51 @@ current readiness, not maintenance acceptance or citation breadth. E52's
 trajectory can support offline accounting and design, but fresh or untouched
 behavior is required for measurement.
 
+## Bluehaven allocation design: semantic work competes with task work
+
+E53 converts the E52 failure into a finite interaction comparison. The
+economic unit is no longer an isolated maintenance object. It is the complete
+policy that allocates provider decisions and model-facing capacity among:
+
+```text
+exact evidence ingress
+semantic transformation
+exact cumulative artifact work
+effect uptake
+verification, repair, recheck, and closure
+```
+
+`B1_BATCHED_COUPLED` invests one separate provider call after every three
+positive externalizations and writes the accepted integration into exact task
+work. `W1_DIRECT_WORK` spends no separate semantic-maintenance calls; its actor
+must decide when to externalize interpretation into the same exact ledger and
+decision. B1 may use up to seven extra provider calls, which is an explicit
+cost rather than free task-action opportunity. Both retain the same actor
+horizon and postconstruction tail.
+
+The B1 ledger bound is 2,400 tokens rather than Cedar's 1,600. This is a
+prospective viability correction based on the exact 1,369–1,900-token Cedar
+output range, not a Bluehaven outcome-shaped rescue. The larger representation
+still pays production, carrier, candidate-effect, cache, and future-relief
+costs. Whether batching reduces switching/rejection enough to repay those
+costs—and whether exact artifact coupling preserves correct or incorrect
+relationships—is the interaction under study.
+
+Bluehaven also separates mechanical check clearance from external readiness.
+A current candidate can pass frozen structural/relation gates while remaining
+`not_adjudicated`; submission is only a proposal until condition-masked
+candidate-bound evaluation. This prevents an invisible independent-review
+requirement from making closure mechanically unreachable while preserving the
+H05 lesson that faster submission can be negative.
+
+Offline geometry qualifies the possibility, not behavior. An ordinary screen
+must still create authentic, mature result-delivery pressure before either
+policy can run. No investigator-chosen evidence, semantic maintenance, or
+relief is present in that screen. The expected economic outcome remains a
+vector—quality, readiness, effect currency, calls, tokens, cache, latency,
+externalizations, reopens, and failure migration—not a scalar utility invented
+after observing the arms.
+
 ## Low-pressure reconnaissance correction
 
 E37 then sampled multiple tasks while every prompt remained far below the
