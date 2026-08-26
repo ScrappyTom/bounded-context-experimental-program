@@ -2,8 +2,9 @@
 
 Date: 2026-08-25
 
-Status: prospective program design after E63; fresh Stage 0 not yet selected or
-implemented; no expression call, measured continuation, or GPU run authorized
+Status: E64 fresh Aster Stage 0 implemented and offline qualified at
+`f91fdaff28b2c7ad760afa90877b284e26529814`; authentic pressure remains
+unobserved; no expression call, measured continuation, or GPU run authorized
 
 ## Program question
 
@@ -194,5 +195,29 @@ If both fail, route from the first new exact systems boundary. Do not return to
 global-ledger tuning, special lexical allowlists, or generic semantic-memory
 claims.
 
-No task, runner, expression gate, freeze commit, or GPU call is authorized by
-this document.
+## E64 implementation
+
+Aster instantiates this design on a fresh sixteen-source payment-recovery task.
+It keeps W0 and L1 identical in ordinary exact evidence work, candidate
+effects, current checks, repair/recheck, closure, and external readiness. L1
+alone adds a bounded, replace-in-place register of owner-source reports whose
+relationship referents are mechanically bound to exact evidence without
+gaining slot authority. Joint synthesis remains exact actor-authored candidate
+work.
+
+Exact offline geometry shows that all permitted full single/pair reads fit, a
+prospectively fixed legal path can create an 881-token result-delivery deficit,
+one first-fit source-result externalization restores feasibility, and the first
+553-token register still fits the relieved actor packet. Complete provider-free
+W0/L1 loops exercise construction, effect uptake, defect detection, repair,
+stale-check recognition, current recheck, closure proposal, and external
+readiness while preserving parity.
+
+These are reachability and apparatus results only. The next eligible live
+operation is a separately authorized treatment-free 28-call pressure screen.
+It permits candidate work and checks before pressure and qualifies only if
+realized first-fit relief externalizes prior source evidence. See
+`E64_ASTER_PROVENANCE_RELATIONAL_STAGE0.md`.
+
+No expression gate, measured continuation, or GPU call is authorized by this
+document.

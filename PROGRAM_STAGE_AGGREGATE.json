@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 55 successor stages through E63 provenance-local relational semantics audit",
+  "scope": "parent bank plus 56 successor stages through E64 Aster provenance-local relational Stage 0",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 55,
+    "successor_stages": 56,
     "follow_on_model_calls": 567,
     "follow_on_serialized_tokens": 7194158,
-    "unique_cited_experiment_commits": 50
+    "unique_cited_experiment_commits": 51
   },
   "stages": [
     {
@@ -570,6 +570,16 @@
       "serialized_tokens": 0,
       "included_in_follow_on_totals": true,
       "primary_disposition": "ten exact Meridian, E61, Bluehaven, and Cedar fixtures qualify a minimal distinction among mutation slot, evidence basis, relation referent, assertion attribution, derived support set, and source-version currentness; E61-style grounded relations become mechanically representable while absent-slot mutation and Bluehaven completion remain blocked, and two provenance-valid semantic reversals prove that independent semantic review remains mandatory"
+    },
+    {
+      "stage_id": "S56",
+      "name": "Aster provenance-local relational versus direct exact-work offline whole-system Stage 0",
+      "stage_type": "eligibility",
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "f91fdaff28b2c7ad760afa90877b284e26529814", "count_as_experiment_commit": true}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "fresh opaque-ID many-to-many task, provenance-local relational carrier, bounded replace-in-place register, identical W0/L1 task-native work and feedback, admissible ingress, realizable pressure geometry, complete provider-free effect-check-repair-recheck-closure loops, and 113 tests qualify offline; authentic pressure, live expression, persistence, utility, and all GPU behavior remain unmeasured"
     }
   ]
 }

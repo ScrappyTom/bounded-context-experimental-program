@@ -15,7 +15,7 @@ class SystemInteractionDirectionTests(unittest.TestCase):
 
     def test_unit_is_whole_configuration_not_component(self):
         self.assertEqual(
-            "provenance_local_relational_apparatus_audited_fresh_whole_system_stage0_unselected",
+            "e64_aster_stage0_qualified_authentic_pressure_unmeasured",
             self.contract["status"],
         )
         self.assertEqual("whole_configuration_trajectory", self.contract["unit_of_analysis"])
@@ -245,17 +245,36 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         )
         self.assertFalse(selected["gpu_authorized"])
         successor = self.contract["candidate_successor_interaction"]
-        self.assertEqual("prospective_offline_stage0_unselected", successor["status"])
+        self.assertEqual(
+            "aster_offline_stage0_qualified_common_pressure_pending",
+            successor["status"],
+        )
         self.assertEqual(1, successor["maximum_expression_qualification_calls_before_measurement"])
-        self.assertFalse(successor["stage0_selected"])
-        self.assertFalse(successor["runner_frozen"])
+        self.assertTrue(successor["stage0_selected"])
+        self.assertTrue(successor["stage0_offline_qualified"])
+        self.assertEqual(0, successor["provider_calls"])
+        self.assertEqual(
+            "f91fdaff28b2c7ad760afa90877b284e26529814",
+            successor["standalone_commit"],
+        )
+        self.assertEqual(
+            "2026-08-25-aster-provenance-relational-pressure-screen-v0",
+            successor["pressure_screen_run_id"],
+        )
+        self.assertEqual(28, successor["maximum_pressure_screen_actor_calls"])
+        self.assertFalse(successor["pressure_screen_treatment_present"])
+        self.assertFalse(successor["pressure_screen_authorized"])
+        self.assertFalse(successor["authentic_pressure_qualified"])
+        self.assertFalse(successor["live_expression_qualified"])
+        self.assertFalse(successor["measured_utility_authorized"])
+        self.assertTrue(successor["runner_frozen"])
         self.assertFalse(successor["gpu_authorized"])
         plan = ROOT / successor["governing_document"]
         self.assertTrue(plan.is_file())
         plan_text = plan.read_text(encoding="utf-8")
         self.assertIn("complete operating configuration", plan_text)
         self.assertIn("One expression gate maximum", plan_text)
-        self.assertIn("No task, runner, expression gate", plan_text)
+        self.assertIn("The next eligible live", plan_text)
         self.assertEqual("authentic_prompt_pressure", self.contract["required_activation"])
 
     def test_feedback_loop_remains_live(self):

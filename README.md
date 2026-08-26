@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 50 experiment commit bindings were resolved through the named local
+The current 51 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -85,11 +85,24 @@ contract cannot be mistaken for a truth checker. This is a zero-call apparatus
 result, not live expression or utility. See
 [E63](E63_PROVENANCE_SEMANTICS_AUDIT.md).
 
-The exact E61 route stays closed. The next prospective program route is a
-fresh whole-system comparison of direct exact work against
-[provenance-local relations plus derived task work](NEXT_SYSTEM_INTERACTION_PROVENANCE_LOCAL_RELATIONAL_SCOUT.md).
-No fresh task, expression gate, runner, or GPU call is yet selected or
-authorized.
+The exact E61 route stays closed. E64 now instantiates the prospective route as
+a fresh Aster whole-system Stage 0 at
+[`f91fdaf`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/f91fdaff28b2c7ad760afa90877b284e26529814).
+W0 and L1 share actor-selected exact ingress, task-native evidence and
+incremental decision work, candidate effects, current checks, repair/recheck,
+closure, and external readiness. L1 alone adds a bounded replace-in-place
+register of provenance-local source reports; named relationship referents gain
+no mutation authority, and true synthesis remains exact cited candidate work.
+See [E64](E64_ASTER_PROVENANCE_RELATIONAL_STAGE0.md) and the updated
+[interaction plan](NEXT_SYSTEM_INTERACTION_PROVENANCE_LOCAL_RELATIONAL_SCOUT.md).
+
+A provider-free legal path reaches an 881-token exact result-delivery deficit;
+one first-fit source externalization restores feasibility, and the first
+553-token semantic register then fits. Complete provider-free W0/L1 loops and
+113 standalone tests pass. These facts qualify geometry and reachability, not
+authentic pressure or utility. The next eligible operation is only a
+separately authorized treatment-free 28-call pressure screen; no expression or
+measured W0/L1 continuation is authorized.
 
 The first breadth tranche is complete. Its 39 calls used one attempt each and
 zero retries. No prompt exceeded 7,110 tokens against the 20,992-token prompt
@@ -375,3 +388,16 @@ material safety passed; transport and overall qualification failed. The
 current L1 route is closed without retry or same-boundary repair. A future
 design would need to distinguish exact claim provenance from lexical
 cross-source reference prospectively.
+
+E62 and E63 then completed the offline routing work. E62 found 66 directed
+cross-source identity edges across all sixteen Meridian sources. E63 separated
+source-slot authority, exact evidence, relationship referents, derived support,
+and version currentness across ten historical fixtures while preserving two
+provenance-valid semantic failures as failures.
+
+E64 now freezes the fresh Aster realization at
+[`f91fdaf`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/f91fdaff28b2c7ad760afa90877b284e26529814).
+Its offline system geometry and complete provider-free W0/L1 lifecycle pass;
+no live pressure or semantic utility has been measured. The only next eligible
+operation is the separately authorized common Aster pressure screen described
+in [E64](E64_ASTER_PROVENANCE_RELATIONAL_STAGE0.md).

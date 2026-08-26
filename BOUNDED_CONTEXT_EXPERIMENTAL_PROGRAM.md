@@ -1449,7 +1449,7 @@ This work is governed by `E58_MERIDIAN_SOURCE_LOCAL_DELTA_STAGE0.md`,
 `NEXT_SYSTEM_INTERACTION_EVIDENCE_DELTA_SCOUT.md`. The current L1 route and
 W0/L1 continuation are closed. No live successor is selected.
 
-## Current program phase after E63
+## Current program phase after E64
 
 The no-GPU historical-fixture audit at
 `qwen38-artifact-coupled-integration-scout-v0@5fc04dd20ca9b4c9ea5b433c58f8d4249239ea6c`
@@ -1465,10 +1465,24 @@ separately supported task work rather than one source slot. Mechanically valid
 Meridian and Cedar semantic reversals remain failures, so provenance is not a
 truth checker.
 
-The prospective next unit is a fresh complete W0 direct-work versus L1
-provenance-local-relational system under
-`NEXT_SYSTEM_INTERACTION_PROVENANCE_LOCAL_RELATIONAL_SCOUT.md`. It retains
-authentic ingress/pressure, exact artifact effects, current checks, repair,
-recheck, closure, external readiness, and full cost accounting. At most one
-live carrier-expression gate may precede measurement. No fresh Stage 0 or GPU
-operation is yet selected.
+The fresh complete W0 direct-work versus L1 provenance-local-relational system
+is now frozen as Aster at
+`qwen38-artifact-coupled-integration-scout-v0@f91fdaff28b2c7ad760afa90877b284e26529814`.
+Both arms retain authentic ingress/pressure, exact artifact effects, current
+checks, repair, recheck, closure, external readiness, and full cost accounting.
+L1 alone adds bounded owner-source reports whose named referents do not acquire
+mutation authority; joint synthesis remains exact task-native work.
+
+Offline qualification covers a fresh many-to-many task, every permitted full
+single/pair ingress, a realizable 881-token pressure opportunity, one feasible
+first-fit source externalization, a fitting 553-token first register, and
+provider-free W0/L1 loops through repair and closure proposal. It makes zero
+provider calls and does not establish authentic activation, semantic fidelity,
+or utility.
+
+The next eligible operation is only the separately authorized treatment-free
+28-call Aster pressure screen. Candidate work and checks may occur before
+pressure; qualification requires that actual first-fit relief externalize
+source evidence. At most one separately frozen live carrier-expression gate
+may then precede measurement. No expression or W0/L1 continuation is yet
+authorized.

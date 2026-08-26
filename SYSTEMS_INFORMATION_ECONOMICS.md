@@ -1113,3 +1113,35 @@ render the actual bounded stock and replacement law rather than assuming
 local records are cheap because each record is small. The next planned scout
 prices direct actor-authored exact work against separately charged
 provenance-local source reports plus derived task work over the full trajectory.
+
+## E64: Aster freezes the investment geometry without claiming return
+
+Aster makes the prospective economic comparison concrete. W0 and L1 have the
+same exact evidence ingress, task-native work, candidate effects, verification,
+repair, and readiness. L1 alone incurs the semantic provider call, provenance
+carrier, resident register, cache effects, and any exact recovery its reports
+induce. The experiment therefore prices a complete added information operation
+instead of treating a small payload as free memory.
+
+The first prospective source-externalization event would turn a 21,873-token
+ordinary packet into a 19,037-token relieved packet. A provider-free relational
+register for that exact owner evidence occupies 553 payload tokens and yields a
+19,605-token actor packet. The maximum one-claim-per-source fixture is 4,377
+tokens under an 8,000-token stock ceiling. These numbers establish feasibility
+and carrying cost, not economic value.
+
+The lifecycle also freezes the relevant return channels:
+
+- substitution for later exact recovery;
+- complementarity that induces neighboring evidence demand;
+- preservation or reversal of cross-source relationships;
+- capitalization into exact evidence and decision work;
+- effect and check currency;
+- useful repair and correct closure; and
+- total actor, maintenance, cache, latency, and recovery cost.
+
+Only realized actor-selected pressure can determine the first investment event.
+The treatment-free screen therefore precedes expression. If no qualifying
+source externalization occurs, the experiment reports nonactivation rather
+than manufacturing a semantic investment. If one occurs, carrier admission is
+still only a gate; return is measured through the complete W0/L1 trajectory.

@@ -2,9 +2,9 @@
 
 Date: 2026-08-25
 
-Status: governing direction; E63 qualifies a provenance-local relational
-apparatus distinction over historical fixtures; the exact E61 route remains
-closed and whole-system utility remains unmeasured
+Status: governing direction; E64 instantiates the E63 distinction in a fresh
+Aster whole-system Stage 0; the exact E61 route remains closed and authentic
+pressure, live expression, persistence, and utility remain unmeasured
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -797,3 +797,32 @@ plus separately supported derived work, retain the entire effect/check/repair/
 readiness loop, and permit at most one expression gate before measurement. The
 plan is `NEXT_SYSTEM_INTERACTION_PROVENANCE_LOCAL_RELATIONAL_SCOUT.md`; no
 provider operation is selected or authorized.
+
+## E64: fresh Aster system reaches offline readiness, not behavioral evidence
+
+Aster now freezes the complete comparison at standalone commit
+`f91fdaff28b2c7ad760afa90877b284e26529814`. It uses a fresh sixteen-source
+payment-recovery world with opaque IDs, an evaluator-hidden many-to-many
+support graph, task-native incremental evidence and decision files, exact
+candidate effects, current checks, repair/recheck, closure, and independent
+readiness.
+
+W0 and L1 are viable task systems. Both actors can acquire, externalize, cite,
+construct, inspect feedback, repair, and close. L1's only extra information
+operation is a separately charged bounded current register of provenance-local
+source reports. Its relations may name exact owner-evidence referents without
+creating their slots; joint synthesis remains exact cited candidate work.
+
+The permitted ingress geometry can produce pressure without oversized
+individual results: the sixth fixed pair creates an 881-token deficit, one
+first-fit source externalization restores feasibility, and the first 553-token
+register still fits. Provider-free loops prove that both full systems can
+traverse effect/check/repair/recheck/closure, but they say nothing about Qwen's
+live expression or the treatment's economics.
+
+The common screen is deliberately interaction-aligned. Candidate work and
+checks do not disqualify pressure; the boundary must instead externalize actual
+source evidence and leave both future configurations viable. No semantic
+provider is present in the screen. A qualified fork may support one expression
+gate, after which the complete W0/L1 trajectories—not claim admission alone—
+remain the unit of interpretation.

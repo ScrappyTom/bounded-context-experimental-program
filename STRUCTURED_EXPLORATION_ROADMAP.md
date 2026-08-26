@@ -2,9 +2,9 @@
 
 Date: 2026-08-25
 
-Status: E63 qualifies a minimal provenance-local relational apparatus over
-historical fixtures; the exact E61 route remains closed and live expression,
-persistence, and whole-system utility remain unmeasured
+Status: E64 instantiates the E63 distinction in a fresh Aster whole-system
+Stage 0; the exact E61 route remains closed and authentic pressure, live
+expression, persistence, and whole-system utility remain unmeasured
 
 ## Research-phase reset
 
@@ -732,7 +732,38 @@ Two provenance-valid semantic reversals establish the necessary boundary:
 this apparatus improves custody and reviewability but cannot score truth. It
 also does not qualify a live carrier or model behavior. The next prospective
 route is therefore a fresh complete W0/L1 interaction, with no more than one
-new expression gate before measurement. Its Stage 0 is not yet selected.
+new expression gate before measurement.
+
+### E64 freezes the fresh system and keeps activation common
+
+Aster implements that route without turning it back into a component study.
+Both configurations share exact actor-selected ingress, task-native evidence
+and decision work, candidate effects, current checks, repair/recheck, closure,
+and external readiness. L1 alone pays for a bounded current register of
+source-reported facts and relationships; cross-source synthesis remains exact
+cited task work in both arms.
+
+The provenance carrier constrains mutation authority rather than lexical
+reference. Each relation is bound to an exact owner version, delivered result,
+unique complete-line quote, host-derived span hash, and named referents present
+in that evidence. Referents gain no source-slot authority. The host still
+cannot determine semantic correctness, so candidate-bound semantic review
+remains part of the whole trajectory.
+
+Provider-free geometry shows that the interaction can activate: all legal
+single/pair reads fit, a fixed legal path produces an 881-token overflow, one
+source-result externalization restores feasibility, and the first relational
+register fits the relieved prompt. Complete W0/L1 lifecycle fixtures pass
+through check failure, repair, stale-check recognition, recheck, and closure
+proposal. These are apparatus facts, not actor utility.
+
+The next operation is therefore a treatment-free live pressure screen, not a
+carrier call or measured treatment. It permits ordinary construction and
+checks before pressure and qualifies only if actual first-fit relief
+externalizes source evidence. A qualified boundary may define at most one
+expression gate; only a passed gate may lead to the complete W0/L1 systems
+comparison. This keeps activation, semantic persistence, exact work, feedback,
+and readiness inside one interaction sequence.
 
 ## What will not be optimized in this phase
 

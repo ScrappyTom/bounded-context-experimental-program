@@ -25,10 +25,10 @@ class ProgramStageAggregateTests(unittest.TestCase):
     def test_declared_aggregate_passes(self):
         result = MODULE.verify(self.aggregate)
         self.assertTrue(result["passed"], result["failures"])
-        self.assertEqual(55, result["successor_stages"])
+        self.assertEqual(56, result["successor_stages"])
         self.assertEqual(567, result["follow_on_model_calls"])
         self.assertEqual(7_194_158, result["follow_on_serialized_tokens"])
-        self.assertEqual(50, result["unique_cited_experiment_commits"])
+        self.assertEqual(51, result["unique_cited_experiment_commits"])
         self.assertEqual(42, result["parent_exact_replayed_requests"])
 
     def test_frozen_receipt_matches_recomputation(self):

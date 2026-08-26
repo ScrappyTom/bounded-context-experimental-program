@@ -1,9 +1,9 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-25
-Status: current program synthesis; E63 qualifies a zero-call provenance-local
-relational apparatus distinction while E61 remains closed and all live utility
-remains untested
+Status: current program synthesis; E64 instantiates the E63 distinction in a
+fresh Aster whole-system Stage 0 while E61 remains closed; authentic pressure,
+live expression, persistence, and utility remain untested
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -773,3 +773,43 @@ is now coherent enough for a fresh whole-system Stage 0, with at most one new
 expression qualification before a W0/L1 comparison. The prospective plan is
 `NEXT_SYSTEM_INTERACTION_PROVENANCE_LOCAL_RELATIONAL_SCOUT.md`; no task or GPU
 operation is selected here.
+
+## E64 instantiates the relation-aware system without reopening E61
+
+Aster freezes a fresh payment-recovery task and complete W0/L1 design at
+`qwen38-artifact-coupled-integration-scout-v0@f91fdaff28b2c7ad760afa90877b284e26529814`.
+It is not a repaired Meridian carrier. The new world has sixteen opaque source
+IDs, an evaluator-only many-to-many support graph, exact unit/probability/
+authority/currentness traps, an incremental two-file task artifact, and
+candidate-bound feedback and readiness rules.
+
+Both arms remain viable systems. They share exact single/two-source ingress,
+external custody, first-fit relief and reopen, actor-authored evidence and
+decision work, candidate effects, current checks, repair/recheck, closure, and
+independent readiness. L1 alone pays for a bounded replace-in-place register of
+source-reported facts and relationships. Its referents must occur in exact
+owner evidence but gain no slot authority. The maintenance carrier cannot emit
+joint derived claims; those remain exact actor-authored work with complete
+citations.
+
+The offline geometry is interaction-relevant but not behavioral. The 60,140-
+byte source world contains 20,993 tokenizer tokens. All permitted full singles
+and pairs fit. A fixed legal path yields a 21,873-token pending-result packet;
+externalizing only `RESULT-001` restores 19,037, and the first 553-token L1
+register leaves the relieved actor packet feasible at 19,605. The maximum
+one-claim-per-source fixture is 4,377 tokens under the 8,000-token stock bound.
+
+Provider-free W0/L1 loops exercise source externalization, task work, a failing
+check, repair, stale-check recognition, current recheck, closure proposal, and
+external readiness with identical final candidate bytes. L1 additionally
+creates ten relational records. The standalone repository passes 113 tests,
+and the task lock and preflight regenerate byte-exactly.
+
+These results qualify task geometry, parity, transport semantics in host
+fixtures, and full lifecycle reachability. They do not qualify a live carrier
+or demonstrate cumulative semantic value. The next live gate remains common:
+a separately authorized treatment-free 28-call ordinary pressure screen. It
+permits candidate mutations and checks before pressure and qualifies only when
+realized first-fit relief externalizes a prior source observation. Only then
+may one boundary-native expression case be frozen. The W0/L1 continuation
+remains separately unauthorized.

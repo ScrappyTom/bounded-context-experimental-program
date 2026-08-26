@@ -77,6 +77,7 @@ means literal local behavior with a material apparatus qualification.
 | E61 | LR/AF/NQ | Meridian boundary-native source-local expression | The one normally stopped output emitted only exact-version AXIOM/BRAMBLE blocks and passed all frozen material-safety criteria, but transport rejected DRIFT, EMBER, HEATH, and NORTH mentions copied from BRAMBLE-owned relationships. | One expression call, no actor continuation. Qualification failed and the measured fork closed. This exposes source ownership versus lexical relationship reference; it does not establish L1 utility. | [qualification result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/ebd9d6ed773734258d6b75a460a467b11c88bc67) |
 | E62 | AF | Meridian exact source-relation topology | All 16 exact sources contain at least one other source identity across 66 directed edges; BRAMBLE's exact relationship-object set equals E61's rejected-ID set. | Post-run offline audit only. It does not regrade E61 or establish a useful successor interface. | [topology audit](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7bd4c1049b7c1cc8b062201835e2ca4bfc198d10) |
 | E63 | AF | provenance-local relational semantics | Ten exact historical fixtures qualify a mechanical distinction among source-slot mutation, exact evidence basis, relation referents, derived support sets, and version currentness. E61-style grounded relations become representable while absent-slot mutation and Bluehaven completion remain blocked. | Zero-call post-outcome apparatus audit. Two provenance-valid semantic reversals remain failures; model expression, persistence, economics, and whole-system utility are untested. | [provenance audit](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/5fc04dd20ca9b4c9ea5b433c58f8d4249239ea6c) |
+| E64 | AF/NQ | Aster provenance-local relational whole-system Stage 0 | A fresh opaque-ID many-to-many task, provenance-local relation carrier, bounded replace-in-place register, identical W0/L1 task-native work and feedback surfaces, admissible single/pair ingress, realizable pressure geometry, and complete provider-free effect/check/repair/recheck/closure loops pass 113 tests. | Zero provider calls. Authentic pressure, live expression, persistence, actor uptake, artifact utility, readiness, and economics remain unmeasured. Only a common treatment-free pressure screen is eligible for separate authorization. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/f91fdaff28b2c7ad760afa90877b284e26529814) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
@@ -1007,3 +1008,35 @@ provenance therefore preserves custody and reviewability, not truth.
 Disposition: **AF** — the broader provenance-local relational route is
 coherent enough for a fresh whole-system Stage 0, but E61 is not reopened and
 no model expression, actor utility, or GPU operation is qualified.
+
+## E64 — Aster provenance-local relational whole-system Stage 0
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@f91fdaff28b2c7ad760afa90877b284e26529814`
+
+Aster instantiates the E63 distinction on a fresh sixteen-source
+payment-recovery task. W0 and L1 share exact ingress, custody, relief/reopen,
+actor-authored evidence and decision work, candidate effects, current checks,
+repair/recheck, closure, and external readiness. L1 alone pays for a bounded
+current register of owner-source facts and relationships. Referents must occur
+in exact owner evidence but gain no mutation authority; true joint synthesis
+remains exact cited candidate work.
+
+The 60,140-byte source world contains 20,993 tokenizer tokens. All permitted
+full single and pair reads fit. A fixed legal path creates a 21,873-token
+pending-result packet; one first-fit source-result externalization restores
+19,037, and a 553-token first relational register still fits at 19,605. The
+maximum one-claim-per-source fixture is 4,377 tokens under the 8,000-token
+register ceiling.
+
+Provider-free W0/L1 loops reach exact task work, a failing check, repair,
+stale-check recognition, current recheck, closure proposal, and external
+readiness with identical final candidate bytes. L1 additionally creates ten
+relational records. The repository passes 113 tests and regenerates task and
+preflight locks byte-exactly.
+
+Disposition: **AF/NQ** — apparatus, parity, opportunity geometry, and lifecycle
+reachability qualify offline. The common actor has not yet produced authentic
+pressure, and Qwen has not emitted or consumed this carrier. Only a separately
+authorized treatment-free 28-call pressure screen is eligible; expression and
+measured W0/L1 utility remain unauthorized.

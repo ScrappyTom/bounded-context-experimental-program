@@ -2,9 +2,9 @@
 
 Date: 2026-08-25
 
-Status: evidence-bounded program narrative through E63; E61 remains closed,
-while an offline provenance audit now separates mutation authority, evidence,
-relation referents, derived support, and currentness
+Status: evidence-bounded program narrative through E64; E61 remains closed,
+while fresh Aster Stage 0 instantiates provenance-local relational persistence
+inside a complete W0/L1 task-and-feedback system
 
 ## What we learned
 
@@ -1629,3 +1629,49 @@ It qualifies a middle design between complete global semantic authority and
 lexically isolated source slots. The next prospective route is a fresh
 whole-system W0/L1 scout with at most one carrier-expression gate, not another
 E61 transport repair.
+
+## 56. Aster turns the provenance distinction into a fresh system experiment
+
+E64 freezes Aster at
+`f91fdaff28b2c7ad760afa90877b284e26529814`. The task is a fresh multi-region
+payment-recovery decision over sixteen opaque-ID sources and an evaluator-held
+many-to-many support graph. It requires source-local relations, genuinely joint
+claims, incremental exact work, candidate-bound verification, repair, and
+independent readiness.
+
+The new comparison preserves whole-system parity. W0 and L1 share exact
+single/two-source ingress, custody, deterministic relief and reopen,
+actor-authored evidence and decision files, candidate effects, current checks,
+repair/recheck, closure, and external evaluation. L1 alone pays for a bounded
+replace-in-place register of source-reported facts and relationships. A named
+referent must occur in exact owner evidence but gains no source-slot authority;
+joint synthesis remains exact candidate work with all citations.
+
+The offline geometry is deliberately tied to permitted actor ingress. The
+60,140-byte source world is 20,993 tokenizer tokens, yet each full single and
+pair result fits. A fixed six-pair path produces a 21,873-token pending-result
+packet. Externalizing only `RESULT-001` restores 19,037; adding the first
+553-token relational register yields a feasible 19,605-token actor packet.
+This shows a realizable interaction opportunity without claiming that the live
+actor will follow the fixed path.
+
+Provider-free W0/L1 lifecycle fixtures both externalize source results, build
+the exact task artifact, receive a failing current check, repair, recognize the
+stale check, recheck successfully, propose closure, and remain subject to
+external readiness. Their final candidate bytes match; L1 additionally carries
+ten relational records. The standalone suite passes 113 tests, with byte-exact
+task-lock and preflight regeneration.
+
+This stage learns an apparatus fact, not semantic utility. The host can express
+authority locality without deleting relation topology, and the complete
+candidate/effect/verification path can coexist with that mechanism. Qwen has
+not yet created or consumed the register. Authentic pressure is also still
+unobserved.
+
+The next operation is therefore a common treatment-free 28-call pressure
+screen. It permits ordinary task construction and checks before pressure and
+qualifies only when actual first-fit relief externalizes prior source evidence.
+If that happens, at most one boundary-native expression gate may precede the
+complete W0/L1 comparison. Carrier admission remains a prerequisite; artifact
+quality, current feedback, readiness, cost, and induced demand remain the
+system outcomes.
