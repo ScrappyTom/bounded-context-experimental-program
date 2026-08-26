@@ -1126,3 +1126,30 @@ fresh task geometry, arm parity, and complete lifecycle reachability qualify
 offline. Qwen behavior, authentic pressure, semantic yield, actor uptake,
 artifact utility, and economics remain unmeasured. No expression-only gate is
 planned; only a separately authorized treatment-free pressure screen is next.
+
+## E68 — Solace authentic common pressure and whole-system freeze
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@6059797681e2591737476417148952c844043b7f`
+
+Six valid full-pair reads covered AURORA through JASPER across ten evidence
+domains. Pending `RESULT-006` contains KESTREL+LUMEN. Ordinary delivery measured
+21,211 prompt tokens, 219 over the 20,992-token allowance. Protected-pending
+first-fit externalizes only `RESULT-001` AURORA+BASTION and restores feasibility
+at 18,595 tokens with 2,397 tokens of headroom.
+
+The candidate remained initial and no check, submission, treatment, or
+maintenance call occurred. Six provider calls consumed 63,731 serialized
+tokens. Exact replay, token recount, relief reconstruction, seal, authorization,
+and runtime release passed independent audit.
+
+The same result commit freezes the complete W0/L1 continuation with no
+standalone expression gate, partial per-claim admission, zero-valid unchanged-
+state fallback, exact incremental task work, effect/check/repair/recheck/closure
+opportunity, and independent readiness. Provider-free full-cell execution and
+the complete 141-test standalone suite pass.
+
+Disposition: **LR/AF/NQ** — authentic common pressure and the exact first
+anchored-maintenance opportunity qualify. Semantic yield, relational fidelity,
+induced demand, artifact utility, readiness, and information economics remain
+unmeasured. The measured GPU run requires new exact commit-bound authorization.

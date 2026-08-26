@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-26",
-  "status": "e67_solace_fault_tolerant_whole_system_stage0_complete_pressure_pending",
+  "status": "e68_solace_authentic_pressure_qualified_complete_interaction_frozen_gpu_unauthorized",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "authentic_prompt_pressure",
@@ -530,7 +530,7 @@
     "governing_document": "NEXT_SYSTEM_INTERACTION_PROVENANCE_LOCAL_RELATIONAL_SCOUT.md"
   },
   "active_system_route": {
-    "status": "offline_stage0_complete_authentic_pressure_pending",
+    "status": "authentic_pressure_qualified_complete_interaction_frozen_gpu_unauthorized",
     "repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0",
     "stage0_commit": "5af42ca96182ce16dc5aced20f952da9a7c791e4",
     "task_id": "solace-water-recovery-decision-v0",
@@ -559,14 +559,39 @@
       "prospective_pressure_prompt_tokens": 21175,
       "prospective_first_fit_prompt_tokens": 18559,
       "provider_free_complete_systems_qualified": true,
-      "standalone_tests_passed": 133
+      "standalone_tests_passed": 141
+    },
+    "live_pressure_result": {
+      "result_commit": "6059797681e2591737476417148952c844043b7f",
+      "run_id": "2026-08-26-solace-anchored-provenance-pressure-screen-v0",
+      "actor_calls": 6,
+      "serialized_tokens": 63731,
+      "delivered_qualifying_sources": 10,
+      "delivered_evidence_domains": 10,
+      "pending_result_id": "RESULT-006",
+      "ordinary_prospective_prompt_tokens": 21211,
+      "overflow_tokens": 219,
+      "positive_relief_result_ids": ["RESULT-001"],
+      "positive_relief_after_tokens": 18595,
+      "remaining_prompt_headroom_tokens": 2397,
+      "candidate_changed": false,
+      "candidate_submitted": false,
+      "independent_audit_passed": true
     },
     "next_live_operation": {
-      "kind": "common_treatment_free_pressure_screen",
-      "run_id": "2026-08-26-solace-anchored-provenance-pressure-screen-v0",
-      "maximum_actor_calls": 28,
-      "semantic_maintenance_included": false,
-      "measured_continuation_included": false,
+      "kind": "complete_W0_then_L1_anchored_provenance_interaction",
+      "freeze_commit": "6059797681e2591737476417148952c844043b7f",
+      "run_id": "2026-08-26-solace-anchored-provenance-interaction-measured-v0",
+      "configuration_order": [
+        "W0_DIRECT_EXACT_WORK_FRESH",
+        "L1_FAULT_TOLERANT_ANCHORED_PROVENANCE"
+      ],
+      "maximum_actor_calls": 68,
+      "maximum_maintenance_calls": 18,
+      "maximum_provider_calls": 86,
+      "standalone_expression_gate": false,
+      "attempts_per_call": 1,
+      "retries": 0,
       "authorized": false
     },
     "governing_document": "NEXT_SYSTEM_INTERACTION_FAULT_TOLERANT_PROVENANCE.md",

@@ -921,7 +921,32 @@ qualify both complete feedback systems, one mixed-validity partial admission,
 and one zero-valid unchanged-state fallback. The standalone repository passes
 133 tests, including all historical replay guards.
 
-Only the common treatment-free pressure screen is the next eligible live
-operation. It must produce an authentic actor-selected fork. It authorizes no
-semantic maintenance or measured continuation, and no GPU call is currently
-authorized.
+At E67, only the common treatment-free pressure screen was eligible. It had to
+produce an authentic actor-selected fork and authorized no semantic maintenance
+or measured continuation. E68 records that completed screen below.
+
+## E68: authentic Solace pressure activates the complete comparison
+
+The authorized treatment-free Solace screen completed at standalone result
+commit `6059797681e2591737476417148952c844043b7f`. Six valid actor-selected batches
+delivered ten exact sources across ten domains. Pending KESTREL/LUMEN made the
+ordinary packet 21,211 tokens, 219 above allowance. First-fit externalizes only
+exact AURORA/BASTION `RESULT-001`, yielding 18,595 tokens and 2,397 tokens of
+headroom.
+
+No semantic operation, artifact mutation, check, or submission occurred. Exact
+reexecution, prompt recount, custody, relief, seal, and release all passed. The
+fork is therefore authentic and mechanically viable, but all semantic and
+downstream utility remains unmeasured.
+
+The next runner preserves the interaction-first rule. W0 and L1 share relief,
+reopen, task-native incremental work, effects, candidate-bound feedback,
+repair/recheck opportunity, closure, and independent readiness. L1 alone adds
+charged anchored maintenance. Claims admit independently; invalid claims are
+discarded; zero valid claims leave prior state unchanged; and the actor
+continues. There is no standalone expression gate.
+
+Provider-free execution now covers both complete cells and all 141 standalone
+tests pass. The frozen W0-then-L1 run permits at most 68 actor calls, 18
+maintenance calls, and 86 provider calls, one attempt each and zero retries.
+It remains GPU-unauthorized until separately approved at its exact commit.

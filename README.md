@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 54 experiment commit bindings were resolved through the named local
+The current 55 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -120,8 +120,8 @@ admitted 0/4 claims, qualification failed, and no actor continuation ran. See
 carrier route is closed; relational persistence and whole-system utility remain
 untested rather than negative.
 
-The active successor is the fresh Solace whole-system route at
-[`5af42ca`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/5af42ca96182ce16dc5aced20f952da9a7c791e4).
+The active successor is the fresh Solace whole-system route, now frozen at
+[`6059797`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/6059797681e2591737476417148952c844043b7f).
 It does not repair or regrade E66. The model selects exact anchor substrings and
 semantic claims; the host materializes exact context, offsets, hashes,
 version/currentness, and reopen custody. Valid records merge independently,
@@ -132,8 +132,10 @@ Solace compares direct exact work with this fallible provenance process inside
 the same full effect/check/repair/closure loop. Offline Stage 0 reports a fresh
 14-source world, prospective sixth-pair pressure, provider-free partial and
 zero-valid fallback, and identical viable W0/L1 completion fixtures. There is
-no standalone expression gate. Only a separately authorized treatment-free
-pressure screen is eligible next. See
+no standalone expression gate. Its treatment-free pressure screen has now
+qualified: six valid batches reached a 219-token delivery deficit; first-fit
+externalizes only AURORA/BASTION and restores 2,397 tokens of headroom. The
+complete W0/L1 interaction is frozen but GPU-unauthorized. See
 [the new interaction plan](NEXT_SYSTEM_INTERACTION_FAULT_TOLERANT_PROVENANCE.md).
 
 The first breadth tranche is complete. Its 39 calls used one attempt each and

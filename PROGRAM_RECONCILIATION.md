@@ -910,5 +910,27 @@ induced demand → artifact effects → current checks → repair → closure
 ```
 
 There is no standalone expression successor. The treatment-free Solace screen
-is frozen but not authorized. Semantic maintenance and measured continuation
-remain separately unauthorized.
+subsequently qualified at the exact actor-selected fork recorded in E68.
+
+## E68 supplies the authentic Solace fork and freezes the whole interaction
+
+At standalone result commit
+`6059797681e2591737476417148952c844043b7f`, six valid two-source reads delivered
+ten sources before KESTREL/LUMEN became newly pending. Ordinary delivery costs
+21,211 prompt tokens, 219 over allowance. Protected-pending first-fit relief
+externalizes only AURORA/BASTION `RESULT-001`, producing 18,595 tokens and 2,397
+tokens of headroom. The candidate remained unchanged; no treatment, check, or
+submission occurred. Six calls consumed 63,731 serialized tokens and passed
+independent exact audit and release checks.
+
+This qualifies the common history, not semantic persistence. The important
+routing change is that no expression-only gate follows. W0 and L1 now continue
+from the same exact fork; fallible claim yield, register stock, induced demand,
+artifact work, effects, checks, repair, readiness, closure, and total cost are
+observed as one feedback system. Partial or zero-valid maintenance is charged
+and ordinary work continues.
+
+The complete runner, contract, authorization template, evaluator, and provider-
+free full-cell test are frozen in the standalone repository. Its 141 tests
+pass. The measured W0-then-L1 GPU run remains unauthorized pending a new exact
+commit-bound authorization.

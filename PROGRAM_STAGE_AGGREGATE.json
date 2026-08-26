@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 59 successor stages through E67 Solace fault-tolerant anchored-provenance Stage 0",
+  "scope": "parent bank plus 60 successor stages through E68 Solace authentic anchored-provenance pressure screen",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 59,
-    "follow_on_model_calls": 574,
-    "follow_on_serialized_tokens": 7265656,
-    "unique_cited_experiment_commits": 54
+    "successor_stages": 60,
+    "follow_on_model_calls": 580,
+    "follow_on_serialized_tokens": 7329387,
+    "unique_cited_experiment_commits": 55
   },
   "stages": [
     {
@@ -610,6 +610,16 @@
       "serialized_tokens": 0,
       "included_in_follow_on_totals": true,
       "primary_disposition": "fresh fourteen-source many-to-many task and complete W0/L1 feedback systems qualify offline; the model selects semantic claims and exact anchor substrings while the host materializes exact context, offsets, hashes, version/currentness, and reopen custody; partial admission and zero-valid unchanged-state fallback keep maintenance failure inside the trajectory, and no standalone expression gate is planned; authentic pressure, Qwen semantic yield, actor uptake, artifact utility, readiness, and economics remain unmeasured"
+    },
+    {
+      "stage_id": "S60",
+      "name": "Solace authentic anchored-provenance common pressure screen and whole-system freeze",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "6059797681e2591737476417148952c844043b7f", "count_as_experiment_commit": true}],
+      "model_calls": 6,
+      "serialized_tokens": 63731,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "six valid actor-selected two-source batches delivered ten sources before pending KESTREL plus LUMEN produced a 219-token overflow; protected-pending first-fit externalizes only RESULT-001 AURORA plus BASTION and restores 2397 tokens of headroom; exact audit passes, the candidate remains unchanged, and the complete no-expression-gate W0/L1 interaction is provider-free frozen while all semantic utility remains unmeasured and GPU-unauthorized"
     }
   ]
 }

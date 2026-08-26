@@ -2,8 +2,8 @@
 
 Date: 2026-08-26
 
-Status: fresh offline Stage 0 complete; treatment-free pressure screen frozen;
-no GPU, semantic maintenance, or measured continuation authorized
+Status: authentic treatment-free pressure qualified; complete W0/L1 runner
+frozen offline; measured GPU continuation not authorized
 
 ## Decision
 
@@ -69,7 +69,7 @@ currentness, and readiness. Both arms have the same task-native exact work
 surface.
 
 Standalone commit:
-`5af42ca96182ce16dc5aced20f952da9a7c791e4`
+`6059797681e2591737476417148952c844043b7f`
 
 Provider-free findings:
 
@@ -85,18 +85,21 @@ Provider-free findings:
 
 These are reachability facts, not model capability or utility.
 
+The live screen then selected six complete source pairs and reached 21,211
+prompt tokens with KESTREL/LUMEN pending, 219 over allowance. First-fit selects
+only AURORA/BASTION `RESULT-001` and restores 18,595 tokens with 2,397 tokens of
+headroom. The six calls used 63,731 serialized tokens and passed independent
+audit. No semantic treatment or candidate action occurred.
+
 ## Live order
 
-1. Separately authorize and run the common treatment-free pressure screen.
-2. If no eligible pressure occurs, close this task geometry without inserting
-   a treatment.
-3. If it qualifies, freeze the exact common boundary and build both viable
-   continuations.
-4. Do not insert an expression-only gate.
-5. In L1, invoke the prospective maintenance operation when common first-fit
+1. Start both cells from the exact audited E68 boundary.
+2. Apply the same protected-pending first-fit transition in both cells.
+3. Do not insert an expression-only gate.
+4. In L1, invoke the prospective maintenance operation when common first-fit
    relief externalizes eligible source evidence. Admit whatever valid subset
    the one attempt produces, then continue.
-6. Follow both arms through induced demand, exact work, effects, current
+5. Follow both arms through induced demand, exact work, effects, current
    feedback, repair, closure, or declared resource exhaustion.
 
 ## Primary interpretation
