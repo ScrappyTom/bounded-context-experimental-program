@@ -1081,3 +1081,35 @@ E61 paid production cost but never reached actor demand, artifact work, or
 verification, so substitution/complementarity remain unknown. The correct
 economic disposition is censored-by-interface, not negative downstream
 utility. The current route closes because its prospective gate failed.
+
+## E63: provenance creates option value and carrying obligations
+
+The zero-call audit shows that a scope mechanism can preserve E61-style
+relationships without permitting absent-source mutation. It also locates
+multi-source synthesis outside individual source slots and makes prior-version
+claims inactive without destroying their lineage. Those properties create
+option value: later actors and evaluators can recover who asserted what, from
+which exact bytes, about which objects, and under which current source state.
+
+They also create new stocks and costs:
+
+- one source-reported relation may be duplicated in several source slots;
+- conflicting reports about one referent may coexist;
+- exact span/version/reopen bindings add carrier overhead;
+- source successors preserve stale lineage even when it is not actor-resident;
+- derived work requires its own bounded support-set records; and
+- semantic review remains necessary because mechanically valid provenance can
+  carry a reversed predicate, unit, probability, or authority relation.
+
+The final point is decisive. E63 deliberately admits both the reversed
+BRAMBLE staleness predicate and Cedar's hours/probability conversion at the
+mechanical layer. Provenance reduces attribution ambiguity; it does not reduce
+all semantic risk. Its economic value must therefore be evaluated jointly
+with artifact quality, candidate-bound feedback, repair, and readiness.
+
+At the historical sixteen-source/650-token ceiling, source payload could reach
+10,400 tokens before provenance and template overhead. A future policy must
+render the actual bounded stock and replacement law rather than assuming
+local records are cheap because each record is small. The next planned scout
+prices direct actor-authored exact work against separately charged
+provenance-local source reports plus derived task work over the full trajectory.

@@ -252,3 +252,19 @@ It changes the future design requirement: source-locality must govern claim
 ownership and slot mutation, while relationship-object references need their
 own exact provenance rule. A future scout must freeze that distinction before
 inference on a fresh eligible trajectory.
+
+## E62–E63 successor audit
+
+E62 confirmed that lexical isolation is structurally incompatible with the
+Meridian world: all sixteen source bodies name another source across 66
+directed lexical edges. E63 then qualified a minimal zero-call provenance
+distinction on ten exact historical fixtures. It separates source-slot
+mutation, exact evidence basis, relationship referents, assertion attribution,
+derived multi-source support, and currentness.
+
+This does not repair or reopen this scout. It establishes enough apparatus
+coherence to plan a different fresh whole-system route, documented in
+`NEXT_SYSTEM_INTERACTION_PROVENANCE_LOCAL_RELATIONAL_SCOUT.md`. That successor
+uses separately supported derived task work when a claim does not naturally
+belong to one source and retains independent semantic review because
+provenance-valid reversals remain possible. No live operation is selected here.

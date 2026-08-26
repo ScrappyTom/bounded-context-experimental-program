@@ -1,10 +1,10 @@
 # Structured exploration roadmap
 
-Date: 2026-08-24
+Date: 2026-08-25
 
-Status: E61 closes the current Meridian L1 route; material safety passed but
-lexical source isolation rejected grounded cross-source relationships;
-whole-system utility remains unmeasured
+Status: E63 qualifies a minimal provenance-local relational apparatus over
+historical fixtures; the exact E61 route remains closed and live expression,
+persistence, and whole-system utility remain unmeasured
 
 ## Research-phase reset
 
@@ -714,6 +714,25 @@ scope must distinguish who owns a claim and which object that claim relates
 to. A fresh design may permit relationship identities literally present in
 the exact owner source while forbidding absent-source blocks and attribution.
 That mechanism is not yet selected or frozen, and E61 is not rerun.
+
+### E62–E63 qualify the next distinction without qualifying a system
+
+E62 shows that the locality conflict spans Meridian rather than one phrase:
+all sixteen sources contain another source identity across 66 directed lexical
+edges. It does not adjudicate every edge as a semantic relation.
+
+E63 then tests ten frozen historical cases under a minimal provenance model.
+Mutation slot, exact evidence, referents, assertion attribution, multi-source
+support, and currentness become separate properties. The E61 relationship is
+representable without granting its referents mutation authority; absent-source
+slots and Bluehaven completion remain blocked; and genuine cross-source
+synthesis must live in separately supported task work.
+
+Two provenance-valid semantic reversals establish the necessary boundary:
+this apparatus improves custody and reviewability but cannot score truth. It
+also does not qualify a live carrier or model behavior. The next prospective
+route is therefore a fresh complete W0/L1 interaction, with no more than one
+new expression gate before measurement. Its Stage 0 is not yet selected.
 
 ## What will not be optimized in this phase
 

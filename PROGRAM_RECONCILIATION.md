@@ -1,9 +1,9 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-25
-Status: current program synthesis; E61 closes the current Meridian L1 route
-after materially safe output failed a lexical cross-source transport rule;
-whole-system W0/L1 utility remains unmeasured
+Status: current program synthesis; E63 qualifies a zero-call provenance-local
+relational apparatus distinction while E61 remains closed and all live utility
+remains untested
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -739,3 +739,37 @@ Thus the failure was not confined to one generated phrase. The prospective
 locality rule would systematically suppress named relationships throughout the
 Meridian world. This offline fact strengthens the routing decision while
 adding no behavioral evidence and leaving E61's failed gate unchanged.
+
+## E63 separates authority locality from relational expressivity
+
+The post-E61 audit implements and tests a minimal claim contract over ten exact
+historical fixtures from Meridian, E61, Bluehaven, and Cedar. It separates:
+
+- the record kind and mutable namespace;
+- exact source/version evidence spans;
+- named relationship referents;
+- assertion mode and attribution;
+- multi-source support sets; and
+- historical validity from current activity.
+
+Under that contract the E61 BRAMBLE relationship may name DRIFT, EMBER, HEATH,
+and NORTH without creating their source slots or asserting on their behalf.
+BRAMBLE evidence still cannot mutate a DRIFT slot, and Bluehaven's unseen S07
+completion from S01-S06 inputs remains blocked. A genuine BRAMBLE+DRIFT
+synthesis is admitted only as separately identified derived task work, not as
+BRAMBLE-owned state. A simulated AXIOM version successor retains the prior
+claim in lineage while making it inactive.
+
+The audit deliberately includes the reversed BRAMBLE sample-currentness claim
+and Cedar's 5.8-hour/42-percent conversion into km/h and humidity. Both pass
+mechanical provenance and remain frozen semantic failures. Thus exact support
+metadata improves custody and adjudicability but does not validate predicate,
+modality, unit, authority, or qualification fidelity.
+
+E63 is an apparatus design audit selected after the historical outcomes were
+known. It makes zero model calls, does not regrade E61, and does not qualify a
+live carrier, persistence, actor uptake, or economic value. The broader route
+is now coherent enough for a fresh whole-system Stage 0, with at most one new
+expression qualification before a W0/L1 comparison. The prospective plan is
+`NEXT_SYSTEM_INTERACTION_PROVENANCE_LOCAL_RELATIONAL_SCOUT.md`; no task or GPU
+operation is selected here.

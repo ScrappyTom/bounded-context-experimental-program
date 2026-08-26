@@ -14,6 +14,10 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         cls.contract = json.loads((ROOT / "SYSTEM_INTERACTION_EXPLORATION.json").read_text(encoding="utf-8"))
 
     def test_unit_is_whole_configuration_not_component(self):
+        self.assertEqual(
+            "provenance_local_relational_apparatus_audited_fresh_whole_system_stage0_unselected",
+            self.contract["status"],
+        )
         self.assertEqual("whole_configuration_trajectory", self.contract["unit_of_analysis"])
         self.assertEqual("low_pressure_reference_not_interaction_result", self.contract["e37_role"])
         self.assertIn(
@@ -204,6 +208,19 @@ class SystemInteractionDirectionTests(unittest.TestCase):
             ]
         )
         self.assertFalse(selected["topology_audit"]["qualification_regraded"])
+        provenance = selected["provenance_semantics_audit"]
+        self.assertTrue(provenance["passed"])
+        self.assertEqual(10, provenance["historical_fixture_cases"])
+        self.assertTrue(
+            provenance["e61_grounded_relationship_mechanically_representable"]
+        )
+        self.assertTrue(provenance["absent_source_slot_mutation_blocked"])
+        self.assertTrue(provenance["bluehaven_unsupported_completion_blocked"])
+        self.assertTrue(
+            provenance["derived_multi_source_claim_requires_separate_work_record"]
+        )
+        self.assertFalse(provenance["live_expression_qualified"])
+        self.assertFalse(provenance["whole_system_utility_measured"])
         self.assertFalse(selected["next_live_operation"]["authorized"])
         self.assertIn("source-local semantic transformation", selected["question"])
         self.assertIn(
@@ -227,6 +244,18 @@ class SystemInteractionDirectionTests(unittest.TestCase):
             selected["forbidden_shortcuts"],
         )
         self.assertFalse(selected["gpu_authorized"])
+        successor = self.contract["candidate_successor_interaction"]
+        self.assertEqual("prospective_offline_stage0_unselected", successor["status"])
+        self.assertEqual(1, successor["maximum_expression_qualification_calls_before_measurement"])
+        self.assertFalse(successor["stage0_selected"])
+        self.assertFalse(successor["runner_frozen"])
+        self.assertFalse(successor["gpu_authorized"])
+        plan = ROOT / successor["governing_document"]
+        self.assertTrue(plan.is_file())
+        plan_text = plan.read_text(encoding="utf-8")
+        self.assertIn("complete operating configuration", plan_text)
+        self.assertIn("One expression gate maximum", plan_text)
+        self.assertIn("No task, runner, expression gate", plan_text)
         self.assertEqual("authentic_prompt_pressure", self.contract["required_activation"])
 
     def test_feedback_loop_remains_live(self):

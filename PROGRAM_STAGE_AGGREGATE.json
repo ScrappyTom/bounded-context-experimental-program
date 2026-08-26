@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 54 successor stages through E62 Meridian source-relation topology audit",
+  "scope": "parent bank plus 55 successor stages through E63 provenance-local relational semantics audit",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 54,
+    "successor_stages": 55,
     "follow_on_model_calls": 567,
     "follow_on_serialized_tokens": 7194158,
-    "unique_cited_experiment_commits": 49
+    "unique_cited_experiment_commits": 50
   },
   "stages": [
     {
@@ -560,6 +560,16 @@
       "serialized_tokens": 0,
       "included_in_follow_on_totals": true,
       "primary_disposition": "all 16 exact Meridian sources contain at least one other source identity across 66 directed edges, and BRAMBLE's four exact relationship objects equal E61's four rejected IDs; lexical no-absent-source-reference admission is structurally incompatible with preserving the task's named many-to-many relationships"
+    },
+    {
+      "stage_id": "S55",
+      "name": "provenance-local relational semantics historical-fixture audit",
+      "stage_type": "offline_audit",
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "5fc04dd20ca9b4c9ea5b433c58f8d4249239ea6c", "count_as_experiment_commit": true}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "ten exact Meridian, E61, Bluehaven, and Cedar fixtures qualify a minimal distinction among mutation slot, evidence basis, relation referent, assertion attribution, derived support set, and source-version currentness; E61-style grounded relations become mechanically representable while absent-slot mutation and Bluehaven completion remain blocked, and two provenance-valid semantic reversals prove that independent semantic review remains mandatory"
     }
   ]
 }

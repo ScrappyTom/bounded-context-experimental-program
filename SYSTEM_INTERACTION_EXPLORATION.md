@@ -2,9 +2,9 @@
 
 Date: 2026-08-25
 
-Status: governing direction; E61 closes the current source-local-delta route
-after grounded cross-source relationships failed lexical source isolation;
-whole-system utility remains unmeasured
+Status: governing direction; E63 qualifies a provenance-local relational
+apparatus distinction over historical fixtures; the exact E61 route remains
+closed and whole-system utility remains unmeasured
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -761,3 +761,39 @@ run. A prospective successor would need owner-bound claims plus a separate
 mechanical rule for relationship objects already present in the owner bytes.
 It must be evaluated through the full feedback trajectory on a fresh eligible
 boundary; simply relaxing E61's allowlist would be post-outcome repair.
+
+## E62–E63: authority locality and relationship topology are now separable
+
+E62 finds another-source identities in all sixteen Meridian sources, totaling
+66 directed lexical edges. This proves that lexical isolation is structurally
+incompatible with the world, while leaving the semantics of individual edges
+for review.
+
+E63 implements a zero-call historical-fixture contract that separately binds:
+
+```text
+mutable record namespace
+exact evidence source/version/span
+named relationship referents
+assertion attribution
+multi-source support set
+host-derived currentness
+```
+
+The E61 BRAMBLE relationship passes that mechanical contract while remaining
+BRAMBLE-owned. Absent-source slot mutation and Bluehaven's unsupported S07
+completion fail. Joint BRAMBLE+DRIFT synthesis passes only as separate derived
+task work. An older source-version claim remains in lineage but becomes
+inactive.
+
+The audit also preserves the semantic boundary. Reversing BRAMBLE's staleness
+predicate or Cedar's units/probability still passes provenance transport and
+fails semantic adjudication. Provenance is therefore a custody and review
+surface, not a truth engine.
+
+This makes a new whole-system route coherent without qualifying it. A fresh
+Stage 0 must compare direct exact task work with provenance-local source reports
+plus separately supported derived work, retain the entire effect/check/repair/
+readiness loop, and permit at most one expression gate before measurement. The
+plan is `NEXT_SYSTEM_INTERACTION_PROVENANCE_LOCAL_RELATIONAL_SCOUT.md`; no
+provider operation is selected or authorized.

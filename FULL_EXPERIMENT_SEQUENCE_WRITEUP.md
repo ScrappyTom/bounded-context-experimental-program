@@ -1,10 +1,10 @@
 # What we learned: the full bounded-context experimental sequence
 
-Date: 2026-08-24
+Date: 2026-08-25
 
-Status: evidence-bounded program narrative through E61; Meridian authentic
-pressure qualified, but its first source-local gate failed because lexical
-source isolation rejected grounded cross-source relationships
+Status: evidence-bounded program narrative through E63; E61 remains closed,
+while an offline provenance audit now separates mutation authority, evidence,
+relation referents, derived support, and currentness
 
 ## What we learned
 
@@ -1602,3 +1602,30 @@ structurally unable to preserve the task's named relation graph. The audit made
 no model call and does not turn the safe output into an accepted one. It
 instead adds a prospective apparatus requirement: future scope controls must
 distinguish claim ownership from relation-object reference before inference.
+
+## 55. Provenance locality can preserve relations without becoming truth
+
+E63 tests ten exact historical fixtures from Meridian, E61, Bluehaven, and
+Cedar. The contract admits an E61-style BRAMBLE claim naming DRIFT, EMBER,
+HEATH, and NORTH because exact BRAMBLE evidence contains those referents and
+only the BRAMBLE slot is mutable. It still rejects BRAMBLE evidence used to
+mutate DRIFT and Bluehaven S07 state produced without S07 evidence.
+
+The audit also finds the boundary of pure source slots. A claim genuinely
+supported by BRAMBLE and DRIFT can be represented only as separately identified
+derived task work with both exact bases; placing it under BRAMBLE is rejected.
+A source-version successor makes an older claim inactive while retaining its
+historical lineage.
+
+Most importantly, provenance does not validate meaning. A reversed Meridian
+sample-staleness predicate and Cedar's conversion of hours/probability into
+km/h/humidity both pass mechanical provenance and remain semantic failures.
+The apparatus can establish who may write where, which exact bytes support
+review, and whether a claim is current. It cannot establish that the model
+preserved the predicate, units, authority, or qualification.
+
+This zero-call audit does not reopen E61 or demonstrate semantic persistence.
+It qualifies a middle design between complete global semantic authority and
+lexically isolated source slots. The next prospective route is a fresh
+whole-system W0/L1 scout with at most one carrier-expression gate, not another
+E61 transport repair.

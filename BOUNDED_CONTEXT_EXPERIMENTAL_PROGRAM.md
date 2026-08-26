@@ -1,6 +1,6 @@
 # Experimental program for bounded context management
 
-Date: 2026-08-24
+Date: 2026-08-25
 
 Status: living research program; candidate mechanisms are not architecture
 
@@ -1448,3 +1448,27 @@ This work is governed by `E58_MERIDIAN_SOURCE_LOCAL_DELTA_STAGE0.md`,
 `E61_MERIDIAN_SOURCE_DELTA_QUALIFICATION_RESULT.md`, and
 `NEXT_SYSTEM_INTERACTION_EVIDENCE_DELTA_SCOUT.md`. The current L1 route and
 W0/L1 continuation are closed. No live successor is selected.
+
+## Current program phase after E63
+
+The no-GPU historical-fixture audit at
+`qwen38-artifact-coupled-integration-scout-v0@5fc04dd20ca9b4c9ea5b433c58f8d4249239ea6c`
+qualifies a minimal provenance distinction without regrading E61. Source-slot
+mutation, exact evidence basis, relationship referents, assertion attribution,
+multi-source derived support, and version currentness are mechanically
+separate.
+
+This middle design can carry E61's BRAMBLE-owned relationship while forbidding
+BRAMBLE evidence from creating DRIFT state and while still rejecting
+Bluehaven's unseen S07 completion. Genuine BRAMBLE+DRIFT synthesis belongs in
+separately supported task work rather than one source slot. Mechanically valid
+Meridian and Cedar semantic reversals remain failures, so provenance is not a
+truth checker.
+
+The prospective next unit is a fresh complete W0 direct-work versus L1
+provenance-local-relational system under
+`NEXT_SYSTEM_INTERACTION_PROVENANCE_LOCAL_RELATIONAL_SCOUT.md`. It retains
+authentic ingress/pressure, exact artifact effects, current checks, repair,
+recheck, closure, external readiness, and full cost accounting. At most one
+live carrier-expression gate may precede measurement. No fresh Stage 0 or GPU
+operation is yet selected.

@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 49 experiment commit bindings were resolved through the named local
+The current 50 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -73,6 +73,23 @@ relationship objects are exactly E61's four rejected IDs. This offline audit
 does not regrade the failed gate; it requires any future locality mechanism to
 separate claim ownership from relationship-object reference. See
 [E62](E62_MERIDIAN_SOURCE_RELATION_TOPOLOGY_AUDIT.md).
+
+E63 then audits a minimal provenance-local relational contract against ten
+exact historical fixtures from Meridian, E61, Bluehaven, and Cedar. It admits
+the BRAMBLE-owned relationship without granting authority over its four
+referents, blocks absent-slot mutation and unseen Bluehaven completion,
+requires true multi-source synthesis to live in separately supported task
+work, and deactivates stale source-version claims without erasing lineage. Two
+provenance-valid predicate/unit reversals remain semantic failures, so the
+contract cannot be mistaken for a truth checker. This is a zero-call apparatus
+result, not live expression or utility. See
+[E63](E63_PROVENANCE_SEMANTICS_AUDIT.md).
+
+The exact E61 route stays closed. The next prospective program route is a
+fresh whole-system comparison of direct exact work against
+[provenance-local relations plus derived task work](NEXT_SYSTEM_INTERACTION_PROVENANCE_LOCAL_RELATIONAL_SCOUT.md).
+No fresh task, expression gate, runner, or GPU call is yet selected or
+authorized.
 
 The first breadth tranche is complete. Its 39 calls used one attempt each and
 zero retries. No prompt exceeded 7,110 tokens against the 20,992-token prompt

@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-25",
-  "status": "meridian_source_local_route_closed_transport_safety_policy_conflicted_with_grounded_relationship_reference",
+  "status": "provenance_local_relational_apparatus_audited_fresh_whole_system_stage0_unselected",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "authentic_prompt_pressure",
@@ -396,9 +396,27 @@
       "qualification_regraded": false,
       "system_finding": "lexical_source_locality_is_structurally_incompatible_with_the_meridian_relation_graph"
     },
+    "provenance_semantics_audit": {
+      "result_commit": "5fc04dd20ca9b4c9ea5b433c58f8d4249239ea6c",
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "historical_fixture_cases": 10,
+      "passed": true,
+      "e61_grounded_relationship_mechanically_representable": true,
+      "absent_source_slot_mutation_blocked": true,
+      "bluehaven_unsupported_completion_blocked": true,
+      "derived_multi_source_claim_requires_separate_work_record": true,
+      "prior_version_claim_retained_but_inactive": true,
+      "mechanically_valid_semantic_failure_cases": [
+        "P05_MERIDIAN_RELATION_PREDICATE_REVERSAL",
+        "P10_CEDAR_PROVENANCE_VALID_SEMANTIC_REVERSAL"
+      ],
+      "live_expression_qualified": false,
+      "whole_system_utility_measured": false
+    },
     "next_live_operation": {
       "status": "none_selected",
-      "reason": "current_L1_route_closed_and_same_boundary_repair_forbidden",
+      "reason": "fresh_provenance_local_relational_stage0_not_selected_or_frozen",
       "authorized": false
     },
     "primary_outcomes": [
@@ -429,6 +447,21 @@
     ],
     "gpu_authorized": false,
     "governing_document": "NEXT_SYSTEM_INTERACTION_EVIDENCE_DELTA_SCOUT.md"
+  },
+  "candidate_successor_interaction": {
+    "status": "prospective_offline_stage0_unselected",
+    "question": "Under authentic pressure, can bounded provenance-local source reports plus separately supported derived task work improve source-correct artifact construction, current verification, repair, and closure over direct actor-authored exact work?",
+    "configurations": [
+      "W0_DIRECT_EXACT_WORK",
+      "L1_PROVENANCE_LOCAL_RELATIONAL"
+    ],
+    "requires_fresh_task_and_untouched_trajectory": true,
+    "maximum_expression_qualification_calls_before_measurement": 1,
+    "must_remain_whole_system_interaction": true,
+    "stage0_selected": false,
+    "runner_frozen": false,
+    "gpu_authorized": false,
+    "governing_document": "NEXT_SYSTEM_INTERACTION_PROVENANCE_LOCAL_RELATIONAL_SCOUT.md"
   },
   "common_live_functions": [
     "exact_external_custody",
