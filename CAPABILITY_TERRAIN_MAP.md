@@ -188,3 +188,21 @@ The completed first portfolio is preserved in
 `DISCOVERY_TRANCHE_RESULT.md`. Keep this index lightweight. If it begins
 dictating permanent state objects, role names, or a universal ontology, it has
 exceeded its purpose.
+
+## E65 terrain update
+
+Aster adds an authentic interaction boundary rather than a new isolated
+capability row. One ordinary actor trajectory co-activated:
+
+- broad actor-selected exact evidence ingress;
+- result-delivery pressure;
+- exact source-body externalization under common first-fit relief; and
+- a still-unexercised choice between identity-only recovery and bounded
+  provenance-local semantic persistence.
+
+The common system retained exact state and chronology custody but produced no
+task artifact before pressure. The next one-call gate is therefore an apparatus
+prerequisite inside this interaction sequence, not a carrier-format branch.
+The terrain remains unmeasured for cumulative relationship use, exact task-work
+capitalization, current feedback, repair, and closure. Those capabilities must
+be observed together in the later whole W0/L1 trajectories if the gate passes.

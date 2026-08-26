@@ -765,6 +765,28 @@ expression gate; only a passed gate may lead to the complete W0/L1 systems
 comparison. This keeps activation, semantic persistence, exact work, feedback,
 and readiness inside one interaction sequence.
 
+### E65 activates the interaction and fixes its first semantic input
+
+The common Aster actor reached authentic pressure after six valid two-source
+reads. Ten complete sources had crossed decision boundaries; pending
+KELP+LATTICE made ordinary delivery 795 tokens infeasible. Frozen first-fit
+relief externalizes only the prior ANCHOR+BRIDGE result and restores 2,041
+tokens of prompt headroom.
+
+This event is the interaction trigger E64 sought. It is not merely another
+first-fit replication: the actor-selected source path and common lifecycle now
+determine when L1 may first spend semantic-maintenance resources and which exact
+evidence it may transform. W0 and L1 still share the identical history up to
+that event.
+
+The next gate is one frozen ANCHOR/BRIDGE expression call. It tests whether the
+model can produce a bounded, provenance-local, relation-preserving carrier that
+passes both mechanical admission and the precommitted material-safety review.
+It is not a new isolated carrier tournament: there is one boundary-native case,
+no retry or same-boundary format ladder, and admission alone cannot support an
+architecture claim. Only a passing gate may make the later full W0/L1 feedback
+trajectories eligible; those trajectories remain separately unauthorized.
+
 ## What will not be optimized in this phase
 
 Absent a validity blocker or independently recurring boundary, do not build or

@@ -1,6 +1,6 @@
 # Evidence ledger
 
-Date: 2026-08-25
+Date: 2026-08-26
 
 This ledger separates mechanical facts, local results, candidate hypotheses,
 and untested mechanisms. Links identify immutable result commits; the linked
@@ -78,6 +78,7 @@ means literal local behavior with a material apparatus qualification.
 | E62 | AF | Meridian exact source-relation topology | All 16 exact sources contain at least one other source identity across 66 directed edges; BRAMBLE's exact relationship-object set equals E61's rejected-ID set. | Post-run offline audit only. It does not regrade E61 or establish a useful successor interface. | [topology audit](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7bd4c1049b7c1cc8b062201835e2ca4bfc198d10) |
 | E63 | AF | provenance-local relational semantics | Ten exact historical fixtures qualify a mechanical distinction among source-slot mutation, exact evidence basis, relation referents, derived support sets, and version currentness. E61-style grounded relations become representable while absent-slot mutation and Bluehaven completion remain blocked. | Zero-call post-outcome apparatus audit. Two provenance-valid semantic reversals remain failures; model expression, persistence, economics, and whole-system utility are untested. | [provenance audit](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/5fc04dd20ca9b4c9ea5b433c58f8d4249239ea6c) |
 | E64 | AF/NQ | Aster provenance-local relational whole-system Stage 0 | A fresh opaque-ID many-to-many task, provenance-local relation carrier, bounded replace-in-place register, identical W0/L1 task-native work and feedback surfaces, admissible single/pair ingress, realizable pressure geometry, and complete provider-free effect/check/repair/recheck/closure loops pass 113 tests. | Zero provider calls. Authentic pressure, live expression, persistence, actor uptake, artifact utility, readiness, and economics remain unmeasured. Only a common treatment-free pressure screen is eligible for separate authorization. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/f91fdaff28b2c7ad760afa90877b284e26529814) |
+| E65 | LR/AF/NQ | Aster authentic common pressure and first relational-persistence opportunity | Six valid actor-selected two-source reads delivered ten sources across ten domains before pending KELP+LATTICE produced a 795-token overflow. First-fit externalizes only exact `RESULT-001` ANCHOR+BRIDGE and restores 2,041 tokens of headroom. | Common pre-treatment boundary only. No semantic operation, mutation, check, or submission ran. One exact expression case is frozen but unauthorized; persistence and W0/L1 utility remain unmeasured. | [screen and freeze](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/8aa9afbec32b5669755760f2d4d7b5c992150e05) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
@@ -1040,3 +1041,32 @@ reachability qualify offline. The common actor has not yet produced authentic
 pressure, and Qwen has not emitted or consumed this carrier. Only a separately
 authorized treatment-free 28-call pressure screen is eligible; expression and
 measured W0/L1 utility remain unauthorized.
+
+## E65 — Aster authentic common pressure and relational-gate freeze
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@8aa9afbec32b5669755760f2d4d7b5c992150e05`
+
+Six valid full two-source reads delivered ANCHOR through JUNIPER across ten
+evidence domains. Pending `RESULT-006` contains KELP+LATTICE. Adding it to
+ordinary chronology measured 21,787 prompt tokens, 795 beyond the 20,992-token
+allowance. Protected-pending positive-savings first-fit relief selects only
+`RESULT-001` and produces an 18,951-token packet with 2,041 tokens of headroom.
+
+The screen contained no semantic treatment. The candidate remained unchanged;
+there was no check or submission. All six actions parsed, 66,362 serialized
+tokens were consumed, and the exact audit, seal, authorization, and runtime
+release passed. The actor-selected sequence differed from the E64 fixed path
+but reached the same functional source-externalization event.
+
+The first possible L1 operation is now mechanically fixed to the exact
+ANCHOR/BRIDGE body that first-fit externalizes. A one-call expression gate over
+that body, an empty prior register, and the exact task has been rendered at
+4,428 prompt tokens and frozen under separate mechanical and material-safety
+criteria. It has made zero calls and authorizes no W0/L1 continuation.
+
+Disposition: **LR/AF/NQ** — authentic common pressure, feasible source-body
+relief, and the first endogenous relational-persistence opportunity qualify.
+Live carrier expression, semantic fidelity, substitution/complementarity,
+actor utility, artifact quality, readiness, and information-economic value
+remain unmeasured.

@@ -1486,3 +1486,31 @@ pressure; qualification requires that actual first-fit relief externalize
 source evidence. At most one separately frozen live carrier-expression gate
 may then precede measurement. No expression or W0/L1 continuation is yet
 authorized.
+
+## Current program phase after E65
+
+Aster has now reached the prospectively required authentic interaction
+boundary. Six valid actor-selected two-source reads delivered ten complete
+sources across ten evidence domains. Pending KELP+LATTICE produced a 21,787-
+token ordinary packet, 795 over the prompt allowance. Frozen first-fit relief
+externalizes only `RESULT-001` (ANCHOR + BRIDGE) and restores feasibility at
+18,951 tokens with 2,041 tokens of headroom.
+
+The screen used no semantic provider and left the candidate unchanged. Its
+scientific role is to fix the common pre-treatment history and the first L1
+investment event through ordinary actor demand and common lifecycle mechanics.
+It is not a negative artifact result and does not establish semantic
+persistence.
+
+The exact handoff and one boundary-native expression case are frozen at
+`qwen38-artifact-coupled-integration-scout-v0@8aa9afbec32b5669755760f2d4d7b5c992150e05`.
+That case uses only exact `RESULT-001`, ANCHOR/BRIDGE versions, the task for
+relevance, and an empty register. Its 4,428-token prompt and 1,800-token
+completion allowance fit comfortably. Mechanical carrier admission and frozen
+material-safety review are separate requirements.
+
+The next eligible operation is only that separately authorized one-call
+expression qualification. Passing it would not promote a component or prove
+utility. Only a later, separately frozen and authorized complete W0/L1
+continuation can test persistence, induced recovery, task-native artifact
+quality, feedback currency, repair, readiness, closure, and total economics.

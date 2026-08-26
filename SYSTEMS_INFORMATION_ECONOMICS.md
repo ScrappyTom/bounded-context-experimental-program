@@ -1145,3 +1145,36 @@ The treatment-free screen therefore precedes expression. If no qualifying
 source externalization occurs, the experiment reports nonactivation rather
 than manufacturing a semantic investment. If one occurs, carrier admission is
 still only a gate; return is measured through the complete W0/L1 trajectory.
+
+## E65: the first Aster investment opportunity is endogenous
+
+The live Aster screen converts E64's opportunity geometry into an actual
+state-contingent investment event. Ordinary actor demand selected six source
+pairs. The sixth pending result pushed the prompt to 21,787 tokens. Common
+first-fit relief externalizes `RESULT-001` and yields 18,951 tokens.
+
+The important economic fact is not another proof that 2,836 prompt tokens can
+be removed. It is that exact lifecycle behavior now determines both the timing
+and evidence basis of the optional semantic operation:
+
+```text
+common actor demand
+→ common pressure
+→ common source-body externalization
+→ L1 may pay to preserve meaning; W0 does not
+```
+
+This prevents the investigator from selecting a source pair after seeing which
+summary appears useful. It also keeps the real return channels open. A
+relational record may substitute for later exact recovery, complement other
+sources and induce more reads, interfere with exact task work, remain unused,
+or preserve an error that enters the candidate. The one-call expression gate
+can price production and carrier cost and assess material safety, but it cannot
+measure return.
+
+The observed common prefix itself cost 66,362 serialized tokens for six short
+action decisions and produced no task work. That cost is shared history, not an
+L1 charge. If the later comparison runs, marginal L1 accounting begins at the
+separately charged maintenance call and must include resident register cost,
+cache effects, induced recovery, candidate changes, verification, repair,
+closure, and external readiness.

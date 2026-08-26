@@ -1,10 +1,11 @@
 # Next system interaction — provenance-local relations × derived task work
 
-Date: 2026-08-25
+Date: 2026-08-26
 
-Status: E64 fresh Aster Stage 0 implemented and offline qualified at
-`f91fdaff28b2c7ad760afa90877b284e26529814`; authentic pressure remains
-unobserved; no expression call, measured continuation, or GPU run authorized
+Status: E65 authentic Aster pressure qualified and one boundary-native
+expression case frozen at
+`8aa9afbec32b5669755760f2d4d7b5c992150e05`; no expression call or measured
+continuation is authorized
 
 ## Program question
 
@@ -213,11 +214,24 @@ W0/L1 loops exercise construction, effect uptake, defect detection, repair,
 stale-check recognition, current recheck, closure proposal, and external
 readiness while preserving parity.
 
-These are reachability and apparatus results only. The next eligible live
-operation is a separately authorized treatment-free 28-call pressure screen.
-It permits candidate work and checks before pressure and qualifies only if
-realized first-fit relief externalizes prior source evidence. See
-`E64_ASTER_PROVENANCE_RELATIONAL_STAGE0.md`.
+These are reachability and apparatus results only. E65 now supplies authentic
+activation: six valid actor-selected pair reads produced a 21,787-token pending
+packet, 795 over the allowance, and first-fit externalized only exact
+`RESULT-001` (ANCHOR + BRIDGE) to restore feasibility at 18,951 tokens. No
+treatment, candidate mutation, check, or submission occurred. See
+`E64_ASTER_PROVENANCE_RELATIONAL_STAGE0.md` and
+`E65_ASTER_PRESSURE_SCREEN_RESULT.md`.
 
-No expression gate, measured continuation, or GPU call is authorized by this
-document.
+## E65 exact next gate
+
+The lifecycle fixes one and only one expression case. The maintenance input is
+exact `RESULT-001`, the exact ANCHOR/BRIDGE versions, the authoritative task for
+relevance only, and an empty prior register. The prompt is 4,428 tokens; output
+is limited to 1,500 total and 650 per owner source, with a 1,800-token provider
+ceiling. The safety contract was frozen before output and separately checks
+authority, units, timing, relationship predicates, currentness, and readiness.
+
+The one-call gate remains commit-bound and separately unauthorized. Passing it
+would establish expression and material safety only. The W0/L1 continuation
+still requires a new frozen runner, exact commit, and authorization and must be
+scored as a whole evidence-to-work-to-feedback-to-closure trajectory.

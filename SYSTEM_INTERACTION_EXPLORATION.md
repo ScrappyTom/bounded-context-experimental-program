@@ -1,10 +1,11 @@
 # System-interaction exploration
 
-Date: 2026-08-25
+Date: 2026-08-26
 
-Status: governing direction; E64 instantiates the E63 distinction in a fresh
-Aster whole-system Stage 0; the exact E61 route remains closed and authentic
-pressure, live expression, persistence, and utility remain unmeasured
+Status: governing direction; E65 establishes the authentic common Aster
+pressure fork and freezes one boundary-native expression case; the exact E61
+route remains closed and live expression, persistence, and utility remain
+unmeasured
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -826,3 +827,32 @@ source evidence and leave both future configurations viable. No semantic
 provider is present in the screen. A qualified fork may support one expression
 gate, after which the complete W0/L1 trajectories—not claim admission alone—
 remain the unit of interpretation.
+
+## E65: actor-selected pressure creates the first semantic investment event
+
+The treatment-free actor read six complete source pairs. After the first five
+results had crossed model boundaries, the KELP/LATTICE result became pending.
+The exact ordinary packet was 21,787 prompt tokens, 795 over the allowance.
+Frozen first-fit relief selects only `RESULT-001` (ANCHOR + BRIDGE), yielding an
+18,951-token packet with 2,041 tokens of headroom.
+
+This is an interaction boundary because three system functions now meet:
+
+```text
+actor-selected evidence ingress
++ exact lifecycle pressure and source-body externalization
++ a policy-dependent choice about whether source meaning persists
+```
+
+No semantic call occurred in the screen, so the unchanged candidate is not a
+treatment result. E65 fixes the common pre-treatment history and the first L1
+input without an investigator-selected relevance judgment.
+
+One expression gate is frozen over the exact externalized ANCHOR/BRIDGE result
+and empty register. The 4,428-token request has 18,860 tokens of completion
+headroom under the context lock. Mechanical provenance and prospectively
+frozen semantic safety are both required. A pass would qualify this carrier at
+this event, not persistence or utility. The full comparison must still follow
+the register and exact evidence through actor demand, task-native work,
+candidate effects, current checks, repair/recheck, closure, cost, and external
+readiness. It has not been authorized.

@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 56 successor stages through E64 Aster provenance-local relational Stage 0",
+  "scope": "parent bank plus 57 successor stages through E65 Aster authentic provenance-relational pressure",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 56,
-    "follow_on_model_calls": 567,
-    "follow_on_serialized_tokens": 7194158,
-    "unique_cited_experiment_commits": 51
+    "successor_stages": 57,
+    "follow_on_model_calls": 573,
+    "follow_on_serialized_tokens": 7260520,
+    "unique_cited_experiment_commits": 52
   },
   "stages": [
     {
@@ -580,6 +580,16 @@
       "serialized_tokens": 0,
       "included_in_follow_on_totals": true,
       "primary_disposition": "fresh opaque-ID many-to-many task, provenance-local relational carrier, bounded replace-in-place register, identical W0/L1 task-native work and feedback, admissible ingress, realizable pressure geometry, complete provider-free effect-check-repair-recheck-closure loops, and 113 tests qualify offline; authentic pressure, live expression, persistence, utility, and all GPU behavior remain unmeasured"
+    },
+    {
+      "stage_id": "S57",
+      "name": "Aster authentic provenance-relational common pressure screen",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "8aa9afbec32b5669755760f2d4d7b5c992150e05", "count_as_experiment_commit": true}],
+      "model_calls": 6,
+      "serialized_tokens": 66362,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "six valid actor-selected two-source reads delivered ten sources before pending KELP plus LATTICE produced a 795-token overflow; first-fit externalizes only RESULT-001 ANCHOR plus BRIDGE and restores 2041 tokens of headroom, qualifying the exact common fork and first endogenous relational-expression opportunity while leaving carrier expression and W0/L1 utility unmeasured"
     }
   ]
 }

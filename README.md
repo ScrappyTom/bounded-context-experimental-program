@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 51 experiment commit bindings were resolved through the named local
+The current 52 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -96,13 +96,23 @@ no mutation authority, and true synthesis remains exact cited candidate work.
 See [E64](E64_ASTER_PROVENANCE_RELATIONAL_STAGE0.md) and the updated
 [interaction plan](NEXT_SYSTEM_INTERACTION_PROVENANCE_LOCAL_RELATIONAL_SCOUT.md).
 
-A provider-free legal path reaches an 881-token exact result-delivery deficit;
-one first-fit source externalization restores feasibility, and the first
-553-token semantic register then fits. Complete provider-free W0/L1 loops and
-113 standalone tests pass. These facts qualify geometry and reachability, not
-authentic pressure or utility. The next eligible operation is only a
-separately authorized treatment-free 28-call pressure screen; no expression or
-measured W0/L1 continuation is authorized.
+A provider-free legal path reached an 881-token exact result-delivery deficit;
+one first-fit source externalization restored feasibility, and the first
+553-token semantic register fit. Complete provider-free W0/L1 loops and 113
+standalone tests passed. E65 then supplied the missing behavior: six valid
+actor-selected full-pair reads produced a 21,787-token pending packet, 795 over
+the allowance. First-fit externalizes only exact `RESULT-001` (ANCHOR + BRIDGE)
+and restores feasibility at 18,951 tokens. See
+[E65](E65_ASTER_PRESSURE_SCREEN_RESULT.md).
+
+The six-call screen consumed 66,362 serialized tokens, changed no candidate,
+ran no treatment, and passed independent reexecution, token, relief, seal, and
+resource-release audit. It establishes the authentic common fork—not semantic
+utility. The first boundary-native expression case is now frozen at
+[`8aa9afb`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/8aa9afbec32b5669755760f2d4d7b5c992150e05):
+one 4,428-token ANCHOR/BRIDGE call, separately authorized, with no measured
+continuation included. Live expression, persistence, artifact benefit, and
+W0/L1 economics remain unmeasured.
 
 The first breadth tranche is complete. Its 39 calls used one attempt each and
 zero retries. No prompt exceeded 7,110 tokens against the 20,992-token prompt

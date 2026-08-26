@@ -1,9 +1,10 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
-Date: 2026-08-25
-Status: current program synthesis; E64 instantiates the E63 distinction in a
-fresh Aster whole-system Stage 0 while E61 remains closed; authentic pressure,
-live expression, persistence, and utility remain untested
+Date: 2026-08-26
+Status: current program synthesis; E65 establishes the authentic common Aster
+pressure fork and freezes one boundary-native expression gate while E61
+remains closed; live relational expression, persistence, and utility remain
+untested
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -813,3 +814,33 @@ permits candidate mutations and checks before pressure and qualifies only when
 realized first-fit relief externalizes a prior source observation. Only then
 may one boundary-native expression case be frozen. The W0/L1 continuation
 remains separately unauthorized.
+
+## E65 turns offline opportunity into an endogenous interaction event
+
+The authorized Aster screen reached pressure after six valid actor-selected
+two-source reads. Ten complete sources had crossed model boundaries and the
+pending KELP/LATTICE result added 128 novel lines. Ordinary delivery measured
+21,787 prompt tokens against the 20,992-token allowance. Frozen first-fit relief
+externalizes only `RESULT-001` (ANCHOR + BRIDGE) and yields 18,951 tokens, so the
+pending result fits with 2,041 tokens of headroom.
+
+This is stronger than E64's fixed-path opportunity geometry and narrower than a
+semantic result. Candidate work and checks were available throughout the
+screen, but the actor chose acquisition. No L1 operation ran, so the unchanged
+candidate cannot count against the treatment. The screen establishes a common,
+actor-created pre-treatment fork and determines the first possible semantic
+investment through the lifecycle rather than investigator relevance judgment.
+
+The standalone result and independent audit are committed at
+`qwen38-artifact-coupled-integration-scout-v0@8aa9afbec32b5669755760f2d4d7b5c992150e05`.
+Six calls consumed 66,362 serialized tokens; all actions were admitted, exact
+reexecution and token/relief reconstruction passed, the tree seal passed, and
+the GPU/runtime was released. The repository now passes 116 tests.
+
+One boundary-native expression case is frozen offline over the exact
+`RESULT-001` ANCHOR/BRIDGE bytes and versions. Its prompt is 4,428 tokens with a
+1,800-token completion allowance. The gate has made zero calls and authorizes
+no continuation. If separately authorized, it can establish only carrier
+expression and frozen material safety. Persistence, actor uptake, artifact
+quality, feedback, closure, induced recovery demand, and economics remain the
+whole-system question and may not be inferred from admission alone.

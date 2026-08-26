@@ -1,11 +1,11 @@
 {
-  "aggregate_sha256": "8b86cdb117832e1d0fe3410db5844d484179fc09ccbe9c95a7d615b4fe073997",
+  "aggregate_sha256": "d814039104476a07fe6da4a7341d785b113e9f6d356ae93cca7fb7068d45634a",
   "failures": [],
-  "follow_on_model_calls": 567,
-  "follow_on_serialized_tokens": 7194158,
+  "follow_on_model_calls": 573,
+  "follow_on_serialized_tokens": 7260520,
   "parent_exact_replayed_requests": 42,
   "passed": true,
   "schema_version": "program-stage-aggregate-receipt-v1",
-  "successor_stages": 56,
-  "unique_cited_experiment_commits": 51
+  "successor_stages": 57,
+  "unique_cited_experiment_commits": 52
 }

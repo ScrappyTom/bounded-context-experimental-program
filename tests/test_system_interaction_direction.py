@@ -15,7 +15,7 @@ class SystemInteractionDirectionTests(unittest.TestCase):
 
     def test_unit_is_whole_configuration_not_component(self):
         self.assertEqual(
-            "e64_aster_stage0_qualified_authentic_pressure_unmeasured",
+            "e65_aster_authentic_pressure_qualified_expression_gate_frozen",
             self.contract["status"],
         )
         self.assertEqual("whole_configuration_trajectory", self.contract["unit_of_analysis"])
@@ -246,15 +246,19 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         self.assertFalse(selected["gpu_authorized"])
         successor = self.contract["candidate_successor_interaction"]
         self.assertEqual(
-            "aster_offline_stage0_qualified_common_pressure_pending",
+            "aster_authentic_pressure_qualified_expression_gate_frozen_pending_authorization",
             successor["status"],
         )
         self.assertEqual(1, successor["maximum_expression_qualification_calls_before_measurement"])
         self.assertTrue(successor["stage0_selected"])
         self.assertTrue(successor["stage0_offline_qualified"])
-        self.assertEqual(0, successor["provider_calls"])
+        self.assertEqual(6, successor["provider_calls"])
         self.assertEqual(
             "f91fdaff28b2c7ad760afa90877b284e26529814",
+            successor["stage0_commit"],
+        )
+        self.assertEqual(
+            "8aa9afbec32b5669755760f2d4d7b5c992150e05",
             successor["standalone_commit"],
         )
         self.assertEqual(
@@ -263,8 +267,28 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         )
         self.assertEqual(28, successor["maximum_pressure_screen_actor_calls"])
         self.assertFalse(successor["pressure_screen_treatment_present"])
-        self.assertFalse(successor["pressure_screen_authorized"])
-        self.assertFalse(successor["authentic_pressure_qualified"])
+        self.assertTrue(successor["pressure_screen_authorized"])
+        self.assertTrue(successor["pressure_screen_completed"])
+        self.assertTrue(successor["authentic_pressure_qualified"])
+        pressure = successor["pressure_screen_result"]
+        self.assertEqual(6, pressure["actor_calls"])
+        self.assertEqual(795, pressure["overflow_tokens"])
+        self.assertEqual(["RESULT-001"], pressure["externalized_source_result_ids"])
+        self.assertEqual(2041, pressure["remaining_prompt_headroom_tokens"])
+        gate = successor["expression_gate_freeze"]
+        self.assertEqual(
+            "8aa9afbec32b5669755760f2d4d7b5c992150e05",
+            gate["freeze_commit"],
+        )
+        self.assertEqual(["ANCHOR", "BRIDGE"], gate["source_ids"])
+        self.assertEqual(4428, gate["prompt_tokens"])
+        self.assertEqual(1, gate["maximum_model_calls"])
+        self.assertFalse(gate["gpu_authorized"])
+        self.assertFalse(gate["measured_continuation_authorized"])
+        next_live = successor["next_live_operation"]
+        self.assertEqual(1, next_live["maximum_model_calls"])
+        self.assertFalse(next_live["authorized"])
+        self.assertFalse(next_live["measured_continuation_included"])
         self.assertFalse(successor["live_expression_qualified"])
         self.assertFalse(successor["measured_utility_authorized"])
         self.assertTrue(successor["runner_frozen"])
@@ -274,7 +298,7 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         plan_text = plan.read_text(encoding="utf-8")
         self.assertIn("complete operating configuration", plan_text)
         self.assertIn("One expression gate maximum", plan_text)
-        self.assertIn("The next eligible live", plan_text)
+        self.assertIn("The one-call gate remains commit-bound", plan_text)
         self.assertEqual("authentic_prompt_pressure", self.contract["required_activation"])
 
     def test_feedback_loop_remains_live(self):

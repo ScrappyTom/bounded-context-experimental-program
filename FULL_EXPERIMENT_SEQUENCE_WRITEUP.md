@@ -1675,3 +1675,37 @@ If that happens, at most one boundary-native expression gate may precede the
 complete W0/L1 comparison. Carrier admission remains a prerequisite; artifact
 quality, current feedback, readiness, cost, and induced demand remain the
 system outcomes.
+
+## 57. Aster reaches the first endogenous relational-persistence boundary
+
+The treatment-free Aster actor made six valid full-pair reads: ANCHOR+BRIDGE,
+CIRRUS+DUSK, EMBER+FORGE, GROVE+HARBOR, IRIS+JUNIPER, and KELP+LATTICE. The
+first five results crossed later model decisions. The sixth became pending
+after ten complete sources across ten evidence domains had been delivered.
+
+The exact prospective packet measured 21,787 prompt tokens against 20,992
+allowed. Frozen first-fit relief externalizes only delivered `RESULT-001`,
+reducing the same packet to 18,951 and preserving 2,041 prompt tokens after the
+pending observation is admitted. This actor-selected path differs slightly
+from E64's fixed offline example, so the event is authentic activation rather
+than replay of an investigator-authored acquisition schedule.
+
+No treatment ran. The candidate remained the initial stub and no check or
+submission occurred. Thus E65 does not show that semantic persistence helps or
+hurts construction. It establishes the exact common history from which that
+interaction can begin and makes the first L1 input endogenous: ANCHOR+BRIDGE
+leave exact residency because the common positive-savings lifecycle selects
+them, not because an investigator chooses them as a favorable digest unit.
+
+Six calls used 66,362 serialized tokens with no rejection or retry. Independent
+reexecution, prompt recount, result-ledger and candidate reconstruction,
+first-fit replay, seal, authorization, and resource-release checks pass.
+
+The successor is intentionally narrow. One frozen expression case supplies
+the exact externalized result, exact versions, authoritative task for relevance
+only, and an empty register. It has a 4,428-token prompt and 1,800-token
+completion allowance. A pass would establish bounded provenance-local
+relational expression and material safety at this boundary only. The actual
+research unit remains the later complete W0/L1 trajectory through induced
+demand, exact work, effects, current verification, repair, closure, cost, and
+independent readiness. That continuation remains unauthorized.
