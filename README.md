@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 47 experiment commit bindings were resolved through the named local
+The current 49 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -52,20 +52,27 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
-The freshest route is Meridian E59–E60. The ordinary six-call screen realized
+The freshest result is Meridian E61. The ordinary six-call screen realized
 the exact Stage 0 pressure geometry: ten distributed sources were delivered,
 KNOLL+LOOM became pending, the ordinary packet exceeded the allowance by 2,636
 tokens, and externalizing only exact `RESULT-001` restored feasibility at
 20,774 tokens. The common W0/L1 fork is therefore authentic. See
 [E59](E59_MERIDIAN_PRESSURE_SCREEN_RESULT.md).
 
-The first actual L1 maintenance input is no longer hypothetical: first-fit
-externalizes `RESULT-001`, containing AXIOM and BRAMBLE. E60 freezes one
-boundary-native 4,234-token expression/safety case over only those exact bytes
-and an empty source register. It has made zero model calls. One separately
-authorized expression call is now the only eligible live operation; no W0/L1
-continuation is authorized. See
-[E60](E60_MERIDIAN_SOURCE_DELTA_QUALIFICATION_FREEZE.md).
+The first boundary-native L1 call then produced exact-version AXIOM/BRAMBLE
+blocks and passed frozen material-safety review, but failed transport because
+it repeated DRIFT, EMBER, HEATH, and NORTH relationships that occur literally
+inside BRAMBLE. The lexical validator conflated source-slot ownership with
+mention of a relationship object. Qualification failed, so the measured W0/L1
+continuation is closed. See
+[E61](E61_MERIDIAN_SOURCE_DELTA_QUALIFICATION_RESULT.md).
+
+E62 confirms the mismatch is structural: all 16 exact Meridian sources name at
+least one other source across 66 directed edges, and BRAMBLE's four exact
+relationship objects are exactly E61's four rejected IDs. This offline audit
+does not regrade the failed gate; it requires any future locality mechanism to
+separate claim ownership from relationship-object reference. See
+[E62](E62_MERIDIAN_SOURCE_RELATION_TOPOLOGY_AUDIT.md).
 
 The first breadth tranche is complete. Its 39 calls used one attempt each and
 zero retries. No prompt exceeded 7,110 tokens against the 20,992-token prompt
@@ -343,3 +350,11 @@ It binds exact AXIOM+BRAMBLE bytes and versions from `RESULT-001`, uses an empty
 prior register, and separates mechanical admission from a prospectively frozen
 material-safety review. All 90 offline tests pass. The one model call requires
 separate authorization; no measured W0/L1 continuation is authorized.
+
+That call is now complete as E61 at standalone commit
+[`ebd9d6e`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/ebd9d6ed773734258d6b75a460a467b11c88bc67).
+It used 4,234 prompt and 1,010 completion tokens. Execution/custody and
+material safety passed; transport and overall qualification failed. The
+current L1 route is closed without retry or same-boundary repair. A future
+design would need to distinguish exact claim provenance from lexical
+cross-source reference prospectively.

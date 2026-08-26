@@ -74,6 +74,8 @@ means literal local behavior with a material apparatus qualification.
 | E58 | AF/NQ | Meridian source-local-delta versus direct exact-work Stage 0 | A fresh opaque-ID many-to-many world, provenance-bound equal source-slot budgets, admissible ingress, realizable pressure, and provider-free complete W0/L1 loops passed 82 tests. | Offline apparatus and reachability only. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/467ccc0d032af217b969a31315ee41005dbe2167) |
 | E59 | LR/AF | Meridian authentic common pressure | Six valid two-source batches delivered ten sources across ten domains. Pending KNOLL+LOOM made the ordinary packet 23,628 tokens, 2,636 over allowance; externalizing only `RESULT-001` restored 20,774. | Common pre-treatment fork only. No semantic maintenance, candidate action, check, submission, or policy utility was measured. | [screen result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/74f6d45107ce726543344f9a46c3d077e06c60e6) |
 | E60 | AF/NQ | Meridian boundary-native source-local expression freeze | One exact case binds the first actual externalization (`RESULT-001`, AXIOM+BRAMBLE), an empty prior register, a 4,234-token prompt, exact source scope, and separate transport/material-safety gates. | Zero model calls. The one expression call and every W0/L1 continuation remain separately unauthorized. | [qualification freeze](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/1e0323945b1105aafba8c4b5fd0e4dc7f9f3180a) |
+| E61 | LR/AF/NQ | Meridian boundary-native source-local expression | The one normally stopped output emitted only exact-version AXIOM/BRAMBLE blocks and passed all frozen material-safety criteria, but transport rejected DRIFT, EMBER, HEATH, and NORTH mentions copied from BRAMBLE-owned relationships. | One expression call, no actor continuation. Qualification failed and the measured fork closed. This exposes source ownership versus lexical relationship reference; it does not establish L1 utility. | [qualification result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/ebd9d6ed773734258d6b75a460a467b11c88bc67) |
+| E62 | AF | Meridian exact source-relation topology | All 16 exact sources contain at least one other source identity across 66 directed edges; BRAMBLE's exact relationship-object set equals E61's rejected-ID set. | Post-run offline audit only. It does not regrade E61 or establish a useful successor interface. | [topology audit](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7bd4c1049b7c1cc8b062201835e2ca4bfc198d10) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
@@ -942,3 +944,43 @@ Disposition: **AF/NQ** — expression gate frozen, zero model calls. Passing
 would qualify transport and local material safety only; actor uptake, W0/L1
 utility, readiness, and economic value would remain unmeasured. The live call
 and all continuation require separate authorization.
+
+## E61 — Meridian source-local expression result
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@ebd9d6ed773734258d6b75a460a467b11c88bc67`
+
+The single call finished normally. Its 4,234-token prompt and 1,010-token
+completion produced exactly AXIOM and BRAMBLE blocks with correct versions,
+required headings, and 1,009 output tokens. No retry occurred; the run seal,
+usage, authorization, and runtime release audit passed.
+
+Frozen material review passed: the output retained authority separation,
+validated-control limits, handoff currentness, exact 0.25/0.50 EU/mL roles,
+0.31/0.34 observations, the open-investigation hold, 41 percent probability
+meaning, and candidate-bound sample staleness without readiness authority.
+
+Frozen transport failed on four `unobserved_source_reference` identities:
+DRIFT, EMBER, HEATH, and NORTH. All four occur literally in exact BRAMBLE as
+objects of BRAMBLE-owned governing relationships. The output created no slots
+for them. The validator therefore rejected grounded relationship content
+because it equated a referenced object with absent-source state ownership.
+
+Disposition: **LR/AF/NQ** — execution and material safety passed; transport and
+qualification failed. The measured W0/L1 continuation is ineligible. Future
+work must prospectively separate owner-source provenance from relationship-
+object reference; no same-boundary repair or new GPU call is selected.
+
+## E62 — Meridian source-relation topology audit
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@7bd4c1049b7c1cc8b062201835e2ca4bfc198d10`
+
+The case-sensitive exact-source audit found cross-source identities in 16/16
+Meridian sources, totaling 66 directed edges. BRAMBLE names exactly DRIFT,
+EMBER, HEATH, and NORTH—the same four IDs rejected in E61.
+
+Disposition: **AF** — the lexical admission rule was structurally incompatible
+with the task's named many-to-many relationships. This adds no behavior and
+does not change the failed qualification. A future interface must separately
+bind owner-source claims, relationship objects, and absent-source attribution.

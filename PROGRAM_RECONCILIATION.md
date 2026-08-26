@@ -1,10 +1,9 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-25
-Status: current program synthesis; E59 qualifies the authentic common Meridian
-pressure fork and E60 freezes its first boundary-native source-local expression
-gate; semantic expression and W0/L1 utility remain unmeasured and separately
-unauthorized
+Status: current program synthesis; E61 closes the current Meridian L1 route
+after materially safe output failed a lexical cross-source transport rule;
+whole-system W0/L1 utility remains unmeasured
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -691,3 +690,52 @@ zero model calls and authorizes no continuation. One commit-bound expression
 call is the only eligible live operation. Passing would qualify the interface,
 not the W0/L1 system; failing would close this exact source-local expression
 route at this boundary without automatic same-world repair.
+
+## E61 source locality collides with relationship preservation
+
+The one frozen call finished normally and within every token bound. It emitted
+only AXIOM and BRAMBLE source blocks with correct versions and required local
+fields. Direct exact review passed all eight frozen material-safety criteria:
+authority, units, thresholds, observations, probability meaning, hold logic,
+currentness, and readiness remained intact.
+
+Transport nevertheless failed. Inside the BRAMBLE block, the model preserved
+BRAMBLE's exact governing relationships to HEATH, DRIFT, EMBER, and NORTH. The
+validator rejected those four lexical identities because their source bodies
+were not inputs to the maintenance call. It did not distinguish creating
+absent-source state from naming an object in a current-source relationship.
+
+This is a system-design failure, not evidence that the semantic transform
+invented unseen source content. The strict rule was motivated by Bluehaven's
+unsupported global completion, but in Meridian's many-to-many world it makes
+grounded relational meaning unrepresentable. The relevant distinction is:
+
+```text
+claim/source-slot owner
+        versus
+object referenced by an owner-source relationship
+```
+
+The prospective qualification required transport plus material safety, so it
+fails and the measured W0/L1 continuation must not run. The output is not
+retried, repaired, or regraded, and the same boundary is not used to tune a
+new lexical allowlist.
+
+Any future source-local design must prospectively bind claims to an exact owner
+source while separately governing references to relationship objects. One
+mechanical candidate is to permit an object identity only when it occurs in
+the exact owner bytes, without permitting a block or attribution for that
+absent source. That is a new provenance interface requiring a fresh design and
+activation—not a continuation of E61. No new live operation is selected here.
+
+## E62 confirms the mismatch across the task topology
+
+The post-run exact audit scanned the frozen source catalog and all sixteen
+source bodies. Every source names at least one other source; the task contains
+66 directed source-reference edges. BRAMBLE's exact four references match the
+four IDs rejected by E61.
+
+Thus the failure was not confined to one generated phrase. The prospective
+locality rule would systematically suppress named relationships throughout the
+Meridian world. This offline fact strengthens the routing decision while
+adding no behavioral evidence and leaving E61's failed gate unchanged.

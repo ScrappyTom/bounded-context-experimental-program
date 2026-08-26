@@ -2,9 +2,9 @@
 
 Date: 2026-08-24
 
-Status: evidence-bounded program narrative through E60; Meridian authentic
-pressure qualified and its first boundary-native source-local expression gate
-is frozen but has made zero model calls
+Status: evidence-bounded program narrative through E61; Meridian authentic
+pressure qualified, but its first source-local gate failed because lexical
+source isolation rejected grounded cross-source relationships
 
 ## What we learned
 
@@ -1557,3 +1557,48 @@ passing one-call result would not count as semantic utility. It would merely
 allow the complete W0/L1 feedback trajectories to be frozen and separately
 authorized. A failure would close this exact local-expression route without
 same-boundary tuning. At the current freeze, no model call has occurred.
+
+## 53. Source ownership and relationship reference diverge
+
+The authorized E61 call completed normally and stayed within all frozen token
+bounds. It produced exactly the two intended source blocks with exact versions
+and no closure authority. Direct comparison with AXIOM and BRAMBLE found the
+important authority, threshold, observation, probability, hold, and
+currentness distinctions materially intact.
+
+The carrier still rejected the output. BRAMBLE names HEATH, DRIFT, EMBER, and
+NORTH in its governing relationships, and the generated BRAMBLE slot preserved
+those names. The validator's known-source scan treated every such mention as
+an attempt to write an absent source. It could prevent Bluehaven-style invented
+slots, but could not represent a grounded relation whose object was another
+source.
+
+The failure is therefore an interaction between safety policy and semantic
+topology:
+
+```text
+strict lexical source isolation
+        protects against unsupported source attribution
+        but
+many-to-many relationship preservation
+        requires naming related objects
+```
+
+The gate required both transport and safety, so the current L1 route fails and
+the whole-system continuation closes. This is not regraded because the content
+was safe, and the validator is not relaxed after observing the output. A future
+interface must prospectively distinguish exact owner-source provenance,
+relationship-object identity, and absent-source slot creation.
+
+## 54. The lexical-locality conflict spans the entire Meridian world
+
+The exact post-run topology audit found that all sixteen source bodies name at
+least one other source, for 66 directed reference edges. BRAMBLE's four exact
+neighbors are precisely E61's four rejected identities.
+
+This rules out the narrow explanation that the first batch happened to contain
+an unusual relationship. The source-local carrier's ownership model was
+structurally unable to preserve the task's named relation graph. The audit made
+no model call and does not turn the safe output into an accepted one. It
+instead adds a prospective apparatus requirement: future scope controls must
+distinguish claim ownership from relation-object reference before inference.

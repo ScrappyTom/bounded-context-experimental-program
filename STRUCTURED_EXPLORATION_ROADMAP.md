@@ -2,9 +2,9 @@
 
 Date: 2026-08-24
 
-Status: E59 authentic common pressure qualified; E60 freezes the first exact
-boundary-native source-local expression gate; whole-system utility remains
-unmeasured
+Status: E61 closes the current Meridian L1 route; material safety passed but
+lexical source isolation rejected grounded cross-source relationships;
+whole-system utility remains unmeasured
 
 ## Research-phase reset
 
@@ -701,6 +701,19 @@ with strict local scope, equal 650-token source slots, and separate material-
 safety adjudication. It is an interface gate, not a component utility result.
 No W0/L1 continuation may be frozen or run until the gate passes, and every
 later measured trajectory remains a separately authorized whole-system study.
+
+### E61 closes lexical source isolation as the locality rule
+
+The first live delta safely preserved AXIOM/BRAMBLE meaning, but BRAMBLE itself
+names four related sources. The validator rejected those exact relationship
+objects even though no absent-source slot was created. The frozen gate fails,
+so the planned W0/L1 continuation does not run.
+
+This updates the terrain rather than reopening prompt tuning. Future semantic
+scope must distinguish who owns a claim and which object that claim relates
+to. A fresh design may permit relationship identities literally present in
+the exact owner source while forbidding absent-source blocks and attribution.
+That mechanism is not yet selected or frozen, and E61 is not rerun.
 
 ## What will not be optimized in this phase
 

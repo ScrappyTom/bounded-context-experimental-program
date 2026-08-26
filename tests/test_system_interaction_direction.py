@@ -163,17 +163,14 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         )
         selected = self.contract["next_system_interaction"]
         self.assertEqual(
-            "meridian_authentic_pressure_qualified_expression_gate_frozen_pending_live_call",
+            "closed_after_expression_transport_failure_material_safety_passed_utility_unmeasured",
             selected["status"],
         )
         self.assertEqual(
             "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@467ccc0d032af217b969a31315ee41005dbe2167",
             selected["standalone_freeze"],
         )
-        self.assertEqual(
-            "2026-08-25-meridian-source-delta-expression-qualification-v0",
-            selected["next_live_operation"]["run_id"],
-        )
+        self.assertEqual("none_selected", selected["next_live_operation"]["status"])
         self.assertEqual(6, selected["live_activation_result"]["actor_calls"])
         self.assertEqual(2636, selected["live_activation_result"]["overflow_tokens"])
         self.assertTrue(selected["live_activation_result"]["pressure_qualified"])
@@ -181,10 +178,32 @@ class SystemInteractionDirectionTests(unittest.TestCase):
             ["RESULT-001"],
             selected["expression_gate_freeze"]["input_result_ids"],
         )
-        self.assertEqual(0, selected["expression_gate_freeze"]["model_calls"])
         self.assertFalse(
             selected["expression_gate_freeze"]["measured_continuation_authorized"]
         )
+        self.assertEqual(1, selected["expression_gate_freeze"]["maximum_model_calls"])
+        self.assertFalse(selected["expression_gate_result"]["transport_passed"])
+        self.assertTrue(selected["expression_gate_result"]["material_safety_passed"])
+        self.assertFalse(selected["expression_gate_result"]["qualification_passed"])
+        self.assertEqual(
+            ["DRIFT", "EMBER", "HEATH", "NORTH"],
+            selected["expression_gate_result"]["rejected_relationship_object_ids"],
+        )
+        self.assertEqual(16, selected["topology_audit"]["exact_sources"])
+        self.assertEqual(
+            16,
+            selected["topology_audit"]["sources_with_cross_source_identity_reference"],
+        )
+        self.assertEqual(
+            66,
+            selected["topology_audit"]["directed_cross_source_reference_edges"],
+        )
+        self.assertTrue(
+            selected["topology_audit"][
+                "bramble_neighbors_equal_expression_gate_rejections"
+            ]
+        )
+        self.assertFalse(selected["topology_audit"]["qualification_regraded"])
         self.assertFalse(selected["next_live_operation"]["authorized"])
         self.assertIn("source-local semantic transformation", selected["question"])
         self.assertIn(

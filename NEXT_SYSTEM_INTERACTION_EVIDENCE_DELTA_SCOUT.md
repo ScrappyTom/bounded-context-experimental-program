@@ -2,12 +2,9 @@
 
 Date: 2026-08-25
 
-Status: authentic common pressure qualified at
-`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@74f6d45107ce726543344f9a46c3d077e06c60e6`;
-the first exact boundary-native delta gate is frozen at
-`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@1e0323945b1105aafba8c4b5fd0e4dc7f9f3180a`;
-live delta expression and measured W0/L1 utility remain pending and separately
-unauthorized by this document
+Status: closed after the boundary-native E61 expression gate failed frozen
+transport despite passing material-safety review; measured W0/L1 continuation
+is ineligible and no successor GPU run is selected
 
 ## Why this is the next interaction
 
@@ -240,3 +237,18 @@ subsequent actor demand, register/artifact effects, current verification,
 repair, recheck, closure proposal, and external readiness. That later
 comparison requires its own exact commit and authorization. If the gate fails,
 the current L1 route closes without same-boundary prompt or budget tuning.
+
+## E61 closeout
+
+The gate failed. The model produced only exact-version AXIOM and BRAMBLE
+blocks, stayed within all token limits, and preserved the frozen safety
+distinctions. The lexical validator rejected DRIFT, EMBER, HEATH, and NORTH,
+even though each identity occurs in exact BRAMBLE and each claim remained
+BRAMBLE-attributed.
+
+The measured comparison therefore does not run. The failure is not repaired by
+adding the four names to an allowlist or weakening validation on this output.
+It changes the future design requirement: source-locality must govern claim
+ownership and slot mutation, while relationship-object references need their
+own exact provenance rule. A future scout must freeze that distinction before
+inference on a fresh eligible trajectory.

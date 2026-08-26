@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-25",
-  "status": "meridian_authentic_pressure_qualified_boundary_native_source_delta_expression_gate_frozen",
+  "status": "meridian_source_local_route_closed_transport_safety_policy_conflicted_with_grounded_relationship_reference",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "authentic_prompt_pressure",
@@ -306,7 +306,7 @@
     "governing_document": "E52_CEDAR_ARTIFACT_COUPLING_TRANSFER_RESULT.md"
   },
   "next_system_interaction": {
-    "status": "meridian_authentic_pressure_qualified_expression_gate_frozen_pending_live_call",
+    "status": "closed_after_expression_transport_failure_material_safety_passed_utility_unmeasured",
     "question": "Under authentic pressure, does source-local semantic transformation mechanically coupled into exact task work produce more source-correct cumulative work, current verification, and appropriate closure than direct actor-authored exact work?",
     "unit_of_analysis": "complete_pressure_active_evidence_to_work_to_feedback_to_closure_trajectory",
     "design_donor": "E57_complete_replacement_cross_trajectory_reconciliation",
@@ -364,15 +364,41 @@
       "total_admission_tokens": 1500,
       "per_source_admission_tokens": 650,
       "mechanical_and_material_safety_required": true,
-      "model_calls": 0,
+      "maximum_model_calls": 1,
       "measured_continuation_authorized": false
     },
-    "next_live_operation": {
+    "expression_gate_result": {
+      "result_commit": "ebd9d6ed773734258d6b75a460a467b11c88bc67",
       "run_id": "2026-08-25-meridian-source-delta-expression-qualification-v0",
-      "scope": "boundary_native_source_local_delta_expression_and_material_safety_qualification",
-      "maximum_model_calls": 1,
-      "attempts_per_call": 1,
-      "retries": 0,
+      "model_calls": 1,
+      "serialized_tokens": 5244,
+      "finish_reason": "stop",
+      "output_tokens": 1009,
+      "source_blocks": ["AXIOM", "BRAMBLE"],
+      "transport_passed": false,
+      "transport_code": "unobserved_source_reference",
+      "rejected_relationship_object_ids": ["DRIFT", "EMBER", "HEATH", "NORTH"],
+      "rejected_ids_occur_in_exact_owner_source": true,
+      "material_safety_passed": true,
+      "qualification_passed": false,
+      "measured_continuation_authorized": false,
+      "system_finding": "source_slot_owner_provenance_and_relationship_object_reference_are_distinct_relations"
+    },
+    "topology_audit": {
+      "result_commit": "7bd4c1049b7c1cc8b062201835e2ca4bfc198d10",
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "exact_sources": 16,
+      "sources_with_cross_source_identity_reference": 16,
+      "directed_cross_source_reference_edges": 66,
+      "bramble_neighbor_ids": ["DRIFT", "EMBER", "HEATH", "NORTH"],
+      "bramble_neighbors_equal_expression_gate_rejections": true,
+      "qualification_regraded": false,
+      "system_finding": "lexical_source_locality_is_structurally_incompatible_with_the_meridian_relation_graph"
+    },
+    "next_live_operation": {
+      "status": "none_selected",
+      "reason": "current_L1_route_closed_and_same_boundary_repair_forbidden",
       "authorized": false
     },
     "primary_outcomes": [

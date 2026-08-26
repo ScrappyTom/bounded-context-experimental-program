@@ -2,9 +2,9 @@
 
 Date: 2026-08-25
 
-Status: governing direction; E59 qualifies the authentic common pressure fork
-for the fresh source-local-delta × direct exact-work systems, and E60 freezes
-the first boundary-native expression gate; utility remains unmeasured
+Status: governing direction; E61 closes the current source-local-delta route
+after grounded cross-source relationships failed lexical source isolation;
+whole-system utility remains unmeasured
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -737,3 +737,27 @@ safety, and both are prerequisites rather than success outcomes. If the gate
 passes, interpretation remains whole-system: induced reads, later slot and
 artifact state, effects, verification currency, repair, closure, quality, and
 cost all remain in the measured loop. No such continuation is authorized yet.
+
+## E61: safety scope must preserve relational topology
+
+The live output passed material-safety review and created only AXIOM and
+BRAMBLE slots. It failed transport because BRAMBLE's exact relationships name
+HEATH, DRIFT, EMBER, and NORTH. The source-local validator had only one notion
+of scope: any named absent source was forbidden.
+
+The interaction lesson is broader than one parser rule. A safety mechanism
+designed to prevent unsupported semantic expansion also changed which grounded
+relationships were representable. In a many-to-many world, these are separate
+system functions:
+
+```text
+claim ownership and mutation authority
+relationship-object identity
+source attribution and exact custody
+```
+
+The current L1 route is closed and the complete W0/L1 trajectories must not
+run. A prospective successor would need owner-bound claims plus a separate
+mechanical rule for relationship objects already present in the owner bytes.
+It must be evaluated through the full feedback trajectory on a fresh eligible
+boundary; simply relaxing E61's allowlist would be post-outcome repair.

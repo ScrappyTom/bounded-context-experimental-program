@@ -1420,7 +1420,7 @@ Both configurations must continue through incremental artifact construction,
 candidate-bound effects, current feedback, repair/recheck, and independently
 adjudicated closure.
 
-## Current program phase after E60
+## Current program phase after E61
 
 The source-local interaction Stage 0 is implemented at
 `qwen38-artifact-coupled-integration-scout-v0@467ccc0d032af217b969a31315ee41005dbe2167`.
@@ -1436,15 +1436,15 @@ batches delivered ten sources across ten domains; pending KNOLL+LOOM caused a
 The interaction is therefore anchored in ordinary actor demand rather than a
 synthetic packet.
 
-The next operation is not a component matrix or prompt variant. It is one
-boundary-native expression/safety gate over the exact first lifecycle event:
-AXIOM+BRAMBLE from `RESULT-001`. Passing that one call is only an apparatus
-precondition for a later complete W0/L1 continuation; it is not semantic
-utility.
+That boundary-native expression/safety gate has now run. Its content passed
+material-safety review, but the lexical validator rejected four related-source
+identities copied from exact BRAMBLE. Because a many-to-many source must name
+relationship objects, the tested locality rule conflicts with the semantic
+topology it was meant to preserve.
 
 This work is governed by `E58_MERIDIAN_SOURCE_LOCAL_DELTA_STAGE0.md`,
 `E59_MERIDIAN_PRESSURE_SCREEN_RESULT.md`,
-`E60_MERIDIAN_SOURCE_DELTA_QUALIFICATION_FREEZE.md`, and
-`NEXT_SYSTEM_INTERACTION_EVIDENCE_DELTA_SCOUT.md`. The single expression call
-requires exact separate authorization; no W0/L1 continuation is authorized by
-those documents.
+`E60_MERIDIAN_SOURCE_DELTA_QUALIFICATION_FREEZE.md`,
+`E61_MERIDIAN_SOURCE_DELTA_QUALIFICATION_RESULT.md`, and
+`NEXT_SYSTEM_INTERACTION_EVIDENCE_DELTA_SCOUT.md`. The current L1 route and
+W0/L1 continuation are closed. No live successor is selected.

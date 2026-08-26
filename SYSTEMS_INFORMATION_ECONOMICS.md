@@ -1055,3 +1055,29 @@ other evidence, interfere with actor work, remain unused, or capitalize an
 error into exact work. Those outcomes require the complete W0/L1 trajectories
 through artifact effects, current checks, repair, closure, and external
 readiness. No continuation has yet run.
+
+## E61: safety policy can tax or erase relational capital
+
+The one L1 call incurred 5,244 serialized tokens and produced a bounded,
+materially safe AXIOM/BRAMBLE object. Its economic value could not be tested
+because the transport policy rejected four relationship-object names that were
+present in exact BRAMBLE.
+
+This is another endogenous interaction cost. A provenance control intended to
+prevent unsupported semantic expansion also removed the ability to carry
+grounded cross-source relationships. Representation value depends not only on
+payload fidelity and carrier cost, but on whether admission policy preserves
+the task's relation topology.
+
+Future accounting should therefore separate:
+
+- ownership: which exact source licenses the claim;
+- reference: which entities the licensed claim relates;
+- attribution: whether the system claims custody of another source;
+- mutation scope: which durable slots the operation may change; and
+- semantic risk: whether the relationship itself remains faithful.
+
+E61 paid production cost but never reached actor demand, artifact work, or
+verification, so substitution/complementarity remain unknown. The correct
+economic disposition is censored-by-interface, not negative downstream
+utility. The current route closes because its prospective gate failed.
