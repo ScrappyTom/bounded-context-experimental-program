@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 58 successor stages through E66 Aster provenance-relational expression qualification",
+  "scope": "parent bank plus 59 successor stages through E67 Solace fault-tolerant anchored-provenance Stage 0",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 58,
+    "successor_stages": 59,
     "follow_on_model_calls": 574,
     "follow_on_serialized_tokens": 7265656,
-    "unique_cited_experiment_commits": 53
+    "unique_cited_experiment_commits": 54
   },
   "stages": [
     {
@@ -600,6 +600,16 @@
       "serialized_tokens": 5136,
       "included_in_follow_on_totals": true,
       "primary_disposition": "the normally stopped 707-token output emitted four correctly source/version-bound raw facts with no material semantic reversal, but every evidence quote was a sentence substring rather than a complete owner-source line; transport admitted 0 of 4 claims, qualification failed, and the exact Aster W0/L1 route closed without retry, repair, or actor continuation"
+    },
+    {
+      "stage_id": "S59",
+      "name": "Solace fault-tolerant anchored-provenance versus direct exact-work offline whole-system Stage 0",
+      "stage_type": "eligibility",
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "5af42ca96182ce16dc5aced20f952da9a7c791e4", "count_as_experiment_commit": true}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "fresh fourteen-source many-to-many task and complete W0/L1 feedback systems qualify offline; the model selects semantic claims and exact anchor substrings while the host materializes exact context, offsets, hashes, version/currentness, and reopen custody; partial admission and zero-valid unchanged-state fallback keep maintenance failure inside the trajectory, and no standalone expression gate is planned; authentic pressure, Qwen semantic yield, actor uptake, artifact utility, readiness, and economics remain unmeasured"
     }
   ]
 }

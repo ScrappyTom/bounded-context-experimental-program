@@ -2,10 +2,10 @@
 
 Date: 2026-08-26
 
-Status: governing direction; E65 establishes the authentic common Aster
-pressure fork and freezes one boundary-native expression case; the exact E61
-route remains closed and live expression, persistence, and utility remain
-unmeasured
+Status: governing direction; E66 closes complete-line model-copy transport as
+a local apparatus negative; E67 qualifies a fresh fault-tolerant whole-system
+route in which host-owned exact provenance and fallible semantic maintenance
+remain inside the measured interaction rather than gating it
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -856,3 +856,72 @@ this event, not persistence or utility. The full comparison must still follow
 the register and exact evidence through actor demand, task-native work,
 candidate effects, current checks, repair/recheck, closure, cost, and external
 readiness. It has not been authorized.
+
+## E66: exact-line copying fails below the systems question
+
+The one Aster maintenance call produced four bounded, source/version-bound,
+materially safe factual statements. Each selected an exact sentence substring
+inside one unique delivered owner-source line. The prospective carrier instead
+required the model to reproduce the complete physical line, so transport
+admitted 0/4 records and the frozen Aster continuation correctly stopped.
+
+This is a negative for the exact copying allocation, not for grounded semantic
+expression or provenance-local persistence. A source line is a serialization
+unit, not necessarily a semantic evidence unit. The apparatus had assigned the
+model a byte-custody task already owned more reliably by the host.
+
+The raw output was also sparse and contained no relationship claim. It does
+not qualify a semantic system. The exact E66 result remains frozen and is not
+regraded under later apparatus.
+
+## E67: fault-tolerant provenance returns maintenance to the system loop
+
+The fresh Solace Stage 0 is committed at
+`qwen38-artifact-coupled-integration-scout-v0@5af42ca96182ce16dc5aced20f952da9a7c791e4`.
+It changes both responsibility allocation and failure lifecycle:
+
+```text
+MODEL
+select meaning + assertion mode + referents + exact anchor substring
+        ↓
+HOST
+materialize exact anchor bytes + offsets + containing-line context
++ hashes + result/version/currentness/reopen bindings
+        ↓
+PER-RECORD ADMISSION
+valid records merge; invalid records are discarded and charged
+        ↓
+ZERO VALID
+prior register remains byte-identical
+        ↓
+ORDINARY ACTOR CONTINUES
+```
+
+The model never gains authority over absent source slots, exact bytes,
+currentness, task readiness, or closure. A grounded relationship may name
+referent objects without mutating them. Cross-source synthesis remains exact,
+actor-authored task work with complete citations.
+
+This is deliberately not followed by another standalone expression gate.
+Maintenance production, admission yield, semantic fidelity, induced reads,
+artifact uptake, checks, repair, closure, and cost are properties of L1's whole
+trajectory. A zero-yield call is a treatment cost and state transition—not an
+apparatus veto preventing downstream behavior from being observed.
+
+Solace supplies a new fourteen-source many-to-many water-recovery world, an
+exact evidence matrix, incremental decision sections, candidate-bound effects
+and checks, repair/recheck, and external readiness evaluation. W0 and L1 share
+all ordinary actions and exact lifecycle mechanics. L1 alone pays for the
+fallible anchored register.
+
+Offline geometry reports a 2,782-token base prompt and 18,282-token source
+corpus. A permitted sixth pair creates a 21,175-token packet; first-fit
+externalization of only `RESULT-001` restores 18,559. Provider-free fixtures
+qualify both complete feedback systems, one mixed-validity partial admission,
+and one zero-valid unchanged-state fallback. The standalone repository passes
+133 tests, including all historical replay guards.
+
+Only the common treatment-free pressure screen is the next eligible live
+operation. It must produce an authentic actor-selected fork. It authorizes no
+semantic maintenance or measured continuation, and no GPU call is currently
+authorized.

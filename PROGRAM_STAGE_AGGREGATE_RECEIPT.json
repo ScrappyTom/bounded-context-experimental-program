@@ -1,11 +1,11 @@
 {
-  "aggregate_sha256": "e60c3b80f629245aebdb6327cbece93e89c2653dee340de8c175b0aafbe016f8",
+  "aggregate_sha256": "5736d4139bb4297ab905f866e6657b44a582d00dc40755b0ed93680128c71491",
   "failures": [],
   "follow_on_model_calls": 574,
   "follow_on_serialized_tokens": 7265656,
   "parent_exact_replayed_requests": 42,
   "passed": true,
   "schema_version": "program-stage-aggregate-receipt-v1",
-  "successor_stages": 58,
-  "unique_cited_experiment_commits": 53
+  "successor_stages": 59,
+  "unique_cited_experiment_commits": 54
 }

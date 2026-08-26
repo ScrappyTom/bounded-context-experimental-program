@@ -876,3 +876,39 @@ W0/L1 continuation at this boundary. No quote/parser/prompt repair ladder is
 selected. That avoids returning from interaction research to transport-format
 tuning. Any future route must be prospectively distinct and selected from a
 new systems interaction boundary rather than presented as a repair of E66.
+
+## E67 reorients the interface without returning to component tuning
+
+E66 showed that Qwen selected exact grounded sentence anchors while the host
+required byte-perfect reproduction of physical source lines. The durable
+correction is an ownership rule: model semantic selection and host exact
+custody must remain separate.
+
+The fresh Solace Stage 0 at
+`qwen38-artifact-coupled-integration-scout-v0@5af42ca96182ce16dc5aced20f952da9a7c791e4`
+implements that rule and changes maintenance failure from an all-or-nothing
+gate into a state transition inside the treatment system. Claims are admitted
+independently; exact anchor/context provenance is host-materialized; invalid
+records consume cost and are discarded; and zero valid records preserve prior
+state while ordinary work continues.
+
+This does not promote semantic persistence. It makes the whole-system question
+observable despite imperfect expression. W0 and L1 remain viable, share exact
+incremental task work and feedback, and differ only by L1's separately charged
+fallible register.
+
+The next route is therefore:
+
+```text
+common actor-selected authentic pressure fork
+        ↓
+W0 direct exact work
+versus
+L1 fallible anchored provenance + same exact work
+        ↓
+induced demand → artifact effects → current checks → repair → closure
+```
+
+There is no standalone expression successor. The treatment-free Solace screen
+is frozen but not authorized. Semantic maintenance and measured continuation
+remain separately unauthorized.

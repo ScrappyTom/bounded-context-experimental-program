@@ -1095,3 +1095,34 @@ safety are local positives; complete-line carrier expression is a local
 negative. The observed output did not exercise relational claims, and no
 downstream persistence or utility was tested. The prospective stop rule closes
 this exact Aster carrier and W0/L1 continuation without a same-boundary repair.
+
+## E67 — Solace fault-tolerant anchored-provenance whole-system Stage 0
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@5af42ca96182ce16dc5aced20f952da9a7c791e4`
+
+Solace is a fresh fourteen-source regional-water recovery task with an
+evaluator-hidden many-to-many requirement graph, exact incremental evidence and
+decision artifacts, candidate effects, current checks, repair/recheck, closure,
+and independent readiness. W0 and L1 share the same ordinary action and exact
+lifecycle surface. L1 alone pays for a bounded provenance-local register.
+
+The semantic producer selects owner/version, mode, referents, statement, and
+one exact unique anchor substring. The host materializes exact anchor bytes and
+offsets, complete containing-line context, hashes, result/version binding,
+currentness, and reopen custody. Claims are independently admitted. Invalid
+claims are discarded without retry; zero valid claims leave the register
+unchanged and the actor continues. Omission never asserts source completeness.
+
+The source corpus is 51,549 bytes and 18,282 tokenizer tokens. A legal fixed
+path reaches 21,175 prompt tokens on its sixth pair; first-fit externalizes only
+`RESULT-001` and restores 18,559. Mixed-validity and zero-valid provider-free
+fixtures pass. Both arms execute exact work, failing check, repair, stale-check
+recognition, current recheck, and closure with identical final candidate bytes.
+The standalone suite passes 133 tests including all historical replay guards.
+
+Disposition: **AF/NQ** — responsibility allocation, partial-admission fallback,
+fresh task geometry, arm parity, and complete lifecycle reachability qualify
+offline. Qwen behavior, authentic pressure, semantic yield, actor uptake,
+artifact utility, and economics remain unmeasured. No expression-only gate is
+planned; only a separately authorized treatment-free pressure screen is next.
