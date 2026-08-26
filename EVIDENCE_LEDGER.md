@@ -79,6 +79,7 @@ means literal local behavior with a material apparatus qualification.
 | E63 | AF | provenance-local relational semantics | Ten exact historical fixtures qualify a mechanical distinction among source-slot mutation, exact evidence basis, relation referents, derived support sets, and version currentness. E61-style grounded relations become representable while absent-slot mutation and Bluehaven completion remain blocked. | Zero-call post-outcome apparatus audit. Two provenance-valid semantic reversals remain failures; model expression, persistence, economics, and whole-system utility are untested. | [provenance audit](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/5fc04dd20ca9b4c9ea5b433c58f8d4249239ea6c) |
 | E64 | AF/NQ | Aster provenance-local relational whole-system Stage 0 | A fresh opaque-ID many-to-many task, provenance-local relation carrier, bounded replace-in-place register, identical W0/L1 task-native work and feedback surfaces, admissible single/pair ingress, realizable pressure geometry, and complete provider-free effect/check/repair/recheck/closure loops pass 113 tests. | Zero provider calls. Authentic pressure, live expression, persistence, actor uptake, artifact utility, readiness, and economics remain unmeasured. Only a common treatment-free pressure screen is eligible for separate authorization. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/f91fdaff28b2c7ad760afa90877b284e26529814) |
 | E65 | LR/AF/NQ | Aster authentic common pressure and first relational-persistence opportunity | Six valid actor-selected two-source reads delivered ten sources across ten domains before pending KELP+LATTICE produced a 795-token overflow. First-fit externalizes only exact `RESULT-001` ANCHOR+BRIDGE and restores 2,041 tokens of headroom. | Common pre-treatment boundary only. No semantic operation, mutation, check, or submission ran. One exact expression case is frozen but unauthorized; persistence and W0/L1 utility remain unmeasured. | [screen and freeze](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/8aa9afbec32b5669755760f2d4d7b5c992150e05) |
+| E66 | LR/AF/NQ | Aster boundary-native provenance-relational expression | One normally stopped 707-token output emitted four correctly source/version-bound raw facts with no material semantic reversal, but all four evidence quotes were sentence substrings rather than frozen complete source lines; transport admitted 0/4 claims. | One expression call and no actor continuation. Raw factual safety is locally positive, relational expression was not observed, qualification failed, and the exact W0/L1 route closed without repair. | [qualification result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/d19f45cd4478946f9271e85285df32f7152e8e6c) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
@@ -1070,3 +1071,27 @@ relief, and the first endogenous relational-persistence opportunity qualify.
 Live carrier expression, semantic fidelity, substitution/complementarity,
 actor utility, artifact quality, readiness, and information-economic value
 remain unmeasured.
+
+## E66 — Aster provenance-relational expression gate
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@d19f45cd4478946f9271e85285df32f7152e8e6c`
+
+The one authorized call returned four bounded fact blocks—two each for ANCHOR
+and BRIDGE—with correct source IDs, versions, `RESULT-001` binding, attribution,
+and non-authoritative labels. Direct frozen-source review found no material
+value/unit, timing, authority, currentness, predicate, readiness, or closure
+reversal in the raw statements.
+
+The frozen transport admitted none. Every evidence quote copied one exact
+sentence from a unique multi-sentence owner line rather than copying the whole
+line, producing `evidence_quote_not_unique_exact_line` and leaving both owner
+sources mechanically unrepresented. The call used 5,136 serialized tokens;
+execution, sealing, independent audit, and runtime release passed. No retry,
+repair, register merge, actor continuation, or candidate action occurred.
+
+Disposition: **LR/AF/NQ** — bounded grounded factual material and raw semantic
+safety are local positives; complete-line carrier expression is a local
+negative. The observed output did not exercise relational claims, and no
+downstream persistence or utility was tested. The prospective stop rule closes
+this exact Aster carrier and W0/L1 continuation without a same-boundary repair.

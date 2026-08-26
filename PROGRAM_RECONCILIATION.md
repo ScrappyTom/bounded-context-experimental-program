@@ -1,10 +1,10 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-26
-Status: current program synthesis; E65 establishes the authentic common Aster
-pressure fork and freezes one boundary-native expression gate while E61
-remains closed; live relational expression, persistence, and utility remain
-untested
+Status: current program synthesis; E66 completed the authentic Aster
+boundary-native expression gate, found safe raw factual material but 0/4
+mechanically admitted claims, and closes this exact carrier and W0/L1 route;
+relational persistence and utility remain untested
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -844,3 +844,35 @@ no continuation. If separately authorized, it can establish only carrier
 expression and frozen material safety. Persistence, actor uptake, artifact
 quality, feedback, closure, induced recovery demand, and economics remain the
 whole-system question and may not be inferred from admission alone.
+
+## E66 closes the exact Aster carrier before whole-system utility
+
+The separately authorized one-call gate completed normally at
+`qwen38-artifact-coupled-integration-scout-v0@d19f45cd4478946f9271e85285df32f7152e8e6c`.
+It produced four source/version-bound fact blocks in 707 output tokens. Direct
+frozen-source review found the raw statements materially safe: restoration
+authority and verification conditions, 1,800-millisecond p95 lag, and the
+fifteen-second RPO versus forty-five-minute RTO values were preserved without
+fabrication, conversion, authority transfer, stale promotion, or closure
+authorization.
+
+Transport nevertheless admitted 0/4 claims. Each evidence quote was an exact
+sentence substring inside a unique ANCHOR or BRIDGE line, while the frozen
+contract required equality with the complete multi-sentence line. The
+validator returned `evidence_quote_not_unique_exact_line` and both owner
+sources became mechanically unrepresented. The call used 5,136 serialized
+tokens; exact audit, seal, authorization, and runtime release passed. No retry,
+repair, register merge, actor continuation, mutation, check, or submission
+occurred.
+
+This is narrower than a semantic-persistence result. It supports bounded
+grounded factual expression and raw material safety locally, rejects this exact
+complete-line carrier transport, and leaves relational expression unobserved
+because all four claims were facts with no referents. Persistence, actor
+uptake, artifact quality, readiness, and economics remain untested.
+
+The prospectively frozen stop rule now closes the Aster carrier and planned
+W0/L1 continuation at this boundary. No quote/parser/prompt repair ladder is
+selected. That avoids returning from interaction research to transport-format
+tuning. Any future route must be prospectively distinct and selected from a
+new systems interaction boundary rather than presented as a repair of E66.

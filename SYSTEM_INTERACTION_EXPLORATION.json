@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-26",
-  "status": "e65_aster_authentic_pressure_qualified_expression_gate_frozen",
+  "status": "e66_aster_expression_transport_failed_route_closed_utility_unmeasured",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "authentic_prompt_pressure",
@@ -449,7 +449,7 @@
     "governing_document": "NEXT_SYSTEM_INTERACTION_EVIDENCE_DELTA_SCOUT.md"
   },
   "candidate_successor_interaction": {
-    "status": "aster_authentic_pressure_qualified_expression_gate_frozen_pending_authorization",
+    "status": "aster_expression_gate_failed_route_closed_utility_unmeasured",
     "question": "Under authentic pressure, can bounded provenance-local source reports plus separately supported derived task work improve source-correct artifact construction, current verification, repair, and closure over direct actor-authored exact work?",
     "configurations": [
       "W0_DIRECT_EXACT_WORK",
@@ -460,10 +460,10 @@
     "must_remain_whole_system_interaction": true,
     "fresh_task_id": "aster-payment-recovery-decision-v0",
     "stage0_commit": "f91fdaff28b2c7ad760afa90877b284e26529814",
-    "standalone_commit": "8aa9afbec32b5669755760f2d4d7b5c992150e05",
+    "standalone_commit": "d19f45cd4478946f9271e85285df32f7152e8e6c",
     "stage0_selected": true,
     "stage0_offline_qualified": true,
-    "provider_calls": 6,
+    "provider_calls": 7,
     "pressure_screen_run_id": "2026-08-25-aster-provenance-relational-pressure-screen-v0",
     "maximum_pressure_screen_actor_calls": 28,
     "pressure_screen_treatment_present": false,
@@ -500,15 +500,31 @@
       "gpu_authorized": false,
       "measured_continuation_authorized": false
     },
-    "next_live_operation": {
-      "status": "one_call_expression_gate_frozen_pending_separate_authorization",
+    "expression_gate_result": {
+      "result_commit": "d19f45cd4478946f9271e85285df32f7152e8e6c",
       "run_id": "2026-08-26-aster-relational-expression-qualification-v0",
-      "maximum_model_calls": 1,
-      "authorized": false,
-      "measured_continuation_included": false
+      "model_calls": 1,
+      "serialized_tokens": 5136,
+      "finish_reason": "stop",
+      "output_tokens": 707,
+      "raw_claim_count": 4,
+      "mechanically_admitted_claim_count": 0,
+      "transport_passed": false,
+      "transport_code": "evidence_quote_not_unique_exact_line",
+      "raw_output_material_safety_passed": true,
+      "relational_claims_emitted": 0,
+      "qualification_passed": false,
+      "measured_continuation_authorized": false
+    },
+    "next_live_operation": {
+      "status": "none_selected",
+      "reason": "prospective_expression_gate_failed_and_exact_aster_route_closed_without_repair",
+      "authorized": false
     },
     "live_expression_qualified": false,
     "measured_utility_authorized": false,
+    "route_closed": true,
+    "same_boundary_repair_forbidden": true,
     "runner_frozen": true,
     "gpu_authorized": false,
     "governing_document": "NEXT_SYSTEM_INTERACTION_PROVENANCE_LOCAL_RELATIONAL_SCOUT.md"

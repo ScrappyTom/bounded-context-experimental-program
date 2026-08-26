@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 52 experiment commit bindings were resolved through the named local
+The current 53 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -52,7 +52,7 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
-The freshest result is Meridian E61. The ordinary six-call screen realized
+The current route began with Meridian E61. The ordinary six-call screen realized
 the exact Stage 0 pressure geometry: ten distributed sources were delivered,
 KNOLL+LOOM became pending, the ordinary packet exceeded the allowance by 2,636
 tokens, and externalizing only exact `RESULT-001` restored feasibility at
@@ -111,8 +111,14 @@ resource-release audit. It establishes the authentic common fork—not semantic
 utility. The first boundary-native expression case is now frozen at
 [`8aa9afb`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/8aa9afbec32b5669755760f2d4d7b5c992150e05):
 one 4,428-token ANCHOR/BRIDGE call, separately authorized, with no measured
-continuation included. Live expression, persistence, artifact benefit, and
-W0/L1 economics remain unmeasured.
+continuation included. E66 has now completed that call at
+[`d19f45c`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/d19f45cd4478946f9271e85285df32f7152e8e6c).
+The output contained four materially safe raw facts, but all four evidence
+quotes were sentence substrings rather than complete source lines. Transport
+admitted 0/4 claims, qualification failed, and no actor continuation ran. See
+[E66](E66_ASTER_RELATIONAL_EXPRESSION_QUALIFICATION_RESULT.md). This exact
+carrier route is closed; relational persistence and whole-system utility remain
+untested rather than negative.
 
 The first breadth tranche is complete. Its 39 calls used one attempt each and
 zero retries. No prompt exceeded 7,110 tokens against the 20,992-token prompt
@@ -407,7 +413,10 @@ provenance-valid semantic failures as failures.
 
 E64 now freezes the fresh Aster realization at
 [`f91fdaf`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/f91fdaff28b2c7ad760afa90877b284e26529814).
-Its offline system geometry and complete provider-free W0/L1 lifecycle pass;
-no live pressure or semantic utility has been measured. The only next eligible
-operation is the separately authorized common Aster pressure screen described
-in [E64](E64_ASTER_PROVENANCE_RELATIONAL_STAGE0.md).
+Its offline system geometry and complete provider-free W0/L1 lifecycle passed.
+E65 subsequently qualified authentic common pressure; E66 then failed the sole
+frozen expression gate at complete-line transport with 0/4 admitted claims.
+The exact Aster W0/L1 route is closed without repair, and no live successor is
+currently selected. See [E64](E64_ASTER_PROVENANCE_RELATIONAL_STAGE0.md),
+[E65](E65_ASTER_PRESSURE_SCREEN_RESULT.md), and
+[E66](E66_ASTER_RELATIONAL_EXPRESSION_QUALIFICATION_RESULT.md).

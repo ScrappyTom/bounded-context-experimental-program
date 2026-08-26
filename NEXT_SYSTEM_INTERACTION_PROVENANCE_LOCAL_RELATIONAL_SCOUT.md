@@ -2,10 +2,9 @@
 
 Date: 2026-08-26
 
-Status: E65 authentic Aster pressure qualified and one boundary-native
-expression case frozen at
-`8aa9afbec32b5669755760f2d4d7b5c992150e05`; no expression call or measured
-continuation is authorized
+Status: closed at E66; the authentic Aster pressure boundary qualified, but the
+sole boundary-native expression call admitted 0/4 claims under the frozen
+complete-line carrier, so no W0/L1 continuation is authorized
 
 ## Program question
 
@@ -231,7 +230,12 @@ is limited to 1,500 total and 650 per owner source, with a 1,800-token provider
 ceiling. The safety contract was frozen before output and separately checks
 authority, units, timing, relationship predicates, currentness, and readiness.
 
-The one-call gate remains commit-bound and separately unauthorized. Passing it
-would establish expression and material safety only. The W0/L1 continuation
-still requires a new frozen runner, exact commit, and authorization and must be
-scored as a whole evidence-to-work-to-feedback-to-closure trajectory.
+The one-call gate was subsequently authorized and run as E66. It emitted four
+bounded, source/version-bound, materially safe raw facts, but every evidence
+quote was a sentence substring rather than the required complete owner-source
+line. Transport admitted 0/4 claims and the overall qualification failed.
+
+Under the prospective stopping rule, this exact route is closed. The output is
+not repaired, retried, or carried into an actor. A future systems route may
+reuse the earned mechanical custody/pressure/artifact substrate, but it may not
+describe another quote/parser/prompt variant as continuation of this plan.
