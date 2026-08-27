@@ -530,7 +530,7 @@
     "governing_document": "NEXT_SYSTEM_INTERACTION_PROVENANCE_LOCAL_RELATIONAL_SCOUT.md"
   },
   "active_system_route": {
-    "status": "whole_system_interaction_complete_positive_construction_signal_not_ready_next_lifecycle_offline",
+    "status": "whole_system_interaction_complete_qualitatively_reconciled_compound_construction_transport_signal_not_ready_next_lifecycle_offline",
     "repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0",
     "stage0_commit": "5af42ca96182ce16dc5aced20f952da9a7c791e4",
     "task_id": "solace-water-recovery-decision-v0",
@@ -590,15 +590,30 @@
       "W0_exact_reopens": 14,
       "L1_exact_reopens": 0,
       "W0_decision_mutations": 0,
+      "W0_unadmitted_global_decision_attempts": 2,
+      "W0_unadmitted_global_decision_completion_tokens": 8192,
       "L1_decision_mutations": 7,
       "L1_admitted_claims": 20,
       "L1_final_decision_words": 1934,
       "W0_readiness": "not_ready_incomplete",
       "L1_readiness": "not_ready_strong_partial_8_met_4_partial",
       "useful_completion": false,
-      "joint_interaction_signal": "positive_acquisition_to_construction",
+      "joint_interaction_signal": "positive_earlier_admitted_construction_with_representation_artifact_action_granularity_and_transport_jointly_changed",
       "terminal_failure": "unrelievable_chronology_pressure_before_check_repair_recheck_or_closure",
       "independent_audit_passed": true
+    },
+    "qualitative_transcript_reconciliation": {
+      "result_commit": "891bb0d46b757313781a8c40e6084c24d3d064bd",
+      "provider_turns_reconstructed": 34,
+      "new_model_calls": 0,
+      "sealed_outcomes_changed": false,
+      "retired_shorthand": "W0_never_constructed",
+      "corrected_W0_disposition": "fourteen_reopens_then_two_length_ended_unadmitted_global_decision_attempts",
+      "L1_construction_geometry": "six_section_upserts_then_one_global_consolidation_all_admitted",
+      "direct_partial_requirements": ["Q02", "Q03", "Q04", "Q09"],
+      "Q10_direct_disposition": "met_after_mechanical_surface_form_false_negative_reconciliation",
+      "causal_unit": "representation_x_semantic_residue_x_exact_artifact_persistence_x_construction_granularity_x_action_transport",
+      "post_construction_ablation_scope": "marginal_register_value_only_not_explanation_of_W0_L1_construction_geometry"
     },
     "next_live_operation": {
       "kind": "none_offline_construction_to_verification_lifecycle_qualification_required",

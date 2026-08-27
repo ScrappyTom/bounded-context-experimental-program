@@ -82,7 +82,8 @@ means literal local behavior with a material apparatus qualification.
 | E66 | LR/AF/NQ | Aster boundary-native provenance-relational expression | One normally stopped 707-token output emitted four correctly source/version-bound raw facts with no material semantic reversal, but all four evidence quotes were sentence substrings rather than frozen complete source lines; transport admitted 0/4 claims. | One expression call and no actor continuation. Raw factual safety is locally positive, relational expression was not observed, qualification failed, and the exact W0/L1 route closed without repair. | [qualification result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/d19f45cd4478946f9271e85285df32f7152e8e6c) |
 | E67 | AF/NQ | Solace fault-tolerant anchored-provenance Stage 0 | A fresh fourteen-source task, host-materialized exact anchor/context provenance, per-claim admission, unchanged-state fallback, and complete W0/L1 feedback paths qualified offline. | Apparatus and geometry only; no Qwen behavior or semantic utility. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/5af42ca96182ce16dc5aced20f952da9a7c791e4) |
 | E68 | LR/AF/NQ | Solace authentic common pressure fork | Six actor-selected batches produced a 219-token pending-result overflow; first-fit externalized only AURORA/BASTION and restored 2,397 tokens of headroom. | Common pre-treatment boundary only; no maintenance or artifact action. | [pressure screen](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/6059797681e2591737476417148952c844043b7f) |
-| E69 | LR/AF | Solace anchored-provenance whole-system interaction | W0 wrote an exact evidence ledger then made fourteen reopens and no decision; L1 admitted twenty grounded anchored claims, made eight candidate mutations without reopen, produced a 1,934-word strong-partial decision, and used 38.5% fewer serialized tokens. | One task and one deterministic trajectory per configuration. Neither arm reached check or closure; L1 remained not ready, its final effect was not delivered, and the result supports a joint interaction rather than a register-only causal claim. | [interaction result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/353c059b31c94dc5951e727b1a2cfa0bba51b6b8) |
+| E69 | LR/AF | Solace anchored-provenance whole-system interaction | W0 wrote an exact evidence ledger, made fourteen reopens, and retained zero admitted decision mutations; L1 admitted twenty grounded anchored claims, made eight candidate mutations without reopen, produced a 1,934-word strong-partial decision, and used 38.5% fewer serialized tokens. | One task and one deterministic trajectory per configuration. Neither arm reached check or closure; L1 remained not ready, its final effect was not delivered, and the result supports a joint interaction rather than a register-only causal claim. E70 reconciles W0's late unadmitted drafts. | [interaction result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/353c059b31c94dc5951e727b1a2cfa0bba51b6b8) |
+| E70 | AF/LR | Solace call-level qualitative transcript reconciliation | All 34 sealed turns are bound to exact pre-call residency, register/candidate state, literal action, admitted effect, semantic/artifact uptake or loss, demand alternatives, and requirement lineage. W0's final two calls were broad global decision attempts that each exhausted 4,096 completion tokens and failed JSON admission; L1 entered earlier section-sized admitted construction. | Zero new model calls and no score change. The audit retires “W0 never constructed,” preserves zero admitted W0 decision mutations, and makes representation × work externalization × action transport part of the causal account. | [qualitative audit](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/891bb0d46b757313781a8c40e6084c24d3d064bd) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
@@ -97,7 +98,7 @@ means literal local behavior with a material apparatus qualification.
 | H12 | LR | closure-safe structured frontier expression | Returned prose and handles were locally complete, but neither full object closed under the frozen interface; both length-terminated and the live grammar omitted declared length limits. | 0/2 complete acceptance. Frontier schema-expression tuning is closed; utility was not tested. | E15–E16 |
 | H13 | NQ | one-case cross-type effect retention | The complete exact effect and observation could not co-reside with the inherited standing set under the frozen envelope. | Behavioral utility untested; changing another object would be a different treatment. | E08–E09, E17–E18 |
 | H14 | LR | semantic integration × exact incremental task artifact × version-bound feedback | E46 showed temporal leverage without semantic dominance. Fresh Cedar transfer E52 produced a stronger A1 artifact (`strong_partial`) than D0 (`weak_partial`) and broader targeted repair, but both were not ready. A1 also capitalized material source contradictions, and both arms terminated after only 5/18 maintenance updates qualified. | Two tasks, one seed each, compound configurations. Exact work persistence has a promising transfer-level quality signal but no useful completion, safety, recurrence, or cost promotion. The next question is maintenance cadence × work persistence × verification bandwidth, not isolated coupling. | E36, E38–E46, E49–E52; `E52_CEDAR_ARTIFACT_COUPLING_TRANSFER_RESULT.md` |
-| H15 | LR | provenance-bound source residue × exact incremental artifact | At the authentic Solace pressure fork, W0's exact ledger led to fourteen reopens and no decision work, while L1's anchored register plus the same task-native artifact led to eight candidate mutations, no reopen, a 1,934-word strong-partial decision, and 38.5% lower serialized cost. | One task and one deterministic trajectory per configuration; compound interaction, not register-only causation. Neither arm reached verification or closure, and L1 remained not ready. The next question is whether the frozen register retains marginal value across construction-to-verification reentry after meaning has accumulated in the artifact. | E67–E69; `E69_SOLACE_ANCHORED_PROVENANCE_INTERACTION_RESULT.md` |
+| H15 | LR | provenance-bound source residue × exact incremental artifact × action transport | At the authentic Solace pressure fork, W0's exact ledger led to fourteen reopens followed by two length-ended unadmitted global drafts, while L1's anchored treatment plus the same task-native action surface led to early section-sized work, eight admitted candidate mutations, no reopen, a 1,934-word strong-partial decision, and 38.5% lower descriptive serialized cost. | One task and one deterministic trajectory per configuration; compound interaction, not register-only causation. Neither arm reached verification or closure, and L1 remained not ready. The post-construction register ablation tests marginal register value, not why construction granularity diverged. | E67–E70; `E69_SOLACE_ANCHORED_PROVENANCE_INTERACTION_RESULT.md`; `E70_SOLACE_QUALITATIVE_TRANSCRIPT_RECONCILIATION.md` |
 
 ## Active selection
 
@@ -1171,7 +1172,9 @@ passed independent audit.
 
 W0 used 18 actor calls and 358,025 serialized tokens. It wrote an evidence
 ledger covering all fourteen sources, then reopened `RESULT-001` through
-`RESULT-007` twice. It made no decision mutation, check, or submission.
+`RESULT-007` twice. It made no **admitted** decision mutation, check, or
+submission. E70 establishes that calls 17 and 18 each attempted a broad global
+decision, exhausted 4,096 completion tokens, and failed JSON admission.
 
 L1 used nine actor calls, seven maintenance calls, and 220,232 serialized
 tokens. Maintenance proposed 36 records; 32 were grounded and materially
@@ -1190,7 +1193,40 @@ pressure.
 Disposition: **LR/AF** — a local positive whole-system interaction for
 evidence-to-work conversion and cost, not useful completion. The joint
 semantic-register plus exact-artifact configuration changed the trajectory from
-reopen recurrence to cumulative construction, while failure migrated to
-construction-to-verification lifecycle continuity. No same-boundary carrier or
-budget tuning is selected. The next route is offline qualification of a fresh-
-frame artifact-only versus artifact-plus-frozen-register lifecycle ablation.
+late unadmitted global construction to early admitted cumulative construction,
+while failure migrated to construction-to-verification lifecycle continuity.
+No same-boundary carrier or budget tuning is selected. The next route is
+offline qualification of a fresh-frame artifact-only versus artifact-plus-
+frozen-register lifecycle ablation.
+
+## E70 — Solace call-level qualitative transcript reconciliation
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@891bb0d46b757313781a8c40e6084c24d3d064bd`
+
+The offline audit reconstructs all 34 sealed provider turns: 18 W0 actor calls,
+nine L1 actor calls, and seven L1 maintenance calls. It freezes exact result
+body versus receipt visibility, lifecycle order, register and candidate
+versions, literal outputs, admitted effects, semantic/artifact uptake and loss,
+qualified demand interpretations, alternatives, confidence, and exact evidence
+paths. A separate requirement-lineage table connects source evidence through
+maintenance proposal/admission and candidate incorporation to adjudication.
+
+W0 did not remain purely acquisitional. After its fourteen reopens, it produced
+two substantial global decision drafts. Both reached the 4,096-token completion
+limit and were rejected as invalid JSON, so the frozen candidate correctly
+retains zero decision mutations. L1 instead began admitted section-level
+construction on its third actor call after the fork and consolidated on its
+ninth. This changes the causal shorthand from “semantic register versus no
+construction” to a compound interaction among semantic residue, exact artifact
+persistence, construction timing/granularity, and action transport.
+
+The audit preserves direct readiness: L1 has eight met groups and four partial
+(Q02, Q03, Q04, Q09), Q10 is met after reconciling the mechanical surface-form
+false negative, the heading contract fails, and both arms remain not ready.
+
+Disposition: **AF/LR** — interpretation hardening with zero new model calls.
+Measured outcomes and readiness are unchanged. “No admitted W0 decision
+mutation” remains valid; “W0 never constructed” is retired. The planned
+post-construction register ablation remains eligible only as a marginal-value
+test and cannot identify the earlier action-geometry divergence.

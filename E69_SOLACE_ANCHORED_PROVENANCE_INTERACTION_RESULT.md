@@ -5,6 +5,9 @@ Date: 2026-08-26
 Source:
 `ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@353c059b31c94dc5951e727b1a2cfa0bba51b6b8`
 
+Call-level qualitative reconciliation:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@891bb0d46b757313781a8c40e6084c24d3d064bd`
+
 Run ID:
 `2026-08-26-solace-anchored-provenance-interaction-measured-v0`
 
@@ -33,15 +36,19 @@ alone paid for fault-tolerant anchored-provenance maintenance.
 | check / submit | none / none | none / none |
 | readiness | not ready | not ready |
 
-L1 used 137,793 fewer serialized tokens than W0, a 38.5 percent reduction,
-despite paying for seven maintenance calls. The treatment changed the operating
-regime rather than merely changing the next read:
+L1 used 137,793 fewer serialized tokens than W0, a 38.5 percent descriptive
+reduction, despite paying for seven maintenance calls. This is not an isolated
+register-efficiency estimate: W0 spent 8,192 completion tokens on two rejected
+global drafts, and the trajectories stopped at different lifecycle states. The
+treatment changed the operating regime rather than merely changing the next
+read:
 
 ```text
 W0
 exact evidence ledger
     -> fourteen exact reopens
-    -> no decision construction
+    -> two broad global decision attempts
+    -> both length-ended and unadmitted
 
 L1
 anchored source register
@@ -65,9 +72,11 @@ tolerance worked mechanically, but late maintenance had negative marginal
 value in the measured horizon.
 
 This does not justify tuning the cap or carrier on the same trajectory. The
-important interaction is that a bounded semantic stock plus exact incremental
-work changed acquisition into construction. Once the register stopped growing,
-the exact artifact continued to accumulate task meaning.
+important interaction is that the full anchored-provenance treatment plus exact
+incremental work changed *when and how construction crossed action admission*.
+Once the register stopped growing, the exact artifact continued to accumulate
+task meaning. The result does not isolate register content from maintenance
+recency, action selection, construction granularity, or transport.
 
 ## Artifact adjudication
 
@@ -102,24 +111,37 @@ The result supports a configuration-dependent interaction claim:
 provenance-bound semantic residue
     x exact incremental task artifact
     x exact pressure/reopen substrate
-    -> cumulative construction in this trajectory
+    x action selection and bounded transport
+    -> early admitted cumulative construction in this trajectory
 ```
 
 It does not establish that the semantic register alone caused the improvement,
 that every maintenance call was valuable, or that the same configuration
 transfers. The unit was the full joint system.
 
-The primary failure migrated:
+The call-level audit in E70 corrects the earlier shorthand causal account. W0's
+exact evidence ledger was semantically rich enough to support two broad
+construction attempts. Both were emitted as all-at-once `replace_decision`
+actions, exhausted the 4,096-token completion allowance, and were rejected as
+invalid JSON. They never became candidate state. L1 instead selected six
+section upserts followed by a global consolidation, all admitted.
+
+The primary failure migrated differently than the shorthand suggested:
 
 ```text
-W0: acquisition -> exact reopen loop -> no construction
+W0: acquisition -> exact reopen loop -> late global construction
+    -> action-transport/admission failure
 L1: acquisition -> semantic/artifact accumulation -> construction
     -> unrelievable chronology pressure before verification
 ```
 
-The next scientific boundary is therefore construction-to-verification
-lifecycle continuity. Another acquisition carrier, register-budget variant, or
-same-boundary expression gate would test the wrong question.
+The next scientific boundary remains construction-to-verification lifecycle
+continuity for the existing L1 candidate. That ablation can estimate the
+register's marginal value after construction; it cannot explain why W0 chose
+late global replacement while L1 chose early incremental updates. E70 preserves
+that representation × work-externalization × transport interaction as a distinct
+future transfer question. Another carrier micro-variant would test the wrong
+question.
 
 ## Disposition
 

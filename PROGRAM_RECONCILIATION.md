@@ -942,11 +942,16 @@ It used 34 provider calls and 578,257 serialized tokens with no retries or run
 failure.
 
 W0 wrote an exact fourteen-source evidence ledger and then spent fourteen calls
-reopening the seven exact result bodies twice. It never changed the decision.
-L1 paid for seven maintenance calls, admitted 20 source/version-bound claims,
-made eight consecutive candidate mutations, never reopened an exact result, and
-produced a 1,934-word decision citing twelve sources. L1 used 220,232 serialized
-tokens versus W0's 358,025, a 38.5 percent reduction.
+reopening the seven exact result bodies twice. E70's call-level audit shows that
+its final two responses were substantial global `replace_decision` attempts,
+not an absence of construction. Both exhausted the 4,096-token completion
+allowance, were rejected as invalid JSON, and left the admitted decision
+unchanged. L1 paid for seven maintenance calls, admitted 20
+source/version-bound claims, made eight consecutive candidate mutations, never
+reopened an exact result, and produced a 1,934-word decision citing twelve
+sources. L1 used 220,232 serialized tokens versus W0's 358,025, a 38.5 percent
+descriptive difference; W0's two rejected drafts alone consumed 8,192
+completion tokens.
 
 This is the first positive whole-system interaction signal in the semantic-
 persistence branch:
@@ -955,7 +960,8 @@ persistence branch:
 anchored semantic residue
     x exact incremental artifact
     x exact pressure/reopen substrate
-    -> acquisition-to-construction transition
+    x action selection and bounded transport
+    -> earlier admitted construction
 ```
 
 It is not useful completion. W0 remained incomplete. L1 was independently
@@ -976,12 +982,42 @@ surface forms, and one treated an explicitly negated wrong duration as a
 reversal. Candidate-bound direct adjudication governs the criterion detail, and
 prospective evaluator hardening is required before another live run.
 
-The failure has migrated from evidence acquisition to construction-to-
+The qualitative correction makes the W0/L1 contrast a whole-system interaction
+among representation, work externalization, action granularity, and transport;
+it is not evidence that the register alone created semantic integration. The
+failure has migrated from late unadmitted construction in W0 and incomplete
+admitted construction in L1 to the common question of construction-to-
 verification lifecycle continuity. The next eligible study is the offline
 ablation in
 `NEXT_SYSTEM_INTERACTION_CONSTRUCTION_VERIFICATION_LIFECYCLE.md`: start both
 arms from the same exact pressured L1 candidate/currentness state and compare
 exact artifact-only reentry with the same packet plus the already-produced
 register. This is justified only because the joint configuration produced a
-meaningful signal. No new semantic generation, carrier repair, or GPU call is
-authorized.
+meaningful signal. It estimates marginal register value after construction and
+does not explain the acquisition-to-construction action-geometry divergence.
+No new semantic generation, carrier repair, or GPU call is authorized.
+
+## E70 reconciles the complete Solace transcript
+
+The exact qualitative appendix is committed at
+`qwen38-artifact-coupled-integration-scout-v0@891bb0d46b757313781a8c40e6084c24d3d064bd`.
+It covers all 18 W0 actor turns, all nine L1 actor turns, and all seven L1
+maintenance turns. A machine-readable ledger freezes exact pre-call body versus
+receipt residency, register/candidate versions, lifecycle order, literal
+actions, admitted effects, semantic judgments, alternative explanations, and
+evidence paths. A requirement-lineage table connects exact sources through
+maintenance selection/admission and artifact incorporation to the frozen
+adjudication.
+
+The audit changes interpretation, not results:
+
+- W0 retained one ledger mutation and zero admitted decision mutations;
+- W0 nevertheless attempted two broad final decisions, both unadmitted after
+  length-ended invalid JSON;
+- L1 entered construction earlier through section-sized admitted actions;
+- Q10 remains semantically met; only Q02, Q03, Q04, and Q09 are partial;
+- the 38.5 percent token difference is descriptive whole-trajectory economics,
+  not isolated register efficiency;
+- the phrase “W0 never constructed” is retired.
+
+This is an offline audit with zero new model calls. It authorizes no GPU work.

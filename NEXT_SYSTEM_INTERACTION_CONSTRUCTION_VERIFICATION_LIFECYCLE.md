@@ -7,11 +7,14 @@ Date: 2026-08-26
 ## Why this is next
 
 E69 produced the first positive joint signal from provenance-bound semantic
-persistence coupled to exact incremental task work. L1 moved from acquisition
-to repeated construction, while W0 stayed in an exact reopen loop. L1 then
-terminated immediately after its last candidate mutation because accumulated
-chronology could not preserve reserves. Its final effect never entered another
-actor decision, and check, repair, recheck, and closure were never exercised.
+persistence coupled to exact incremental task work. E70's call-level audit
+shows the contrast more precisely: W0 stayed in an exact reopen loop until its
+last two calls, then made two broad global decision attempts that exhausted the
+4,096-token completion allowance and never crossed action admission. L1 moved
+much earlier into section-sized admitted construction. L1 then terminated
+immediately after its last candidate mutation because accumulated chronology
+could not preserve reserves. Its final effect never entered another actor
+decision, and check, repair, recheck, and closure were never exercised.
 
 The next question is not whether a different semantic carrier can make a better
 register. It is:
@@ -21,7 +24,11 @@ register. It is:
 > and semantic continuity to verify, repair, and close it correctly?
 
 This is a lifecycle interaction ablation made eligible by a positive joint
-configuration. It is not a return to isolated component scouting.
+configuration. It is not a return to isolated component scouting. It estimates
+the frozen register's marginal value after construction; it does **not** isolate
+why W0 selected late global replacement while L1 selected early incremental
+work. That representation × construction granularity × transport interaction is
+a separate causal question.
 
 ## Frozen donor boundary
 
@@ -38,6 +45,10 @@ Use the exact L1 terminal state from
 
 The boundary is authentic: the ordinary next packet is infeasible and no
 eligible exact result body remains whose substitution can restore reserves.
+
+The qualitative reconciliation is bound at
+`qwen38-artifact-coupled-integration-scout-v0@891bb0d46b757313781a8c40e6084c24d3d064bd`.
+It does not change the donor candidate or measured run.
 
 ## Comparison
 

@@ -956,10 +956,13 @@ The measured Solace comparison completed at standalone result commit
 and seven maintenance—and consumed 578,257 serialized tokens.
 
 W0 created a fourteen-source exact evidence ledger, then performed fourteen
-reopens and no decision construction. L1 admitted a 20-claim anchored register,
-performed eight candidate mutations and seven decision mutations, made no
-reopen, and produced a 1,934-word decision. L1 consumed 220,232 serialized
-tokens, 137,793 fewer than W0.
+reopens. E70's call-level reconstruction shows that it subsequently attempted
+two broad global decisions. Both exhausted the 4,096-token completion allowance,
+were rejected as invalid JSON, and produced no admitted decision mutation. L1
+admitted a 20-claim anchored register, performed eight candidate mutations and
+seven decision mutations, made no reopen, and produced a 1,934-word decision.
+L1 consumed 220,232 serialized tokens, 137,793 fewer than W0; this descriptive
+difference includes W0's 8,192 completion tokens on the two rejected drafts.
 
 This is interaction evidence, not a component score. L1 jointly changed:
 
@@ -968,6 +971,7 @@ semantic source residue
 + exact incremental evidence and decision artifacts
 + actor-visible mutation effects
 + exact reopen and pressure mechanics
++ action selection, construction granularity, and bounded transport
 ```
 
 The result is that the system crossed from acquisition into cumulative
@@ -984,7 +988,8 @@ therefore migrated:
 
 ```text
 receipt-only W0:
-acquisition -> reopen recurrence -> no construction
+acquisition -> reopen recurrence -> late global construction
+            -> length-ended action admission failure
 
 anchored L1:
 acquisition -> semantic/artifact accumulation -> construction
@@ -997,4 +1002,36 @@ compares a fresh exact current-state frame with and without the frozen register,
 holding the substantial exact candidate fixed and continuing through
 candidate-bound check, repair, recheck, and closure. It tests whether the
 register has marginal value after semantics have been capitalized into the
-artifact. It does not authorize a GPU run.
+artifact. It does not isolate why W0 selected late global replacement while L1
+selected early incremental work; E70 preserves that as a separate
+representation × work-externalization × transport interaction question. It does
+not authorize a GPU run.
+
+## E70: call-level reconstruction corrects the causal shorthand
+
+The offline qualitative audit is committed at standalone result
+`891bb0d46b757313781a8c40e6084c24d3d064bd`. It adds no model calls and changes
+no sealed candidate, score, or readiness judgment.
+
+For every actor and maintenance turn it records exact bodies versus receipts,
+register and candidate state, literal action, admitted semantic/artifact change,
+requirement incorporation or loss, likely next demand, alternatives, confidence,
+and exact evidence paths. The key correction is that W0 did perform semantic
+integration and construction, but only as two late all-at-once actions that
+never crossed transport. L1's observed advantage was earlier incremental
+admitted construction inside the full treatment interaction.
+
+The governing systems unit is therefore not “register present versus absent”
+in isolation. It is:
+
+```text
+representation
+    x task-artifact persistence
+    x construction timing and granularity
+    x action transport/admission
+    x subsequent verification opportunity
+```
+
+The next lifecycle ablation remains valid only as a post-construction marginal
+register-value study. It must not be used to retroactively isolate E69's W0/L1
+divergence.
