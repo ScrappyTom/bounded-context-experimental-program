@@ -1709,3 +1709,121 @@ relational expression and material safety at this boundary only. The actual
 research unit remains the later complete W0/L1 trajectory through induced
 demand, exact work, effects, current verification, repair, closure, cost, and
 independent readiness. That continuation remains unauthorized.
+
+## 58. Aster's semantic material is safe, but the complete-line carrier fails
+
+E66 made one normally stopped 707-token maintenance call. Qwen returned four
+correctly source/version-bound factual claims. Direct review found no material
+authority, unit, probability, or currentness reversal, but every evidence quote
+was an exact sentence substring rather than the frozen complete physical source
+line. The carrier therefore admitted zero claims and the W0/L1 continuation did
+not run.
+
+This is a transport negative, not a semantic-persistence negative. It shows
+that exact provenance should be materialized from host-custodied spans selected
+by the model, rather than requiring the model to reproduce an arbitrary storage
+line byte-for-byte. It also motivates fallible per-claim admission inside a
+whole trajectory rather than making one perfect maintenance response a gate to
+all downstream behavior.
+
+## 59. Solace moves transport fallibility inside the system
+
+E67 freezes a fresh fourteen-source water-recovery task. The actor chooses an
+owner source, assertion mode, referents, semantic statement, and exact anchor
+substring. The host verifies the anchor and materializes exact context, byte
+offsets, hashes, versions, currentness, and reopen custody. Valid claims admit
+individually; invalid claims are charged and discarded; zero valid claims leave
+prior state unchanged; ordinary work continues.
+
+W0 and L1 share exact ingress, first-fit relief, task-native evidence and
+decision artifacts, effects, checks, repair, recheck, closure, and independent
+readiness. L1 alone pays for the bounded anchored register. Provider-free
+fixtures reach the complete lifecycle, so maintenance transport is no longer a
+standalone prerequisite that censors the systems question.
+
+## 60. Solace reaches authentic common pressure
+
+E68's ordinary actor made six valid two-source reads. Ten sources crossed model
+boundaries; pending KESTREL/LUMEN made the next prompt 21,211 tokens, 219 over
+the 20,992 allowance. Protected first-fit relief externalized only exact
+AURORA/BASTION `RESULT-001` and restored feasibility at 18,595 tokens. The
+candidate remained initial. No treatment, mutation, check, or submission ran.
+
+This is the common endogenous fork for the whole-system comparison. The first
+semantic input is selected by the common lifecycle rather than investigator
+relevance judgment.
+
+## 61. Solace produces the first positive combined construction signal
+
+E69 made 34 provider calls: 27 actor and seven maintenance. W0 used 358,025
+serialized tokens. It wrote a fourteen-source evidence ledger, reopened seven
+exact results twice, and retained zero admitted decision mutations. L1 used
+220,232 serialized tokens, admitted twenty grounded claims, made eight
+candidate mutations without reopen, and produced a 1,934-word decision citing
+twelve sources.
+
+Neither arm usefully completed. W0 remained incomplete. L1 was a strong partial
+with Q02, Q03, Q04, and Q09 partial, incorrect heading structure, no current
+check, and no submission. Its final candidate effect never entered a later
+actor decision. The last three maintenance calls spent 15,114 serialized
+tokens on grounded claims that could not enter the full register.
+
+The supported causal unit is the complete interaction:
+
+```text
+provenance-bound semantic residue
+    x recent maintenance exposure
+    x exact evidence ledger
+    x exact incremental artifact
+    x section-sized action affordances
+    x bounded response/admission transport
+    -> earlier admitted cumulative construction
+```
+
+This is not evidence that a register alone created understanding. It is the
+first result in which a semantic/custody configuration changed cumulative exact
+work rather than merely capacity or the next read.
+
+## 62. The transcript audit shows that W0 also integrated evidence
+
+E70 reconstructs all 34 turns against exact pre-call residency, register and
+candidate lineage, literal output, admission, requirement uptake/loss, and
+qualified alternative explanations. It corrects the shorthand that W0 never
+constructed.
+
+W0's final two calls each attempted a broad global decision. Both consumed the
+full 4,096-token completion allowance and ended as invalid JSON, so the drafts
+never became exact artifact state. L1 instead began section-sized admitted work
+on its third post-fork actor call and later consolidated it globally.
+
+The comparison therefore includes construction timing, granularity, and
+transport. The exact task artifact emerges as durable external cognition: it
+preserves interpretation after source turnover and can enter later decisions.
+The register may be temporary scaffolding that helps meaning cross into exact
+work, rather than permanent memory.
+
+## 63. Verification-lifecycle Stage 0 freezes the next interaction
+
+E71 starts from the exact L1 terminal candidate and latest undelivered effect.
+A0 receives exact candidate, evidence ledger, currentness, source/reopen access,
+candidate-bound check, bounded repair, and closure surfaces. A1 receives the
+same complete system plus the already-produced 20-claim register. No semantic
+maintenance call occurs.
+
+Evaluator v1 reproduces the reconciled defects: heading order and
+Q02/Q03/Q04/Q09 fail; Q10 and the other substantive groups pass. It recognizes
+permitted numeric equivalents and does not mistake an explicitly negated wrong
+duration for an assertion. A bounded exact-patch action avoids retransmitting
+the complete decision.
+
+A0 begins at 8,693 prompt tokens and A1 at 15,339, so the register carries an
+explicit 6,646-token initial cost. An eleven-edit provider-free repair action is
+760 tokens. In both arms the fixture reaches current check, repair, stale-check
+recognition, current recheck, and submission with identical repaired bytes. All
+156 tests pass.
+
+This stage uses zero model calls. It qualifies the apparatus and interaction
+horizon, not register utility. The next eligible operation is the separately
+authorized A0/A1 measured run, which asks whether semantic scaffolding remains
+valuable after substantial meaning has already been capitalized into exact
+task work.

@@ -84,6 +84,7 @@ means literal local behavior with a material apparatus qualification.
 | E68 | LR/AF/NQ | Solace authentic common pressure fork | Six actor-selected batches produced a 219-token pending-result overflow; first-fit externalized only AURORA/BASTION and restored 2,397 tokens of headroom. | Common pre-treatment boundary only; no maintenance or artifact action. | [pressure screen](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/6059797681e2591737476417148952c844043b7f) |
 | E69 | LR/AF | Solace anchored-provenance whole-system interaction | W0 wrote an exact evidence ledger, made fourteen reopens, and retained zero admitted decision mutations; L1 admitted twenty grounded anchored claims, made eight candidate mutations without reopen, produced a 1,934-word strong-partial decision, and used 38.5% fewer serialized tokens. | One task and one deterministic trajectory per configuration. Neither arm reached check or closure; L1 remained not ready, its final effect was not delivered, and the result supports a joint interaction rather than a register-only causal claim. E70 reconciles W0's late unadmitted drafts. | [interaction result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/353c059b31c94dc5951e727b1a2cfa0bba51b6b8) |
 | E70 | AF/LR | Solace call-level qualitative transcript reconciliation | All 34 sealed turns are bound to exact pre-call residency, register/candidate state, literal action, admitted effect, semantic/artifact uptake or loss, demand alternatives, and requirement lineage. W0's final two calls were broad global decision attempts that each exhausted 4,096 completion tokens and failed JSON admission; L1 entered earlier section-sized admitted construction. | Zero new model calls and no score change. The audit retires “W0 never constructed,” preserves zero admitted W0 decision mutations, and makes representation × work externalization × action transport part of the causal account. | [qualitative audit](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/891bb0d46b757313781a8c40e6084c24d3d064bd) |
+| E71 | AF/NQ | Solace construction-to-verification lifecycle Stage 0 | The exact L1 donor, 20-claim register, undelivered final effect, evaluator-v1 defect set, bounded patch transport, check currentness, repair, recheck, and closure surface qualify provider-free. A0 begins at 8,693 prompt tokens and A1 at 15,339; an eleven-edit fixture uses 760 tokens and both complete the same four-step lifecycle. | Zero provider calls and no behavioral utility evidence. The fixture is apparatus reachability, not a model repair. The separately authorized A0/A1 run is required to measure post-construction register value. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/a2c9270c676e2d0d8427b119f81ec39b3f21b2d1) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
@@ -1230,3 +1231,34 @@ Measured outcomes and readiness are unchanged. “No admitted W0 decision
 mutation” remains valid; “W0 never constructed” is retired. The planned
 post-construction register ablation remains eligible only as a marginal-value
 test and cannot identify the earlier action-geometry divergence.
+
+## E71 — Solace construction-to-verification lifecycle Stage 0
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@a2c9270c676e2d0d8427b119f81ec39b3f21b2d1`
+
+The exact L1 terminal candidate, frozen 20-claim register, latest undelivered
+effect, and initial result ledger are hash-locked. Evaluator v1 reproduces the
+direct adjudication: heading order and Q02, Q03, Q04, and Q09 fail; Q10 and the
+remaining substantive groups pass. It accepts frozen numeric equivalents and
+does not treat an explicitly negated wrong duration as an asserted reversal.
+
+A0 receives exact artifact/currentness state without the register. A1 receives
+the identical packet plus the frozen register. Initial prompts measure 8,693
+and 15,339 tokens respectively, making the 6,646-token A1 carrying cost part of
+the treatment while preserving the common 4,096-token response reserve.
+
+The bounded `patch_decision` surface applies exact unique replacements rather
+than retransmitting the complete 1,934-word decision. An eleven-edit, 760-token
+provider-free fixture reaches check, repair, stale-check binding, current
+recheck, and submission in both cells and produces identical repaired bytes.
+The clean path is four calls; twelve calls per cell preserve six additional
+repair/recovery decisions and two expression-failure decisions. All 156 tests
+pass.
+
+Disposition: **AF/NQ** — exact donor parity, evaluator coverage, action
+transport, currentness, and lifecycle reachability qualify offline with zero
+provider calls. This is not evidence that A1 helps verification. The next
+eligible operation is the separately authorized A0-then-A1 measured run at the
+frozen commit, at most 24 actor/provider calls, one attempt per call, and zero
+retries.

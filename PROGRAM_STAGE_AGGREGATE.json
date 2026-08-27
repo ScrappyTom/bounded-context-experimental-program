@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 62 successor stages through E70 Solace call-level qualitative transcript reconciliation",
+  "scope": "parent bank plus 63 successor stages through E71 Solace verification-lifecycle offline Stage 0",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 62,
+    "successor_stages": 63,
     "follow_on_model_calls": 614,
     "follow_on_serialized_tokens": 7907644,
-    "unique_cited_experiment_commits": 57
+    "unique_cited_experiment_commits": 58
   },
   "stages": [
     {
@@ -640,6 +640,16 @@
       "serialized_tokens": 0,
       "included_in_follow_on_totals": true,
       "primary_disposition": "all 34 sealed W0 and L1 actor/maintenance turns are reconciled against exact pre-call body/receipt visibility, candidate/register lineage, literal output, admitted effects, requirement uptake/loss, and qualified demand alternatives; W0's final two calls were broad 4096-token global decision attempts rejected as invalid JSON, so zero admitted W0 decision mutations remains correct but the no-construction shorthand is retired; L1's advantage is interpreted as representation, artifact persistence, construction granularity, and transport interacting, while readiness remains unchanged at W0 incomplete and L1 strong partial with Q02, Q03, Q04, and Q09 partial and Q10 met"
+    },
+    {
+      "stage_id": "S63",
+      "name": "Solace construction-to-verification lifecycle offline Stage 0",
+      "stage_type": "eligibility",
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "a2c9270c676e2d0d8427b119f81ec39b3f21b2d1", "count_as_experiment_commit": true}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "the exact L1 terminal candidate, 20-claim register, latest undelivered effect, evaluator-v1 defect set, bounded patch transport, currentness, and provider-free check-repair-recheck-submission lifecycle qualify offline; A0 begins at 8693 prompt tokens and A1 at 15339, an eleven-edit fixture uses 760 tokens, and all 156 tests pass; no model behavior or register utility is measured, and the A0/A1 run remains separately unauthorized"
     }
   ]
 }

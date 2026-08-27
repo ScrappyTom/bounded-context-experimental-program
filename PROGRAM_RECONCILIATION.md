@@ -1,10 +1,14 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-26
-Status: current program synthesis; E66 completed the authentic Aster
-boundary-native expression gate, found safe raw factual material but 0/4
-mechanically admitted claims, and closes this exact carrier and W0/L1 route;
-relational persistence and utility remain untested
+Status: current program synthesis through E71; E69 produced the first positive
+whole-trajectory signal for anchored semantic persistence coupled to exact
+incremental task work, and E70 reconciled that signal as a compound interaction
+among semantic residue, exact artifacts, construction timing/granularity, and
+action transport. Neither arm completed. E71 qualifies the construction-to-
+verification lifecycle apparatus offline; the measured A0/A1 run now requires
+separate authorization. The earlier
+acquisition-to-construction advantage remains a separate transfer question.
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -1021,3 +1025,31 @@ The audit changes interpretation, not results:
 - the phrase “W0 never constructed” is retired.
 
 This is an offline audit with zero new model calls. It authorizes no GPU work.
+
+## E71 qualifies the post-construction interaction lifecycle offline
+
+The standalone Stage 0 is frozen at
+`qwen38-artifact-coupled-integration-scout-v0@a2c9270c676e2d0d8427b119f81ec39b3f21b2d1`.
+It starts both arms from the exact L1 candidate, exact evidence ledger, latest
+undelivered effect, external history/source access, and independently frozen
+not-ready adjudication. A1 alone retains the exact 20-claim register; no new
+semantic maintenance occurs.
+
+The apparatus now covers the actual downstream defects rather than a lexical
+proxy. Evaluator v1 fails only heading order and Q02/Q03/Q04/Q09 on the donor,
+passes Q10's permitted numeric forms, and binds every check to the exact
+candidate. A bounded exact-patch action avoids W0's complete-document transport
+failure. Provider-free fixtures in both arms perform current check, bounded
+repair, stale-check recognition, current recheck, and submission.
+
+A0's initial prompt is 8,693 tokens; A1's is 15,339. Thus register retention
+costs 6,646 prompt tokens before any behavioral benefit and still preserves the
+common response reserve. The frozen twelve-call cell budget is derived from a
+four-call clean path plus six repair/recovery and two expression-failure
+decisions. All 156 standalone tests pass.
+
+This is an apparatus fact with zero model calls. It does not establish that the
+register improves verification, and it does not explain E69's construction
+divergence. The next eligible operation is the separately authorized A0-then-A1
+measured lifecycle run on this exact commit, with at most 24 actor/provider
+calls, one attempt per call, and zero retries.

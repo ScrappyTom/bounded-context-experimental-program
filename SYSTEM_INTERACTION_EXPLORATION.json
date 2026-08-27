@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-26",
-  "status": "e68_solace_authentic_pressure_qualified_complete_interaction_frozen_gpu_unauthorized",
+  "status": "e71_solace_postconstruction_lifecycle_stage0_qualified_measured_run_gpu_unauthorized",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "authentic_prompt_pressure",
@@ -530,7 +530,7 @@
     "governing_document": "NEXT_SYSTEM_INTERACTION_PROVENANCE_LOCAL_RELATIONAL_SCOUT.md"
   },
   "active_system_route": {
-    "status": "whole_system_interaction_complete_qualitatively_reconciled_compound_construction_transport_signal_not_ready_next_lifecycle_offline",
+    "status": "whole_system_interaction_complete_qualitatively_reconciled_postconstruction_lifecycle_stage0_qualified_measured_run_unauthorized",
     "repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0",
     "stage0_commit": "5af42ca96182ce16dc5aced20f952da9a7c791e4",
     "task_id": "solace-water-recovery-decision-v0",
@@ -615,21 +615,40 @@
       "causal_unit": "representation_x_semantic_residue_x_exact_artifact_persistence_x_construction_granularity_x_action_transport",
       "post_construction_ablation_scope": "marginal_register_value_only_not_explanation_of_W0_L1_construction_geometry"
     },
-    "next_live_operation": {
-      "kind": "none_offline_construction_to_verification_lifecycle_qualification_required",
-      "freeze_commit": null,
-      "run_id": null,
+    "postconstruction_lifecycle_stage0": {
+      "result_commit": "a2c9270c676e2d0d8427b119f81ec39b3f21b2d1",
+      "provider_calls": 0,
       "configuration_order": [
-        "A0_EXACT_ARTIFACT_ONLY_REENTRY",
-        "A1_EXACT_ARTIFACT_PLUS_FROZEN_REGISTER_REENTRY"
+        "A0_EXACT_ARTIFACT_ONLY",
+        "A1_EXACT_ARTIFACT_PLUS_FROZEN_REGISTER"
       ],
-      "maximum_actor_calls": null,
+      "donor_candidate_sha256": "82d14bff607d8e323899d09b72739ee4bf14bc067013c6675365b580093ecf5a",
+      "register_claims": 20,
+      "A0_initial_prompt_tokens": 8693,
+      "A1_initial_prompt_tokens": 15339,
+      "register_prompt_increment_tokens": 6646,
+      "bounded_patch_fixture_tokens": 760,
+      "bounded_patch_fixture_edits": 11,
+      "provider_free_complete_lifecycle_qualified": true,
+      "standalone_tests_passed": 156,
+      "behavioral_utility_measured": false
+    },
+    "next_live_operation": {
+      "kind": "separately_authorized_solace_construction_to_verification_lifecycle_comparison",
+      "freeze_commit": "a2c9270c676e2d0d8427b119f81ec39b3f21b2d1",
+      "run_id": "2026-08-27-solace-verification-lifecycle-measured-v0",
+      "configuration_order": [
+        "A0_EXACT_ARTIFACT_ONLY",
+        "A1_EXACT_ARTIFACT_PLUS_FROZEN_REGISTER"
+      ],
+      "maximum_actor_calls": 24,
       "maximum_maintenance_calls": 0,
-      "maximum_provider_calls": null,
+      "maximum_provider_calls": 24,
       "standalone_expression_gate": false,
       "attempts_per_call": 1,
       "retries": 0,
-      "offline_stage0_required": true,
+      "offline_stage0_required": false,
+      "offline_stage0_passed": true,
       "authorized": false
     },
     "governing_document": "NEXT_SYSTEM_INTERACTION_CONSTRUCTION_VERIFICATION_LIFECYCLE.md",

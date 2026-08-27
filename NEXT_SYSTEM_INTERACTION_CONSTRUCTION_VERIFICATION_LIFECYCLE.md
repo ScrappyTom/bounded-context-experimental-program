@@ -1,6 +1,8 @@
 # Next system interaction — construction-to-verification lifecycle
 
-Status: offline design only; no GPU run authorized
+Status: offline Stage 0 passed at standalone commit
+`a2c9270c676e2d0d8427b119f81ec39b3f21b2d1`; measured GPU run separately
+unauthorized
 
 Date: 2026-08-26
 
@@ -180,3 +182,28 @@ Before requesting GPU authorization:
 8. state explicitly that zero GPU calls have occurred.
 
 No live model call is authorized by this document.
+
+## Stage 0 disposition
+
+The standalone implementation now satisfies the offline gate with zero provider
+calls:
+
+- the exact donor candidate, register, latest undelivered effect, and initial
+  result ledger are hash-locked;
+- evaluator v1 fails exactly the heading contract and Q02/Q03/Q04/Q09 on the
+  donor, while correctly passing Q10's permitted numeric forms and the negated
+  wrong-duration distinction;
+- A0 begins at 8,693 prompt tokens and A1 at 15,339, so both preserve the same
+  4,096-token response reserve and A1 pays the full 6,646-token scaffold cost;
+- a bounded exact-patch action avoids complete-document retransmission;
+- an eleven-edit, 760-token provider-free fixture reaches check, repair, stale-
+  check recognition, current recheck, and submission in both arms;
+- each measured cell has twelve actor calls: four clean-path decisions, six
+  additional repair/recovery decisions, and two expression-failure decisions;
+- all 156 standalone tests pass.
+
+The next eligible operation is the separately authorized two-cell run
+`2026-08-27-solace-verification-lifecycle-measured-v0`, ordered A0 then A1,
+with at most 24 actor/provider calls, one attempt per call, and zero retries.
+Stage 0 qualification is an apparatus fact, not evidence that the register
+helps verification.

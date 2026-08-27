@@ -15,7 +15,7 @@ class SystemInteractionDirectionTests(unittest.TestCase):
 
     def test_unit_is_whole_configuration_not_component(self):
         self.assertEqual(
-            "e68_solace_authentic_pressure_qualified_complete_interaction_frozen_gpu_unauthorized",
+            "e71_solace_postconstruction_lifecycle_stage0_qualified_measured_run_gpu_unauthorized",
             self.contract["status"],
         )
         self.assertEqual("whole_configuration_trajectory", self.contract["unit_of_analysis"])

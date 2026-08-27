@@ -31,7 +31,7 @@ class E69SolaceAnchoredInteractionTests(unittest.TestCase):
         self.assertIn("final L1 mutation effect never crossed another actor decision", result)
         self.assertIn("No GPU run is authorized", result)
 
-    def test_machine_route_moves_to_offline_lifecycle_ablation(self):
+    def test_machine_route_records_completed_stage0_and_unauthorized_measurement(self):
         contract = json.loads(
             (ROOT / "SYSTEM_INTERACTION_EXPLORATION.json").read_text(encoding="utf-8")
         )
@@ -42,7 +42,13 @@ class E69SolaceAnchoredInteractionTests(unittest.TestCase):
         self.assertFalse(measured["useful_completion"])
         self.assertTrue(measured["independent_audit_passed"])
         next_operation = route["next_live_operation"]
-        self.assertTrue(next_operation["offline_stage0_required"])
+        self.assertFalse(next_operation["offline_stage0_required"])
+        self.assertTrue(next_operation["offline_stage0_passed"])
+        self.assertEqual(
+            "a2c9270c676e2d0d8427b119f81ec39b3f21b2d1",
+            next_operation["freeze_commit"],
+        )
+        self.assertEqual(24, next_operation["maximum_provider_calls"])
         self.assertFalse(next_operation["authorized"])
         self.assertFalse(route["gpu_authorized"])
         self.assertEqual(

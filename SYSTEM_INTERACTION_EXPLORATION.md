@@ -2,10 +2,14 @@
 
 Date: 2026-08-26
 
-Status: governing direction; E66 closes complete-line model-copy transport as
-a local apparatus negative; E67 qualifies a fresh fault-tolerant whole-system
-route in which host-owned exact provenance and fallible semantic maintenance
-remain inside the measured interaction rather than gating it
+Status: governing direction through E71; E69 produced the first positive
+whole-trajectory signal for anchored semantic persistence coupled to exact
+incremental task work, while E70 showed that the causal unit also includes
+artifact persistence, construction timing/granularity, and action transport.
+E71 qualifies the construction-to-verification lifecycle apparatus offline;
+the active boundary is its separately authorized measured comparison. The
+earlier W0/L1 acquisition-to-construction divergence remains a separate
+whole-configuration transfer question.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -1035,3 +1039,30 @@ representation
 The next lifecycle ablation remains valid only as a post-construction marginal
 register-value study. It must not be used to retroactively isolate E69's W0/L1
 divergence.
+
+## E71: post-construction lifecycle apparatus is reachable
+
+Offline Stage 0 at standalone commit
+`a2c9270c676e2d0d8427b119f81ec39b3f21b2d1` freezes a complete interaction,
+not a carrier-expression gate. Both configurations receive the same exact L1
+artifact, evidence ledger, latest undelivered effect, source/reopen access,
+candidate-bound evaluator, bounded patch action, and closure surface. A1 alone
+retains the already-produced 20-claim register.
+
+Evaluator v1 exposes the four real substantive partial groups and the heading
+defect. Provider-free execution reaches current check, bounded repair, stale-
+check handling, recheck, and submission in both cells. A1 pays a 6,646-token
+initial prompt premium, which is part of the system economics rather than
+hidden apparatus cost.
+
+The measured question is therefore lifecycle interaction:
+
+```text
+exact artifact + currentness + repair transport
+    versus
+same complete verification system + frozen semantic scaffold
+```
+
+It is not an isolated test of register prose, checker format, or patch syntax.
+The apparatus stage authorizes no inference; the next live operation requires
+separate exact commit-bound authorization.

@@ -141,13 +141,17 @@ later actor decision. See [the E69 result](E69_SOLACE_ANCHORED_PROVENANCE_INTERA
 [the E70 transcript reconciliation](E70_SOLACE_QUALITATIVE_TRANSCRIPT_RECONCILIATION.md),
 and the completed [Solace interaction contract](NEXT_SYSTEM_INTERACTION_FAULT_TOLERANT_PROVENANCE.md).
 
-The next route is offline-only qualification of the newly exposed
-construction-to-verification lifecycle boundary. It will compare fresh exact
+Offline Stage 0 has qualified the newly exposed construction-to-verification
+lifecycle boundary at standalone commit
+`a2c9270c676e2d0d8427b119f81ec39b3f21b2d1`. The measured run will compare fresh exact
 current-state reentry with and without the already-produced register while
 holding the substantial candidate fixed and continuing through check, repair,
 recheck, and correct closure. This estimates post-construction marginal
 register value; it does not explain why W0 selected late global replacement
-while L1 selected early incremental work. No GPU run is authorized. See
+while L1 selected early incremental work. Evaluator v1 and a bounded exact-
+patch action pass provider-free check/repair/recheck/closure qualification in
+both arms; all 156 standalone tests pass. The measured GPU run remains
+separately unauthorized. See
 [the lifecycle plan](NEXT_SYSTEM_INTERACTION_CONSTRUCTION_VERIFICATION_LIFECYCLE.md).
 
 The first breadth tranche is complete. Its 39 calls used one attempt each and
