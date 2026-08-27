@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-27
-Status: current program synthesis through E76; E69 produced the first positive
+Status: current program synthesis through E77; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
 among semantic residue, exact artifacts, construction timing/granularity, and
@@ -17,8 +17,11 @@ pressure fork, and E75 froze the compound F0/P1 runner from that exact state.
 E76 now shows that P1's phase-conditional allocation materially extends repair
 and current recheck relative to F0, but a bounded frame without explicit
 recurrence-sensitive causal continuity can settle into repeated exact reads.
-Neither arm completed. The next route is unselected and no GPU call is
-authorized.
+Neither arm completed. E77 then finds related action-transport/non-progress
+recurrence in three independent worlds and rejected-mutation recurrence in two,
+and qualifies a bounded host-mechanical causal frame plus uniquely bound repair
+offline. A fresh whole-system Stage 0 is selected; no task, runner, or GPU call
+is authorized.
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -1205,3 +1208,44 @@ couples current state, a prospectively bounded host-derived causal tail,
 structurally unique repair actions, effect uptake, current recheck, readiness,
 and closure. Orchard prompt tuning, longer continuation, and same-donor
 causal-tail ablation are closed.
+
+## E77 establishes a cross-world causal/action-transport boundary
+
+The offline audit at standalone commit `2e276cb` reconstructs 157 sealed actor
+calls in ten cells across Architecture, Cedar, Solace, and Orchard.
+
+The patterns are not identical, but they are functionally related:
+
+* Architecture D0 repeats one exact rejected no-effect section update;
+* Solace W0 repeats full-document construction that cannot cross the response/
+  JSON admission boundary; and
+* Orchard P1 retains an unchanged candidate after a rejected ambiguous repair,
+  then repeats the same exact source read four times.
+
+Cedar shows no comparable rejection recurrence, and Solace's admitted
+patch/check loops show that bounded repair can progress when transport and
+currentness remain viable. The audit therefore does not relabel every
+incomplete trajectory as a control-memory failure.
+
+Rejected mutation recurrence itself transfers across two independent worlds:
+Architecture and Orchard. This earns a mechanical lifecycle invariant, not a
+behavioral mechanism:
+
+> Keep an unresolved rejected mutation active until candidate change; do not
+> erase it merely because a newer source observation arrives.
+
+The provider-free implementation renders current candidate/check, latest
+attempt, active rejection, latest update/effect, recurrence, and exact history
+handle in at most 1,297 tokens over audited endpoints. A common 461-token repair
+binds candidate, artifact, unique section, and expected section bytes. Stale
+bindings reject without mutation; admitted effect and current recheck are
+reachable.
+
+This closes the offline cross-run gate. The next selected work is a fresh
+whole-system Stage 0 in which both viable systems share the repaired action
+surface and differ in whether unresolved rejection/recurrence survives bounded
+current-state replacement. The measured horizon must still cover construction,
+repair, effect uptake, current recheck, readiness, and closure. No fresh world
+or GPU run exists yet.
+
+The repair surface is common apparatus, not a treatment advantage.

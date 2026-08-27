@@ -52,7 +52,7 @@ class E69SolaceAnchoredInteractionTests(unittest.TestCase):
         self.assertTrue(next_operation["provider_free_complete_lifecycle_qualified"])
         self.assertFalse(route["gpu_authorized"])
         self.assertEqual(
-            "NEXT_SYSTEM_INTERACTION_PHASE_CONDITIONAL_LIFECYCLE_TRANSFER.md",
+            "NEXT_SYSTEM_INTERACTION_BOUNDED_CAUSAL_VERIFICATION_TRANSFER.md",
             route["governing_document"],
         )
 

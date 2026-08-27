@@ -1381,3 +1381,30 @@ to F0. It does not achieve readiness, submission, or useful completion.
 Memoryless current-state replacement is locally insufficient; bounded
 mechanical causal continuity plus repair binding is a fresh whole-system
 interaction hypothesis, not a promoted isolated mechanism.
+
+## E77 — cross-run causal continuity and uniquely bound repair
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@2e276cb69106de263516aa4828d30cec0e25e365`
+
+An offline deterministic audit covers 157 sealed actor calls in ten cells and
+four independent worlds. Architecture D0 repeats one exact rejected no-effect
+section update; Solace W0 repeats unadmitted global construction at the
+response/JSON boundary; Orchard P1 repeats one exact source read four times
+after an unresolved non-unique repair. Rejected mutation recurrence itself
+appears in Architecture and Orchard. Cedar and admitted Solace patch/check
+loops remain negative/positive controls.
+
+The implemented host-mechanical frame retains current candidate/check, latest
+attempt, unresolved rejection until candidate change, latest update/effect,
+current-candidate-epoch recurrence, and exact history handle. It is at most
+1,297 tokens over audited endpoints. A candidate-, artifact-, and exact-section-
+hash-bound repair is 461 tokens in the Orchard fixture; stale bindings reject
+without mutation, while an admitted effect clears the old rejection epoch and
+supports a provider-free current recheck.
+
+Disposition: **AF/LR/NQ** — action transport and rejection continuity are a
+cross-world systems boundary and the mechanical contract is provider-free
+feasible. Actor use, behavioral benefit, field minimality, readiness, and
+closure remain untested. Orchard remains closed; a fresh whole-system Stage 0
+is selected with zero GPU authority.

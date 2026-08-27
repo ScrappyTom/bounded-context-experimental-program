@@ -1548,3 +1548,26 @@ The candidate state allocation is provisional:
 
 This is a whole-system interaction hypothesis, not an approved field list or
 architecture. No new GPU run is authorized.
+
+## Current program phase after E77
+
+The cross-run audit now distinguishes a donor-specific symptom from a broader
+systems boundary. Architecture, Solace, and Orchard each repeat non-progress at
+an action-transport boundary; rejected mutation recurrence itself appears in
+Architecture and Orchard. Cedar and admitted Solace repair loops show the
+pattern is conditional rather than universal.
+
+The host-mechanical candidate frame and exact section-bound repair are now
+provider-free feasible. They have not changed a model decision. Their role in
+the next experiment is therefore deliberately narrow:
+
+* the repair surface is common apparatus in both viable systems;
+* one system replaces current state without persisting unresolved rejection or
+  recurrence;
+* one system retains those bounded exact causal facts; and
+* both must run through the full evidence-to-artifact-to-repair-to-closure
+  interaction on a fresh world.
+
+This is not a causal-tail prompt test. It is a full lifecycle comparison with a
+prospectively bounded causal-state difference. Offline fresh-world Stage 0 is
+selected. No GPU call is authorized.

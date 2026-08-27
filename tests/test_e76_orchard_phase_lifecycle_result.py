@@ -41,7 +41,6 @@ class E76OrchardPhaseLifecycleResultTests(unittest.TestCase):
         self.assertEqual(RESULT_COMMIT, result["result_commit"])
         self.assertEqual(54, result["provider_calls"])
         self.assertFalse(result["useful_completion"])
-        self.assertEqual("none_selected", route["next_live_operation"]["kind"])
         self.assertFalse(route["gpu_authorized"])
 
     def test_governing_documents_move_to_bounded_causal_interaction(self) -> None:
@@ -54,11 +53,11 @@ class E76OrchardPhaseLifecycleResultTests(unittest.TestCase):
         roadmap = (ROOT / "STRUCTURED_EXPLORATION_ROADMAP.md").read_text(
             encoding="utf-8"
         )
-        self.assertIn("current program synthesis through E76", reconciliation)
+        self.assertIn("current program synthesis through E77", reconciliation)
         self.assertIn("bounded exact causal tail", reconciliation)
-        self.assertIn("governing direction through E76", system)
+        self.assertIn("governing direction through E77", system)
         self.assertIn("Do not tune Orchard", system)
-        self.assertIn("updated through E76", roadmap)
+        self.assertIn("updated through E77", roadmap)
 
 
 if __name__ == "__main__":

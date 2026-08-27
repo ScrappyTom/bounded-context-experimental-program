@@ -2,7 +2,7 @@
 
 Date: 2026-08-27
 
-Status: governing direction through E76; E69 produced the first positive
+Status: governing direction through E77; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, while E70 showed that the causal unit also includes
 artifact persistence, construction timing/granularity, and action transport.
@@ -12,9 +12,11 @@ capacity and preserved relationship errors. Artifact-only verification lasted
 longer but still failed under append-only check/effect chronology. E76 transfers
 the full phase-conditional configuration to Orchard: P1 reaches repair effect
 uptake and current recheck while F0 stops before repair, but P1 then repeats one
-exact read four times. The active boundary is now the interaction among bounded
-current verification state, bounded exact recent causality, repair binding,
-recurrence, readiness, and closure—not another isolated memory object.
+exact read four times. E77 confirms the broader action-transport/causal boundary
+across independent worlds and qualifies a bounded mechanical frame plus
+uniquely bound repair offline. The active boundary is fresh-world whole-system
+transfer through repair, recheck, readiness, and closure—not another isolated
+memory object.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -1214,3 +1216,36 @@ The next run-selection rule is:
 > effect uptake, current recheck, and independently adjudicated closure. Compare
 > viable whole configurations. Do not tune Orchard, extend its call horizon, or
 > isolate one causal-tail field.
+
+## E77: cross-world gate and common repair correction
+
+The deterministic audit reconstructs 157 actor calls in ten cells and four
+independent worlds. Functional action-transport recurrence occurs in
+Architecture, Solace, and Orchard. Rejected-mutation recurrence specifically
+occurs in Architecture and Orchard. Cedar and successful Solace patch/check
+loops remain controls.
+
+The host can mechanically preserve the relevant exact state in bounded slots:
+
+```text
+current candidate/check
++ latest attempt and outcome
++ unresolved rejected mutation until candidate change
++ latest update/effect
++ current-candidate-epoch recurrence
++ exact history handle
+```
+
+The largest audited projection is 1,297 tokenizer tokens. This is not semantic
+memory and does not recommend an action.
+
+Free-form patch anchoring is now a known common apparatus defect. Future viable
+systems therefore share a candidate-/artifact-/unique-section-hash-bound repair
+surface. That prevents a causal-state treatment from winning merely because its
+mutation interface is usable.
+
+The selected next unit is a complete fresh lifecycle. V0 replaces current state
+without persistent rejection/recurrence slots; V1 preserves those exact bounded
+facts. Both must traverse the same pressured construction system, repair,
+effect uptake, current recheck, readiness, and closure. Stage 0 remains offline
+and no GPU call is authorized.

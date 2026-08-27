@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 68 successor stages through E76 Orchard phase-lifecycle interaction result",
+  "scope": "parent bank plus 69 successor stages through E77 cross-run causal-continuity audit and contract preflight",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 68,
+    "successor_stages": 69,
     "follow_on_model_calls": 688,
     "follow_on_serialized_tokens": 8949719,
-    "unique_cited_experiment_commits": 63
+    "unique_cited_experiment_commits": 64
   },
   "stages": [
     {
@@ -700,6 +700,16 @@
       "serialized_tokens": 736332,
       "included_in_follow_on_totals": true,
       "primary_disposition": "both cells followed an identical pressured anchored-scaffold plus exact-incremental-artifact construction path through eight maintenance calls, nine candidate mutations, and actor-selected verification; F0 retained scaffold plus append-only verification, ran one check and one read, then stopped under unrelievable prompt pressure with a 1075-word partial artifact; P1 demoted scaffold and replaced current verification state, reached targeted recovery, admitted repair, effect uptake, and current recheck, reducing nine mechanical blockers to three and producing a 1365-word strong partial with all twelve substantive groups present, but then repeated the same CURRENT read four times after a second non-unique patch rejection and exhausted its verification-call budget; both remain not ready and unsubmitted, so phase-conditional allocation improves operability and artifact quality without earning completion, while bounded causal continuity and repair binding become the next whole-system interaction boundary"
+    },
+    {
+      "stage_id": "S69",
+      "name": "Cross-run causal-continuity audit and repair-contract preflight",
+      "stage_type": "reconciliation",
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "2e276cb69106de263516aa4828d30cec0e25e365", "count_as_experiment_commit": true}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "offline reconstruction of 157 sealed actor calls in ten cells across four independent worlds finds action-transport failure plus functional nonprogress recurrence in Architecture, Solace, and Orchard, and rejected-mutation recurrence specifically in Architecture and Orchard; Cedar and admitted Solace patch-check loops serve as controls; a host-mechanical frame retaining current candidate/check, unresolved rejection until candidate change, latest update/effect, recurrence, and exact history handle renders at no more than 1297 tokens over audited endpoints, while a 461-token candidate-artifact-section-hash-bound repair completes provider-free effect uptake and current recheck; zero model calls occurred, behavioral utility remains untested, Orchard remains closed, and only a fresh whole-system Stage 0 is selected"
     }
   ]
 }

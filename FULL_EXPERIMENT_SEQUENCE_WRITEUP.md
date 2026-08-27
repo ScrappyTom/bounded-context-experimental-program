@@ -1964,3 +1964,36 @@ The next target is not a new summary format. It is a fresh complete lifecycle
 combining current exact state, bounded host-derived causal continuity,
 structurally bindable repair, effect uptake, current recheck, readiness, and
 closure. Orchard itself is closed to tuning and extension.
+
+## 69. Cross-run audit separates a recurring lifecycle boundary from Orchard
+
+E77 reconstructs 157 sealed actor calls in ten cells and four independent
+worlds without making a model call.
+
+Architecture D0 ends with two byte-identical no-effect section updates. Solace
+W0 produces two different but equally unadmitted whole-document drafts at the
+same response/JSON boundary. Orchard P1 follows its second ambiguous repair
+rejection with four identical exact reads. Cedar has no comparable rejection
+recurrence, while Solace's bounded patch/check cells admit repairs until final
+effects outgrow the remaining chronology.
+
+The evidence therefore supports a conditional cross-world boundary rather than
+a universal loop claim. Rejected mutation recurrence itself appears in two
+independent worlds: Architecture and Orchard.
+
+The offline implementation preserves an unresolved rejection until candidate
+change, even when newer observations arrive, and counts exact action recurrence
+inside the unchanged-candidate epoch. Together with compact current-check and
+effect bindings, this costs at most 1,297 tokenizer tokens across the audited
+endpoints.
+
+The repair surface is also corrected mechanically. A transaction binds the
+current candidate, exact artifact, unique section heading, and expected section
+hash. A 461-token Orchard fixture is admitted; stale candidate/section bindings
+reject without mutation; the new effect and current recheck remain reachable.
+
+These are apparatus and systems-routing facts, not behavioral evidence. The
+next selected phase is fresh-world whole-system Stage 0. Both future systems
+share the repaired action surface and full construction/verification lifecycle;
+the prospective difference is whether unresolved rejection and recurrence
+survive bounded current-state replacement. No GPU run is authorized.

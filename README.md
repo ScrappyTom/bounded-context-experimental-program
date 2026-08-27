@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 63 experiment commit bindings are resolved through the named local
+The current 64 experiment commit bindings are resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -193,6 +193,23 @@ not as useful completion. The new whole-system boundary is bounded mechanical
 causal continuity plus uniquely bindable repair inside the current verification
 frame. No new GPU operation is authorized. See
 [E76](E76_ORCHARD_PHASE_LIFECYCLE_INTERACTION_RESULT.md).
+
+The selected offline follow-up is now complete at
+[`2e276cb`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/2e276cb69106de263516aa4828d30cec0e25e365).
+It reconstructs 157 sealed actor calls in ten cells and four independent worlds.
+Action-transport failure plus functional non-progress recurrence appears in
+Architecture, Solace, and Orchard; rejected-mutation recurrence specifically
+appears in Architecture and Orchard. Cedar and admitted Solace patch/check
+loops are retained as controls.
+
+A host-mechanical frame preserving current candidate/check, an unresolved
+rejection until candidate change, latest update/effect, recurrence, and an
+exact history handle renders at no more than 1,297 tokens over the audited
+endpoints. A common 461-token candidate-/artifact-/section-hash-bound repair
+also completes provider-free effect uptake and current recheck. These are
+zero-call apparatus results, not actor utility. A fresh whole-system Stage 0 is
+selected; no task, runner, or GPU operation is yet authorized. See
+[E77](E77_CROSS_RUN_CAUSAL_CONTINUITY_AUDIT.md).
 
 The first breadth tranche is complete. Its 39 calls used one attempt each and
 zero retries. No prompt exceeded 7,110 tokens against the 20,992-token prompt

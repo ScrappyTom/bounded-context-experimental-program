@@ -530,7 +530,7 @@
     "governing_document": "NEXT_SYSTEM_INTERACTION_PROVENANCE_LOCAL_RELATIONAL_SCOUT.md"
   },
   "active_system_route": {
-    "status": "orchard_phase_conditional_lifecycle_measured_complete_no_useful_completion",
+    "status": "cross_run_causal_continuity_audited_fresh_stage0_selected",
     "repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0",
     "stage0_commit": "5af42ca96182ce16dc5aced20f952da9a7c791e4",
     "task_id": "solace-water-recovery-decision-v0",
@@ -764,12 +764,42 @@
       "new_bottleneck": "bounded_current_state_lost_recurrence_sensitive_rejection_causality_and_unique_repair_binding",
       "independent_audit_passed": true
     },
-    "next_live_operation": {
-      "kind": "none_selected",
-      "status": "orchard_complete_successor_requires_fresh_lifecycle_design",
-      "reason": "P1 preserved verification operability and improved the artifact, but the bounded current-state frame lost recurrence-sensitive rejection causality and lacked unique repair binding; the next route must test a complete lifecycle configuration rather than another isolated field or Orchard prompt variant"
+    "cross_run_causal_continuity_audit": {
+      "result_commit": "2e276cb69106de263516aa4828d30cec0e25e365",
+      "provider_calls": 0,
+      "cells": 10,
+      "actor_calls_reconstructed": 157,
+      "independent_worlds": [
+        "architecture_decision",
+        "cedar",
+        "orchard",
+        "solace"
+      ],
+      "action_transport_recurrence_worlds": [
+        "architecture_decision",
+        "solace",
+        "orchard"
+      ],
+      "rejected_mutation_recurrence_worlds": [
+        "architecture_decision",
+        "orchard"
+      ],
+      "maximum_frame_tokens": 1297,
+      "bound_repair_action_tokens": 461,
+      "provider_free_effect_uptake_and_current_recheck": true,
+      "behavioral_utility_measured": false,
+      "independent_audit_passed": true
     },
-    "governing_document": "NEXT_SYSTEM_INTERACTION_PHASE_CONDITIONAL_LIFECYCLE_TRANSFER.md",
+    "next_live_operation": {
+      "kind": "fresh_bounded_causal_verification_stage0",
+      "status": "selected_offline_not_started",
+      "reason": "cross-world audit supports a fresh complete-lifecycle comparison; repair binding is common apparatus and actor-visible causal-state utility remains untested",
+      "offline_stage0_required": true,
+      "fresh_task_selected": false,
+      "measured_runner_frozen": false,
+      "authorized": false
+    },
+    "governing_document": "NEXT_SYSTEM_INTERACTION_BOUNDED_CAUSAL_VERIFICATION_TRANSFER.md",
     "gpu_authorized": false
   },
   "common_live_functions": [
