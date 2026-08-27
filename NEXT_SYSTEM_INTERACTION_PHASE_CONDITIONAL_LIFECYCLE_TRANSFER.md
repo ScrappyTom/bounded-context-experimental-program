@@ -1,8 +1,8 @@
 # Next system interaction — phase-conditional scaffold and verification-state lifecycle transfer
 
-Status: Orchard offline Stage 0 qualified at `444ab65`; the treatment-free
-pressure screen is frozen but requires separate authorization; F0/P1 measurement
-is not yet frozen or authorized
+Status: Orchard Stage 0 qualified at `444ab65`, the authentic pressure fork is
+sealed at `a681f52`, and the measured F0/P1 runner is frozen at `094bbce`; only
+the separately authorized measured GPU comparison is eligible next
 
 Date: 2026-08-27
 
@@ -278,16 +278,18 @@ The fresh task and provider-free lifecycle now pass offline:
 * 178 tests and the independent Stage 0 audit passing;
 * zero provider calls.
 
-The measured runner is intentionally deferred until an authentic actor-selected
-fork exists. Only the treatment-free pressure screen is frozen next:
+The authentic actor-selected fork now exists:
 
 ```text
-run ID: 2026-08-27-orchard-phase-lifecycle-pressure-screen-v0
-freeze: 444ab65a745f1d5cbadbd30e1ed07c99a88ee173
-maximum actor/provider calls: 30
-attempts per call: 1
-retries: 0
+pressure run ID: 2026-08-27-orchard-phase-lifecycle-pressure-screen-v0
+pressure result: a681f52
+pending result: RESULT-006 COMMUNE+CHANGE
+ordinary prompt: 21,152
+first-fit relief: RESULT-001 only -> 18,509
 ```
 
-This qualification does not establish live activation, semantic-scaffold yield,
-construction, transition reachability, verification utility, or completion.
+The measured runner is frozen separately at `094bbce` with F0 then P1, at most
+72 actor calls, 24 maintenance calls, and 96 provider calls total, one attempt
+per call and zero retries. Provider-free execution reaches the full lifecycle,
+but no live semantic-scaffold yield, construction, transition, verification
+utility, readiness, or completion claim is established.

@@ -17,7 +17,7 @@ class E73OrchardPhaseLifecycleStage0Tests(unittest.TestCase):
         self.assertEqual(0, stage["serialized_tokens"])
         self.assertEqual(COMMIT, stage["sources"][0]["result_commit"])
 
-    def test_machine_route_requires_treatment_free_screen_first(self):
+    def test_machine_route_preserves_stage0_and_advances_after_pressure(self):
         contract = json.loads((ROOT / "SYSTEM_INTERACTION_EXPLORATION.json").read_text(encoding="utf-8"))
         route = contract["active_system_route"]
         stage0 = route["phase_conditional_transfer_stage0"]
@@ -26,11 +26,11 @@ class E73OrchardPhaseLifecycleStage0Tests(unittest.TestCase):
         self.assertEqual(178, stage0["standalone_tests_passed"])
         self.assertFalse(stage0["behavioral_utility_measured"])
         next_operation = route["next_live_operation"]
-        self.assertEqual("treatment_free_orchard_pressure_screen", next_operation["kind"])
-        self.assertEqual(30, next_operation["maximum_provider_calls"])
-        self.assertFalse(next_operation["semantic_maintenance_present"])
-        self.assertFalse(next_operation["treatment_present"])
-        self.assertFalse(next_operation["measured_runner_frozen"])
+        self.assertEqual("orchard_phase_lifecycle_measured_interaction", next_operation["kind"])
+        self.assertEqual(96, next_operation["maximum_provider_calls"])
+        self.assertTrue(next_operation["semantic_maintenance_present"])
+        self.assertTrue(next_operation["treatment_present"])
+        self.assertTrue(next_operation["measured_runner_frozen"])
         self.assertFalse(next_operation["authorized"])
         self.assertFalse(route["gpu_authorized"])
 
@@ -39,9 +39,10 @@ class E73OrchardPhaseLifecycleStage0Tests(unittest.TestCase):
         plan = (ROOT / "NEXT_SYSTEM_INTERACTION_PHASE_CONDITIONAL_LIFECYCLE_TRANSFER.md").read_text(encoding="utf-8")
         self.assertIn("not component isolation", result.lower())
         self.assertIn("zero model", result.lower())
-        self.assertIn("treatment-free pressure screen", plan)
-        self.assertIn("F0/P1 measurement", plan)
-        self.assertIn("not yet frozen or authorized", plan)
+        self.assertIn("treatment-free pressure screen", result)
+        self.assertIn("F0/P1 runner is deliberately not frozen", result)
+        self.assertIn("measured F0/P1 runner is frozen", plan)
+        self.assertIn("no live semantic-scaffold yield", plan)
 
 
 if __name__ == "__main__":

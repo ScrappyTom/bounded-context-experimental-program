@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 65 successor stages through E73 Orchard phase-conditional lifecycle offline Stage 0",
+  "scope": "parent bank plus 67 successor stages through E75 Orchard phase-lifecycle measured-run freeze",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 65,
-    "follow_on_model_calls": 628,
-    "follow_on_serialized_tokens": 8151281,
-    "unique_cited_experiment_commits": 60
+    "successor_stages": 67,
+    "follow_on_model_calls": 634,
+    "follow_on_serialized_tokens": 8213387,
+    "unique_cited_experiment_commits": 62
   },
   "stages": [
     {
@@ -670,6 +670,26 @@
       "serialized_tokens": 0,
       "included_in_follow_on_totals": true,
       "primary_disposition": "fresh thirteen-source biologics task, relation-sensitive expected/observed checker, actor-invoked mechanical construction milestone, common anchored-scaffold plus exact-incremental-artifact construction system, and post-transition F0/P1 lifecycle qualify offline; a legal ingress path reaches 21116 tokens before REVIEW is acquired and first-fit RESULT-001 substitution restores 18473; provider-free fixtures reach check, repair, effect uptake, current recheck, and submission with identical final bytes, P1 replaces rather than appends verification state, and four relational reversals are caught; zero provider calls occurred, all 178 tests pass, and only a separately authorized treatment-free pressure screen is eligible next"
+    },
+    {
+      "stage_id": "S66",
+      "name": "Orchard authentic phase-lifecycle common pressure screen",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "a681f52acd750176065b6ed5d5418f5f5ae6e9b8", "count_as_experiment_commit": true}],
+      "model_calls": 6,
+      "serialized_tokens": 62106,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "six valid actor-selected two-source batches delivered ten sources and left pending RESULT-006 COMMUNE plus CHANGE at 21152 prompt tokens, 160 over allowance; first-fit externalization of only RESULT-001 CHARTER plus CULTURE restores 18509 and 2483 headroom; the candidate remains initial, no treatment or task work occurred, and exact replay, relief, seal, and runtime-release audit pass"
+    },
+    {
+      "stage_id": "S67",
+      "name": "Orchard phase-lifecycle measured interaction freeze",
+      "stage_type": "eligibility",
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "094bbce57407568d1ef0ecd94414ae1a957e3b45", "count_as_experiment_commit": true}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "the exact S66 handoff, common first-fit relief, common fallible anchored maintenance, exact incremental construction, actor-selected mechanical phase transition, F0 fixed-scaffold append-only verification, and P1 scaffold-demoting replace-in-place current verification are frozen; construction cannot check or submit, provider-free runner paths reach current recheck and submission, all 175 tests pass, and the compound F0/P1 live comparison remains separately unauthorized"
     }
   ]
 }

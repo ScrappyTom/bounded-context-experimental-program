@@ -2,7 +2,7 @@
 
 Date: 2026-08-27
 
-Status: governing direction through E72; E69 produced the first positive
+Status: governing direction through E75; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, while E70 showed that the causal unit also includes
 artifact persistence, construction timing/granularity, and action transport.
@@ -10,8 +10,9 @@ E72 shows that the same fixed scaffold did not earn verification-phase
 residency: it accelerated one broad repair but consumed effect-uptake/recheck
 capacity and preserved relationship errors. Artifact-only verification lasted
 longer but still failed under append-only check/effect chronology. The active
-boundary is fresh-world transfer of phase-conditional semantic scaffolding,
-exact work persistence, and bounded current-verification replacement.
+boundary is now live measurement of fresh-world phase-conditional semantic
+scaffolding, exact work persistence, and bounded current-verification
+replacement from the audited Orchard pressure fork.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -1134,3 +1135,28 @@ are apparatus facts from zero model calls.
 The next live operation is therefore the treatment-free pressure screen, not
 the F0/P1 comparison. No measured runner or continuation is authorized before
 that handoff is sealed and audited.
+
+## E74–E75: authentic pressure is sealed and the interaction is frozen
+
+Orchard's actor selected six full two-source batches. Ten sources were delivered
+before pending COMMUNE/CHANGE pushed ordinary chronology to 21,152 tokens.
+First-fit externalization of CHARTER/CULTURE alone restores 18,509. The candidate
+is still initial and no treatment or task-work mutation occurred.
+
+The measured runner now makes semantic maintenance common rather than a
+configuration label. Both cells may turn externalized exact evidence into
+fallible provenance-bound scaffolding and exact incremental task work. The
+actual comparison activates only after an actor-selected, mechanically valid
+construction-to-verification transition:
+
+```text
+same scaffold + same exact artifact + same construction path
+        ↓ begin_verification
+F0: retain scaffold + append feedback history
+P1: demote scaffold + replace current candidate/effect/check projection
+```
+
+Construction cannot call check or submit, so the system interaction cannot be
+bypassed. A provider-free integration test reaches current recheck and
+submission in both control paths. These are apparatus facts; comparative live
+behavior and utility remain unmeasured and separately authorization-bound.

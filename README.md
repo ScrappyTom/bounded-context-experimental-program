@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 60 experiment commit bindings are resolved through the named local
+The current 62 experiment commit bindings are resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -153,8 +153,10 @@ unsupported samples-per-round relation and weakened the all-node hydraulic
 gate. The register retained repair salience but did not earn verification-phase
 residency. See [E72](E72_SOLACE_VERIFICATION_LIFECYCLE_RESULT.md).
 
-The active transfer now has a fresh offline-qualified implementation at
-[`444ab65`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/444ab65).
+The active transfer now has an authentic live pressure fork at
+[`a681f52`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/a681f52)
+and a separately frozen measured runner at
+[`094bbce`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/094bbce).
 Orchard is a thirteen-source biologics-restart world comparing the same anchored
 scaffold plus exact incremental artifact construction system in both arms. At a
 prospective actor-invoked mechanical milestone, F0 retains scaffold and
@@ -163,10 +165,16 @@ model-facing candidate/effect/check state while preserving exact external
 history. The prospective path reaches 21,116 prompt tokens before its final
 source and one first-fit substitution restores 18,473. Provider-free fixtures
 reach repair, effect uptake, current recheck, and submission, and four
-relationship reversals are caught. These are apparatus facts from zero model
-calls. Only a separately authorized treatment-free pressure screen is eligible
-next. See [E73](E73_ORCHARD_PHASE_LIFECYCLE_STAGE0.md) and
+relationship reversals are caught. The treatment-free live actor then selected
+six coherent two-source batches, leaving COMMUNE/CHANGE pending at 21,152
+tokens; externalizing only CHARTER/CULTURE restores 18,509. The measured runner
+binds that exact fork and keeps maintenance/artifact construction common until
+the actor-selected phase event. See [E73](E73_ORCHARD_PHASE_LIFECYCLE_STAGE0.md),
+[E74](E74_ORCHARD_PRESSURE_SCREEN_RESULT.md),
+[E75](E75_ORCHARD_PHASE_LIFECYCLE_MEASURED_FREEZE.md), and
 [the transfer plan](NEXT_SYSTEM_INTERACTION_PHASE_CONDITIONAL_LIFECYCLE_TRANSFER.md).
+The next eligible operation is only the separately authorized F0-then-P1
+measured run at the frozen commit.
 
 The first breadth tranche is complete. Its 39 calls used one attempt each and
 zero retries. No prompt exceeded 7,110 tokens against the 20,992-token prompt

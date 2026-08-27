@@ -1317,3 +1317,32 @@ All 178 tests pass.
 Disposition: **AF/NQ** — zero model calls, no utility evidence. Only the
 treatment-free 30-call pressure screen is eligible next; F0/P1 measurement is
 not yet frozen or authorized.
+
+## E74 — Orchard authentic phase-lifecycle pressure screen
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@a681f52`
+
+Six valid actor-selected two-source reads delivered ten sources and left
+COMMUNE+CHANGE pending. Ordinary delivery measured 21,152 prompt tokens, 160
+over allowance. First-fit externalization of only CHARTER+CULTURE restored
+18,509 tokens. The candidate remained initial; no treatment or task-work action
+occurred. Six calls used 62,106 serialized tokens, and independent replay/audit
+passed.
+
+Disposition: **LR/AF/NQ** — authentic common interaction pressure qualifies;
+F0/P1 behavior and utility remain unmeasured.
+
+## E75 — Orchard phase-lifecycle measured-run freeze
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@094bbce`
+
+The exact E74 handoff, common anchored maintenance and incremental construction,
+actor-selected phase milestone, F0 append-only verification, and P1 scaffold-
+demoting current-state replacement are frozen. Check and submit are
+verification-only. Provider-free paths reach repair, stale-check handling,
+current recheck, and submission in both cells. All 175 tests pass.
+
+Disposition: **AF/NQ** — zero new model calls. The compound runner is eligible
+only under separate exact commit-bound authorization.

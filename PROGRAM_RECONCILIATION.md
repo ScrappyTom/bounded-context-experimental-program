@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-27
-Status: current program synthesis through E73; E69 produced the first positive
+Status: current program synthesis through E75; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
 among semantic residue, exact artifacts, construction timing/granularity, and
@@ -11,9 +11,10 @@ relationship fidelity; removing it helps but append-only verification history
 still exhausts context before closure. The active route is fresh-world transfer
 of a phase-conditional scaffold/artifact/current-verification lifecycle. The
 earlier acquisition-to-construction advantage remains a compound transfer
-question rather than a register-only effect. E73 now qualifies the fresh
-Orchard whole-lifecycle apparatus offline; only its treatment-free pressure
-screen is eligible for separate authorization.
+question rather than a register-only effect. E73 qualified the fresh Orchard
+whole-lifecycle apparatus offline, E74 realized and audited its authentic live
+pressure fork, and E75 froze the compound F0/P1 runner from that exact state.
+Only the measured comparison is now eligible for separate authorization.
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -1120,3 +1121,35 @@ This is zero-call apparatus evidence. The model has not realized pressure,
 constructed, invoked the milestone, or survived recomposition. Only the
 separately authorized treatment-free 30-call pressure screen is eligible next.
 The measured F0/P1 runner remains unfrozen until that handoff exists.
+
+## E74 realizes the authentic Orchard interaction boundary
+
+The treatment-free live actor made six valid two-source reads and no other
+action. Ten exact sources crossed actor boundaries; COMMUNE/CHANGE remained
+pending. Ordinary delivery measured 21,152 prompt tokens, 160 above allowance.
+Externalizing only `RESULT-001` CHARTER/CULTURE restored 18,509 tokens and 2,483
+tokens of headroom.
+
+This is not another component result. It fixes the common pre-treatment system
+state at a point where broad ingress has accumulated, no interpretation has yet
+entered exact task work, one semantic-maintenance opportunity is created by
+mechanical source externalization, and construction/verification remain ahead.
+Six calls consumed 62,106 serialized tokens. Exact replay and audit pass.
+
+## E75 freezes the compound phase-lifecycle comparison
+
+Standalone commit `094bbce` binds both cells to E74. F0 and P1 share first-fit
+relief, fallible anchored maintenance, claim admission, exact incremental work,
+seeds, actions, and an actor-selected mechanical construction milestone. Check
+and submission are verification-only, preventing the lifecycle boundary from
+being bypassed.
+
+F0 then retains the frozen scaffold and append-only verification state. P1
+demotes the scaffold behind a hash-bound exact handle and replaces model-facing
+candidate/effect/check state after every verification action. Exact history
+remains externally append-only in both.
+
+The 72 actor / 24 maintenance / 96 provider limits, exact handoff, authorization
+gate, and provider-free end-to-end control paths pass offline; the standalone
+suite passes 175 tests. This is zero-call apparatus evidence. The next eligible
+operation is the separately authorized F0-then-P1 measured comparison.
