@@ -1300,3 +1300,20 @@ fidelity. The next selected study is a fresh-world whole lifecycle comparison
 of fixed scaffold/append-only verification against prospective scaffold
 demotion plus replace-in-place mechanical current-verification state. No GPU
 operation is authorized.
+
+## E73 — Orchard phase-conditional lifecycle Stage 0
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@444ab65a745f1d5cbadbd30e1ed07c99a88ee173`
+
+The fresh thirteen-source task, common scaffold-plus-artifact construction
+system, actor-invoked mechanical transition, F0 append-only verification, and
+P1 replace-in-place current-verification projection qualify provider-free. A
+legal ingress path reaches 21,116 prompt tokens before REVIEW and externalizing
+`RESULT-001` restores 18,473. Both fixtures reach a current passing recheck and
+submission with identical bytes. Four deliberate relation reversals are caught.
+All 178 tests pass.
+
+Disposition: **AF/NQ** — zero model calls, no utility evidence. Only the
+treatment-free 30-call pressure screen is eligible next; F0/P1 measurement is
+not yet frozen or authorized.

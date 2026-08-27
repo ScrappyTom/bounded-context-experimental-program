@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-27
-Status: current program synthesis through E72; E69 produced the first positive
+Status: current program synthesis through E73; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
 among semantic residue, exact artifacts, construction timing/granularity, and
@@ -11,7 +11,9 @@ relationship fidelity; removing it helps but append-only verification history
 still exhausts context before closure. The active route is fresh-world transfer
 of a phase-conditional scaffold/artifact/current-verification lifecycle. The
 earlier acquisition-to-construction advantage remains a compound transfer
-question rather than a register-only effect.
+question rather than a register-only effect. E73 now qualifies the fresh
+Orchard whole-lifecycle apparatus offline; only its treatment-free pressure
+screen is eligible for separate authorization.
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -1097,3 +1099,24 @@ phase-conditional lifecycle in
 `NEXT_SYSTEM_INTERACTION_PHASE_CONDITIONAL_LIFECYCLE_TRANSFER.md`. It must
 compare viable whole systems and continue through current recheck and correct
 closure. No new GPU run is authorized.
+
+## E73 qualifies the fresh phase-conditional system offline
+
+Standalone commit `444ab65` implements Orchard, a new thirteen-source
+biologics-restart world rather than another Solace repair. Both future arms
+share actor-selected ingress, first-fit relief, fallible anchored maintenance,
+exact incremental artifacts, and an actor-invoked mechanical construction
+milestone. F0 then retains scaffold and append-only verification chronology.
+P1 externalizes scaffold and replaces model-facing candidate/effect/check state
+while preserving exact history.
+
+A legal prospective path reaches 21,116 prompt tokens before the final source;
+one substitution restores 18,473. Provider-free fixtures reach repair, effect
+uptake, current recheck, and submission in both configurations, and four
+relation reversals are caught. P1 proves state replacement rather than another
+append-only carrier.
+
+This is zero-call apparatus evidence. The model has not realized pressure,
+constructed, invoked the milestone, or survived recomposition. Only the
+separately authorized treatment-free 30-call pressure screen is eligible next.
+The measured F0/P1 runner remains unfrozen until that handoff exists.

@@ -1882,3 +1882,21 @@ The next study is therefore not another Solace repair or register format. It is
 fresh-world transfer of a complete phase-conditional lifecycle system through
 acquisition, construction, scaffold demotion, bounded current verification,
 repair, recheck, independent readiness, and closure.
+
+## 65. Orchard makes the lifecycle hypothesis executable without claiming it works
+
+The program next built a fresh biologics-restart world rather than repairing the
+Solace donor. Thirteen relational sources feed a task-native evidence matrix and
+incremental restart decision. Both prospective arms use the same semantic
+scaffold and exact artifact during construction, and the actor must invoke a
+mechanically valid milestone before their verification policies diverge.
+
+Offline geometry creates pressure before the final source. Provider-free
+execution reaches repair, effect uptake, current recheck, and submission in both
+arms. P1 demonstrably replaces stale verification state rather than hiding an
+append-only tail. A relation-sensitive checker catches reversals that preserve
+most of the same concepts.
+
+None of this is model behavior. E73 freezes only the ordinary treatment-free
+pressure screen as the next eligible operation. The exact handoff must exist
+before the F0/P1 runner can be frozen.

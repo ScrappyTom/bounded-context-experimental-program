@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 59 experiment commit bindings are resolved through the named local
+The current 60 experiment commit bindings are resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -153,13 +153,19 @@ unsupported samples-per-round relation and weakened the all-node hydraulic
 gate. The register retained repair salience but did not earn verification-phase
 residency. See [E72](E72_SOLACE_VERIFICATION_LIFECYCLE_RESULT.md).
 
-The active route is now fresh-world transfer of a complete phase-conditional
-system: temporary anchored scaffolding during acquisition/construction, exact
-incremental artifact accumulation, scaffold demotion at a frozen construction
-milestone, and replace-in-place mechanical current-verification state through
-check, repair, recheck, readiness, and closure. This is a whole lifecycle
-interaction, not an isolated register ablation. Offline design is selected;
-no fresh task, runner, freeze commit, or GPU call is authorized. See
+The active transfer now has a fresh offline-qualified implementation at
+[`444ab65`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/444ab65).
+Orchard is a thirteen-source biologics-restart world comparing the same anchored
+scaffold plus exact incremental artifact construction system in both arms. At a
+prospective actor-invoked mechanical milestone, F0 retains scaffold and
+append-only verification history; P1 externalizes the scaffold and replaces
+model-facing candidate/effect/check state while preserving exact external
+history. The prospective path reaches 21,116 prompt tokens before its final
+source and one first-fit substitution restores 18,473. Provider-free fixtures
+reach repair, effect uptake, current recheck, and submission, and four
+relationship reversals are caught. These are apparatus facts from zero model
+calls. Only a separately authorized treatment-free pressure screen is eligible
+next. See [E73](E73_ORCHARD_PHASE_LIFECYCLE_STAGE0.md) and
 [the transfer plan](NEXT_SYSTEM_INTERACTION_PHASE_CONDITIONAL_LIFECYCLE_TRANSFER.md).
 
 The first breadth tranche is complete. Its 39 calls used one attempt each and

@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 64 successor stages through E72 Solace verification-lifecycle interaction",
+  "scope": "parent bank plus 65 successor stages through E73 Orchard phase-conditional lifecycle offline Stage 0",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 64,
+    "successor_stages": 65,
     "follow_on_model_calls": 628,
     "follow_on_serialized_tokens": 8151281,
-    "unique_cited_experiment_commits": 59
+    "unique_cited_experiment_commits": 60
   },
   "stages": [
     {
@@ -660,6 +660,16 @@
       "serialized_tokens": 243637,
       "included_in_follow_on_totals": true,
       "primary_disposition": "A0 without the frozen register reached ten actor calls, four patches, and four current checks, while A1 with the register made one broad repair and stopped after four calls; both final effects remained undelivered and both stopped under unrelievable verification-history pressure before current final recheck or closure; direct source review records both strong partial and not ready, with A0 retaining an ill-typed flow/power relation and A1 introducing unsupported samples-per-round plus a weakened all-node pressure gate; fixed register retention does not earn verification-phase value, artifact-only repair also fails under append-only verification history, and fresh-world phase-conditional lifecycle transfer is selected"
+    },
+    {
+      "stage_id": "S65",
+      "name": "Orchard phase-conditional scaffold and current-verification lifecycle offline Stage 0",
+      "stage_type": "eligibility",
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "444ab65a745f1d5cbadbd30e1ed07c99a88ee173", "count_as_experiment_commit": true}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "fresh thirteen-source biologics task, relation-sensitive expected/observed checker, actor-invoked mechanical construction milestone, common anchored-scaffold plus exact-incremental-artifact construction system, and post-transition F0/P1 lifecycle qualify offline; a legal ingress path reaches 21116 tokens before REVIEW is acquired and first-fit RESULT-001 substitution restores 18473; provider-free fixtures reach check, repair, effect uptake, current recheck, and submission with identical final bytes, P1 replaces rather than appends verification state, and four relational reversals are caught; zero provider calls occurred, all 178 tests pass, and only a separately authorized treatment-free pressure screen is eligible next"
     }
   ]
 }

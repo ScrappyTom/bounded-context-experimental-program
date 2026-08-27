@@ -1117,3 +1117,20 @@ append-only verification chronology; the other demotes the scaffold at a frozen
 construction milestone and replaces stale model-facing check/effect state while
 preserving every exact event externally. This is compound by design. Ablation
 belongs after a fresh-world whole-lifecycle signal.
+
+## E73: Orchard qualifies the whole lifecycle offline
+
+Standalone commit `444ab65` freezes a fresh thirteen-source task and complete
+phase-conditional comparison. Both arms use anchored scaffolding and exact
+incremental work during construction. F0 retains scaffold plus append-only
+verification history; P1 demotes scaffold at an actor-invoked mechanical
+milestone and replaces candidate/effect/check state.
+
+Provider-free fixtures reach current recheck and submission with identical
+bytes, P1 replacement is bounded, and four relational reversals are caught. A
+legal ingress path has a feasible pressure fork before the final source. These
+are apparatus facts from zero model calls.
+
+The next live operation is therefore the treatment-free pressure screen, not
+the F0/P1 comparison. No measured runner or continuation is authorized before
+that handoff is sealed and audited.

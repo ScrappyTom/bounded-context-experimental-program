@@ -46,8 +46,11 @@ class E69SolaceAnchoredInteractionTests(unittest.TestCase):
         self.assertFalse(lifecycle["useful_completion"])
         next_operation = route["next_live_operation"]
         self.assertTrue(next_operation["offline_stage0_required"])
-        self.assertFalse(next_operation["offline_stage0_passed"])
-        self.assertIsNone(next_operation["freeze_commit"])
+        self.assertTrue(next_operation["offline_stage0_passed"])
+        self.assertEqual(
+            "444ab65a745f1d5cbadbd30e1ed07c99a88ee173",
+            next_operation["freeze_commit"],
+        )
         self.assertFalse(next_operation["authorized"])
         self.assertFalse(route["gpu_authorized"])
         self.assertEqual(

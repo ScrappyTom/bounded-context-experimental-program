@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-27",
-  "status": "e72_solace_verification_lifecycle_complete_phase_conditional_transfer_selected_offline_only",
+  "status": "e73_orchard_phase_lifecycle_stage0_qualified_pressure_screen_unauthorized",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "authentic_prompt_pressure",
@@ -530,7 +530,7 @@
     "governing_document": "NEXT_SYSTEM_INTERACTION_PROVENANCE_LOCAL_RELATIONAL_SCOUT.md"
   },
   "active_system_route": {
-    "status": "whole_system_interaction_complete_qualitatively_reconciled_verification_lifecycle_measured_phase_conditional_transfer_selected_offline_only",
+    "status": "orchard_phase_conditional_lifecycle_stage0_qualified_treatment_free_pressure_screen_unauthorized",
     "repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0",
     "stage0_commit": "5af42ca96182ce16dc5aced20f952da9a7c791e4",
     "task_id": "solace-water-recovery-decision-v0",
@@ -670,27 +670,46 @@
       "new_bottleneck": "append_only_verification_action_check_effect_chronology",
       "independent_audit_passed": true
     },
-    "next_live_operation": {
-      "kind": "fresh_world_phase_conditional_lifecycle_transfer_stage0",
-      "status": "offline_design_selected_not_frozen",
-      "causal_unit": "construction_scaffold_x_exact_incremental_artifact_x_scaffold_demotion_x_bounded_current_verification_projection",
-      "required_transfer": "fresh_task_world_not_solace_same_boundary_tuning",
-      "construction_policy": "anchored_semantic_scaffold_plus_exact_incremental_artifact",
-      "transition_rule": "prospectively_frozen_construction_milestone",
-      "verification_policy": "semantic_scaffold_demoted_and_append_only_verification_chronology_replaced_by_host_derived_current_projection",
-      "current_projection_fields": [
-        "exact_current_candidate",
-        "latest_effect_and_delivery_status",
-        "current_or_stale_check_binding",
-        "expected_observed_blockers",
-        "exact_reopen_handles"
+    "phase_conditional_transfer_stage0": {
+      "result_commit": "444ab65a745f1d5cbadbd30e1ed07c99a88ee173",
+      "task_id": "orchard-biologics-restart-decision-v0",
+      "provider_calls": 0,
+      "source_count": 13,
+      "source_bytes": 48759,
+      "source_tokens": 17189,
+      "prospective_pressure_prompt_tokens": 21116,
+      "prospective_relief_prompt_tokens": 18473,
+      "prospective_selected_result_ids": ["RESULT-001"],
+      "pressure_before_final_source": true,
+      "configuration_order": [
+        "F0_FIXED_SCAFFOLD_APPEND_ONLY_VERIFICATION",
+        "P1_PHASE_CONDITIONAL_CURRENT_VERIFICATION"
       ],
-      "automatic_phase_discovery": false,
-      "component_isolation_claim": false,
+      "common_construction_system": "fallible_anchored_scaffold_plus_exact_incremental_artifact",
+      "transition_rule": "actor_invoked_mechanical_construction_milestone",
+      "P1_verification_rule": "scaffold_externalized_and_current_candidate_effect_check_projection_replaced",
+      "relationship_red_team_cases": 4,
+      "provider_free_current_recheck_and_submission": true,
+      "standalone_tests_passed": 178,
+      "behavioral_utility_measured": false,
+      "independent_audit_passed": true
+    },
+    "next_live_operation": {
+      "kind": "treatment_free_orchard_pressure_screen",
+      "status": "frozen_awaiting_separate_authorization",
+      "freeze_commit": "444ab65a745f1d5cbadbd30e1ed07c99a88ee173",
+      "run_id": "2026-08-27-orchard-phase-lifecycle-pressure-screen-v0",
+      "maximum_actor_calls": 30,
+      "maximum_provider_calls": 30,
+      "attempts_per_call": 1,
+      "retries": 0,
+      "semantic_maintenance_present": false,
+      "treatment_present": false,
+      "minimum_qualifying_sources": 10,
+      "minimum_qualifying_domains": 10,
+      "measured_runner_frozen": false,
       "offline_stage0_required": true,
-      "offline_stage0_passed": false,
-      "freeze_commit": null,
-      "run_id": null,
+      "offline_stage0_passed": true,
       "authorized": false
     },
     "governing_document": "NEXT_SYSTEM_INTERACTION_PHASE_CONDITIONAL_LIFECYCLE_TRANSFER.md",

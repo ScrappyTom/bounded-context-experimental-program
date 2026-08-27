@@ -2,7 +2,7 @@
 
 Date: 2026-08-27
 
-Status: updated through E72 Solace verification-lifecycle interaction; not a
+Status: updated through E73 Orchard phase-lifecycle offline qualification; not a
 prevalence estimate or architecture
 
 ## Purpose and limits

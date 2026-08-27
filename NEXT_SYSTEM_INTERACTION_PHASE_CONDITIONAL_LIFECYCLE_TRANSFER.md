@@ -1,7 +1,8 @@
 # Next system interaction — phase-conditional scaffold and verification-state lifecycle transfer
 
-Status: selected for offline design; no task, runner, freeze commit, or GPU run
-is authorized
+Status: Orchard offline Stage 0 qualified at `444ab65`; the treatment-free
+pressure screen is frozen but requires separate authorization; F0/P1 measurement
+is not yet frozen or authorized
 
 Date: 2026-08-27
 
@@ -260,3 +261,33 @@ Before any GPU request:
 11. explicitly state that zero GPU calls have occurred.
 
 No live run is authorized by this plan.
+
+## Orchard Stage 0 disposition
+
+The fresh task and provider-free lifecycle now pass offline:
+
+* thirteen relation-rich sources, 48,759 bytes and 17,189 tokenizer tokens;
+* prospective pressure at 21,116 tokens before REVIEW, with one-result relief to
+  18,473;
+* common anchored scaffold plus exact incremental artifact construction;
+* actor-invoked mechanical `begin_verification` milestone;
+* F0 append-only verification and P1 replace-in-place current verification;
+* candidate-bound expected/observed feedback catching four relation reversals;
+* provider-free repair, effect uptake, current recheck, and submission in both
+  arms with identical final bytes;
+* 178 tests and the independent Stage 0 audit passing;
+* zero provider calls.
+
+The measured runner is intentionally deferred until an authentic actor-selected
+fork exists. Only the treatment-free pressure screen is frozen next:
+
+```text
+run ID: 2026-08-27-orchard-phase-lifecycle-pressure-screen-v0
+freeze: 444ab65a745f1d5cbadbd30e1ed07c99a88ee173
+maximum actor/provider calls: 30
+attempts per call: 1
+retries: 0
+```
+
+This qualification does not establish live activation, semantic-scaffold yield,
+construction, transition reachability, verification utility, or completion.

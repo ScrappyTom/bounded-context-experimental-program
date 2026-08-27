@@ -2,10 +2,11 @@
 
 Date: 2026-08-27
 
-Status: updated through E72; Solace produced a positive acquisition-to-
+Status: updated through E73; Solace produced a positive acquisition-to-
 construction interaction and a negative fixed-scaffold verification result.
 The active map now concerns phase-conditional allocation among semantic
-scaffolding, exact artifacts, and current verification state in a fresh world.
+scaffolding, exact artifacts, and current verification state in the fresh
+Orchard world. Offline Stage 0 passes; live pressure remains unmeasured.
 
 ## Research-phase reset
 
@@ -35,6 +36,21 @@ happened, what conceptual role a representation played, and which mechanism
 should follow.
 
 ## Current terrain update through E72
+
+### E73 implementation state
+
+Orchard makes the whole lifecycle testable without treating apparatus as
+behavior. Both arms share anchored scaffolding plus exact incremental work
+during construction. At the same prospective mechanical milestone, F0 retains
+scaffold and append-only verification history while P1 demotes scaffold and
+replaces current candidate/effect/check state. Thirteen relation-rich sources,
+bounded artifact actions, expected/observed feedback, currentness, and readiness
+governance are frozen.
+
+The next breadth sample is the ordinary treatment-free screen that determines
+whether Qwen's own demand creates the required pressure fork. A failed
+activation closes this task geometry; it does not authorize investigator-
+selected evidence injection.
 
 Solace supplies the first within-world evidence that information functions can
 change sign across lifecycle state.
