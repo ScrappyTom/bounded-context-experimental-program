@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 57 experiment commit bindings were resolved through the named local
+The current 59 experiment commit bindings are resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -141,18 +141,26 @@ later actor decision. See [the E69 result](E69_SOLACE_ANCHORED_PROVENANCE_INTERA
 [the E70 transcript reconciliation](E70_SOLACE_QUALITATIVE_TRANSCRIPT_RECONCILIATION.md),
 and the completed [Solace interaction contract](NEXT_SYSTEM_INTERACTION_FAULT_TOLERANT_PROVENANCE.md).
 
-Offline Stage 0 has qualified the newly exposed construction-to-verification
-lifecycle boundary at standalone commit
-`a2c9270c676e2d0d8427b119f81ec39b3f21b2d1`. The measured run will compare fresh exact
-current-state reentry with and without the already-produced register while
-holding the substantial candidate fixed and continuing through check, repair,
-recheck, and correct closure. This estimates post-construction marginal
-register value; it does not explain why W0 selected late global replacement
-while L1 selected early incremental work. Evaluator v1 and a bounded exact-
-patch action pass provider-free check/repair/recheck/closure qualification in
-both arms; all 156 standalone tests pass. The measured GPU run remains
-separately unauthorized. See
-[the lifecycle plan](NEXT_SYSTEM_INTERACTION_CONSTRUCTION_VERIFICATION_LIFECYCLE.md).
+The Solace construction-to-verification lifecycle comparison is now complete at
+[`7620e1b`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7620e1b).
+A0 removed the register and reached ten calls, four patches, and four checks;
+A1 retained the register, made one broad four-domain patch, and stopped after
+four calls. Both final effects were undelivered and both arms stopped under
+unrelievable verification-history pressure before a current final check.
+Direct source review records both final artifacts `strong_partial`, `not_ready`:
+A0 retained an ill-typed pump-flow/power relation, while A1 introduced an
+unsupported samples-per-round relation and weakened the all-node hydraulic
+gate. The register retained repair salience but did not earn verification-phase
+residency. See [E72](E72_SOLACE_VERIFICATION_LIFECYCLE_RESULT.md).
+
+The active route is now fresh-world transfer of a complete phase-conditional
+system: temporary anchored scaffolding during acquisition/construction, exact
+incremental artifact accumulation, scaffold demotion at a frozen construction
+milestone, and replace-in-place mechanical current-verification state through
+check, repair, recheck, readiness, and closure. This is a whole lifecycle
+interaction, not an isolated register ablation. Offline design is selected;
+no fresh task, runner, freeze commit, or GPU call is authorized. See
+[the transfer plan](NEXT_SYSTEM_INTERACTION_PHASE_CONDITIONAL_LIFECYCLE_TRANSFER.md).
 
 The first breadth tranche is complete. Its 39 calls used one attempt each and
 zero retries. No prompt exceeded 7,110 tokens against the 20,992-token prompt

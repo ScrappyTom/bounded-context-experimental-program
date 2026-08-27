@@ -1827,3 +1827,58 @@ horizon, not register utility. The next eligible operation is the separately
 authorized A0/A1 measured run, which asks whether semantic scaffolding remains
 valuable after substantial meaning has already been capitalized into exact
 task work.
+
+## 64. Solace shows that useful scaffolding can become verification baggage
+
+E72 ran the frozen A0/A1 lifecycle with fourteen provider calls and 243,637
+serialized tokens. Both configurations began from the same exact E69 L1
+candidate and latest undelivered effect. A1 alone retained the twenty-claim
+construction register, which raised its first prompt by 6,646 tokens.
+
+Both actors immediately checked the current candidate and read the same four
+defect-relevant sources. A0 then made four patches and four checks over ten
+calls. A1 used one broad patch to add every frozen missing concept after the
+raw BASTION/CIPHER result had already been externalized. This is local evidence
+that the register continued to carry repair-relevant source meaning.
+
+The same fixed register made the next state unreachable. A1's patch effect
+could not fit into a later actor decision even after every eligible source body
+was demoted; the packet remained 153 tokens over allowance. A0 continued six
+calls further, but its accumulated check/effect/action chronology eventually
+became unrelievable at 21,990 prompt tokens. Neither final effect crossed a
+later actor boundary, neither final candidate was rechecked, and neither arm
+submitted.
+
+The frozen concept checker makes both final candidates look one heading repair
+from passing. Direct source review finds otherwise. A0 preserves the sample and
+hydraulic distinctions correctly but retains a donor sentence comparing pump
+flow capacity with a 6.5 MW power value. A1 removes that dimensional error but
+invents forty-eight samples per round and weakens the positive at-least-35-psi
+at-every-critical-node gate. Both artifacts remain strong partial and not ready.
+
+This result changes the architectural hypothesis from “keep the useful
+register” to “allocate semantic scaffolding by lifecycle state”:
+
+```text
+temporary provenance scaffold
+    helps exact evidence become cumulative task work
+        ↓
+exact incremental artifact
+    becomes the durable applied state
+        ↓
+verification transition
+    demote scaffold unless it still earns marginal value
+    replace stale check/effect chronology with bounded current state
+```
+
+The exact artifact did not solve verification alone. A0's failure shows that
+verification needs its own replacement law for model-facing currentness while
+preserving full events externally. E72 also shows that provider-free apparatus
+reachability and concept-gate passage cannot substitute for relationship-level
+semantic evaluation: the E71 fixture itself encoded the same unsupported
+per-round sample relation later produced by A1.
+
+The next study is therefore not another Solace repair or register format. It is
+fresh-world transfer of a complete phase-conditional lifecycle system through
+acquisition, construction, scaffold demotion, bounded current verification,
+repair, recheck, independent readiness, and closure.

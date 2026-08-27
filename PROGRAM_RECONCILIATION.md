@@ -1,14 +1,17 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
-Date: 2026-08-26
-Status: current program synthesis through E71; E69 produced the first positive
+Date: 2026-08-27
+Status: current program synthesis through E72; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
 among semantic residue, exact artifacts, construction timing/granularity, and
-action transport. Neither arm completed. E71 qualifies the construction-to-
-verification lifecycle apparatus offline; the measured A0/A1 run now requires
-separate authorization. The earlier
-acquisition-to-construction advantage remains a separate transfer question.
+action transport. E72 then shows that retaining the same fixed scaffold through
+verification shortens the reachable feedback loop and does not protect
+relationship fidelity; removing it helps but append-only verification history
+still exhausts context before closure. The active route is fresh-world transfer
+of a phase-conditional scaffold/artifact/current-verification lifecycle. The
+earlier acquisition-to-construction advantage remains a compound transfer
+question rather than a register-only effect.
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -1053,3 +1056,44 @@ register improves verification, and it does not explain E69's construction
 divergence. The next eligible operation is the separately authorized A0-then-A1
 measured lifecycle run on this exact commit, with at most 24 actor/provider
 calls, one attempt per call, and zero retries.
+
+## E72 resolves the local post-construction register question
+
+The measured lifecycle completed at standalone result commit `7620e1b`. A0
+without the register reached ten calls, four candidate patches, and four current
+checks. A1 with the frozen register made one broad four-domain patch and stopped
+after four calls. Both began from the same exact candidate and selected the same
+two source batches after the same initial check.
+
+A1 demonstrates continued behavioral value from the construction scaffold: it
+used BASTION/CIPHER meaning after that raw result had been externalized. But the
+register's 6,646-token initial cost made its first patch effect impossible to
+deliver into another actor call. A0's artifact-only packet preserved six more
+feedback decisions, but its append-only check/effect/action history eventually
+produced the same unrelievable terminal class.
+
+Neither trajectory completed. Direct review finds both strong partial and not
+ready. A0 retains a dimensional flow/power error. A1 invents a per-round sample
+count and weakens an all-node hydraulic gate. The frozen checker missed all
+three because it recognizes concepts more strongly than relations.
+
+The local ownership/lifecycle disposition is now:
+
+```text
+semantic scaffold
+    provisional acquisition/construction investment
+exact task artifact
+    durable applied work state
+current verification projection
+    mechanically replaceable candidate/effect/check state
+full event and evaluation history
+    exact external custody
+```
+
+The program does not promote automatic scaffold demotion from one task. It does
+close fixed-register retention as the default verification policy at this
+boundary. The next eligible work is offline fresh-world design of the complete
+phase-conditional lifecycle in
+`NEXT_SYSTEM_INTERACTION_PHASE_CONDITIONAL_LIFECYCLE_TRANSFER.md`. It must
+compare viable whole systems and continue through current recheck and correct
+closure. No new GPU run is authorized.

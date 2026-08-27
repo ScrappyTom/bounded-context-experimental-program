@@ -26,17 +26,18 @@ class E71SolaceVerificationLifecycleStage0Tests(unittest.TestCase):
         self.assertTrue(stage0["provider_free_complete_lifecycle_qualified"])
         self.assertFalse(stage0["behavioral_utility_measured"])
         self.assertEqual(6646, stage0["register_prompt_increment_tokens"])
-        next_operation = route["next_live_operation"]
-        self.assertEqual(COMMIT, next_operation["freeze_commit"])
-        self.assertEqual(24, next_operation["maximum_actor_calls"])
-        self.assertFalse(next_operation["authorized"])
+        measured = route["verification_lifecycle_result"]
+        self.assertEqual(14, measured["provider_calls"])
+        self.assertEqual(243_637, measured["serialized_tokens"])
+        self.assertEqual(6646, measured["register_prompt_increment_tokens"])
+        self.assertFalse(measured["useful_completion"])
 
     def test_docs_preserve_scope_and_no_gpu_authorization(self):
         plan = (ROOT / "NEXT_SYSTEM_INTERACTION_CONSTRUCTION_VERIFICATION_LIFECYCLE.md").read_text(encoding="utf-8")
         ledger = (ROOT / "EVIDENCE_LEDGER.md").read_text(encoding="utf-8")
         self.assertIn("Stage 0 disposition", plan)
         self.assertIn("does **not** isolate", plan)
-        self.assertIn("Stage 0 qualification is an apparatus fact", plan)
+        self.assertIn("The authorized two-cell run completed", plan)
         self.assertIn("E71", ledger)
         self.assertIn("AF/NQ", ledger)
 

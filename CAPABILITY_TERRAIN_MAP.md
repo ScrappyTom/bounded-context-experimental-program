@@ -1,9 +1,9 @@
 # Capability terrain map
 
-Date: 2026-08-25
+Date: 2026-08-27
 
-Status: updated through E64 Aster provenance-local relational whole-system
-Stage 0; not a prevalence estimate or architecture
+Status: updated through E72 Solace verification-lifecycle interaction; not a
+prevalence estimate or architecture
 
 ## Purpose and limits
 
@@ -40,6 +40,7 @@ prevalence estimates, or model-specific capability claims.
 | Fresh Bluehaven decision package | E53–E56 | Independent pressure-qualified source world used for batched-maintenance transport qualification. Its partial-evidence unsupported completion is one world-level hazard, not cross-world recurrence. E57 compares it with E46 and Cedar without pooling same-world arms. |
 | Fresh Meridian infusion package | E58–E63 | Independent opaque-ID, many-to-many source world with authentic pressure and one materially safe but transport-rejected local expression. E62–E63 add offline topology and provenance-apparatus audits, not another behavioral replication. |
 | Fresh Aster payment-recovery package | E64 | Independent opaque-ID, many-to-many source world and complete W0/L1 provenance-relational Stage 0. Offline geometry and provider-free lifecycle qualify; no live pressure, expression, persistence, or utility evidence yet. |
+| Fresh Solace water-recovery package | E67–E72 | Independent fourteen-source relational world. E69 shows a positive anchored-residue × exact-artifact × transport construction interaction; E72 shows fixed scaffold retention does not earn verification-phase value and exposes verification-history replacement as a new common boundary. Same-world stages are one independence group. |
 | Capability-terrain reconnaissance | E37 | Five source/candidate lineages across atlas navigation, research revision, and three code/review situations. D6 inherits D2 and is not independent. The portfolio is enriched from known fixtures and shares one profile/interface, so it broadens functional coverage without estimating prevalence. |
 | Sister Qwen 3.6 action/effect worlds | Experiments 101–113 in `bounded-context-harness-effects`: 17 named coding task worlds; reused tasks and frozen-state studies are identified separately | Cross-profile, cross-apparatus triangulation only. The bank broadens coding action/effect coverage but is neither Qwen3.8 context-window replication nor broad domain sampling. |
 

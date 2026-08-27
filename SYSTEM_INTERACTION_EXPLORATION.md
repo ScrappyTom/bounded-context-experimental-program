@@ -1,15 +1,17 @@
 # System-interaction exploration
 
-Date: 2026-08-26
+Date: 2026-08-27
 
-Status: governing direction through E71; E69 produced the first positive
+Status: governing direction through E72; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, while E70 showed that the causal unit also includes
 artifact persistence, construction timing/granularity, and action transport.
-E71 qualifies the construction-to-verification lifecycle apparatus offline;
-the active boundary is its separately authorized measured comparison. The
-earlier W0/L1 acquisition-to-construction divergence remains a separate
-whole-configuration transfer question.
+E72 shows that the same fixed scaffold did not earn verification-phase
+residency: it accelerated one broad repair but consumed effect-uptake/recheck
+capacity and preserved relationship errors. Artifact-only verification lasted
+longer but still failed under append-only check/effect chronology. The active
+boundary is fresh-world transfer of phase-conditional semantic scaffolding,
+exact work persistence, and bounded current-verification replacement.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -1066,3 +1068,52 @@ same complete verification system + frozen semantic scaffold
 It is not an isolated test of register prose, checker format, or patch syntax.
 The apparatus stage authorizes no inference; the next live operation requires
 separate exact commit-bound authorization.
+
+## E72: information value changes across the construction-to-verification transition
+
+The authorized Solace lifecycle comparison completed at standalone result
+commit `7620e1b`. Both arms used the same exact candidate, currentness, sources,
+checker, patch transport, and budgets. A1 alone retained the frozen construction
+register.
+
+The register remained behaviorally active but not economically dominant. A1
+used its semantic stock to make one broad four-domain repair after one raw
+source result had left residency. It then had no capacity to receive the patch
+effect or recheck it. A0 used three substantive patch/check cycles and one
+heading patch before the same terminal resource fired.
+
+This is a direct interaction result:
+
+```text
+same semantic stock
+    valuable enough to change repair breadth
+    costly enough to prevent feedback continuation
+
+same exact artifact
+    sufficient to carry recovered facts across later repair calls
+    insufficient to prevent verification-history accumulation
+```
+
+The artifact-quality reconciliation reinforces the non-isolation rule. A1's
+conceptually complete patch contained unsupported relations; A0's slower repair
+retained a different dimensional relation error. Validator fidelity, semantic
+stock, artifact state, feedback cadence, and context lifecycle jointly
+determined the outcome.
+
+The next interaction unit is therefore phase-conditional allocation, not a
+new memory object:
+
+```text
+anchored scaffold during evidence/construction
+× exact incremental artifact
+× prospective scaffold demotion
+× replace-in-place current verification state
+× relationship-sensitive candidate feedback
+× repair/recheck/readiness/closure
+```
+
+The comparison must transfer to a fresh world. One arm retains the scaffold and
+append-only verification chronology; the other demotes the scaffold at a frozen
+construction milestone and replaces stale model-facing check/effect state while
+preserving every exact event externally. This is compound by design. Ablation
+belongs after a fresh-world whole-lifecycle signal.

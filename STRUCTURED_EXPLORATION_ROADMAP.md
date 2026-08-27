@@ -1,10 +1,11 @@
 # Structured exploration roadmap
 
-Date: 2026-08-25
+Date: 2026-08-27
 
-Status: E64 instantiates the E63 distinction in a fresh Aster whole-system
-Stage 0; the exact E61 route remains closed and authentic pressure, live
-expression, persistence, and whole-system utility remain unmeasured
+Status: updated through E72; Solace produced a positive acquisition-to-
+construction interaction and a negative fixed-scaffold verification result.
+The active map now concerns phase-conditional allocation among semantic
+scaffolding, exact artifacts, and current verification state in a fresh world.
 
 ## Research-phase reset
 
@@ -32,6 +33,29 @@ single mechanism.
 The program will be exact about what happened and provisional about why it
 happened, what conceptual role a representation played, and which mechanism
 should follow.
+
+## Current terrain update through E72
+
+Solace supplies the first within-world evidence that information functions can
+change sign across lifecycle state.
+
+During acquisition and construction, anchored semantic persistence coupled to
+exact incremental work changed late unadmitted global drafting into early
+admitted cumulative construction. During verification, retaining that same
+fixed register shortened the reachable feedback loop and did not prevent
+relationship errors. Removing it allowed more repair/check cycles, but
+append-only verification history still exhausted the prompt before closure.
+
+The active breadth question is no longer “does semantic persistence help?” It
+is:
+
+> Can a complete system move semantic responsibility from temporary evidence
+> scaffold to exact task artifact and then to a bounded candidate/check state
+> as the work lifecycle changes, without losing grounded relationships or
+> causal continuity?
+
+The next scout must transfer that full lifecycle to a fresh task. It must not
+reuse Solace to optimize caps, register wording, or heading diagnostics.
 
 ## What is already earned
 

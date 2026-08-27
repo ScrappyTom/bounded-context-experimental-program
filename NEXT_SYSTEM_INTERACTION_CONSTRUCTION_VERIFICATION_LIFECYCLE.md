@@ -1,8 +1,8 @@
 # Next system interaction — construction-to-verification lifecycle
 
-Status: offline Stage 0 passed at standalone commit
-`a2c9270c676e2d0d8427b119f81ec39b3f21b2d1`; measured GPU run separately
-unauthorized
+Status: measured run complete at standalone result commit `7620e1b`; both arms
+stopped before current final recheck, register retention did not earn
+verification-phase value, and this exact donor route is closed
 
 Date: 2026-08-26
 
@@ -202,8 +202,16 @@ calls:
   additional repair/recovery decisions, and two expression-failure decisions;
 - all 156 standalone tests pass.
 
-The next eligible operation is the separately authorized two-cell run
-`2026-08-27-solace-verification-lifecycle-measured-v0`, ordered A0 then A1,
-with at most 24 actor/provider calls, one attempt per call, and zero retries.
-Stage 0 qualification is an apparatus fact, not evidence that the register
-helps verification.
+The authorized two-cell run completed with 14 provider calls and 243,637
+serialized tokens. A0 made four patches and four checks across ten calls; A1
+made one broad patch and stopped after four. Both final effects were
+undelivered, both final candidates remained strong partial/not ready, and both
+stopped under unrelievable verification-history pressure. A1's register
+retention helped one-shot repair salience but consumed the headroom needed for
+effect uptake and recheck. Direct review also found relationship errors that
+the concept-presence evaluator missed.
+
+The result and next program route are recorded in
+`E72_SOLACE_VERIFICATION_LIFECYCLE_RESULT.md` and
+`NEXT_SYSTEM_INTERACTION_PHASE_CONDITIONAL_LIFECYCLE_TRANSFER.md`. No rerun or
+same-donor repair is selected.
