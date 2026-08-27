@@ -2,11 +2,14 @@
 
 Date: 2026-08-27
 
-Status: updated through E73; Solace produced a positive acquisition-to-
+Status: updated through E76; Solace produced a positive acquisition-to-
 construction interaction and a negative fixed-scaffold verification result.
-The active map now concerns phase-conditional allocation among semantic
-scaffolding, exact artifacts, and current verification state in the fresh
-Orchard world. Offline Stage 0 passes; live pressure remains unmeasured.
+Orchard transfers the phase-conditional system: bounded current verification
+enables repair effect uptake and recheck where fixed append-only state stops,
+but then enters a four-read recurrence loop. The active map now concerns the
+interaction among semantic scaffolding, exact artifacts, current verification,
+bounded recent causality, repair binding, and readiness. No live successor is
+selected.
 
 ## Research-phase reset
 

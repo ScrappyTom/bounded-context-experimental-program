@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-27
-Status: current program synthesis through E75; E69 produced the first positive
+Status: current program synthesis through E76; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
 among semantic residue, exact artifacts, construction timing/granularity, and
@@ -14,7 +14,11 @@ earlier acquisition-to-construction advantage remains a compound transfer
 question rather than a register-only effect. E73 qualified the fresh Orchard
 whole-lifecycle apparatus offline, E74 realized and audited its authentic live
 pressure fork, and E75 froze the compound F0/P1 runner from that exact state.
-Only the measured comparison is now eligible for separate authorization.
+E76 now shows that P1's phase-conditional allocation materially extends repair
+and current recheck relative to F0, but a bounded frame without explicit
+recurrence-sensitive causal continuity can settle into repeated exact reads.
+Neither arm completed. The next route is unselected and no GPU call is
+authorized.
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -1153,3 +1157,51 @@ The 72 actor / 24 maintenance / 96 provider limits, exact handoff, authorization
 gate, and provider-free end-to-end control paths pass offline; the standalone
 suite passes 175 tests. This is zero-call apparatus evidence. The next eligible
 operation is the separately authorized F0-then-P1 measured comparison.
+
+## E76 transfers phase-conditional verification and exposes bounded-causality failure
+
+The authorized Orchard comparison completed at standalone result commit
+`5bfd615`. Both cells followed an identical construction path through eight
+maintenance calls, a twenty-claim scaffold, an exact evidence matrix, eight
+decision-section mutations, and actor-selected verification.
+
+F0 retained scaffold plus append-only history. It ran one current check, read
+CURRENT plus ASSAY, and then could not admit another actor packet. Its exact
+candidate remained a 1,075-word partial with nine mechanical blockers.
+
+P1 demoted scaffold and replaced current verification state. Its first check
+prompt fell from 19,010 to 7,580 tokens. It recovered targeted evidence, admitted
+a repair, received that effect in a later decision, and rechecked the repaired
+candidate. Mechanical blockers fell from nine to three. Direct source review
+finds all twelve substantive groups present; the remaining true defects are a
+35-word shortfall and five missing exact ledger citations. The candidate is
+strong partial and not ready.
+
+P1 then lost useful control progress. After a second non-unique patch rejection,
+the rejection was visible for one call and then displaced by an exact CURRENT
+observation. The bounded projection did not expose recurrence. The actor made
+four byte-identical CURRENT reads and exhausted its twelve-call verification
+budget.
+
+The ownership hypothesis is now sharper:
+
+```text
+temporary semantic scaffold
+    can help evidence become exact task work
+
+exact task artifact
+    is the durable cumulative work state
+
+mechanical current verification projection
+    prevents stale check/effect history from exhausting context
+
+bounded exact causal tail
+    may be needed to preserve failed-action and recurrence continuity
+```
+
+The last line is untested. It must not be promoted as a standalone prompt field.
+The next eligible design, if selected, is a fresh whole-system comparison that
+couples current state, a prospectively bounded host-derived causal tail,
+structurally unique repair actions, effect uptake, current recheck, readiness,
+and closure. Orchard prompt tuning, longer continuation, and same-donor
+causal-tail ablation are closed.

@@ -1900,3 +1900,67 @@ most of the same concepts.
 None of this is model behavior. E73 freezes only the ordinary treatment-free
 pressure screen as the next eligible operation. The exact handoff must exist
 before the F0/P1 runner can be frozen.
+
+## 66. Orchard realizes the authentic common pressure fork
+
+E74 used six single-attempt actor calls. The actor selected six valid two-source
+batches, delivered ten sources, and left COMMUNE+CHANGE pending. Ordinary
+delivery measured 21,152 prompt tokens, 160 above allowance. Externalizing only
+the exact CHARTER+CULTURE result restored 18,509 tokens and 2,483 tokens of
+headroom. The candidate remained initial; no semantic maintenance or task work
+had occurred.
+
+This fixes a real interaction boundary rather than a treatment-friendly packet:
+the actor's own acquisition created pressure, first-fit relief selected the
+first positive source result, and construction plus verification remained
+ahead.
+
+## 67. The compound lifecycle is frozen from exact live state
+
+E75 binds F0 and P1 to the E74 handoff. Both systems share first-fit relief,
+fallible anchored maintenance, a bounded source register, exact task-native
+ledger and section work, actions, seeds, and an actor-selected construction
+milestone. F0 then retains the scaffold and append-only verification history;
+P1 externalizes the scaffold and replaces current candidate/effect/check state.
+
+Provider-free fixtures establish reachability, not utility. The live comparison
+remains compound by design because the research question is phase allocation
+inside a full feedback system.
+
+## 68. Phase-conditional verification repairs more, then loses causal progress
+
+E76 completes 54 provider calls and 736,332 serialized tokens. Both arms are
+identical through twelve actor calls, eight maintenance calls, a twenty-claim
+scaffold, an exact evidence matrix, eight decision sections, and the phase
+transition.
+
+F0 runs one current check, reads CURRENT+ASSAY, and stops because no eligible
+relief can make another packet feasible. Its 1,075-word artifact is partial and
+not ready.
+
+P1's first verification prompt is 7,580 instead of 19,010 tokens. It consumes
+the same nine-blocker check, recovers exact defect sources, admits a repair,
+receives the effect, and obtains a current recheck with only three mechanical
+blockers. Direct review finds all twelve substantive groups present. The true
+remaining defects are exact work-product failures: 1,365 words instead of at
+least 1,400 and only three of eight required ledger citations.
+
+P1 does not close. A second repair fails because the patch anchor is non-unique.
+After one more update displaces that rejection as the latest projected event,
+the actor reads exact CURRENT four times and exhausts the verification-call
+budget.
+
+The learned lifecycle is now:
+
+```text
+too much resident path
+    -> current verification becomes unreachable
+
+too little bounded recent causality
+    -> current verification remains reachable but repeats
+```
+
+The next target is not a new summary format. It is a fresh complete lifecycle
+combining current exact state, bounded host-derived causal continuity,
+structurally bindable repair, effect uptake, current recheck, readiness, and
+closure. Orchard itself is closed to tuning and extension.

@@ -33,11 +33,12 @@ class E72SolaceVerificationLifecycleResultTests(unittest.TestCase):
         self.assertEqual("verification_prompt_pressure_without_feasible_relief", measured["A0_terminal_failure"])
         self.assertEqual("verification_prompt_pressure_without_feasible_relief", measured["A1_terminal_failure"])
         self.assertFalse(measured["final_effect_uptake"])
-        successor = route["next_live_operation"]
-        self.assertEqual("orchard_phase_lifecycle_measured_interaction", successor["kind"])
-        self.assertTrue(successor["treatment_present"])
-        self.assertTrue(successor["measured_runner_frozen"])
-        self.assertFalse(successor["authorized"])
+        successor = route["orchard_measured_runner_freeze"]
+        self.assertEqual(
+            "094bbce57407568d1ef0ecd94414ae1a957e3b45",
+            successor["result_commit"],
+        )
+        self.assertTrue(successor["provider_free_complete_lifecycle_qualified"])
         self.assertFalse(route["gpu_authorized"])
 
     def test_successor_is_explicitly_interaction_level(self):

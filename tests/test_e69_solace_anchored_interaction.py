@@ -44,16 +44,12 @@ class E69SolaceAnchoredInteractionTests(unittest.TestCase):
         lifecycle = route["verification_lifecycle_result"]
         self.assertEqual(14, lifecycle["provider_calls"])
         self.assertFalse(lifecycle["useful_completion"])
-        next_operation = route["next_live_operation"]
-        self.assertTrue(next_operation["offline_stage0_required"])
-        self.assertTrue(next_operation["offline_stage0_passed"])
+        next_operation = route["orchard_measured_runner_freeze"]
         self.assertEqual(
             "094bbce57407568d1ef0ecd94414ae1a957e3b45",
-            next_operation["freeze_commit"],
+            next_operation["result_commit"],
         )
-        self.assertEqual("orchard_phase_lifecycle_measured_interaction", next_operation["kind"])
-        self.assertTrue(next_operation["measured_runner_frozen"])
-        self.assertFalse(next_operation["authorized"])
+        self.assertTrue(next_operation["provider_free_complete_lifecycle_qualified"])
         self.assertFalse(route["gpu_authorized"])
         self.assertEqual(
             "NEXT_SYSTEM_INTERACTION_PHASE_CONDITIONAL_LIFECYCLE_TRANSFER.md",

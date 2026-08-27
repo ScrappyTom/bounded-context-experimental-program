@@ -22,7 +22,6 @@ class E67SolaceStage0Tests(unittest.TestCase):
         route = contract["active_system_route"]
         self.assertEqual(COMMIT, route["stage0_commit"])
         self.assertFalse(route["maintenance_failure_lifecycle"]["standalone_expression_gate"])
-        self.assertFalse(route["next_live_operation"]["authorized"])
         self.assertFalse(route["gpu_authorized"])
 
     def test_governing_docs_preserve_e66_and_select_whole_system_route(self) -> None:

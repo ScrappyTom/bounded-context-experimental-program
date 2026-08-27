@@ -1346,3 +1346,38 @@ current recheck, and submission in both cells. All 175 tests pass.
 
 Disposition: **AF/NQ** — zero new model calls. The compound runner is eligible
 only under separate exact commit-bound authorization.
+
+## E76 — Orchard phase-lifecycle measured interaction
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@5bfd615d58a97a3d8c83b5bf3c4fc713c5e62e9a`
+
+The authorized run completed 38 actor and 16 maintenance calls, 54 provider
+calls total, using 736,332 serialized tokens with one attempt and zero retries.
+Both cells are byte-identical through twelve actor calls, eight maintenance
+calls, nine construction mutations, a twenty-claim scaffold, and the
+actor-selected verification transition.
+
+F0 retains scaffold plus append-only verification. It runs one current check,
+reads CURRENT+ASSAY, and stops at unrelievable prompt pressure. Its 1,075-word
+candidate is partial, not ready, and has nine mechanical blockers.
+
+P1 demotes scaffold and replaces current verification state. Its first check
+prompt is 7,580 rather than 19,010 tokens. It recovers targeted sources, admits
+a repair, receives the effect, and rechecks the repaired candidate. Mechanical
+blockers fall from nine to three. Direct review finds all twelve substantive
+groups present; R05 is a checker surface-order false negative. The 1,365-word
+decision and three-citation ledger still fail exact requirements, so the
+candidate is strong partial and not ready.
+
+After a second non-unique patch rejection, P1 reads exact CURRENT four times
+with identical actions and exhausts its verification-call budget. The bounded
+current frame remains physically operable but does not preserve an explicit
+recurrence fact after newer observations displace the rejection.
+
+Disposition: **AF/LR/NQ** — the complete P1 allocation improves verification
+operability, effect uptake, recheck depth, and final artifact quality relative
+to F0. It does not achieve readiness, submission, or useful completion.
+Memoryless current-state replacement is locally insufficient; bounded
+mechanical causal continuity plus repair binding is a fresh whole-system
+interaction hypothesis, not a promoted isolated mechanism.

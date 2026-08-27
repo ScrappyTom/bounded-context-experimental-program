@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 62 experiment commit bindings are resolved through the named local
+The current 63 experiment commit bindings are resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -153,7 +153,7 @@ unsupported samples-per-round relation and weakened the all-node hydraulic
 gate. The register retained repair salience but did not earn verification-phase
 residency. See [E72](E72_SOLACE_VERIFICATION_LIFECYCLE_RESULT.md).
 
-The active transfer now has an authentic live pressure fork at
+The Orchard transfer now has an authentic live pressure fork at
 [`a681f52`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/a681f52)
 and a separately frozen measured runner at
 [`094bbce`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/094bbce).
@@ -173,8 +173,26 @@ the actor-selected phase event. See [E73](E73_ORCHARD_PHASE_LIFECYCLE_STAGE0.md)
 [E74](E74_ORCHARD_PRESSURE_SCREEN_RESULT.md),
 [E75](E75_ORCHARD_PHASE_LIFECYCLE_MEASURED_FREEZE.md), and
 [the transfer plan](NEXT_SYSTEM_INTERACTION_PHASE_CONDITIONAL_LIFECYCLE_TRANSFER.md).
-The next eligible operation is only the separately authorized F0-then-P1
-measured run at the frozen commit.
+
+That F0/P1 interaction is now complete at
+[`5bfd615`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/5bfd615d58a97a3d8c83b5bf3c4fc713c5e62e9a).
+Both cells followed the same scaffold-plus-ledger-plus-incremental-artifact
+construction path through actor-selected verification. F0 retained the
+twenty-claim scaffold and append-only history, ran one check and one read, then
+stopped under unrelievable prompt pressure. P1 demoted the scaffold and replaced
+current verification state; it reached targeted source recovery, admitted
+repair, effect uptake, and a current recheck, reducing nine blockers to three.
+Direct review finds all twelve substantive groups present, but the decision is
+35 words short and the ledger lacks five required exact source citations, so P1
+remains `strong_partial`, `not_ready`, and unsubmitted.
+
+P1 then repeated the same CURRENT read four times after a second non-unique
+patch rejection and exhausted its verification budget. E76 therefore supports
+phase-conditional allocation as an operability and artifact-quality improvement,
+not as useful completion. The new whole-system boundary is bounded mechanical
+causal continuity plus uniquely bindable repair inside the current verification
+frame. No new GPU operation is authorized. See
+[E76](E76_ORCHARD_PHASE_LIFECYCLE_INTERACTION_RESULT.md).
 
 The first breadth tranche is complete. Its 39 calls used one attempt each and
 zero retries. No prompt exceeded 7,110 tokens against the 20,992-token prompt

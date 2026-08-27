@@ -1,8 +1,8 @@
 # Next system interaction — phase-conditional scaffold and verification-state lifecycle transfer
 
-Status: Orchard Stage 0 qualified at `444ab65`, the authentic pressure fork is
-sealed at `a681f52`, and the measured F0/P1 runner is frozen at `094bbce`; only
-the separately authorized measured GPU comparison is eligible next
+Status: completed at standalone result commit `5bfd615`; P1 improved
+verification operability and artifact quality but remained not ready and ended
+in a four-read recurrence loop; this plan authorizes no successor
 
 Date: 2026-08-27
 
@@ -293,3 +293,24 @@ The measured runner is frozen separately at `094bbce` with F0 then P1, at most
 per call and zero retries. Provider-free execution reaches the full lifecycle,
 but no live semantic-scaffold yield, construction, transition, verification
 utility, readiness, or completion claim is established.
+
+## Completed measured disposition
+
+The run completed at standalone result commit `5bfd615`:
+
+* common construction was identical through actor call 12 and all eight
+  maintenance calls;
+* F0 stopped after one check and one exact read because no feasible relief
+  remained;
+* P1 reached repair effect uptake and current recheck, reducing nine mechanical
+  blockers to three;
+* direct review finds all twelve substantive groups in P1, but exact word-count
+  and ledger-citation requirements still fail;
+* a second non-unique patch rejection was followed by four identical CURRENT
+  reads; and
+* both cells are not ready, unsubmitted, and not useful completions.
+
+The plan is closed as a positive operability/repair transfer and a negative
+completion result. Any successor belongs in a fresh plan and must test bounded
+current state plus bounded mechanical causal continuity as part of a complete
+verification/repair/readiness lifecycle. This document authorizes no successor.

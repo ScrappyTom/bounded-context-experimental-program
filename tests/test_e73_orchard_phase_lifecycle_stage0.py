@@ -25,13 +25,9 @@ class E73OrchardPhaseLifecycleStage0Tests(unittest.TestCase):
         self.assertEqual(0, stage0["provider_calls"])
         self.assertEqual(178, stage0["standalone_tests_passed"])
         self.assertFalse(stage0["behavioral_utility_measured"])
-        next_operation = route["next_live_operation"]
-        self.assertEqual("orchard_phase_lifecycle_measured_interaction", next_operation["kind"])
+        next_operation = route["orchard_measured_runner_freeze"]
         self.assertEqual(96, next_operation["maximum_provider_calls"])
-        self.assertTrue(next_operation["semantic_maintenance_present"])
-        self.assertTrue(next_operation["treatment_present"])
-        self.assertTrue(next_operation["measured_runner_frozen"])
-        self.assertFalse(next_operation["authorized"])
+        self.assertTrue(next_operation["provider_free_complete_lifecycle_qualified"])
         self.assertFalse(route["gpu_authorized"])
 
     def test_docs_preserve_whole_system_scope_and_claim_limits(self):
@@ -41,7 +37,7 @@ class E73OrchardPhaseLifecycleStage0Tests(unittest.TestCase):
         self.assertIn("zero model", result.lower())
         self.assertIn("treatment-free pressure screen", result)
         self.assertIn("F0/P1 runner is deliberately not frozen", result)
-        self.assertIn("measured F0/P1 runner is frozen", plan)
+        self.assertIn("measured runner is frozen separately", plan)
         self.assertIn("no live semantic-scaffold yield", plan)
 
 

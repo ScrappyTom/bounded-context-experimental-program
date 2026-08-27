@@ -2,17 +2,19 @@
 
 Date: 2026-08-27
 
-Status: governing direction through E75; E69 produced the first positive
+Status: governing direction through E76; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, while E70 showed that the causal unit also includes
 artifact persistence, construction timing/granularity, and action transport.
 E72 shows that the same fixed scaffold did not earn verification-phase
 residency: it accelerated one broad repair but consumed effect-uptake/recheck
 capacity and preserved relationship errors. Artifact-only verification lasted
-longer but still failed under append-only check/effect chronology. The active
-boundary is now live measurement of fresh-world phase-conditional semantic
-scaffolding, exact work persistence, and bounded current-verification
-replacement from the audited Orchard pressure fork.
+longer but still failed under append-only check/effect chronology. E76 transfers
+the full phase-conditional configuration to Orchard: P1 reaches repair effect
+uptake and current recheck while F0 stops before repair, but P1 then repeats one
+exact read four times. The active boundary is now the interaction among bounded
+current verification state, bounded exact recent causality, repair binding,
+recurrence, readiness, and closure—not another isolated memory object.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -1160,3 +1162,55 @@ Construction cannot call check or submit, so the system interaction cannot be
 bypassed. A provider-free integration test reaches current recheck and
 submission in both control paths. These are apparatus facts; comparative live
 behavior and utility remain unmeasured and separately authorization-bound.
+
+## E76: phase replacement solves one interaction and creates another
+
+The live Orchard comparison realizes the complete phase transition. Both arms
+produce the same twenty-claim scaffold, exact evidence matrix, eight decision
+sections, and construction endpoint. This common path supplies a second
+fresh-world signal that semantic scaffolding, exact work persistence,
+section-sized action transport, and mechanical relief can jointly convert
+streamed evidence into admitted cumulative construction.
+
+After transition:
+
+```text
+F0 fixed scaffold + append-only verification
+    check -> exact read -> unrelievable context pressure
+
+P1 scaffold handle + replace-in-place current verification
+    check -> targeted reads -> repair -> effect uptake -> current recheck
+    -> rejected repair -> repeated exact CURRENT demand
+```
+
+P1 reduces nine mechanical blockers to three and direct review finds all twelve
+substantive groups present. It does not complete the exact work contract or
+submit. The four identical terminal reads show that physical boundedness and
+semantic completeness do not guarantee control progress.
+
+The active interaction surface is therefore:
+
+```text
+current exact artifact
+× current effect/check binding
+× latest admitted or rejected action
+× bounded recurrence facts
+× uniquely bindable repair transport
+× exact history/evidence handles
+× readiness and closure
+```
+
+This is not permission to add a freeform progress note. Candidate version,
+latest action, rejection/result identity, repeated exact object access, and
+whether candidate/check changed are host-known mechanical facts. Their bounded
+projection should be tested only as part of a complete fresh verification
+lifecycle, because the value depends on action transport, feedback, and artifact
+state.
+
+The next run-selection rule is:
+
+> Select a fresh world only when the design can exercise construction,
+> actor-selected verification, a repair failure or recurrence opportunity,
+> effect uptake, current recheck, and independently adjudicated closure. Compare
+> viable whole configurations. Do not tune Orchard, extend its call horizon, or
+> isolate one causal-tail field.

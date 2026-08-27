@@ -1514,3 +1514,37 @@ expression qualification. Passing it would not promote a component or prove
 utility. Only a later, separately frozen and authorized complete W0/L1
 continuation can test persistence, induced recovery, task-native artifact
 quality, feedback currency, repair, readiness, closure, and total economics.
+
+## Current program phase after E76
+
+Subsequent Aster and Solace work established a fault-tolerant anchored-
+provenance carrier and the first positive construction interaction between
+semantic scaffolding, exact incremental work, and action granularity. Solace
+also showed that keeping the same scaffold through verification shortens the
+feedback horizon and does not guarantee relationship fidelity.
+
+Orchard transfers that whole lifecycle to a fresh world. Both measured arms
+construct identically under authentic pressure. Fixed scaffold plus append-only
+verification stops before repair. Phase-conditional scaffold demotion plus
+current-state replacement reaches repair effect uptake and current recheck and
+produces a substantially stronger artifact, but then repeats the same exact
+source read four times and remains not ready.
+
+The active research question is therefore no longer whether bounded current
+state fits. It is:
+
+> Can a complete bounded verification system preserve enough exact recent
+> causality to convert current feedback into non-repeating repair and correct
+> closure, without returning to unbounded resident history?
+
+The candidate state allocation is provisional:
+
+* exact task artifact as durable applied work;
+* temporary provenance scaffold during acquisition/construction;
+* mechanically replaced candidate/effect/check state during verification;
+* a small host-derived tail for latest action, rejection/result, and recurrence;
+* exact external custody and reopen for all displaced state; and
+* independent readiness governance.
+
+This is a whole-system interaction hypothesis, not an approved field list or
+architecture. No new GPU run is authorized.

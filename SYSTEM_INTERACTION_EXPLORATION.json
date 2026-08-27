@@ -530,7 +530,7 @@
     "governing_document": "NEXT_SYSTEM_INTERACTION_PROVENANCE_LOCAL_RELATIONAL_SCOUT.md"
   },
   "active_system_route": {
-    "status": "orchard_phase_conditional_lifecycle_stage0_qualified_treatment_free_pressure_screen_unauthorized",
+    "status": "orchard_phase_conditional_lifecycle_measured_complete_no_useful_completion",
     "repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0",
     "stage0_commit": "5af42ca96182ce16dc5aced20f952da9a7c791e4",
     "task_id": "solace-water-recovery-decision-v0",
@@ -729,26 +729,45 @@
       "standalone_tests_passed": 175,
       "behavioral_utility_measured": false
     },
-    "next_live_operation": {
-      "kind": "orchard_phase_lifecycle_measured_interaction",
-      "status": "frozen_awaiting_separate_authorization",
-      "freeze_commit": "094bbce57407568d1ef0ecd94414ae1a957e3b45",
+    "orchard_phase_lifecycle_result": {
+      "result_commit": "5bfd615d58a97a3d8c83b5bf3c4fc713c5e62e9a",
       "run_id": "2026-08-27-orchard-phase-lifecycle-measured-v0",
       "configuration_order": [
         "F0_FIXED_SCAFFOLD_APPEND_ONLY_VERIFICATION",
         "P1_PHASE_CONDITIONAL_CURRENT_VERIFICATION"
       ],
-      "maximum_actor_calls": 72,
-      "maximum_maintenance_calls": 24,
-      "maximum_provider_calls": 96,
-      "attempts_per_call": 1,
-      "retries": 0,
-      "semantic_maintenance_present": true,
-      "treatment_present": true,
-      "measured_runner_frozen": true,
-      "offline_stage0_required": true,
-      "offline_stage0_passed": true,
-      "authorized": false
+      "provider_calls": 54,
+      "actor_calls": 38,
+      "maintenance_calls": 16,
+      "serialized_tokens": 736332,
+      "F0_actor_calls": 14,
+      "F0_maintenance_calls": 8,
+      "F0_serialized_tokens": 322315,
+      "F0_terminal_failure": "context_pressure_without_feasible_relief",
+      "F0_current_check_blockers": 9,
+      "F0_repairs": 0,
+      "F0_readiness": "not_ready_partial_5_met_7_partial",
+      "P1_actor_calls": 24,
+      "P1_maintenance_calls": 8,
+      "P1_serialized_tokens": 414017,
+      "P1_terminal_failure": "verification_call_budget_exhausted",
+      "P1_first_verification_prompt_tokens": 7580,
+      "P1_current_check_blockers_before_repair": 9,
+      "P1_current_check_blockers_after_repair": 3,
+      "P1_admitted_repairs": 1,
+      "P1_rejected_nonunique_anchor_repairs": 2,
+      "P1_final_repeated_current_reads": 4,
+      "P1_readiness": "not_ready_strong_partial_12_substantive_groups_present_word_and_citation_contract_failed",
+      "submitted": false,
+      "useful_completion": false,
+      "phase_conditional_disposition": "positive_operability_and_artifact_progress_but_no_complete_verification_repair_closure",
+      "new_bottleneck": "bounded_current_state_lost_recurrence_sensitive_rejection_causality_and_unique_repair_binding",
+      "independent_audit_passed": true
+    },
+    "next_live_operation": {
+      "kind": "none_selected",
+      "status": "orchard_complete_successor_requires_fresh_lifecycle_design",
+      "reason": "P1 preserved verification operability and improved the artifact, but the bounded current-state frame lost recurrence-sensitive rejection causality and lacked unique repair binding; the next route must test a complete lifecycle configuration rather than another isolated field or Orchard prompt variant"
     },
     "governing_document": "NEXT_SYSTEM_INTERACTION_PHASE_CONDITIONAL_LIFECYCLE_TRANSFER.md",
     "gpu_authorized": false
