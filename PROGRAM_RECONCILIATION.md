@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-27
-Status: current program synthesis through E77; E69 produced the first positive
+Status: current program synthesis through E78; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
 among semantic residue, exact artifacts, construction timing/granularity, and
@@ -20,8 +20,12 @@ recurrence-sensitive causal continuity can settle into repeated exact reads.
 Neither arm completed. E77 then finds related action-transport/non-progress
 recurrence in three independent worlds and rejected-mutation recurrence in two,
 and qualifies a bounded host-mechanical causal frame plus uniquely bound repair
-offline. A fresh whole-system Stage 0 is selected; no task, runner, or GPU call
-is authorized.
+offline. E78 qualifies that fresh Stage 0 in the independent Keystone rail
+world: prospective pressure occurs after ten delivered sources, V0 and V1 share
+the complete construction/repair/evaluation lifecycle, and provider-free V1
+retains a twice-rejected mutation across newer observations while V0 does not.
+Only a treatment-free pressure screen is frozen; it is not authorized, and the
+measured V0/V1 runner remains unfrozen.
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -1249,3 +1253,29 @@ repair, effect uptake, current recheck, readiness, and closure. No fresh world
 or GPU run exists yet.
 
 The repair surface is common apparatus, not a treatment advantage.
+
+## E78 qualifies the fresh Keystone whole-lifecycle apparatus offline
+
+Standalone commit `d13582a` adds a fourteen-source regional-rail restoration
+task, exact custody, relation-sensitive evaluator, anchored-scaffold × exact-
+artifact construction system, actor-selected verification transition, current
+check, and candidate-/artifact-/section-bound repair surface.
+
+A permitted deterministic ingress reaches 23,021 prompt tokens after ten
+sources; first-fit externalization of only `RESULT-001` restores 19,495. This
+is a prospective allowed-action path rather than a total-world-size argument.
+
+Both provider-free configurations construct the same 1,542-word artifact. The
+first current check fails exactly one power criterion. A stale section repair
+is rejected twice, with newer source observations after each failure. V0's
+current-only projection loses rejection and recurrence; V1 retains the active
+rejection and recurrence count two. A common 521-token alternative repair is
+then admitted, its effect is delivered, the old check becomes stale, and a
+current recheck passes before independently fixture-bound readiness and
+submission.
+
+This establishes apparatus reachability, not behavioral utility. The model may
+never construct, encounter the failure, use the V1 fields, select another
+repair, or close correctly. The only next eligible operation is the frozen,
+separately authorized treatment-free pressure screen. No measured comparison
+is yet frozen.

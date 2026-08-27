@@ -2,8 +2,10 @@
 
 Date: 2026-08-27
 
-Status: selected for fresh-world offline Stage 0 after E77; no fresh task,
-frozen runner, or GPU authority yet
+Status: Keystone fresh-world offline Stage 0 passed at standalone commit
+`d13582a9371512ee6d279ade461a88f05096f9f9`; the treatment-free pressure
+screen is frozen but not authorized, the measured V0/V1 runner remains
+unfrozen, and no GPU authority exists
 
 ## Question
 
@@ -81,6 +83,24 @@ Before any GPU request:
 10. Record zero model calls during Stage 0.
 
 Accessible-world size alone does not qualify the task.
+
+## E78 Stage 0 disposition
+
+Keystone satisfies the offline gates with fourteen interacting regional-rail
+sources. A permitted deterministic ingress reaches 23,021 prompt tokens after
+ten source deliveries; first-fit externalization of `RESULT-001` restores
+19,495. Provider-free V0 and V1 fixtures share a current failing check, two
+repeated rejected section repairs separated by newer exact observations, a
+common 521-token alternative repair, effect uptake, current passing recheck,
+independently candidate-bound fixture readiness, and submission mechanics.
+
+V0 drops the unresolved rejection and recurrence after the newer observation.
+V1 retains the rejection and exact recurrence count two until candidate
+change. Both converge only because the provider-free fixture supplies the same
+valid alternative repair; actor utility remains unmeasured.
+
+Only the treatment-free 30-call pressure screen is now frozen. It must create
+an authentic common handoff before the measured comparison is implemented.
 
 ## Outcomes
 

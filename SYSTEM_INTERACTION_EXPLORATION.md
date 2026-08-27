@@ -2,7 +2,7 @@
 
 Date: 2026-08-27
 
-Status: governing direction through E77; E69 produced the first positive
+Status: governing direction through E78; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, while E70 showed that the causal unit also includes
 artifact persistence, construction timing/granularity, and action transport.
@@ -16,7 +16,9 @@ exact read four times. E77 confirms the broader action-transport/causal boundary
 across independent worlds and qualifies a bounded mechanical frame plus
 uniquely bound repair offline. The active boundary is fresh-world whole-system
 transfer through repair, recheck, readiness, and closure—not another isolated
-memory object.
+memory object. E78 qualifies that transfer apparatus offline in Keystone and
+freezes only the treatment-free pressure screen; actor use of bounded causal
+continuity remains unmeasured.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -1249,3 +1251,23 @@ without persistent rejection/recurrence slots; V1 preserves those exact bounded
 facts. Both must traverse the same pressured construction system, repair,
 effect uptake, current recheck, readiness, and closure. Stage 0 remains offline
 and no GPU call is authorized.
+
+## E78 Keystone Stage 0 keeps the interaction whole
+
+Keystone does not compare a causal-tail prompt against no prompt. Both future
+systems share pressured evidence ingress, temporary anchored semantic
+scaffolding, exact incremental task work, an actor-selected verification
+transition, a current candidate-bound checker, uniquely bound repair, effect
+uptake, current recheck, independent readiness, and closure.
+
+The sole lifecycle difference is whether newer observations replace unresolved
+rejected-mutation and recurrence state. Provider-free V0 loses that state;
+provider-free V1 retains it until candidate change. Both reach the same repaired
+candidate only because the fixture supplies the same valid alternative repair.
+This proves implementation parity and reachability, not that V1 changes model
+behavior.
+
+Prospective permitted ingress reaches 23,021 prompt tokens after ten sources;
+first-fit relief restores 19,495. The treatment-free pressure screen must now
+realize an actor-selected common handoff. Only after independent audit may a
+measured V0/V1 runner be frozen.

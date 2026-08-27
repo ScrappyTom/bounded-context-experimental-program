@@ -15,7 +15,7 @@ class SystemInteractionDirectionTests(unittest.TestCase):
 
     def test_unit_is_whole_configuration_not_component(self):
         self.assertEqual(
-            "e73_orchard_phase_lifecycle_stage0_qualified_pressure_screen_unauthorized",
+            "e78_keystone_bounded_causal_stage0_qualified_pressure_screen_unauthorized",
             self.contract["status"],
         )
         self.assertEqual("whole_configuration_trajectory", self.contract["unit_of_analysis"])

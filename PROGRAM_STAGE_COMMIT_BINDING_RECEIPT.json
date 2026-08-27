@@ -1,8 +1,8 @@
 {
-  "declared_unique_commit_bindings": 64,
+  "declared_unique_commit_bindings": 65,
   "failures": [],
   "passed": true,
   "schema_version": "program-stage-commit-binding-receipt-v1",
   "verification_method": "git cat-file -e <commit>^{commit} in named local repository",
-  "verified_unique_commit_bindings": 64
+  "verified_unique_commit_bindings": 65
 }

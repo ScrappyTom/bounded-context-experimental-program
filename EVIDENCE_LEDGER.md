@@ -1408,3 +1408,36 @@ cross-world systems boundary and the mechanical contract is provider-free
 feasible. Actor use, behavioral benefit, field minimality, readiness, and
 closure remain untested. Orchard remains closed; a fresh whole-system Stage 0
 is selected with zero GPU authority.
+
+# E78 — Keystone bounded-causal verification fresh-world Stage 0
+
+Evidence: standalone commit
+`d13582a9371512ee6d279ade461a88f05096f9f9`,
+`KEYSTONE_STAGE0_PREFLIGHT.json`, candidate-bound evaluator and readiness
+fixture, task/source lock, and 207 passing standalone tests.
+
+Supported:
+
+* a fresh fourteen-source rail world reaches prospective pressure at 23,021
+  prompt tokens after ten delivered sources;
+* deterministic first-fit externalization of `RESULT-001` restores 19,495;
+* V0 and V1 share exact custody, construction scaffold/artifact, verification,
+  evaluator, bound repair, recheck, readiness, and closure apparatus;
+* after two identical rejected repairs separated by newer observations, V0
+  exposes neither rejection nor recurrence while V1 retains rejection and
+  exact recurrence count two;
+* a common 521-token alternative repair reaches effect uptake, current passing
+  recheck, fixture-bound readiness, and submission provider-free; and
+* four relation reversals are mechanically detected.
+
+Not supported:
+
+* actor construction, causal-state uptake, repair improvement, readiness, or
+  useful completion;
+* necessity or sufficiency of any V1 field;
+* measured V0/V1 utility; or
+* GPU authority.
+
+Disposition: **AF/NQ** — offline Stage 0 qualified. Only the treatment-free
+Keystone pressure screen is frozen and separately authorizable. The measured
+runner is unfrozen.

@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 64 experiment commit bindings are resolved through the named local
+The current 65 experiment commit bindings are resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -51,6 +51,17 @@ Each measured experiment remains a separately frozen, auditable repository.
 Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
+
+E78 completes the selected fresh-world offline Stage 0. Keystone is a new
+fourteen-source regional-rail restoration world with authentic prospective
+pressure after ten delivered sources, common anchored-scaffold × exact-
+artifact construction, a candidate-bound relationship evaluator, a uniquely
+bound repair, and complete provider-free V0/V1 verification lifecycles. V0
+drops unresolved rejection/recurrence after newer evidence; V1 retains both
+until candidate change. The actor utility of that difference remains untested.
+Only the treatment-free pressure screen is frozen, and it is not authorized.
+See [E78](E78_KEYSTONE_BOUNDED_CAUSAL_STAGE0.md) and the updated
+[transfer plan](NEXT_SYSTEM_INTERACTION_BOUNDED_CAUSAL_VERIFICATION_TRANSFER.md).
 
 The current route began with Meridian E61. The ordinary six-call screen realized
 the exact Stage 0 pressure geometry: ten distributed sources were delivered,

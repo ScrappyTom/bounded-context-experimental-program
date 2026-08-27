@@ -1997,3 +1997,34 @@ next selected phase is fresh-world whole-system Stage 0. Both future systems
 share the repaired action surface and full construction/verification lifecycle;
 the prospective difference is whether unresolved rejection and recurrence
 survive bounded current-state replacement. No GPU run is authorized.
+
+# 70. Keystone fresh-world bounded-causal verification Stage 0
+
+E77 selected a fresh whole-system test because unresolved rejected mutations
+and functional recurrence appeared beyond Orchard. E78 implements Keystone, a
+new fourteen-source regional-rail restoration world, rather than tuning the
+Orchard donor.
+
+The prospective allowed ingress crosses pressure after ten delivered sources:
+23,021 prompt tokens versus a 20,992 allowance. First-fit externalization of
+`RESULT-001` restores 19,495. Both future arms share anchored semantic
+construction support, exact incremental task work, actor-selected verification,
+current checks, a candidate-/artifact-/section-bound repair action, effect
+delivery, recheck, independent readiness, and closure.
+
+Provider-free fixtures expose one exact power defect. The same stale-bound
+repair is rejected twice, with newer exact observations following each failure.
+V0 then loses both the unresolved rejection and recurrence. V1 retains the
+rejection and recurrence count two until a candidate effect. Both accept the
+same 521-token alternative repair, deliver its effect, recognize the old check
+as stale, pass a current recheck, and reach fixture-bound readiness and
+submission.
+
+Stage 0 also found and corrected a projection bug: recurrence had been computed
+only for the latest action, allowing a newer observation to hide recurrence of
+the still-active rejected mutation. This is an apparatus correction, not model
+evidence.
+
+No provider call occurred. The treatment-free pressure screen is frozen but
+unauthorized; the measured V0/V1 runner remains unfrozen pending an audited
+live handoff.

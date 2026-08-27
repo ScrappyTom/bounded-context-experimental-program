@@ -1571,3 +1571,17 @@ the next experiment is therefore deliberately narrow:
 This is not a causal-tail prompt test. It is a full lifecycle comparison with a
 prospectively bounded causal-state difference. Offline fresh-world Stage 0 is
 selected. No GPU call is authorized.
+
+## Current program phase after E78
+
+Keystone supplies the fresh offline Stage 0 selected by the cross-world E77
+audit. Both viable future systems share the full evidence-ingress, semantic-
+scaffold, exact-artifact, verification, repair, effect, recheck, readiness, and
+closure lifecycle. They differ only in whether unresolved rejected mutation
+and exact recurrence remain visible after newer observations replace current
+state.
+
+Provider-free apparatus passes with zero model calls. A treatment-free live
+screen must next establish an authentic actor-selected pressure fork. Until
+that handoff is audited, the measured V0/V1 runner remains unfrozen and no GPU
+operation is authorized.
