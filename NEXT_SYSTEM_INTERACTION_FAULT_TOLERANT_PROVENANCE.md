@@ -2,8 +2,9 @@
 
 Date: 2026-08-26
 
-Status: authentic treatment-free pressure qualified; complete W0/L1 runner
-frozen offline; measured GPU continuation not authorized
+Status: completed at
+`qwen38-artifact-coupled-integration-scout-v0@353c059b31c94dc5951e727b1a2cfa0bba51b6b8`;
+superseded for routing by the construction-to-verification lifecycle plan
 
 ## Decision
 
@@ -117,3 +118,24 @@ next measured comparison must preserve the whole-system design. Do not branch
 into anchor wording, parser variants, line-versus-paragraph grids, or another
 standalone expression seed. A future isolated study is justified only by the
 first genuinely new failure boundary observed in the complete interaction.
+
+## Measured disposition
+
+The authorized run completed with 34 provider calls and 578,257 serialized
+tokens. W0 used 18 actor calls to create an exact evidence ledger and then
+reopen seven result bodies twice; it never constructed the decision. L1 used
+nine actor and seven maintenance calls, admitted twenty grounded anchored
+claims, made eight candidate mutations without reopen, and produced a
+1,934-word decision while consuming 38.5 percent fewer serialized tokens.
+
+The interaction therefore produced a positive evidence-to-work signal. It did
+not produce useful completion. W0 remained incomplete; L1 was independently
+adjudicated strong partial and not ready. Both terminated under unrelievable
+chronology pressure before check, repair, recheck, or closure, and L1's final
+effect never crossed another actor decision.
+
+This route is complete. Do not tune the acquisition-time carrier or register
+budget on the same trajectory. The next offline route is
+`NEXT_SYSTEM_INTERACTION_CONSTRUCTION_VERIFICATION_LIFECYCLE.md`, which tests
+the marginal value of the already-produced register after substantial meaning
+has been capitalized into the exact artifact. It authorizes no GPU call.

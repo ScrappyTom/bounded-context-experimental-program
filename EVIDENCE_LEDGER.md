@@ -80,6 +80,9 @@ means literal local behavior with a material apparatus qualification.
 | E64 | AF/NQ | Aster provenance-local relational whole-system Stage 0 | A fresh opaque-ID many-to-many task, provenance-local relation carrier, bounded replace-in-place register, identical W0/L1 task-native work and feedback surfaces, admissible single/pair ingress, realizable pressure geometry, and complete provider-free effect/check/repair/recheck/closure loops pass 113 tests. | Zero provider calls. Authentic pressure, live expression, persistence, actor uptake, artifact utility, readiness, and economics remain unmeasured. Only a common treatment-free pressure screen is eligible for separate authorization. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/f91fdaff28b2c7ad760afa90877b284e26529814) |
 | E65 | LR/AF/NQ | Aster authentic common pressure and first relational-persistence opportunity | Six valid actor-selected two-source reads delivered ten sources across ten domains before pending KELP+LATTICE produced a 795-token overflow. First-fit externalizes only exact `RESULT-001` ANCHOR+BRIDGE and restores 2,041 tokens of headroom. | Common pre-treatment boundary only. No semantic operation, mutation, check, or submission ran. One exact expression case is frozen but unauthorized; persistence and W0/L1 utility remain unmeasured. | [screen and freeze](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/8aa9afbec32b5669755760f2d4d7b5c992150e05) |
 | E66 | LR/AF/NQ | Aster boundary-native provenance-relational expression | One normally stopped 707-token output emitted four correctly source/version-bound raw facts with no material semantic reversal, but all four evidence quotes were sentence substrings rather than frozen complete source lines; transport admitted 0/4 claims. | One expression call and no actor continuation. Raw factual safety is locally positive, relational expression was not observed, qualification failed, and the exact W0/L1 route closed without repair. | [qualification result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/d19f45cd4478946f9271e85285df32f7152e8e6c) |
+| E67 | AF/NQ | Solace fault-tolerant anchored-provenance Stage 0 | A fresh fourteen-source task, host-materialized exact anchor/context provenance, per-claim admission, unchanged-state fallback, and complete W0/L1 feedback paths qualified offline. | Apparatus and geometry only; no Qwen behavior or semantic utility. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/5af42ca96182ce16dc5aced20f952da9a7c791e4) |
+| E68 | LR/AF/NQ | Solace authentic common pressure fork | Six actor-selected batches produced a 219-token pending-result overflow; first-fit externalized only AURORA/BASTION and restored 2,397 tokens of headroom. | Common pre-treatment boundary only; no maintenance or artifact action. | [pressure screen](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/6059797681e2591737476417148952c844043b7f) |
+| E69 | LR/AF | Solace anchored-provenance whole-system interaction | W0 wrote an exact evidence ledger then made fourteen reopens and no decision; L1 admitted twenty grounded anchored claims, made eight candidate mutations without reopen, produced a 1,934-word strong-partial decision, and used 38.5% fewer serialized tokens. | One task and one deterministic trajectory per configuration. Neither arm reached check or closure; L1 remained not ready, its final effect was not delivered, and the result supports a joint interaction rather than a register-only causal claim. | [interaction result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/353c059b31c94dc5951e727b1a2cfa0bba51b6b8) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
@@ -94,6 +97,7 @@ means literal local behavior with a material apparatus qualification.
 | H12 | LR | closure-safe structured frontier expression | Returned prose and handles were locally complete, but neither full object closed under the frozen interface; both length-terminated and the live grammar omitted declared length limits. | 0/2 complete acceptance. Frontier schema-expression tuning is closed; utility was not tested. | E15–E16 |
 | H13 | NQ | one-case cross-type effect retention | The complete exact effect and observation could not co-reside with the inherited standing set under the frozen envelope. | Behavioral utility untested; changing another object would be a different treatment. | E08–E09, E17–E18 |
 | H14 | LR | semantic integration × exact incremental task artifact × version-bound feedback | E46 showed temporal leverage without semantic dominance. Fresh Cedar transfer E52 produced a stronger A1 artifact (`strong_partial`) than D0 (`weak_partial`) and broader targeted repair, but both were not ready. A1 also capitalized material source contradictions, and both arms terminated after only 5/18 maintenance updates qualified. | Two tasks, one seed each, compound configurations. Exact work persistence has a promising transfer-level quality signal but no useful completion, safety, recurrence, or cost promotion. The next question is maintenance cadence × work persistence × verification bandwidth, not isolated coupling. | E36, E38–E46, E49–E52; `E52_CEDAR_ARTIFACT_COUPLING_TRANSFER_RESULT.md` |
+| H15 | LR | provenance-bound source residue × exact incremental artifact | At the authentic Solace pressure fork, W0's exact ledger led to fourteen reopens and no decision work, while L1's anchored register plus the same task-native artifact led to eight candidate mutations, no reopen, a 1,934-word strong-partial decision, and 38.5% lower serialized cost. | One task and one deterministic trajectory per configuration; compound interaction, not register-only causation. Neither arm reached verification or closure, and L1 remained not ready. The next question is whether the frozen register retains marginal value across construction-to-verification reentry after meaning has accumulated in the artifact. | E67–E69; `E69_SOLACE_ANCHORED_PROVENANCE_INTERACTION_RESULT.md` |
 
 ## Active selection
 
@@ -1153,3 +1157,40 @@ Disposition: **LR/AF/NQ** — authentic common pressure and the exact first
 anchored-maintenance opportunity qualify. Semantic yield, relational fidelity,
 induced demand, artifact utility, readiness, and information economics remain
 unmeasured. The measured GPU run requires new exact commit-bound authorization.
+
+## E69 — Solace fault-tolerant anchored-provenance interaction
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@353c059b31c94dc5951e727b1a2cfa0bba51b6b8`
+
+The complete measured comparison made 34 provider calls—27 actor and seven
+maintenance—and consumed 578,257 serialized tokens. All calls used one attempt
+and zero retries. Exact custody, relief reconstruction, all twenty admitted
+anchor byte/hash bindings, budgets, authorization, sealing, and runtime release
+passed independent audit.
+
+W0 used 18 actor calls and 358,025 serialized tokens. It wrote an evidence
+ledger covering all fourteen sources, then reopened `RESULT-001` through
+`RESULT-007` twice. It made no decision mutation, check, or submission.
+
+L1 used nine actor calls, seven maintenance calls, and 220,232 serialized
+tokens. Maintenance proposed 36 records; 32 were grounded and materially
+faithful, 20 entered the bounded register, and the final three transitions were
+no-ops under the global register budget. The actor made eight consecutive
+candidate mutations, seven decision mutations, no exact reopen, and produced a
+1,934-word decision citing twelve sources.
+
+Direct candidate-bound adjudication classifies W0 incomplete and L1 strong
+partial, eight substantive groups met and four partial. Both are not ready.
+L1 omitted four sets of exact governing details and failed the exact heading
+contract. Its final effect never entered another actor decision. Neither arm
+reached check, repair, recheck, or closure before unrelievable chronology
+pressure.
+
+Disposition: **LR/AF** — a local positive whole-system interaction for
+evidence-to-work conversion and cost, not useful completion. The joint
+semantic-register plus exact-artifact configuration changed the trajectory from
+reopen recurrence to cumulative construction, while failure migrated to
+construction-to-verification lifecycle continuity. No same-boundary carrier or
+budget tuning is selected. The next route is offline qualification of a fresh-
+frame artifact-only versus artifact-plus-frozen-register lifecycle ablation.

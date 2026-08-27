@@ -946,7 +946,55 @@ charged anchored maintenance. Claims admit independently; invalid claims are
 discarded; zero valid claims leave prior state unchanged; and the actor
 continues. There is no standalone expression gate.
 
-Provider-free execution now covers both complete cells and all 141 standalone
-tests pass. The frozen W0-then-L1 run permits at most 68 actor calls, 18
-maintenance calls, and 86 provider calls, one attempt each and zero retries.
-It remains GPU-unauthorized until separately approved at its exact commit.
+Provider-free execution covers both complete cells and all 141 standalone tests
+pass. E69 records the completed W0-then-L1 run.
+
+## E69: semantic persistence and exact work interact positively but do not close
+
+The measured Solace comparison completed at standalone result commit
+`353c059b31c94dc5951e727b1a2cfa0bba51b6b8`. It made 34 provider calls—27 actor
+and seven maintenance—and consumed 578,257 serialized tokens.
+
+W0 created a fourteen-source exact evidence ledger, then performed fourteen
+reopens and no decision construction. L1 admitted a 20-claim anchored register,
+performed eight candidate mutations and seven decision mutations, made no
+reopen, and produced a 1,934-word decision. L1 consumed 220,232 serialized
+tokens, 137,793 fewer than W0.
+
+This is interaction evidence, not a component score. L1 jointly changed:
+
+```text
+semantic source residue
++ exact incremental evidence and decision artifacts
++ actor-visible mutation effects
++ exact reopen and pressure mechanics
+```
+
+The result is that the system crossed from acquisition into cumulative
+construction. It does not show that the register alone caused the effect. The
+exact artifact became a second semantic persistence channel as the decision
+grew, and the final three maintenance calls added no state because the global
+register cap rejected otherwise grounded claims.
+
+Neither configuration usefully completed. W0 was incomplete. L1 was a strong
+partial with four substantive groups still partial and incorrect heading
+structure. The final effect was not delivered to a later actor, and neither arm
+reached current checking, repair, recheck, or closure. The active bottleneck
+therefore migrated:
+
+```text
+receipt-only W0:
+acquisition -> reopen recurrence -> no construction
+
+anchored L1:
+acquisition -> semantic/artifact accumulation -> construction
+            -> chronology pressure before verification
+```
+
+This positive joint signal closes acquisition-time carrier tuning at this
+boundary and opens one post-signal lifecycle ablation. The next offline design
+compares a fresh exact current-state frame with and without the frozen register,
+holding the substantial exact candidate fixed and continuing through
+candidate-bound check, repair, recheck, and closure. It tests whether the
+register has marginal value after semantics have been capitalized into the
+artifact. It does not authorize a GPU run.

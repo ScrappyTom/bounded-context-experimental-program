@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 60 successor stages through E68 Solace authentic anchored-provenance pressure screen",
+  "scope": "parent bank plus 61 successor stages through E69 Solace fault-tolerant anchored-provenance whole-system interaction",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 60,
-    "follow_on_model_calls": 580,
-    "follow_on_serialized_tokens": 7329387,
-    "unique_cited_experiment_commits": 55
+    "successor_stages": 61,
+    "follow_on_model_calls": 614,
+    "follow_on_serialized_tokens": 7907644,
+    "unique_cited_experiment_commits": 56
   },
   "stages": [
     {
@@ -620,6 +620,16 @@
       "serialized_tokens": 63731,
       "included_in_follow_on_totals": true,
       "primary_disposition": "six valid actor-selected two-source batches delivered ten sources before pending KESTREL plus LUMEN produced a 219-token overflow; protected-pending first-fit externalizes only RESULT-001 AURORA plus BASTION and restores 2397 tokens of headroom; exact audit passes, the candidate remains unchanged, and the complete no-expression-gate W0/L1 interaction is provider-free frozen while all semantic utility remains unmeasured and GPU-unauthorized"
+    },
+    {
+      "stage_id": "S61",
+      "name": "Solace fault-tolerant anchored-provenance whole-system interaction",
+      "stage_type": "measured",
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "353c059b31c94dc5951e727b1a2cfa0bba51b6b8", "count_as_experiment_commit": true}],
+      "model_calls": 34,
+      "serialized_tokens": 578257,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "from the same authentic pressure fork, W0 wrote a fourteen-source evidence ledger and then made fourteen exact reopens without decision work, while L1 paid seven maintenance calls, admitted twenty grounded anchored claims, made eight candidate mutations without reopen, and produced a 1934-word strong-partial decision; L1 used 220232 serialized tokens versus W0's 358025, but both terminated under unrelievable pressure before check, repair, or closure and neither was ready, so the joint configuration shows a positive acquisition-to-construction interaction signal without earning architecture promotion"
     }
   ]
 }

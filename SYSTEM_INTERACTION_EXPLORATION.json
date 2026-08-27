@@ -530,7 +530,7 @@
     "governing_document": "NEXT_SYSTEM_INTERACTION_PROVENANCE_LOCAL_RELATIONAL_SCOUT.md"
   },
   "active_system_route": {
-    "status": "authentic_pressure_qualified_complete_interaction_frozen_gpu_unauthorized",
+    "status": "whole_system_interaction_complete_positive_construction_signal_not_ready_next_lifecycle_offline",
     "repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0",
     "stage0_commit": "5af42ca96182ce16dc5aced20f952da9a7c791e4",
     "task_id": "solace-water-recovery-decision-v0",
@@ -578,23 +578,46 @@
       "candidate_submitted": false,
       "independent_audit_passed": true
     },
-    "next_live_operation": {
-      "kind": "complete_W0_then_L1_anchored_provenance_interaction",
-      "freeze_commit": "6059797681e2591737476417148952c844043b7f",
+    "measured_interaction_result": {
+      "result_commit": "353c059b31c94dc5951e727b1a2cfa0bba51b6b8",
       "run_id": "2026-08-26-solace-anchored-provenance-interaction-measured-v0",
+      "provider_calls": 34,
+      "actor_calls": 27,
+      "maintenance_calls": 7,
+      "serialized_tokens": 578257,
+      "W0_serialized_tokens": 358025,
+      "L1_serialized_tokens": 220232,
+      "W0_exact_reopens": 14,
+      "L1_exact_reopens": 0,
+      "W0_decision_mutations": 0,
+      "L1_decision_mutations": 7,
+      "L1_admitted_claims": 20,
+      "L1_final_decision_words": 1934,
+      "W0_readiness": "not_ready_incomplete",
+      "L1_readiness": "not_ready_strong_partial_8_met_4_partial",
+      "useful_completion": false,
+      "joint_interaction_signal": "positive_acquisition_to_construction",
+      "terminal_failure": "unrelievable_chronology_pressure_before_check_repair_recheck_or_closure",
+      "independent_audit_passed": true
+    },
+    "next_live_operation": {
+      "kind": "none_offline_construction_to_verification_lifecycle_qualification_required",
+      "freeze_commit": null,
+      "run_id": null,
       "configuration_order": [
-        "W0_DIRECT_EXACT_WORK_FRESH",
-        "L1_FAULT_TOLERANT_ANCHORED_PROVENANCE"
+        "A0_EXACT_ARTIFACT_ONLY_REENTRY",
+        "A1_EXACT_ARTIFACT_PLUS_FROZEN_REGISTER_REENTRY"
       ],
-      "maximum_actor_calls": 68,
-      "maximum_maintenance_calls": 18,
-      "maximum_provider_calls": 86,
+      "maximum_actor_calls": null,
+      "maximum_maintenance_calls": 0,
+      "maximum_provider_calls": null,
       "standalone_expression_gate": false,
       "attempts_per_call": 1,
       "retries": 0,
+      "offline_stage0_required": true,
       "authorized": false
     },
-    "governing_document": "NEXT_SYSTEM_INTERACTION_FAULT_TOLERANT_PROVENANCE.md",
+    "governing_document": "NEXT_SYSTEM_INTERACTION_CONSTRUCTION_VERIFICATION_LIFECYCLE.md",
     "gpu_authorized": false
   },
   "common_live_functions": [

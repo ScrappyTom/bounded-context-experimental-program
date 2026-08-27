@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 55 experiment commit bindings were resolved through the named local
+The current 56 experiment commit bindings were resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -120,23 +120,27 @@ admitted 0/4 claims, qualification failed, and no actor continuation ran. See
 carrier route is closed; relational persistence and whole-system utility remain
 untested rather than negative.
 
-The active successor is the fresh Solace whole-system route, now frozen at
-[`6059797`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/6059797681e2591737476417148952c844043b7f).
-It does not repair or regrade E66. The model selects exact anchor substrings and
-semantic claims; the host materializes exact context, offsets, hashes,
-version/currentness, and reopen custody. Valid records merge independently,
-invalid records are charged and discarded, and a zero-valid maintenance event
-leaves prior state unchanged while ordinary work continues.
+The Solace whole-system interaction is complete at
+[`353c059`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/353c059b31c94dc5951e727b1a2cfa0bba51b6b8).
+W0 wrote a fourteen-source exact evidence ledger and then made fourteen reopens
+without constructing the decision. L1 paid for seven fallible anchored-
+provenance calls, admitted twenty grounded claims, made eight candidate
+mutations without reopen, and produced a 1,934-word strong-partial decision.
+L1 consumed 38.5 percent fewer serialized tokens than W0.
 
-Solace compares direct exact work with this fallible provenance process inside
-the same full effect/check/repair/closure loop. Offline Stage 0 reports a fresh
-14-source world, prospective sixth-pair pressure, provider-free partial and
-zero-valid fallback, and identical viable W0/L1 completion fixtures. There is
-no standalone expression gate. Its treatment-free pressure screen has now
-qualified: six valid batches reached a 219-token delivery deficit; first-fit
-externalizes only AURORA/BASTION and restores 2,397 tokens of headroom. The
-complete W0/L1 interaction is frozen but GPU-unauthorized. See
-[the new interaction plan](NEXT_SYSTEM_INTERACTION_FAULT_TOLERANT_PROVENANCE.md).
+This is the first positive joint interaction signal for provenance-bound
+semantic residue plus exact incremental work. It is not useful completion:
+both arms terminated under unrelievable chronology pressure before check or
+closure, L1 remained not ready, and its final effect never entered a later
+actor decision. See [the E69 result](E69_SOLACE_ANCHORED_PROVENANCE_INTERACTION_RESULT.md)
+and the completed [Solace interaction contract](NEXT_SYSTEM_INTERACTION_FAULT_TOLERANT_PROVENANCE.md).
+
+The next route is offline-only qualification of the newly exposed
+construction-to-verification lifecycle boundary. It will compare fresh exact
+current-state reentry with and without the already-produced register while
+holding the substantial candidate fixed and continuing through check, repair,
+recheck, and correct closure. No GPU run is authorized. See
+[the lifecycle plan](NEXT_SYSTEM_INTERACTION_CONSTRUCTION_VERIFICATION_LIFECYCLE.md).
 
 The first breadth tranche is complete. Its 39 calls used one attempt each and
 zero retries. No prompt exceeded 7,110 tokens against the 20,992-token prompt

@@ -932,5 +932,56 @@ and ordinary work continues.
 
 The complete runner, contract, authorization template, evaluator, and provider-
 free full-cell test are frozen in the standalone repository. Its 141 tests
-pass. The measured W0-then-L1 GPU run remains unauthorized pending a new exact
-commit-bound authorization.
+pass. E69 records the completed measured comparison.
+
+## E69 establishes a positive interaction and moves the boundary to verification
+
+The complete Solace run is sealed at
+`qwen38-artifact-coupled-integration-scout-v0@353c059b31c94dc5951e727b1a2cfa0bba51b6b8`.
+It used 34 provider calls and 578,257 serialized tokens with no retries or run
+failure.
+
+W0 wrote an exact fourteen-source evidence ledger and then spent fourteen calls
+reopening the seven exact result bodies twice. It never changed the decision.
+L1 paid for seven maintenance calls, admitted 20 source/version-bound claims,
+made eight consecutive candidate mutations, never reopened an exact result, and
+produced a 1,934-word decision citing twelve sources. L1 used 220,232 serialized
+tokens versus W0's 358,025, a 38.5 percent reduction.
+
+This is the first positive whole-system interaction signal in the semantic-
+persistence branch:
+
+```text
+anchored semantic residue
+    x exact incremental artifact
+    x exact pressure/reopen substrate
+    -> acquisition-to-construction transition
+```
+
+It is not useful completion. W0 remained incomplete. L1 was independently
+adjudicated strong partial, eight of twelve substantive groups met and four
+partial, and not ready. Both arms terminated under unrelievable chronology
+pressure before check or submission. L1's final mutation effect never entered
+another actor decision.
+
+The last three maintenance calls were also economically unproductive: twelve
+grounded proposed claims could not enter the capped global register, leaving it
+unchanged while consuming 15,114 serialized tokens. This supports fallible
+maintenance inside the trajectory but does not justify same-boundary cap or
+carrier tuning.
+
+The frozen mechanical evaluator's not-ready classification remains correct, but
+two L1 blockers were lexical false positives: one missed equivalent numeric
+surface forms, and one treated an explicitly negated wrong duration as a
+reversal. Candidate-bound direct adjudication governs the criterion detail, and
+prospective evaluator hardening is required before another live run.
+
+The failure has migrated from evidence acquisition to construction-to-
+verification lifecycle continuity. The next eligible study is the offline
+ablation in
+`NEXT_SYSTEM_INTERACTION_CONSTRUCTION_VERIFICATION_LIFECYCLE.md`: start both
+arms from the same exact pressured L1 candidate/currentness state and compare
+exact artifact-only reentry with the same packet plus the already-produced
+register. This is justified only because the joint configuration produced a
+meaningful signal. No new semantic generation, carrier repair, or GPU call is
+authorized.
