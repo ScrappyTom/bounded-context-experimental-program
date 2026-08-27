@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-27
-Status: current program synthesis through E78; E69 produced the first positive
+Status: current program synthesis through E79; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
 among semantic residue, exact artifacts, construction timing/granularity, and
@@ -24,8 +24,11 @@ offline. E78 qualifies that fresh Stage 0 in the independent Keystone rail
 world: prospective pressure occurs after ten delivered sources, V0 and V1 share
 the complete construction/repair/evaluation lifecycle, and provider-free V1
 retains a twice-rejected mutation across newer observations while V0 does not.
-Only a treatment-free pressure screen is frozen; it is not authorized, and the
-measured V0/V1 runner remains unfrozen.
+E79 ran that screen and reached real pressure after nine clean reads, but only
+eight sources/domains had been delivered against the frozen ten/ten interaction
+gate. The fork is non-qualifying, no V0/V1 continuation ran, and the measured
+runner remains unfrozen. The active work is offline reconciliation of common
+pre-treatment relief with a later whole-interaction fork.
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -1279,3 +1282,32 @@ never construct, encounter the failure, use the V1 fields, select another
 repair, or close correctly. The only next eligible operation is the frozen,
 separately authorized treatment-free pressure screen. No measured comparison
 is yet frozen.
+
+## E79 shows the first Keystone pressure event is too early for the interaction gate
+
+Standalone commit `eacafe5e4b46fcb3ffbadd90e9823d16796f6f4e`
+records nine valid complete-source reads. Eight results were delivered to later
+actor calls; CYBER was acquired as pending `RESULT-009`. Ordinary delivery
+required 22,267 prompt tokens, 1,275 over allowance. First-fit replacement of
+only `RESULT-001` would restore 20,648 tokens and 344 tokens of headroom.
+
+The run did not qualify the intended comparison. Its frozen gate required ten
+delivered sources and ten delivered domains, but the fork had eight of each.
+The actor made no malformed or repeated action: it traversed authority, track,
+signal, power, rolling stock, crew, weather, fuel, and cyber evidence in a
+coherent order. The failure is therefore the interaction between ingress
+granularity, result size, append-only pre-fork residency, and the evidence
+breadth required for a meaningful verification study.
+
+This revises the route without isolating a component. Deterministic relief may
+serve as common pre-treatment infrastructure so both viable systems can
+continue actor-selected ingress. A later fork must be frozen before execution
+and require delivered evidence plus genuine construction/verification state.
+It may not lower the evidence threshold post hoc, inject selected sources, or
+relabel the current handoff as measured eligibility.
+
+The independent audit passes exact replay, pressure arithmetic, frozen ten/ten
+admission, first-fit feasibility, seal, and runtime release. Nine calls used
+102,009 serialized tokens. No bounded-causal behavior, repair, readiness, or
+utility was measured. Offline activation-geometry reconciliation is the only
+selected successor; no further GPU call is authorized.

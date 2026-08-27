@@ -2,7 +2,7 @@
 
 Date: 2026-08-27
 
-Status: governing direction through E78; E69 produced the first positive
+Status: governing direction through E79; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, while E70 showed that the causal unit also includes
 artifact persistence, construction timing/granularity, and action transport.
@@ -18,7 +18,11 @@ uniquely bound repair offline. The active boundary is fresh-world whole-system
 transfer through repair, recheck, readiness, and closure—not another isolated
 memory object. E78 qualifies that transfer apparatus offline in Keystone and
 freezes only the treatment-free pressure screen; actor use of bounded causal
-continuity remains unmeasured.
+continuity remains unmeasured. E79 then reaches authentic Keystone pressure
+before the frozen evidence-breadth gate: eight sources/domains were delivered,
+CYBER was pending, and the ten/ten interaction fork did not qualify. The active
+work is offline whole-route reconciliation, not a measured continuation or a
+lowered component threshold.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -1271,3 +1275,28 @@ Prospective permitted ingress reaches 23,021 prompt tokens after ten sources;
 first-fit relief restores 19,495. The treatment-free pressure screen must now
 realize an actor-selected common handoff. Only after independent audit may a
 measured V0/V1 runner be frozen.
+
+## E79 makes common pre-treatment lifecycle support part of the interaction
+
+The live actor did not reproduce Stage 0's ten-source deterministic path before
+its first overflow. It made nine clean novel reads, delivered eight sources and
+domains, and left CYBER pending. Ordinary delivery was 22,267 tokens; one
+first-fit substitution would restore 20,648. Because the ten/ten gate was not
+met, the handoff is non-qualifying and no V0/V1 continuation exists.
+
+This result does not isolate or reject bounded causal continuity. It shows that
+the whole system's activation semantics must include the already-earned
+mechanical lifecycle substrate. A future viable comparison should share:
+
+```text
+actor-selected ingress
+× deterministic relief while necessary
+× semantic scaffold
+× exact incremental artifact
+× current candidate/check/effect bindings
+```
+
+and fork only when delivered evidence and actual construction/verification
+state make bounded causal continuity behaviorally reachable. The host may not
+choose evidence or infer semantic readiness. This is offline design work; no
+GPU operation is authorized.

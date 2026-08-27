@@ -36,8 +36,8 @@ def test_machine_route_preserves_claim_limits_and_records_stage0_successor() -> 
     assert audit["bound_repair_action_tokens"] == 461
     assert audit["behavioral_utility_measured"] is False
     next_operation = route["next_live_operation"]
-    assert next_operation["kind"] == "keystone_treatment_free_pressure_screen"
-    assert next_operation["status"] == "frozen_not_authorized"
+    assert next_operation["kind"] == "none_offline_activation_geometry_reconciliation_required"
+    assert next_operation["status"] == "not_selected"
     assert next_operation["fresh_task_selected"] is True
     assert next_operation["authorized"] is False
     assert route["gpu_authorized"] is False
@@ -57,4 +57,4 @@ def test_docs_keep_whole_system_scope_and_no_gpu_authority() -> None:
     assert "Actor utility | untested" in result
     assert "complete system operating over time" in plan
     assert "repair surface is common apparatus" in reconciliation
-    assert "no GPU authority exists" in plan
+    assert "No GPU run is authorized" in plan

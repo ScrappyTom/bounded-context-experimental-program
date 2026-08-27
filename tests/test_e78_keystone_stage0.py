@@ -19,7 +19,7 @@ def test_aggregate_records_zero_call_keystone_stage0() -> None:
     assert stage["sources"][0]["result_commit"] == RESULT_COMMIT
 
 
-def test_machine_route_records_keystone_and_only_pressure_screen_next() -> None:
+def test_machine_route_preserves_keystone_stage0_after_pressure_screen() -> None:
     contract = json.loads(
         (ROOT / "SYSTEM_INTERACTION_EXPLORATION.json").read_text(encoding="utf-8")
     )
@@ -34,12 +34,8 @@ def test_machine_route_records_keystone_and_only_pressure_screen_next() -> None:
     assert stage0["V1_recurrence_count"] == 2
     assert stage0["behavioral_utility_measured"] is False
     assert stage0["measured_runner_frozen"] is False
-    operation = route["next_live_operation"]
-    assert operation["kind"] == "keystone_treatment_free_pressure_screen"
-    assert operation["maximum_model_calls"] == 30
-    assert operation["attempts_per_call"] == 1
-    assert operation["retries"] == 0
-    assert operation["authorized"] is False
+    assert route["keystone_pressure_screen_result"]["interaction_trigger_qualified"] is False
+    assert route["next_live_operation"]["authorized"] is False
     assert route["gpu_authorized"] is False
 
 

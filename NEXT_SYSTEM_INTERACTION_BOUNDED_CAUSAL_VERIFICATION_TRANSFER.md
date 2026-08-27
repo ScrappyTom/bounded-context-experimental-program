@@ -2,10 +2,24 @@
 
 Date: 2026-08-27
 
-Status: Keystone fresh-world offline Stage 0 passed at standalone commit
-`d13582a9371512ee6d279ade461a88f05096f9f9`; the treatment-free pressure
-screen is frozen but not authorized, the measured V0/V1 runner remains
-unfrozen, and no GPU authority exists
+Status: E79 pressure screen complete and non-qualifying at standalone commit
+`eacafe5e4b46fcb3ffbadd90e9823d16796f6f4e`; offline activation-geometry
+reconciliation selected; the measured V0/V1 runner remains unfrozen and no GPU
+authority exists
+
+## E79 live-screen correction
+
+The live actor reached first pressure after eight delivered sources/domains,
+not after the ten-source path used in offline qualification. CYBER was pending;
+ordinary delivery measured 22,267 tokens, and first-fit `RESULT-001` relief
+would restore 20,648. Because the frozen interaction gate required ten
+delivered sources and domains, the exact fork is ineligible.
+
+The next design must not lower that threshold after seeing the run. It should
+make deterministic relief common before treatment, continue actor-selected
+ingress, and freeze a later fork that also exposes construction or verification
+state. This preserves the intended systems interaction instead of comparing a
+causal field at an evidence-only component boundary.
 
 ## Question
 

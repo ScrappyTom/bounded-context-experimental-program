@@ -1441,3 +1441,23 @@ Not supported:
 Disposition: **AF/NQ** — offline Stage 0 qualified. Only the treatment-free
 Keystone pressure screen is frozen and separately authorizable. The measured
 runner is unfrozen.
+
+# E79 — Keystone bounded-causal pressure screen
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@eacafe5e4b46fcb3ffbadd90e9823d16796f6f4e`
+
+Nine valid novel reads acquired MANDATE, TRACK, SIGNAL, POWER, ROLLING, CREW,
+WEATHER, FUEL, and pending CYBER. Eight sources/domains crossed later actor
+boundaries. Delivering CYBER would require 22,267 prompt tokens, 1,275 above
+allowance; first-fit replacement of only `RESULT-001` restores 20,648.
+
+The frozen interaction gate required ten delivered sources and domains, so the
+screen is non-qualifying. The candidate remained initial and no treatment,
+maintenance, construction, check, or submission occurred. Independent replay
+and custody audit passes. Nine calls used 102,009 serialized tokens.
+
+Disposition: **AF/LR/NQ** — authentic pressure and feasible relief are locally
+supported. Bounded-causal utility remains untested. Offline activation-geometry
+reconciliation is selected; no measured continuation or GPU operation is
+authorized.

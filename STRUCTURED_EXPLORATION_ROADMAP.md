@@ -2,7 +2,7 @@
 
 Date: 2026-08-27
 
-Status: updated through E78; Solace produced a positive acquisition-to-
+Status: updated through E79; Solace produced a positive acquisition-to-
 construction interaction and a negative fixed-scaffold verification result.
 Orchard transfers the phase-conditional system: bounded current verification
 enables repair effect uptake and recheck where fixed append-only state stops,
