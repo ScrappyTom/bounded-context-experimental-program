@@ -33,9 +33,11 @@ def test_machine_route_records_pressure_without_interaction_qualification() -> N
     assert result["first_fit_relief_prompt_tokens"] == 20_648
     assert result["interaction_trigger_qualified"] is False
     assert result["measured_continuation_ran"] is False
+    qualification = route["keystone_event_triggered_continuation_qualification"]
+    assert qualification["result_commit"] == "c443f39fca414303c6f3b4efdfa94ba0b06a37b7"
+    assert qualification["provider_free_runner_qualification_passed"] is True
     operation = route["next_live_operation"]
-    assert operation["kind"] == "keystone_event_triggered_causal_continuation"
-    assert operation["measured_runner_frozen"] is True
+    assert operation["kind"] == "none_selected"
     assert operation["authorized"] is False
     assert route["gpu_authorized"] is False
 

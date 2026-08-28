@@ -2,7 +2,7 @@
 
 Date: 2026-08-27
 
-Status: updated through E80; Solace produced a positive acquisition-to-
+Status: updated through E81; Solace produced a positive acquisition-to-
 construction interaction and a negative fixed-scaffold verification result.
 Orchard transfers the phase-conditional system: bounded current verification
 enables repair effect uptake and recheck where fixed append-only state stops,
@@ -14,8 +14,10 @@ bounded mechanical contract offline. E78 qualifies its fresh Keystone
 whole-system Stage 0, including authentic prospective pressure, common bound
 repair/evaluation, and provider-free V0/V1 lifecycle parity. E79 then exposed
 the mismatch between count-based activation and live complete-source ingress.
-E80 retires that count gate and provider-free qualifies one event-triggered
-common continuation plus conditional V0/V1 fork. It remains unauthorized.
+E80 retired that count gate and qualified one event-triggered common
+continuation plus conditional V0/V1 fork. E81 ran the common continuation, but
+complete source coverage still produced no task work, so the lifecycle event
+never occurred and Keystone closed without a branch.
 
 ## Research-phase reset
 
@@ -893,3 +895,30 @@ both arms share the complete acquisition-to-artifact-to-verification substrate,
 and treatment is absent until the system reaches the precise lifecycle state in
 which causal continuity could change repair behavior. If that state never
 arises, Keystone closes as non-diagnostic.
+
+## E81 route closure
+
+That state did not arise. Keystone's valid continuation delivered all fourteen
+sources while the candidate remained empty. Ten of eighteen new model calls
+were semantic maintenance; they admitted eight of 48 proposed claims, covered
+three sources, and retained no relationships. The actor then returned to
+MANDATE and TRACK rather than creating task work.
+
+This is an interaction-level result, not a failed isolated component:
+
+```text
+exact custody
+× deterministic relief
+× sparse carrier-selected semantic residue
+× actor demand
+× finite call allocation
+× unused incremental artifact affordances
+→ evidence turnover and reacquisition without cumulative work
+```
+
+The program will not lower the causal trigger, extend the donor, or tune the
+register carrier. Bounded causal utility remains untested because the common
+system never reached repair. No next research experiment or GPU operation is
+selected. Any later route must begin from a new whole-system interaction
+question with prospective reachability and downstream artifact/evaluation
+opportunity.

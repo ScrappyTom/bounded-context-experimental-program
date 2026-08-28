@@ -2,7 +2,7 @@
 
 Date: 2026-08-25
 
-Status: evidence-bounded program narrative through E80; the latest route uses
+Status: evidence-bounded program narrative through E81; the latest route used
 the sealed Keystone pressure prefix and an exact lifecycle event rather than a
 source-count threshold
 
@@ -2064,3 +2064,60 @@ pending delivery, event detection, branch independence, repair binding,
 budgets, effect-uptake accounting, and external authorization. Zero provider
 calls occurred. The apparatus is frozen; live trigger reachability and utility
 remain unmeasured.
+
+# 73. Keystone closes before the causal treatment becomes relevant
+
+E81 authorized the single event-triggered continuation frozen by E80. The
+sealed common run is valid and used eighteen new model calls: ten semantic-
+maintenance calls and eight actor calls. It consumed 198,745 new serialized
+tokens.
+
+The actor completed the remaining catalog suffix—TELEMETRY, LOADS, PASSENGER,
+LINEAGE, and REVIEW—so all fourteen sources crossed model boundaries. It then
+requested MANDATE and TRACK together, exceeded the 160-line batch cap by twelve
+lines, and reread each source separately. The candidate stayed exactly at its
+empty evidence ledger and ten-word decision placeholder. Verification, check,
+repair, recheck, and submission never occurred.
+
+The semantic-maintenance path was not inert. Across ten externalizations it
+proposed 48 exact-anchor-bound claims. Eight were admitted, forty rejected, and
+the final register contained facts from MANDATE, POWER, and TELEMETRY only. It
+contained no relationship claim. Six four-claim source updates failed their
+source-slot budget transactionally; WEATHER failed anchor uniqueness; relation
+records failed referent declarations. Thus model-authored semantics existed,
+but the persistent state was sparse and carrier-selected.
+
+The lifecycle economics are consequential. Maintenance spent 37,708 serialized
+tokens and generated 7,069 completion tokens. The eight actor calls spent
+161,037 serialized tokens and generated only 214 completion tokens. Because the
+common limit counted all model calls, ten maintenance operations left eight
+actor decisions. No exact or semantic operation produced a candidate mutation.
+
+The embedded result initially reported a stale `empty_trace` activation state
+and counted actor calls while omitting maintenance from activation tax. The
+independent audit recomputed the terminal trace and corrected the whole pre-
+treatment total to 27 model calls and 300,754 serialized tokens. Raw custody,
+behavior, seals, candidate state, branch count, and runtime release were valid;
+the model was not rerun.
+
+This does not reject V1 causal continuity. The trigger required a nontrivial
+candidate, current check, rejected repair, unchanged candidate, and later
+observation. The trajectory never produced the first prerequisite, so no fork
+or treatment-dependent decision existed.
+
+The system result is upstream:
+
+```text
+all exact evidence observed
+× exact recoverability
+× deterministic pressure relief
+× paid but sparse semantic residue
+× incremental artifact affordances
+→ reacquisition without cumulative work
+```
+
+The event gate preserved causal validity by refusing to treat this as evidence
+about repair continuity. Under the frozen stop rule, Keystone is closed. No
+same-world retry, trigger adjustment, maintenance-carrier tune, or replacement
+research mechanism is selected. The donor-preserving product path remains
+separate.

@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-27
-Status: current program synthesis through E80; E69 produced the first positive
+Status: current program synthesis through E81; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
 among semantic residue, exact artifacts, construction timing/granularity, and
@@ -26,11 +26,13 @@ the complete construction/repair/evaluation lifecycle, and provider-free V1
 retains a twice-rejected mutation across newer observations while V0 does not.
 E79 ran that screen and reached real pressure after nine clean reads, but only
 eight sources/domains had been delivered against the frozen ten/ten interaction
-gate. The fork is non-qualifying, no V0/V1 continuation ran, and the measured
-runner did not run. E80 retires that count gate and provider-free qualifies an
-exact-prefix continuation that forks only after construction, current check,
-rejected repair, and a later exact observation coexist. The integrated runner
-is frozen but remains unauthorized.
+gate. E80 retired that count gate and qualified an exact-prefix continuation
+that could fork only after construction, current check, rejected repair, and a
+later exact observation coexisted. E81 ran the valid common continuation. All
+fourteen sources became model-visible, yet the candidate stayed empty; ten
+maintenance calls admitted only eight of 48 proposed claims across three
+sources and no relationships. The lifecycle trigger remained absent, no V0/V1
+branch existed, and Keystone closed under its frozen stop rule.
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -1345,3 +1347,40 @@ This is zero-call apparatus evidence. It does not show that the live actor will
 reach the event or that V1 improves behavior. One integrated GPU run is now the
 only eligible live operation, but it remains unauthorized until the user binds
 the exact freeze commit and limits.
+
+## E81 closes Keystone on valid event nonactivation
+
+The authorized continuation used eighteen new model calls: ten maintenance and
+eight actor calls. First-fit relief and exact custody kept the common system
+operable while the actor completed TELEMETRY, LOADS, PASSENGER, LINEAGE, and
+REVIEW. All fourteen sources then had crossed an actor boundary. The actor next
+made one invalid complete MANDATE-plus-TRACK batch request and reread those two
+sources separately. It never mutated the empty candidate or entered
+verification.
+
+The corrected whole pre-treatment cost is 27 model calls and 300,754
+serialized tokens. An embedded reporting helper omitted maintenance from that
+tax and retained a stale activation snapshot; independent trace reconstruction
+corrected both without invalidating custody or rerunning the model.
+
+This is also a common-system interaction result. Ten maintenance calls proposed
+48 provenance-bound claims but admitted only eight. The final register covered
+MANDATE, POWER, and TELEMETRY and contained no relationship claim. Six
+four-claim source updates were rejected wholesale by the source-slot budget;
+other source updates entered only after separate relationship failures reduced
+their accepted payload. The persistent semantic state was therefore sparse and
+carrier-selected rather than a broad integrated evidence state.
+
+Exact evidence, mechanical relief, semantic maintenance, exact receipts, and
+incremental artifact actions all remained active. They preserved access but
+did not create cumulative semantic or task work. Ten paid maintenance calls
+also left only eight actor decisions inside the common model-call budget. This
+is failure migration from context capacity to evidence-to-work conversion and
+decision allocation, not evidence that bounded causal continuity failed.
+
+The event trigger behaved correctly: it did not fork on pressure, source count,
+elapsed calls, or reacquisition. Under the prospectively frozen stop rule,
+Keystone is closed. The program will not lower the trigger, continue the donor,
+tune the maintenance carrier, or manufacture the missing repair state. No next
+research GPU operation is selected; the separate donor-preserving product path
+is unaffected.

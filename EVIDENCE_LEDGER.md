@@ -1,6 +1,6 @@
 # Evidence ledger
 
-Date: 2026-08-26
+Date: 2026-08-27
 
 This ledger separates mechanical facts, local results, candidate hypotheses,
 and untested mechanisms. Links identify immutable result commits; the linked
@@ -86,6 +86,15 @@ means literal local behavior with a material apparatus qualification.
 | E70 | AF/LR | Solace call-level qualitative transcript reconciliation | All 34 sealed turns are bound to exact pre-call residency, register/candidate state, literal action, admitted effect, semantic/artifact uptake or loss, demand alternatives, and requirement lineage. W0's final two calls were broad global decision attempts that each exhausted 4,096 completion tokens and failed JSON admission; L1 entered earlier section-sized admitted construction. | Zero new model calls and no score change. The audit retires “W0 never constructed,” preserves zero admitted W0 decision mutations, and makes representation × work externalization × action transport part of the causal account. | [qualitative audit](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/891bb0d46b757313781a8c40e6084c24d3d064bd) |
 | E71 | AF/NQ | Solace construction-to-verification lifecycle Stage 0 | The exact L1 donor, 20-claim register, undelivered final effect, evaluator-v1 defect set, bounded patch transport, check currentness, repair, recheck, and closure surface qualify provider-free. A0 begins at 8,693 prompt tokens and A1 at 15,339; an eleven-edit fixture uses 760 tokens and both complete the same four-step lifecycle. | Zero provider calls and no behavioral utility evidence. The fixture is apparatus reachability, not a model repair. The separately authorized A0/A1 run is required to measure post-construction register value. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/a2c9270c676e2d0d8427b119f81ec39b3f21b2d1) |
 | E72 | AF/LR | Solace verification-lifecycle interaction | A0 without the register reached ten calls, four patches, and four checks; A1 with the frozen register made one broad patch and stopped after four calls. Both repaired every frozen concept gate, but both final effects were undelivered and both stopped before a current final recheck. | One task/donor/seed. Direct source review records A0 and A1 strong partial/not ready: A0 retains an ill-typed flow/power relation; A1 introduces unsupported samples-per-round and weakens the all-node pressure gate. The register retains repair salience but does not earn verification-phase residency; append-only verification state remains a common bottleneck. | [lifecycle result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/7620e1b) |
+| E73 | AF/NQ | Orchard phase-conditional lifecycle Stage 0 | A fresh thirteen-source task and provider-free F0/P1 construction-to-verification lifecycle qualified exact ingress, anchored scaffolding, incremental artifact work, scaffold demotion, current checks, repair, recheck, and closure. | Zero provider calls; actor utility and transfer unmeasured. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/444ab65a745f1d5cbadbd30e1ed07c99a88ee173) |
+| E74 | LR/AF/NQ | Orchard authentic common pressure | Six actor-selected pair reads delivered ten sources and left a pending result 160 tokens over allowance; one first-fit externalization restored 2,483 tokens of headroom. | Common pre-treatment screen only; no treatment or task work. | [pressure result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/a681f52acd750176065b6ed5d5418f5f5ae6e9b8) |
+| E75 | AF/NQ | Orchard F0/P1 measured freeze | The exact pressure handoff, common construction system, phase transition, fixed versus phase-conditional verification lifecycles, resources, and runner qualified provider-free. | Zero calls and no behavioral utility. | [freeze](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/094bbce57407568d1ef0ecd94414ae1a957e3b45) |
+| E76 | LR/AF | Orchard phase-lifecycle interaction | Both arms shared pressured scaffold-plus-artifact construction. F0 stopped after one check/read; P1 demoted the scaffold, repaired, delivered the effect, and rechecked from nine to three blockers, then repeated one CURRENT read four times and remained not ready. | One world/seed and compound lifecycle contrast. P1 improved operability and artifact quality without completion; its recurrence motivates bounded causality and repair binding, not an Orchard tune. | [measured result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/5bfd615d58a97a3d8c83b5bf3c4fc713c5e62e9a) |
+| E77 | AF/LR/NQ | cross-run causal continuity and repair binding | Across 157 sealed actor calls in ten cells/four worlds, action-transport recurrence appeared in three worlds and rejected-mutation recurrence in two. A bounded host-derived causal frame and uniquely section-bound repair qualified provider-free. | Cross-study routing and apparatus evidence; actor use and utility untested. | [audit](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/2e276cb69106de263516aa4828d30cec0e25e365) |
+| E78 | AF/NQ | Keystone bounded-causal fresh-world Stage 0 | A fresh fourteen-source rail task qualified common construction/verification, V0 current-only replacement, V1 unresolved-rejection/recurrence retention, bound repair, effect uptake, current recheck, readiness, and closure provider-free. | Zero calls; live construction, trigger reachability, and V0/V1 utility unmeasured. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/d13582a9371512ee6d279ade461a88f05096f9f9) |
+| E79 | LR/AF/NQ | Keystone treatment-free pressure screen | Nine complete-source reads delivered eight sources and left CYBER pending at 22,267 prompt tokens; one first-fit substitution restored feasibility, but the frozen ten-source/domain gate was not reached and the candidate remained empty. | Authentic pressure and relief only; no maintenance, construction, or causal treatment. | [screen result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/eacafe5e4b46fcb3ffbadd90e9823d16796f6f4e) |
+| E80 | AF/NQ | Keystone event-triggered continuation qualification | The count gate was retired; exact parent restoration, common relief, pending delivery, lifecycle-event activation, branch cloning, bound repair, budgets, and authorization-gated runner passed provider-free. | Zero calls; trigger reachability and utility unmeasured. | [preflight](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/c443f39fca414303c6f3b4efdfa94ba0b06a37b7) |
+| E81 | LR/AF/NQ | Keystone event-triggered common continuation | E81 delivered all fourteen sources under exact custody/relief, but ten maintenance plus eight actor calls left the candidate empty. Maintenance admitted 8/48 claims across three sources and no relationships; the actor then reacquired MANDATE and TRACK. | Valid nonactivation: no V0/V1 branch or treatment decision occurred. Corrected whole pre-treatment cost is 27 calls/300,754 tokens. Keystone closes; bounded-causal utility remains untested. | [result and qualitative audit](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/133bd274e930806634006ed7644b25c4b553dab8) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
@@ -1488,3 +1497,34 @@ call occurred.
 Disposition: **AF/NQ** — exact event-triggered lifecycle apparatus is frozen at
 the standalone commit. Live trigger reachability and V1 utility are unmeasured.
 No product promotion or GPU authority follows from this stage.
+
+# E81 — Keystone event-triggered continuation nonactivation
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@133bd274e930806634006ed7644b25c4b553dab8`
+
+The valid sealed continuation used ten semantic-maintenance and eight actor
+calls, 198,745 new serialized tokens, and no branch calls. Together with E79,
+27 model calls and 300,754 tokens were spent before any treatment could have
+appeared.
+
+All fourteen sources crossed an actor boundary. The actor then made an invalid
+172-line MANDATE/TRACK batch request and reread the two sources separately. The
+candidate remained the exact empty seed; no verification or repair event
+occurred.
+
+Maintenance proposed 48 anchored claims and admitted eight facts from MANDATE,
+POWER, and TELEMETRY. Forty claims were rejected and no relationship entered
+the register. The common system therefore co-activated evidence delivery,
+exact turnover, semantic maintenance, actor demand, finite call allocation,
+and incremental artifact affordances without producing cumulative work.
+
+An embedded derived-reporting defect omitted maintenance from activation tax
+and retained a stale terminal trigger snapshot. Independent sealed-trace audit
+corrected the summary without invalidating raw behavior, custody, or seals; no
+rerun occurred.
+
+Disposition: **LR/AF/NQ** — valid common-system nonactivation and a local
+evidence-to-work conversion failure. No V0/V1 utility result exists. Keystone
+is closed under the frozen stop rule, and no same-world successor or GPU
+operation is selected.

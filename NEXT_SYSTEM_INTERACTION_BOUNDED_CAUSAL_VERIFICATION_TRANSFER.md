@@ -2,10 +2,10 @@
 
 Date: 2026-08-27
 
-Status: E80 provider-free event-triggered continuation qualified at standalone
-commit `c443f39fca414303c6f3b4efdfa94ba0b06a37b7`. The count-based gate is
-retired. One authorization-gated integrated runner is frozen; no GPU authority
-exists.
+Status: closed by E81. The authorized event-triggered common continuation ran
+from standalone commit `c443f39fca414303c6f3b4efdfa94ba0b06a37b7`, but
+the exact causal event never occurred. No V0/V1 branch existed and Keystone has
+no selected same-world successor.
 
 ## E79 live-screen correction
 
@@ -158,6 +158,27 @@ the frame mechanically feasible but economically unearned.
 Do not tune Orchard, add a semantic progress cue, or let recurrence force a
 repair or submission.
 
-No GPU run is authorized by this plan. Execution requires a separate external
-authorization bound to the exact standalone commit, run ID, 34-call ceiling,
-one attempt per call, and zero retries.
+## E81 measured disposition
+
+The integrated runner was authorized and completed validly. Common execution
+used ten maintenance and eight actor calls. It delivered all fourteen sources,
+but the actor left both artifacts unchanged, made one invalid 172-line batch
+request, and reread MANDATE and TRACK. The causal trigger remained absent, so
+zero branch calls and zero treatment-dependent decisions occurred.
+
+Maintenance admitted only eight of 48 proposed claims, represented three
+sources, and retained no relationships. This sparse carrier-selected semantic
+state, exact result turnover, finite call allocation, actor reacquisition, and
+unused incremental artifact surface form the measured system interaction.
+
+The corrected whole pre-treatment cost is 27 model calls and 300,754 serialized
+tokens. Bounded causal continuity remains untested; the experiment did not
+reach the functional boundary where V0 and V1 differ.
+
+This plan is complete and closed. It authorizes no further GPU call, threshold
+change, Keystone continuation, semantic-carrier tune, or replacement causal
+mechanism. A later research plan, if any, must be selected from a genuinely new
+whole-system interaction boundary rather than from the missing event in this
+donor.
+
+No GPU run is authorized by this closed plan.

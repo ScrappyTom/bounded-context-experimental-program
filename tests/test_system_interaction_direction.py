@@ -15,7 +15,7 @@ class SystemInteractionDirectionTests(unittest.TestCase):
 
     def test_unit_is_whole_configuration_not_component(self):
         self.assertEqual(
-            "e80_keystone_event_triggered_continuation_provider_free_qualified_unauthorized",
+            "e81_keystone_event_triggered_continuation_valid_nonactivation_closed",
             self.contract["status"],
         )
         self.assertEqual("whole_configuration_trajectory", self.contract["unit_of_analysis"])

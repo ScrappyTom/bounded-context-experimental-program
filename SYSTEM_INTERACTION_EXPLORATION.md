@@ -2,7 +2,7 @@
 
 Date: 2026-08-27
 
-Status: governing direction through E80; E69 produced the first positive
+Status: governing direction through E81; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, while E70 showed that the causal unit also includes
 artifact persistence, construction timing/granularity, and action transport.
@@ -21,10 +21,11 @@ freezes only the treatment-free pressure screen; actor use of bounded causal
 continuity remains unmeasured. E79 then reaches authentic Keystone pressure
 before the frozen evidence-breadth gate: eight sources/domains were delivered,
 CYBER was pending, and the ten/ten interaction fork did not qualify. The active
-route is now E80's provider-free-qualified exact-prefix continuation: common
-relief and ordinary work proceed without treatment, and V0/V1 diverge only at
-the exact rejected-repair plus later-observation lifecycle event. It remains
-unauthorized.
+route became E80's exact-prefix continuation: common relief and ordinary work
+could proceed without treatment, and V0/V1 could diverge only at the exact
+rejected-repair plus later-observation event. E81 ran that common system, but
+the actor observed all fourteen sources without changing the empty candidate.
+The event never occurred, no fork existed, and Keystone is now closed.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -1332,3 +1333,44 @@ the interaction-first rule: V0/V1 differ only after construction, feedback,
 failed action transport, and new evidence are simultaneously active. Trigger
 absence is a scientifically meaningful nonactivation result, not permission to
 lower a count or manufacture a rejection.
+
+## E81 exposes the common system before the intended causal interaction
+
+The event rule behaved correctly. Shared first-fit relief delivered pending
+CYBER, exact custody remained intact, and the actor completed the remaining
+five sources. Source breadth, pressure, and elapsed calls did not activate the
+treatment. Because the actor never changed the placeholder candidate, the
+required verification/check/rejection/observation conjunction never existed.
+
+The run nevertheless reveals a system interaction upstream of the planned
+fork. Ten maintenance calls and eight actor calls shared one eighteen-call
+common budget. Maintenance proposed 48 source-bound claims but retained only
+eight facts from three sources and no relationships. The actor then completed
+all fourteen sources, attempted an invalid MANDATE/TRACK batch, and reread both
+sources while leaving both task artifacts untouched.
+
+This was not an isolated register test. Exact evidence, result turnover,
+semantic maintenance, exact receipts, actor demand, action admission, call
+allocation, and artifact affordances were simultaneously active. Their joint
+trajectory was:
+
+```text
+complete evidence coverage
+× sparse carrier-selected semantic residue
+× exact recoverability
+× paid maintenance cadence
+× unused incremental task-work surface
+→ reacquisition without cumulative work
+```
+
+The result does not show that causal continuity is useless. It shows that the
+selected whole-system donor never reached the lifecycle in which causal
+continuity could matter, despite 27 pre-treatment calls and 300,754 serialized
+tokens. The frozen stop rule therefore closes Keystone rather than retuning
+activation or semantic transport.
+
+No successor research configuration is currently selected. This is deliberate
+stopping discipline, not a return to component isolation. Any later research
+route must be justified by a new cross-system interaction boundary, not by the
+logical availability of another Keystone continuation, register budget, or
+trigger variant.

@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 67 experiment commit bindings are resolved through the named local
+The current 68 experiment commit bindings are resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -52,24 +52,24 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
-E80 completes the provider-free redesign prompted by the E79 Keystone screen.
-The ten-source/ten-domain pressure gate is retired, not lowered: the live actor
-used complete single-source reads in catalog order, reached pressure after
-eight delivered sources, and created no durable work. Source count and first
-pressure were the wrong activation unit for a verification-causality treatment.
+E81 completes and closes the Keystone event-triggered route. The valid common
+continuation used ten semantic-maintenance and eight actor calls, delivered all
+fourteen sources, then reread MANDATE and TRACK without ever changing the empty
+candidate. The exact rejected-repair lifecycle trigger never occurred, so no
+V0/V1 fork or treatment-dependent decision existed.
 
-The exact E79 state is now an immutable common prefix. First-fit relief and
-pending CYBER delivery are shared infrastructure. A V0/V1 fork is permitted
-only after the live trace contains a nontrivial candidate, actor-selected
-verification, a current candidate-bound check, a rejected repair, and a later
-exact observation acquired in the unchanged-candidate epoch. Both branch
-prompts deliver that pending observation; V1 alone retains the unresolved
-rejection and exact recurrence. Provider-free prefix, trigger, clone, repair,
-budget, and authorization-gated runner qualification pass with zero calls.
+The corrected pre-treatment cost is 27 model calls and 300,754 serialized
+tokens. Maintenance proposed 48 claims but admitted only eight, covered three
+sources, and retained no relationships. Exact custody, relief, semantic
+maintenance, and incremental task-work affordances therefore interacted while
+evidence still failed to become cumulative work. The event trigger correctly
+prevented that upstream failure from being misclassified as a causal-
+continuity result.
 
-This is eligibility evidence only. No GPU call is authorized. See
-[E80](E80_KEYSTONE_EVENT_TRIGGERED_CONTINUATION_PREFLIGHT.md),
-[E79](E79_KEYSTONE_PRESSURE_SCREEN_RESULT.md), and the updated
+Keystone is closed under its frozen stop rule. No same-world retry, threshold
+change, replacement research mechanism, or GPU operation is selected. See
+[E81](E81_KEYSTONE_EVENT_TRIGGERED_CONTINUATION_RESULT.md),
+[E80](E80_KEYSTONE_EVENT_TRIGGERED_CONTINUATION_PREFLIGHT.md), and the closed
 [transfer plan](NEXT_SYSTEM_INTERACTION_BOUNDED_CAUSAL_VERIFICATION_TRANSFER.md).
 
 The current route began with Meridian E61. The ordinary six-call screen realized

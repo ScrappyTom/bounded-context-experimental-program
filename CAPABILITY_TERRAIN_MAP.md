@@ -2,7 +2,7 @@
 
 Date: 2026-08-27
 
-Status: updated through E80 Keystone event-triggered lifecycle qualification; not a
+Status: updated through E81 Keystone event-triggered lifecycle nonactivation; not a
 prevalence estimate or architecture
 
 ## Purpose and limits
@@ -230,3 +230,27 @@ check, rejected repair, later observation, and unchanged candidate. This keeps
 the comparison at the systems level: causal continuity is exposed only when
 artifact, feedback, action transport, new evidence, and bounded residency are
 simultaneously active.
+
+## E81 terrain update
+
+Keystone never reached that conjunction. Shared relief and exact custody made
+all fourteen sources visible, but no artifact changed and verification never
+began. The event rule therefore produced a valid nonactivation rather than a
+misleading V0/V1 comparison.
+
+The common trajectory adds a separate terrain observation. Ten paid semantic-
+maintenance calls retained eight of 48 proposed claims, represented three
+sources, and admitted no relationships. Within the same finite call envelope,
+only eight actor decisions remained. After complete source coverage, demand
+returned to MANDATE and TRACK while the incremental artifact surface remained
+unused.
+
+This supports a recurring boundary between information availability and
+evidence-to-work conversion. It does not identify a missing component or imply
+that a larger register would help. The observed behavior belongs to the joint
+configuration: relief cadence, carrier admission, exact turnover, actor demand,
+call allocation, and artifact transport interacted over time.
+
+Keystone is closed and no successor terrain probe is selected. Bounded causal
+continuity remains an unmeasured capability because its functional precondition
+did not occur.
