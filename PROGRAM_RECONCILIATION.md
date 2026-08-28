@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
-Date: 2026-08-27
-Status: current program synthesis through E81; E69 produced the first positive
+Date: 2026-08-28
+Status: current program synthesis through E82; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
 among semantic residue, exact artifacts, construction timing/granularity, and
@@ -32,12 +32,35 @@ later exact observation coexisted. E81 ran the valid common continuation. All
 fourteen sources became model-visible, yet the candidate stayed empty; ten
 maintenance calls admitted only eight of 48 proposed claims across three
 sources and no relationships. The lifecycle trigger remained absent, no V0/V1
-branch existed, and Keystone closed under its frozen stop rule.
+branch existed, and Keystone closed under its frozen stop rule. E82 now
+qualifies a fresh Trellis comparison between two viable exact artifact-centered
+lifecycles: A0 uses an exact evidence matrix plus incremental decision, while
+A1 adds temporary requirement-coupled anchored scaffolding during construction
+and removes it for verification. Provider-free Stage 0 passes pressure geometry
+and the complete check/repair/recheck/closure path; only the common pressure
+screen is frozen and it remains unauthorized.
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
 
 ## Executive disposition
+
+The active program phase is bounded evidence-to-work integration, not more
+exact-residency tuning or standalone semantic-carrier qualification. The
+strongest provisional lifecycle hypothesis is:
+
+```text
+exact custody and conservative pressure relief
++ exact task-native evidence/requirement work
++ exact incremental artifact construction
++ optional temporary provenance-bound semantic scaffolding
+→ fresh current verification frame
+→ scaffold demotion, artifact retention, repair/recheck/closure
+```
+
+Trellis tests that whole interaction on a fresh task. It does not assume that
+semantic residue is permanent memory or that expression quality predicts
+trajectory utility.
 
 The program has enough local mechanism evidence to stop searching the current
 donor trajectories for a slightly better exact layout, eviction prompt, digest format,

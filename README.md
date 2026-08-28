@@ -52,6 +52,18 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
+E82 opens a fresh artifact-centered lifecycle transfer in Trellis at apparatus
+commit [`6eba6ba`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/6eba6badd5bfbebdf931a8374d99687c17d4347b).
+Both viable configurations share exact custody, first-fit relief, reopen, an
+exact evidence-to-requirement matrix, incremental decision sections,
+candidate-bound feedback, targeted repair, recheck, and external readiness.
+A1 alone adds a temporary requirement-coupled anchored scaffold during
+construction and removes it for verification. Provider-free Stage 0 passes the
+complete lifecycle and projects pressure after ten delivered sources. Only the
+common treatment-free pressure screen is frozen; it is not authorized. See
+[E82](E82_TRELLIS_ARTIFACT_CENTERED_STAGE0.md) and the
+[transfer plan](NEXT_SYSTEM_INTERACTION_ARTIFACT_CENTERED_LIFECYCLE_TRANSFER.md).
+
 E81 completes and closes the Keystone event-triggered route. The valid common
 continuation used ten semantic-maintenance and eight actor calls, delivered all
 fourteen sources, then reread MANDATE and TRACK without ever changing the empty
@@ -67,7 +79,7 @@ prevented that upstream failure from being misclassified as a causal-
 continuity result.
 
 Keystone is closed under its frozen stop rule. No same-world retry, threshold
-change, replacement research mechanism, or GPU operation is selected. See
+change, or replacement research mechanism is selected. See
 [E81](E81_KEYSTONE_EVENT_TRIGGERED_CONTINUATION_RESULT.md),
 [E80](E80_KEYSTONE_EVENT_TRIGGERED_CONTINUATION_PREFLIGHT.md), and the closed
 [transfer plan](NEXT_SYSTEM_INTERACTION_BOUNDED_CAUSAL_VERIFICATION_TRANSFER.md).

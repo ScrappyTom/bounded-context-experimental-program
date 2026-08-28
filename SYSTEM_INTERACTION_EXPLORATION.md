@@ -1,8 +1,8 @@
 # System-interaction exploration
 
-Date: 2026-08-27
+Date: 2026-08-28
 
-Status: governing direction through E81; E69 produced the first positive
+Status: governing direction through E82; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, while E70 showed that the causal unit also includes
 artifact persistence, construction timing/granularity, and action transport.
@@ -25,7 +25,12 @@ route became E80's exact-prefix continuation: common relief and ordinary work
 could proceed without treatment, and V0/V1 could diverge only at the exact
 rejected-repair plus later-observation event. E81 ran that common system, but
 the actor observed all fourteen sources without changing the empty candidate.
-The event never occurred, no fork existed, and Keystone is now closed.
+The event never occurred, no fork existed, and Keystone is now closed. E82
+selects the next whole-system unit: a fresh Trellis artifact-centered lifecycle
+comparison. Both arms retain exact matrix and incremental decision work; A1
+alone adds a fallible temporary anchored scaffold during construction, then
+demotes it for a common verification/repair frame. Offline qualification
+passes; no live Trellis call has been authorized.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
