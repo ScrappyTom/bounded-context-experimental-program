@@ -1,0 +1,40 @@
+{
+  "schema": "e84-host-runtime-refactor-result-v0",
+  "date": "2026-08-28",
+  "stage_type": "apparatus",
+  "apparatus_repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0",
+  "implementation_commit": "a84f51ce1797cd00574fbc0f1f8d59945e8da2ff",
+  "acceptance_commit": "67ee6dee1748d03065ccb3d69ac92eb197dec531",
+  "disposition": "offline_host_refactor_qualified",
+  "model_calls": 0,
+  "serialized_tokens": 0,
+  "e83_replay": {
+    "delivered_source_count": 6,
+    "pending_source_ids": [
+      "COMMS",
+      "TRANSIT"
+    ],
+    "ordinary_prompt_tokens": 21401,
+    "selected_relief_result_ids": [
+      "RESULT-001"
+    ],
+    "relieved_prompt_tokens": 18785,
+    "synthetic_next_invocation_delivered_source_count": 8
+  },
+  "verification": {
+    "focused_tests_passed": 31,
+    "full_tests_passed": 266,
+    "ruff": "passed",
+    "mypy_new_host_modules": "passed",
+    "property_tests": "passed"
+  },
+  "claim_limits": [
+    "apparatus_fact_not_behavioral_evidence",
+    "semantic_continuity_unmeasured",
+    "live_gpu_robustness_unmeasured",
+    "review_call_defaults_provisional",
+    "historical_runners_not_migrated"
+  ],
+  "next_operation": "offline_whole_interaction_experiment_design_on_refactored_host",
+  "gpu_operation_selected": false
+}

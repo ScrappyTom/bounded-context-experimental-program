@@ -52,15 +52,17 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
-Live experimentation is paused for a host-runtime review and refactor. E83
-showed that offline and live paths encoded delivery visibility differently,
-while the current runner family also mixes task configuration, global module
-mutation, prompt construction, custody, capacity policy, activation, and
-sealing. The next work is to establish one shared acquired/pending/delivered/
-resident/external state machine, exact deduplication, and resumable twelve-call
-review tranches before another GPU study. See the
-[host runtime refactor handoff](HOST_RUNTIME_REFACTOR_HANDOFF.md). No next GPU
-operation is selected.
+The offline host-runtime refactor is qualified at apparatus acceptance commit
+[`67ee6de`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/67ee6dee1748d03065ccb3d69ac92eb197dec531).
+The selected future path now uses one replayable acquired/pending/delivered/
+external state machine, immutable task configuration, exact-body
+deduplication, semantic-gate-free first-fit relief, replaceable exact candidate
+state, check currentness, one-shot provider custody, and resumable twelve-call
+review tranches. All 266 apparatus tests pass, and frozen E83 replays as six
+delivered sources plus pending TRANSIT/COMMS. See [E84](E84_HOST_RUNTIME_REFACTOR_RESULT.md)
+and the [host refactor handoff](HOST_RUNTIME_REFACTOR_HANDOFF.md). Historical
+runners remain frozen. The next work is offline whole-interaction experiment
+design on the refactored path; no GPU operation is selected.
 
 E83 closes the Trellis artifact-centered lifecycle route at result commit
 [`0941d87`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/0941d877610f9d8e2e4518dbb6e51010b54f0e16).

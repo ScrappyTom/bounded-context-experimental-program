@@ -1,14 +1,17 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-28",
-  "status": "e83_trellis_closed_gpu_paused_for_host_runtime_refactor",
+  "status": "e84_host_refactor_qualified_next_interaction_design_unselected",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "prospectively_frozen_condition_specific_live_event",
   "active_host_runtime_refactor": {
-    "status": "review_and_refactor_before_next_gpu_experiment",
+    "status": "offline_refactor_qualified",
     "triggering_result": "E83_TRELLIS_PRESSURE_SCREEN_RESULT.md",
     "governing_handoff": "HOST_RUNTIME_REFACTOR_HANDOFF.md",
+    "result": "E84_HOST_RUNTIME_REFACTOR_RESULT.md",
+    "implementation_commit": "a84f51ce1797cd00574fbc0f1f8d59945e8da2ff",
+    "acceptance_commit": "67ee6dee1748d03065ccb3d69ac92eb197dec531",
     "problem": "offline_and_live_paths_did_not_share_one_pending_to_delivered_transition_law",
     "delivery_states": [
       "acquired",
@@ -40,6 +43,12 @@
       "retries": 0,
       "automatic_loop_classification": false
     },
+    "verification": {
+      "focused_tests_passed": 31,
+      "full_tests_passed": 266,
+      "model_calls": 0
+    },
+    "next_operation": "offline_whole_interaction_experiment_design_on_refactored_host",
     "gpu_operation_selected": false
   },
   "closed_first_interaction": {

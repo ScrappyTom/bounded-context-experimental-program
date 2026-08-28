@@ -19,7 +19,9 @@ class E76OrchardPhaseLifecycleResultTests(unittest.TestCase):
         self.assertEqual(736_332, stage["serialized_tokens"])
         self.assertEqual(RESULT_COMMIT, stage["sources"][0]["result_commit"])
 
-    def test_result_preserves_compound_interpretation_and_failure_migration(self) -> None:
+    def test_result_preserves_compound_interpretation_and_failure_migration(
+        self,
+    ) -> None:
         text = (ROOT / "E76_ORCHARD_PHASE_LIFECYCLE_INTERACTION_RESULT.md").read_text(
             encoding="utf-8"
         )
@@ -53,9 +55,9 @@ class E76OrchardPhaseLifecycleResultTests(unittest.TestCase):
         roadmap = (ROOT / "STRUCTURED_EXPLORATION_ROADMAP.md").read_text(
             encoding="utf-8"
         )
-        self.assertIn("current program synthesis through E81", reconciliation)
+        self.assertIn("current program synthesis through E84", reconciliation)
         self.assertIn("bounded exact causal tail", reconciliation)
-        self.assertIn("governing direction through E81", system)
+        self.assertIn("governing direction through E84", system)
         self.assertIn("Do not tune Orchard", system)
         self.assertIn("updated through E81", roadmap)
 

@@ -1528,3 +1528,27 @@ Disposition: **LR/AF/NQ** — valid common-system nonactivation and a local
 evidence-to-work conversion failure. No V0/V1 utility result exists. Keystone
 is closed under the frozen stop rule, and no same-world successor or GPU
 operation is selected.
+
+# E84 — host runtime refactor qualification
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@67ee6dee1748d03065ccb3d69ac92eb197dec531`
+
+E83's pending-versus-delivered mismatch is reproduced and corrected through a
+new append-only host kernel. The selected path separates acquisition,
+scheduling, completed delivery, residency, and externalization; projects one
+canonical exact body; performs semantic-gate-free positive first-fit relief;
+replaces exact current candidate state; binds check currentness; and supports
+one-shot custody plus exact checkpoint/review/resume.
+
+Frozen E83 replays as six delivered sources plus pending COMMS/TRANSIT at
+21,401 prompt tokens. Externalizing RESULT-001 yields a feasible 18,785-token
+new-format packet. One synthetic completed invocation then produces eight
+delivered sources. Thirty-one focused and 266 complete apparatus tests pass;
+zero model calls occurred.
+
+Disposition: **AF/NQ** — host mechanics are qualified offline. This is not
+behavioral evidence for semantic continuity, artifact quality, or useful
+completion. Historical runners remain frozen. Offline whole-interaction design
+on the refactored path is the next program operation; no GPU operation is
+selected.

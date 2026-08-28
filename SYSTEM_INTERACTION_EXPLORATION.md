@@ -2,7 +2,8 @@
 
 Date: 2026-08-28
 
-Status: governing direction through E83; E69 produced the first positive
+Status: governing direction through E84; E84 qualifies the refactored host
+mechanics offline without adding behavioral evidence. E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, while E70 showed that the causal unit also includes
 artifact persistence, construction timing/granularity, and action transport.
@@ -37,14 +38,20 @@ E82's pending-result visibility accounting.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
-## Apparatus pause after E83
+## Apparatus result after E83
 
-No new system interaction is currently selected. Before another comparison,
-the host must be simplified so offline and live execution use one delivery
-state machine, active packets cannot duplicate identical exact bodies, capacity
-relief is independent of semantic/source-count gates, and long trajectories
-can pause every twelve actor calls for literal transcript review. The complete
-handoff and acceptance criteria are in `HOST_RUNTIME_REFACTOR_HANDOFF.md`.
+E84 completes the offline host refactor. Offline replay, provider-capable
+execution, packet construction, exact deduplication, first-fit relief, and
+checkpoint/resume now share one event kernel. Long trajectories can pause every
+twelve completed actor calls for literal transcript review; the host records
+recurrence but does not classify a loop. The complete result and claim limits
+are in `E84_HOST_RUNTIME_REFACTOR_RESULT.md`.
+
+No new system interaction is yet selected. The next design must use the new
+path, preserve common relief regardless of semantic activation, count delivery
+only after completed model exposure, allow authentic model pacing within a
+provisional sixty-call ceiling, and keep qualitative progress/loop judgment at
+the checkpoint rather than in host policy.
 
 ## Decision
 

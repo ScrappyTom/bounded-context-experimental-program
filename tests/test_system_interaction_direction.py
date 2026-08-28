@@ -11,15 +11,21 @@ ROOT = Path(__file__).resolve().parents[1]
 class SystemInteractionDirectionTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.contract = json.loads((ROOT / "SYSTEM_INTERACTION_EXPLORATION.json").read_text(encoding="utf-8"))
+        cls.contract = json.loads(
+            (ROOT / "SYSTEM_INTERACTION_EXPLORATION.json").read_text(encoding="utf-8")
+        )
 
     def test_unit_is_whole_configuration_not_component(self):
         self.assertEqual(
-            "e81_keystone_event_triggered_continuation_valid_nonactivation_closed",
+            "e84_host_refactor_qualified_next_interaction_design_unselected",
             self.contract["status"],
         )
-        self.assertEqual("whole_configuration_trajectory", self.contract["unit_of_analysis"])
-        self.assertEqual("low_pressure_reference_not_interaction_result", self.contract["e37_role"])
+        self.assertEqual(
+            "whole_configuration_trajectory", self.contract["unit_of_analysis"]
+        )
+        self.assertEqual(
+            "low_pressure_reference_not_interaction_result", self.contract["e37_role"]
+        )
         self.assertIn(
             "capability_labels_are_trajectory_codes_not_component_backlog",
             self.contract["non_isolation_rules"],
@@ -58,7 +64,9 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         )
         self.assertEqual(138, completed["measured_run"]["actual_provider_calls"])
         self.assertTrue(completed["measured_run"]["completed"])
-        self.assertEqual("I1", completed["apparatus_qualification"]["affected_configuration"])
+        self.assertEqual(
+            "I1", completed["apparatus_qualification"]["affected_configuration"]
+        )
 
         successor = self.contract["completed_artifact_coupling_interaction"]
         self.assertEqual(
@@ -67,7 +75,9 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         )
         self.assertTrue(successor["implementation"]["live_expression_qualified"])
         self.assertTrue(successor["implementation"]["activation_qualified"])
-        self.assertTrue(successor["implementation"]["measured_offline_preflight_passed"])
+        self.assertTrue(
+            successor["implementation"]["measured_offline_preflight_passed"]
+        )
         self.assertEqual(27, successor["implementation"]["offline_tests_passed"])
         self.assertEqual(4, successor["implementation"]["expression_model_calls"])
         self.assertEqual(
@@ -86,10 +96,18 @@ class SystemInteractionDirectionTests(unittest.TestCase):
             "c11d55a7f143747156831de0b189523ee1bcd776",
             successor["implementation"]["measured_result_commit"],
         )
-        self.assertEqual(967, successor["implementation"]["pressure_screen_deficit_tokens"])
-        self.assertEqual(40, successor["implementation"]["measured_maximum_actor_calls"])
-        self.assertEqual(24, successor["implementation"]["measured_maximum_maintenance_calls"])
-        self.assertEqual(64, successor["implementation"]["measured_maximum_provider_calls"])
+        self.assertEqual(
+            967, successor["implementation"]["pressure_screen_deficit_tokens"]
+        )
+        self.assertEqual(
+            40, successor["implementation"]["measured_maximum_actor_calls"]
+        )
+        self.assertEqual(
+            24, successor["implementation"]["measured_maximum_maintenance_calls"]
+        )
+        self.assertEqual(
+            64, successor["implementation"]["measured_maximum_provider_calls"]
+        )
         self.assertTrue(successor["implementation"]["gpu_authorized"])
         self.assertTrue(successor["implementation"]["measured_completed"])
         self.assertEqual(59, successor["implementation"]["actual_provider_calls"])
@@ -130,8 +148,12 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         self.assertEqual(3, transfer["activation"]["minimum_evidence_domains"])
         self.assertFalse(transfer["activation"]["host_metadata_actor_visible"])
         self.assertTrue(transfer["permitted_ingress"]["all_full_pairs_admissible"])
-        self.assertEqual(11712, transfer["prospective_geometry"]["maturity_prompt_tokens"])
-        self.assertEqual(1827, transfer["prospective_geometry"]["pressure_overflow_tokens"])
+        self.assertEqual(
+            11712, transfer["prospective_geometry"]["maturity_prompt_tokens"]
+        )
+        self.assertEqual(
+            1827, transfer["prospective_geometry"]["pressure_overflow_tokens"]
+        )
         self.assertEqual(
             "reachability_not_authentic_activation",
             transfer["prospective_geometry"]["claim_limit"],
@@ -249,7 +271,9 @@ class SystemInteractionDirectionTests(unittest.TestCase):
             "aster_expression_gate_failed_route_closed_utility_unmeasured",
             successor["status"],
         )
-        self.assertEqual(1, successor["maximum_expression_qualification_calls_before_measurement"])
+        self.assertEqual(
+            1, successor["maximum_expression_qualification_calls_before_measurement"]
+        )
         self.assertTrue(successor["stage0_selected"])
         self.assertTrue(successor["stage0_offline_qualified"])
         self.assertEqual(7, successor["provider_calls"])

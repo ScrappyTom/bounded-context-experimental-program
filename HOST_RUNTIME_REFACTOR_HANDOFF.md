@@ -2,8 +2,15 @@
 
 Date: 2026-08-28
 
-Status: active return point; live experimentation paused pending host review and
-mechanical tightening
+Status: implemented and qualified offline at apparatus acceptance commit
+`67ee6dee1748d03065ccb3d69ac92eb197dec531`; retained as the governing handoff
+and acceptance contract
+
+Result: see `E84_HOST_RUNTIME_REFACTOR_RESULT.md`. All eleven new host modules
+pass lint and isolated type checking, the focused refactor suite passes 31
+tests, and the complete apparatus suite passes 266 tests. No GPU/provider call
+occurred. Historical runners remain frozen, and no next GPU operation is
+selected.
 
 ## Why the program is pausing
 

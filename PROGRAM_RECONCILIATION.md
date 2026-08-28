@@ -1,7 +1,9 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-28
-Status: current program synthesis through E83; E69 produced the first positive
+Status: current program synthesis through E84; E84 closes the E83 host
+modularity blocker offline with one replayable delivery/packet/capacity/
+checkpoint path. It is an apparatus fact, not behavioral evidence. E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
 among semantic residue, exact artifacts, construction timing/granularity, and
@@ -50,13 +52,18 @@ The detailed learned-first narrative for every phase is
 
 ## Executive disposition
 
-GPU experimentation is paused. E83 exposed a host modularity problem: offline
-preflight and live execution did not share one delivery-state transition law.
-The apparatus review/refactor in `HOST_RUNTIME_REFACTOR_HANDOFF.md` is now the
-active work. It separates acquired, pending, delivered-resident, and delivered-
-external state; prevents duplicate exact bodies; removes semantic gates from
-ordinary capacity relief; and introduces resumable twelve-call investigator
-checkpoints within a provisional sixty-call horizon.
+The E83 host modularity blocker is closed for offline planning. E84 implements
+and qualifies one append-only acquired/pending/delivered-resident/delivered-
+external kernel, pure packet projection, exact-body deduplication, common
+first-fit relief, replaceable current candidate, check currentness, one-shot
+provider custody, and exact twelve-call checkpoint/review/resume. Frozen E83
+replays with six delivered sources and pending TRANSIT/COMMS; RESULT-001 relief
+makes the packet feasible without a semantic gate. This is apparatus evidence
+only. No live utility, semantic continuity, or architecture promotion follows.
+
+The active work is now offline design of the next whole-configuration
+interaction on the refactored path. Historical global-mutating runners remain
+frozen and may not be reused for new live work. No GPU operation is selected.
 
 The unresolved program capability remains bounded evidence-to-work integration, not more
 exact-residency tuning or standalone semantic-carrier qualification. The
@@ -71,9 +78,11 @@ exact custody and conservative pressure relief
 → scaffold demotion, artifact retention, repair/recheck/closure
 ```
 
-Trellis tests that whole interaction on a fresh task. It does not assume that
-semantic residue is permanent memory or that expression quality predicts
-trajectory utility.
+Trellis was designed to test that whole interaction on a fresh task, without
+assuming that semantic residue is permanent memory or that expression quality
+predicts trajectory utility. E83 stopped before the interaction fork because
+the host disagreed with the frozen delivery lifecycle; E84 repairs and
+qualifies that host path but supplies no missing behavioral comparison.
 
 The program has enough local mechanism evidence to stop searching the current
 donor trajectories for a slightly better exact layout, eviction prompt, digest format,
