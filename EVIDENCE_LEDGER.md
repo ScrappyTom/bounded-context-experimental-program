@@ -1465,7 +1465,7 @@ authorized.
 # E80 — Keystone event-triggered continuation preflight
 
 Source:
-`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@7bcbda340db61cc1d4e6d6b8bc2a9323e0fbf191`
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@c443f39fca414303c6f3b4efdfa94ba0b06a37b7`
 
 The E79 qualitative appendix records complete single-source reads in exact
 catalog order, 101,778 prompt tokens versus 231 completion tokens, no durable

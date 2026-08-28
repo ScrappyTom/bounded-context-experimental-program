@@ -3,7 +3,7 @@
 Date: 2026-08-27
 
 Status: E80 provider-free event-triggered continuation qualified at standalone
-commit `7bcbda340db61cc1d4e6d6b8bc2a9323e0fbf191`. The count-based gate is
+commit `c443f39fca414303c6f3b4efdfa94ba0b06a37b7`. The count-based gate is
 retired. One authorization-gated integrated runner is frozen; no GPU authority
 exists.
 

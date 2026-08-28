@@ -735,7 +735,7 @@
       "stage_id": "S72",
       "name": "Keystone event-triggered causal continuation provider-free qualification",
       "stage_type": "eligibility",
-      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "7bcbda340db61cc1d4e6d6b8bc2a9323e0fbf191", "count_as_experiment_commit": true}],
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "c443f39fca414303c6f3b4efdfa94ba0b06a37b7", "count_as_experiment_commit": true}],
       "model_calls": 0,
       "serialized_tokens": 0,
       "included_in_follow_on_totals": true,

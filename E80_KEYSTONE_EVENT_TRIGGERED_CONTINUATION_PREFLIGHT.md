@@ -2,7 +2,7 @@
 
 Date: 2026-08-27
 
-Source: `ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@7bcbda340db61cc1d4e6d6b8bc2a9323e0fbf191`
+Source: `ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@c443f39fca414303c6f3b4efdfa94ba0b06a37b7`
 
 Stage type: eligibility; zero model/provider calls
 
@@ -69,8 +69,8 @@ The standalone apparatus proves:
 * V0 omits and V1 retains the active rejected action;
 * the repair action is candidate-, artifact-, heading-, and section-hash bound;
 * preflight and runner qualification used zero model/provider calls; and
-* the standalone suite passed 218 tests, followed by 18 targeted tests and
-  static qualification after the final runner audit.
+* the final standalone suite passed 223 tests plus static qualification after
+  the runner-binding and seal-order audit.
 
 The runner also binds the current contract hash and counts effect uptake only
 when a later actor decision actually receives the effect.

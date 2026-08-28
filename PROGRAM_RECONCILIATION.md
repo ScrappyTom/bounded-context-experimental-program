@@ -1316,7 +1316,7 @@ selected successor; no further GPU call is authorized.
 
 ## E80 replaces count-based activation with an exact lifecycle event
 
-Standalone commit `7bcbda340db61cc1d4e6d6b8bc2a9323e0fbf191` adds the
+Standalone commit `c443f39fca414303c6f3b4efdfa94ba0b06a37b7` adds the
 call-by-call E79 qualitative appendix and freezes one conditional continuation
 from the exact sealed prefix.
 

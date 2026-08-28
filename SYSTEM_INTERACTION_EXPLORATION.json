@@ -841,7 +841,7 @@
       "independent_audit_passed": true
     },
     "keystone_event_triggered_continuation_qualification": {
-      "result_commit": "7bcbda340db61cc1d4e6d6b8bc2a9323e0fbf191",
+      "result_commit": "c443f39fca414303c6f3b4efdfa94ba0b06a37b7",
       "provider_calls": 0,
       "parent_run_id": "2026-08-27-keystone-bounded-causal-pressure-screen-v0",
       "parent_actor_calls": 9,
@@ -870,7 +870,7 @@
       "retries": 0,
       "provider_free_preflight_passed": true,
       "provider_free_runner_qualification_passed": true,
-      "standalone_tests_passed": 218,
+      "standalone_tests_passed": 223,
       "behavioral_activation_measured": false,
       "behavioral_utility_measured": false,
       "authorized": false

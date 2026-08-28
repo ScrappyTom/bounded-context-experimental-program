@@ -5,7 +5,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-RESULT_COMMIT = "7bcbda340db61cc1d4e6d6b8bc2a9323e0fbf191"
+RESULT_COMMIT = "c443f39fca414303c6f3b4efdfa94ba0b06a37b7"
 
 
 def test_aggregate_records_zero_call_event_trigger_qualification() -> None:
