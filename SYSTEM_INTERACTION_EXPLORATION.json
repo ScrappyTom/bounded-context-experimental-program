@@ -1,10 +1,10 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-27",
-  "status": "e79_keystone_pressure_before_interaction_gate_offline_route_reconciliation",
+  "status": "e80_keystone_event_triggered_continuation_provider_free_qualified_unauthorized",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
-  "required_activation": "authentic_prompt_pressure",
+  "required_activation": "prospectively_frozen_condition_specific_live_event",
   "closed_first_interaction": {
     "axis_a": "source_bound_semantic_residue_after_exact_body_demotion",
     "axis_b": "incremental_exact_task_native_work_product",
@@ -840,13 +840,48 @@
       "measured_continuation_ran": false,
       "independent_audit_passed": true
     },
+    "keystone_event_triggered_continuation_qualification": {
+      "result_commit": "7bcbda340db61cc1d4e6d6b8bc2a9323e0fbf191",
+      "provider_calls": 0,
+      "parent_run_id": "2026-08-27-keystone-bounded-causal-pressure-screen-v0",
+      "parent_actor_calls": 9,
+      "parent_serialized_tokens": 102009,
+      "ordinary_pending_prompt_tokens": 22267,
+      "first_fit_selected_result_ids": ["RESULT-001"],
+      "relieved_pending_prompt_tokens": 20648,
+      "count_based_activation_retired": true,
+      "activation_unit": "exact_lifecycle_event_sequence",
+      "required_live_events": [
+        "nontrivial_candidate_enters_verification",
+        "current_candidate_bound_check",
+        "repair_rejected",
+        "candidate_remains_unchanged",
+        "later_exact_observation_acquired_for_next_decision"
+      ],
+      "configuration_order": [
+        "V0_CURRENT_ONLY",
+        "V1_BOUNDED_CAUSAL_CONTINUITY"
+      ],
+      "maximum_common_model_calls": 18,
+      "maximum_calls_per_arm": 8,
+      "maximum_new_model_calls": 34,
+      "maximum_new_serialized_tokens": 700000,
+      "attempts_per_call": 1,
+      "retries": 0,
+      "provider_free_preflight_passed": true,
+      "provider_free_runner_qualification_passed": true,
+      "standalone_tests_passed": 218,
+      "behavioral_activation_measured": false,
+      "behavioral_utility_measured": false,
+      "authorized": false
+    },
     "next_live_operation": {
-      "kind": "none_offline_activation_geometry_reconciliation_required",
-      "status": "not_selected",
-      "reason": "the first live no-relief pressure event occurred after only eight delivered sources and domains, below the frozen ten/ten whole-interaction gate; common pre-treatment relief and a later construction-or-verification fork require prospective offline redesign",
-      "offline_stage0_required": true,
+      "kind": "keystone_event_triggered_causal_continuation",
+      "status": "provider_free_qualified_unauthorized",
+      "reason": "common relief and actor-selected work must reach the exact rejected-repair plus later-observation lifecycle event before V0/V1 differ; acquisition count and pressure alone cannot activate treatment",
+      "offline_stage0_required": false,
       "fresh_task_selected": true,
-      "measured_runner_frozen": false,
+      "measured_runner_frozen": true,
       "authorized": false
     },
     "governing_document": "NEXT_SYSTEM_INTERACTION_BOUNDED_CAUSAL_VERIFICATION_TRANSFER.md",

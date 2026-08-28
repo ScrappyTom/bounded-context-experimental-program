@@ -2,7 +2,7 @@
 
 Date: 2026-08-27
 
-Status: updated through E79; Solace produced a positive acquisition-to-
+Status: updated through E80; Solace produced a positive acquisition-to-
 construction interaction and a negative fixed-scaffold verification result.
 Orchard transfers the phase-conditional system: bounded current verification
 enables repair effect uptake and recheck where fixed append-only state stops,
@@ -12,9 +12,10 @@ bounded recent causality, repair binding, and readiness. E77 establishes that
 the action-transport/causal boundary transfers beyond Orchard and qualifies a
 bounded mechanical contract offline. E78 qualifies its fresh Keystone
 whole-system Stage 0, including authentic prospective pressure, common bound
-repair/evaluation, and provider-free V0/V1 lifecycle parity. Only the
-treatment-free pressure screen is frozen; it remains unauthorized and no
-measured successor exists.
+repair/evaluation, and provider-free V0/V1 lifecycle parity. E79 then exposed
+the mismatch between count-based activation and live complete-source ingress.
+E80 retires that count gate and provider-free qualifies one event-triggered
+common continuation plus conditional V0/V1 fork. It remains unauthorized.
 
 ## Research-phase reset
 
@@ -878,3 +879,17 @@ The lines should share:
 They should not be forced into one architecture, one role decomposition, or one
 runtime. Cross-project evidence narrows hypotheses; it does not manufacture
 replication when tasks, models, or operating regimes differ.
+
+## E80 route update
+
+Keystone no longer uses source breadth or first pressure as a surrogate for the
+interaction of interest. Those quantities remain telemetry. Common mechanical
+relief is allowed to keep actor-selected work alive, and the measured fork is
+event-triggered only after construction, current feedback, rejected repair,
+and a subsequent exact observation coexist in one unchanged-candidate epoch.
+
+This is a breadth-preserving systems move, not a causal-field micro-ablation:
+both arms share the complete acquisition-to-artifact-to-verification substrate,
+and treatment is absent until the system reaches the precise lifecycle state in
+which causal continuity could change repair behavior. If that state never
+arises, Keystone closes as non-diagnostic.

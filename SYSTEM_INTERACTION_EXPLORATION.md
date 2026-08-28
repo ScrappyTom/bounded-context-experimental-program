@@ -2,7 +2,7 @@
 
 Date: 2026-08-27
 
-Status: governing direction through E79; E69 produced the first positive
+Status: governing direction through E80; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, while E70 showed that the causal unit also includes
 artifact persistence, construction timing/granularity, and action transport.
@@ -21,8 +21,10 @@ freezes only the treatment-free pressure screen; actor use of bounded causal
 continuity remains unmeasured. E79 then reaches authentic Keystone pressure
 before the frozen evidence-breadth gate: eight sources/domains were delivered,
 CYBER was pending, and the ten/ten interaction fork did not qualify. The active
-work is offline whole-route reconciliation, not a measured continuation or a
-lowered component threshold.
+route is now E80's provider-free-qualified exact-prefix continuation: common
+relief and ordinary work proceed without treatment, and V0/V1 diverge only at
+the exact rejected-repair plus later-observation lifecycle event. It remains
+unauthorized.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -1300,3 +1302,33 @@ and fork only when delivered evidence and actual construction/verification
 state make bounded causal continuity behaviorally reachable. The host may not
 choose evidence or infer semantic readiness. This is offline design work; no
 GPU operation is authorized.
+
+## E80 makes lifecycle state—not evidence count—the activation unit
+
+The transcript-level audit shows that E79's complete single-source traversal
+was simultaneously semantically plausible and perfectly aligned with catalog
+order. It cannot support a claim of optimized semantic demand. It also shows
+that the live ingress geometry differed from the offline partial-pair path and
+that 101,778 prompt tokens produced only 231 completion tokens and no durable
+work.
+
+The next interaction therefore begins with shared relief, delivery, semantic
+scaffolding, and exact incremental work. It does not compare relief with death
+or activate a causal representation at an acquisition-only boundary. The
+treatment becomes reachable only inside a live feedback loop:
+
+```text
+exact artifact
+× actor-selected verification
+× current candidate-bound check
+× rejected repair
+× later exact observation
+× unchanged candidate
+→ next treatment-dependent decision
+```
+
+Provider-free apparatus now restores and clones that exact state. This retains
+the interaction-first rule: V0/V1 differ only after construction, feedback,
+failed action transport, and new evidence are simultaneously active. Trigger
+absence is a scientifically meaningful nonactivation result, not permission to
+lower a count or manufacture a rejection.

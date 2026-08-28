@@ -41,7 +41,7 @@ The learned-first narrative covering the full experiment sequence is
 The machine aggregate and recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 66 experiment commit bindings are resolved through the named local
+The current 67 experiment commit bindings are resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -52,17 +52,24 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
-E79 completes the authorized Keystone pressure screen. Nine clean novel reads
-created authentic pending-result pressure at 22,267 prompt tokens; replacing
-only `RESULT-001` would restore 20,648. The screen is non-qualifying because
-only eight sources and eight evidence domains had crossed a later actor
-boundary, below the frozen ten/ten interaction gate. No treatment,
-construction, maintenance, or V0/V1 continuation ran. This is an activation-
-geometry finding: Keystone's first no-relief pressure event arrives before the
-evidence breadth required to study the planned whole verification interaction.
-Offline route reconciliation is next; no GPU run is authorized. See
-[E79](E79_KEYSTONE_PRESSURE_SCREEN_RESULT.md),
-[E78](E78_KEYSTONE_BOUNDED_CAUSAL_STAGE0.md), and the updated
+E80 completes the provider-free redesign prompted by the E79 Keystone screen.
+The ten-source/ten-domain pressure gate is retired, not lowered: the live actor
+used complete single-source reads in catalog order, reached pressure after
+eight delivered sources, and created no durable work. Source count and first
+pressure were the wrong activation unit for a verification-causality treatment.
+
+The exact E79 state is now an immutable common prefix. First-fit relief and
+pending CYBER delivery are shared infrastructure. A V0/V1 fork is permitted
+only after the live trace contains a nontrivial candidate, actor-selected
+verification, a current candidate-bound check, a rejected repair, and a later
+exact observation acquired in the unchanged-candidate epoch. Both branch
+prompts deliver that pending observation; V1 alone retains the unresolved
+rejection and exact recurrence. Provider-free prefix, trigger, clone, repair,
+budget, and authorization-gated runner qualification pass with zero calls.
+
+This is eligibility evidence only. No GPU call is authorized. See
+[E80](E80_KEYSTONE_EVENT_TRIGGERED_CONTINUATION_PREFLIGHT.md),
+[E79](E79_KEYSTONE_PRESSURE_SCREEN_RESULT.md), and the updated
 [transfer plan](NEXT_SYSTEM_INTERACTION_BOUNDED_CAUSAL_VERIFICATION_TRANSFER.md).
 
 The current route began with Meridian E61. The ordinary six-call screen realized

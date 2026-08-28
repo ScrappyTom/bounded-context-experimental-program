@@ -1,6 +1,6 @@
 {
   "schema_version": "program-stage-aggregate-v1",
-  "scope": "parent bank plus 71 successor stages through E79 Keystone bounded-causal pressure screen",
+  "scope": "parent bank plus 72 successor stages through E80 Keystone event-triggered continuation preflight",
   "parent_bank": {
     "repository": "ScrappyTom/custody-cards-experimental-workbench",
     "result_commit": "40f9afdde",
@@ -8,10 +8,10 @@
     "included_in_follow_on_totals": false
   },
   "declared_totals": {
-    "successor_stages": 71,
+    "successor_stages": 72,
     "follow_on_model_calls": 697,
     "follow_on_serialized_tokens": 9051728,
-    "unique_cited_experiment_commits": 66
+    "unique_cited_experiment_commits": 67
   },
   "stages": [
     {
@@ -730,6 +730,16 @@
       "serialized_tokens": 102009,
       "included_in_follow_on_totals": true,
       "primary_disposition": "nine valid actor-selected complete-source reads delivered eight sources and evidence domains and left pending RESULT-009 CYBER at 22267 prompt tokens, 1275 over allowance; first-fit externalization of only RESULT-001 restores 20648 and 344 headroom; the frozen ten-source/ten-domain interaction gate was not reached, the candidate remained initial, no treatment, maintenance, construction, or measured V0/V1 continuation ran, and independent exact replay passes; the fork is non-qualifying, deterministic relief may be common pre-treatment infrastructure in a prospectively redesigned later interaction fork, and no further GPU operation is authorized"
+    },
+    {
+      "stage_id": "S72",
+      "name": "Keystone event-triggered causal continuation provider-free qualification",
+      "stage_type": "eligibility",
+      "sources": [{"repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0", "result_commit": "7bcbda340db61cc1d4e6d6b8bc2a9323e0fbf191", "count_as_experiment_commit": true}],
+      "model_calls": 0,
+      "serialized_tokens": 0,
+      "included_in_follow_on_totals": true,
+      "primary_disposition": "the E79 transcript shows complete single-source catalog-order traversal, a live ingress path different from offline partial-pair geometry, about 441 prompt tokens per completion token, and no durable work; the ten-source/ten-domain gate is retired rather than lowered; exact parent restoration, shared RESULT-001 relief from 22267 to 20648 tokens, pending CYBER delivery, count-free lifecycle activation, independent V0/V1 branch cloning, candidate-artifact-section-bound repair, budgets, and an authorization-gated integrated runner pass provider-free qualification; the fork requires a nontrivial candidate, current check, rejected repair, unchanged candidate, and later exact observation before the next decision; zero provider calls occurred, behavioral activation and utility remain unmeasured, and no GPU or product authority is granted"
     }
   ]
 }

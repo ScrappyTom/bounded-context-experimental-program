@@ -2,7 +2,7 @@
 
 Date: 2026-08-27
 
-Status: updated through E73 Orchard phase-lifecycle offline qualification; not a
+Status: updated through E80 Keystone event-triggered lifecycle qualification; not a
 prevalence estimate or architecture
 
 ## Purpose and limits
@@ -207,3 +207,26 @@ prerequisite inside this interaction sequence, not a carrier-format branch.
 The terrain remains unmeasured for cumulative relationship use, exact task-work
 capitalization, current feedback, repair, and closure. Those capabilities must
 be observed together in the later whole W0/L1 trajectories if the gate passes.
+
+## E76–E80 terrain update
+
+Orchard shows that phase-conditional allocation can extend verification into
+repair effect uptake and current recheck, yet still lose unresolved rejection
+and recurrence after a newer observation. The same broad action-transport/
+causal boundary appears in independent historical worlds, earning a fresh
+whole-lifecycle test rather than an Orchard prompt edit.
+
+Keystone then separates three terrain properties:
+
+* a permitted evidence path is not the realized actor path;
+* authentic context pressure is not necessarily the point where a downstream
+  causal treatment becomes relevant; and
+* exact acquisition can consume large decision cost without becoming durable
+  semantic or artifact work.
+
+E80 therefore treats source/domain counts and first pressure as telemetry. Its
+prospective activation unit is a live conjunction of exact artifact, current
+check, rejected repair, later observation, and unchanged candidate. This keeps
+the comparison at the systems level: causal continuity is exposed only when
+artifact, feedback, action transport, new evidence, and bounded residency are
+simultaneously active.

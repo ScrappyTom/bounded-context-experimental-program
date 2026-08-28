@@ -34,8 +34,8 @@ def test_machine_route_records_pressure_without_interaction_qualification() -> N
     assert result["interaction_trigger_qualified"] is False
     assert result["measured_continuation_ran"] is False
     operation = route["next_live_operation"]
-    assert operation["kind"] == "none_offline_activation_geometry_reconciliation_required"
-    assert operation["measured_runner_frozen"] is False
+    assert operation["kind"] == "keystone_event_triggered_causal_continuation"
+    assert operation["measured_runner_frozen"] is True
     assert operation["authorized"] is False
     assert route["gpu_authorized"] is False
 

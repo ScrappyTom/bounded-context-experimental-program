@@ -1594,3 +1594,21 @@ geometry result, not a causal-continuity treatment result. The next program
 work is offline redesign of the complete common prefix so deterministic relief
 can sustain actor-selected ingress until a later construction/verification
 fork. No measured continuation or GPU call is authorized.
+
+## Current program phase after E80
+
+The count-based Keystone activation route is closed. The live transcript shows
+complete single-source catalog traversal, no durable work, and first pressure
+before the offline partial-pair geometry's ten-source point. The program will
+not lower the threshold or build another acquisition screen.
+
+The exact E79 state is instead common history for one event-triggered lifecycle
+continuation. Deterministic relief, pending observation delivery, temporary
+semantic scaffolding, and exact incremental work are shared. Only a live
+sequence of nontrivial candidate, verification transition, current check,
+rejected repair, unchanged candidate, and newly acquired observation can expose
+the V0/V1 difference before the next decision.
+
+The integrated runner is provider-free qualified and authorization-gated.
+Behavioral activation and utility remain unmeasured. No GPU call is authorized
+by E80 itself.

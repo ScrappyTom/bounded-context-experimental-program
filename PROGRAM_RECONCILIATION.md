@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-27
-Status: current program synthesis through E79; E69 produced the first positive
+Status: current program synthesis through E80; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
 among semantic residue, exact artifacts, construction timing/granularity, and
@@ -27,8 +27,10 @@ retains a twice-rejected mutation across newer observations while V0 does not.
 E79 ran that screen and reached real pressure after nine clean reads, but only
 eight sources/domains had been delivered against the frozen ten/ten interaction
 gate. The fork is non-qualifying, no V0/V1 continuation ran, and the measured
-runner remains unfrozen. The active work is offline reconciliation of common
-pre-treatment relief with a later whole-interaction fork.
+runner did not run. E80 retires that count gate and provider-free qualifies an
+exact-prefix continuation that forks only after construction, current check,
+rejected repair, and a later exact observation coexist. The integrated runner
+is frozen but remains unauthorized.
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
@@ -1311,3 +1313,35 @@ admission, first-fit feasibility, seal, and runtime release. Nine calls used
 102,009 serialized tokens. No bounded-causal behavior, repair, readiness, or
 utility was measured. Offline activation-geometry reconciliation is the only
 selected successor; no further GPU call is authorized.
+
+## E80 replaces count-based activation with an exact lifecycle event
+
+Standalone commit `7bcbda340db61cc1d4e6d6b8bc2a9323e0fbf191` adds the
+call-by-call E79 qualitative appendix and freezes one conditional continuation
+from the exact sealed prefix.
+
+The appendix changes the diagnosis. E79 followed catalog order with complete
+86-line single-source reads. Offline Stage 0 had used a legal partial-pair path,
+so ten-source reachability was not evidence that the live actor would reach ten
+sources before pressure. The trajectory paid about 441 prompt tokens per
+completion token and created neither semantic residue nor exact artifact work.
+The ten/ten gate is therefore retired rather than repaired.
+
+Common first-fit relief and pending CYBER delivery now precede any treatment.
+The fork can occur only after a nontrivial candidate enters verification, a
+current check is delivered, a mutation is rejected without candidate change,
+and a later exact observation is acquired before the next decision. V0 omits
+the unresolved rejection/recurrence; V1 retains them until candidate change.
+Source count, domain count, world size, and pressure cannot activate the fork.
+
+Provider-free qualification verifies the parent seals and hashes, 22,267 to
+20,648 relief arithmetic, pending delivery on common call 10, count-free event
+detection, exact independent branch cloning, the bounded repair schema, budget
+enforcement, and an external authorization gate. It also corrects effect
+uptake accounting: an effect counts only after a later actor decision can see
+it.
+
+This is zero-call apparatus evidence. It does not show that the live actor will
+reach the event or that V1 improves behavior. One integrated GPU run is now the
+only eligible live operation, but it remains unauthorized until the user binds
+the exact freeze commit and limits.

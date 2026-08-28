@@ -15,7 +15,7 @@ class SystemInteractionDirectionTests(unittest.TestCase):
 
     def test_unit_is_whole_configuration_not_component(self):
         self.assertEqual(
-            "e79_keystone_pressure_before_interaction_gate_offline_route_reconciliation",
+            "e80_keystone_event_triggered_continuation_provider_free_qualified_unauthorized",
             self.contract["status"],
         )
         self.assertEqual("whole_configuration_trajectory", self.contract["unit_of_analysis"])
@@ -308,7 +308,10 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         self.assertIn("complete operating configuration", plan_text)
         self.assertIn("One expression gate maximum", plan_text)
         self.assertIn("this exact route is closed", plan_text)
-        self.assertEqual("authentic_prompt_pressure", self.contract["required_activation"])
+        self.assertEqual(
+            "prospectively_frozen_condition_specific_live_event",
+            self.contract["required_activation"],
+        )
 
     def test_feedback_loop_remains_live(self):
         required = {

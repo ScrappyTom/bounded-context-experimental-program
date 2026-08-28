@@ -1461,3 +1461,30 @@ Disposition: **AF/LR/NQ** — authentic pressure and feasible relief are locally
 supported. Bounded-causal utility remains untested. Offline activation-geometry
 reconciliation is selected; no measured continuation or GPU operation is
 authorized.
+
+# E80 — Keystone event-triggered continuation preflight
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@7bcbda340db61cc1d4e6d6b8bc2a9323e0fbf191`
+
+The E79 qualitative appendix records complete single-source reads in exact
+catalog order, 101,778 prompt tokens versus 231 completion tokens, no durable
+work, and a live ingress path different from Stage 0's legal partial-pair path.
+The frozen ten-source/ten-domain gate is retired rather than lowered.
+
+Provider-free apparatus restores the sealed parent, applies common
+`RESULT-001` relief from 22,267 to 20,648 tokens, and preserves pending CYBER
+for delivery on common call 10. Pressure and acquisition alone cannot activate
+the comparison. The exact trigger requires a nontrivial candidate,
+actor-selected verification, a current candidate-bound check, a rejected
+mutation, an unchanged candidate, and a later exact observation acquired
+before the next actor decision. Exact cloning yields independent V0/V1 states;
+V0 omits while V1 retains the active rejection and recurrence.
+
+The authorization-gated runner, repair schema, budgets, preflight binding, and
+effect-uptake accounting pass provider-free qualification. No model/provider
+call occurred.
+
+Disposition: **AF/NQ** — exact event-triggered lifecycle apparatus is frozen at
+the standalone commit. Live trigger reachability and V1 utility are unmeasured.
+No product promotion or GPU authority follows from this stage.

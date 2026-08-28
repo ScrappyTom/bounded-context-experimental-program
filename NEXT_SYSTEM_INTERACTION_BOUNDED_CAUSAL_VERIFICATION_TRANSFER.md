@@ -2,10 +2,10 @@
 
 Date: 2026-08-27
 
-Status: E79 pressure screen complete and non-qualifying at standalone commit
-`eacafe5e4b46fcb3ffbadd90e9823d16796f6f4e`; offline activation-geometry
-reconciliation selected; the measured V0/V1 runner remains unfrozen and no GPU
-authority exists
+Status: E80 provider-free event-triggered continuation qualified at standalone
+commit `7bcbda340db61cc1d4e6d6b8bc2a9323e0fbf191`. The count-based gate is
+retired. One authorization-gated integrated runner is frozen; no GPU authority
+exists.
 
 ## E79 live-screen correction
 
@@ -20,6 +20,33 @@ make deterministic relief common before treatment, continue actor-selected
 ingress, and freeze a later fork that also exposes construction or verification
 state. This preserves the intended systems interaction instead of comparing a
 causal field at an evidence-only component boundary.
+
+## E80 event-triggered correction
+
+The exact E79 state is immutable common history. Shared first-fit relief
+externalizes only `RESULT-001`; pending `RESULT-009` CYBER is delivered on the
+next common actor call. Shared ordinary work may then continue for at most 18
+model calls.
+
+The fork is mechanical and count-free. It requires:
+
+1. a nontrivial candidate entering verification;
+2. a current check bound to that candidate;
+3. a rejected mutation with no candidate change;
+4. a later source or reopen observation acquired with the candidate still
+   unchanged; and
+5. no subsequent actor decision.
+
+Both branch prompts deliver that pending observation. V0 excludes the active
+rejection and recurrence from its bounded current projection; V1 includes
+them. Source count, domain count, accessible-world size, first pressure, and
+host semantic readiness cannot activate treatment.
+
+The standalone preflight verifies exact restoration, relief, pending delivery,
+trigger discrimination, branch independence, repair transport, budgets, and
+the external authorization gate with zero provider calls. If the live event is
+absent, the integrated run ends without a fork. That is a valid nonactivation
+result, not permission to tune the task.
 
 ## Question
 
@@ -87,7 +114,7 @@ Before any GPU request:
 3. Qualify the common semantic-scaffold × exact-artifact construction system.
 4. Freeze a mechanical actor-selected verification transition.
 5. Qualify common candidate-/artifact-/section-bound repair.
-6. Execute provider-free paths containing check, rejected/no-effect repair,
+6. Execute provider-free paths containing check, rejected repair,
    alternative valid repair, effect uptake, current recheck, and closure.
 7. Demonstrate that V0 and V1 implement their declared replacement laws.
 8. Render exact tokenizer/template geometry and reserve enough post-construction
@@ -113,8 +140,8 @@ V1 retains the rejection and exact recurrence count two until candidate
 change. Both converge only because the provider-free fixture supplies the same
 valid alternative repair; actor utility remains unmeasured.
 
-Only the treatment-free 30-call pressure screen is now frozen. It must create
-an authentic common handoff before the measured comparison is implemented.
+The treatment-free screen is complete. E80 freezes the one integrated common
+continuation plus conditional V0/V1 fork described above.
 
 ## Outcomes
 
@@ -131,4 +158,6 @@ the frame mechanically feasible but economically unearned.
 Do not tune Orchard, add a semantic progress cue, or let recurrence force a
 repair or submission.
 
-No GPU run is authorized by this plan.
+No GPU run is authorized by this plan. Execution requires a separate external
+authorization bound to the exact standalone commit, run ID, 34-call ceiling,
+one attempt per call, and zero retries.

@@ -2,9 +2,9 @@
 
 Date: 2026-08-25
 
-Status: evidence-bounded program narrative through E64; E61 remains closed,
-while fresh Aster Stage 0 instantiates provenance-local relational persistence
-inside a complete W0/L1 task-and-feedback system
+Status: evidence-bounded program narrative through E80; the latest route uses
+the sealed Keystone pressure prefix and an exact lifecycle event rather than a
+source-count threshold
 
 ## What we learned
 
@@ -2028,3 +2028,39 @@ evidence.
 No provider call occurred. The treatment-free pressure screen is frozen but
 unauthorized; the measured V0/V1 runner remains unfrozen pending an audited
 live handoff.
+
+# 71. Keystone live pressure exposes activation-geometry mismatch
+
+E79 made nine valid complete-source reads and reached authentic pending-result
+pressure. Eight sources crossed later model decisions; CYBER was acquired but
+not delivered. The next prompt was 22,267 tokens, and first-fit replacement of
+only `RESULT-001` would restore 20,648. The candidate remained the empty seed.
+
+The run did not qualify the frozen ten-source/ten-domain fork. Qualitative
+reconstruction shows why this is more than a count shortfall: the actor read
+complete 86-line sources one at a time in exact catalog order, while Stage 0's
+ten-source geometry used a legal partial-pair path. The live sequence was
+semantically coherent but confounded with presentation order. It spent 101,778
+prompt tokens and 231 completion tokens without creating durable semantic or
+artifact state.
+
+This closes count-based pressure as the treatment trigger. It does not reject
+common relief or bounded causal continuity.
+
+# 72. Event-triggered lifecycle qualification
+
+E80 retains E79 as immutable common history. Shared first-fit relief delivers
+pending CYBER and ordinary work continues without treatment. The state can be
+cloned only after a live nontrivial candidate enters verification, a current
+check is delivered, a repair is rejected without candidate change, and a later
+exact observation is acquired before the next actor decision.
+
+At that boundary, V0 renders current state without the unresolved rejection or
+recurrence; V1 renders the same state with those bounded exact facts. Both
+receive the pending observation and share every other lifecycle function.
+
+Provider-free qualification verifies parent custody, relief arithmetic,
+pending delivery, event detection, branch independence, repair binding,
+budgets, effect-uptake accounting, and external authorization. Zero provider
+calls occurred. The apparatus is frozen; live trigger reachability and utility
+remain unmeasured.

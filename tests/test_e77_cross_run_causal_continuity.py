@@ -36,9 +36,10 @@ def test_machine_route_preserves_claim_limits_and_records_stage0_successor() -> 
     assert audit["bound_repair_action_tokens"] == 461
     assert audit["behavioral_utility_measured"] is False
     next_operation = route["next_live_operation"]
-    assert next_operation["kind"] == "none_offline_activation_geometry_reconciliation_required"
-    assert next_operation["status"] == "not_selected"
+    assert next_operation["kind"] == "keystone_event_triggered_causal_continuation"
+    assert next_operation["status"] == "provider_free_qualified_unauthorized"
     assert next_operation["fresh_task_selected"] is True
+    assert next_operation["measured_runner_frozen"] is True
     assert next_operation["authorized"] is False
     assert route["gpu_authorized"] is False
 
