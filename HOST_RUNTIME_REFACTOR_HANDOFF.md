@@ -2,15 +2,17 @@
 
 Date: 2026-08-28
 
-Status: implemented and qualified offline at apparatus acceptance commit
-`67ee6dee1748d03065ccb3d69ac92eb197dec531`; retained as the governing handoff
-and acceptance contract
+Status: offline core accepted at `67ee6dee1748d03065ccb3d69ac92eb197dec531`;
+bounded live seams hardened provider-free at
+`cc78d3b4c7162c6d3615696defd68e9790ee04ea`; exact locked-asset
+qualification blocked by the missing frozen tokenizer projection
 
-Result: see `E84_HOST_RUNTIME_REFACTOR_RESULT.md`. All eleven new host modules
-pass lint and isolated type checking, the focused refactor suite passes 31
-tests, and the complete apparatus suite passes 266 tests. No GPU/provider call
-occurred. Historical runners remain frozen, and no next GPU operation is
-selected.
+Results: see `E84_HOST_RUNTIME_REFACTOR_RESULT.md` and
+`E85_HOST_LIVE_HARDENING_RESULT.md`. The hardened path passes 11 adversarial
+tests, 18 combined host tests, lint, isolated type checking, and a complete
+277-test regression with a compatible local Qwen3.8 tokenizer. No GPU/provider
+call occurred. Historical runners remain frozen, exact live qualification is
+not claimed, and no next GPU operation is selected.
 
 ## Why the program is pausing
 

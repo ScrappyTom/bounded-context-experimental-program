@@ -1550,5 +1550,33 @@ zero model calls occurred.
 Disposition: **AF/NQ** — host mechanics are qualified offline. This is not
 behavioral evidence for semantic continuity, artifact quality, or useful
 completion. Historical runners remain frozen. Offline whole-interaction design
-on the refactored path is the next program operation; no GPU operation is
-selected.
+was initially the next program operation; E85 supersedes that routing with a
+bounded live-seam hardening pass. No GPU operation was selected.
+
+# E85 — host live-seam hardening
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@cc78d3b4c7162c6d3615696defd68e9790ee04ea`
+
+The refactored host now binds the exact final request to the composed packet,
+pending result and current-state exposures, response reserve, and frozen
+execution manifest. Failed binding/provider calls cannot commit delivery.
+Unacceptable finish reasons and ordinary parse/action rejections remain exact
+nonterminal evidence. Reopen transitions the original lifecycle object, and
+advertised capability comes only from delivered-external state. Prospective
+total budget, parent-chained tranches, and attempt/completion/failure review are
+mechanical.
+
+Eleven adversarial hardening tests, eighteen combined host tests, Ruff, and
+mypy pass. A full 277-test regression passes with a tokenizer-compatible local
+Qwen3.8 GGUF. Zero model/provider calls occurred.
+
+The tokenizer projection frozen in the model lock is absent after the power
+outage. The compatible model was injected only inside the test process and did
+not change any lock or sealed result. It cannot substitute for the missing
+asset's exact path and SHA-256.
+
+Disposition: **AF/NQ/B** — code-level live seams are provider-free qualified;
+exact locked-asset qualification is blocked. No behavioral evidence, live GPU
+readiness, or architecture promotion follows. The only eligible next operation
+is exact tokenizer restoration and provider-free requalification.

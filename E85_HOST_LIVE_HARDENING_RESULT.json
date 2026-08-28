@@ -1,0 +1,31 @@
+{
+  "schema": "e85-host-live-hardening-result-v0",
+  "date": "2026-08-28",
+  "stage_type": "apparatus",
+  "apparatus_repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0",
+  "apparatus_commit": "cc78d3b4c7162c6d3615696defd68e9790ee04ea",
+  "disposition": "provider_free_hardening_accepted_exact_asset_qualification_blocked",
+  "model_calls": 0,
+  "serialized_tokens": 0,
+  "verification": {
+    "adversarial_tests_passed": 11,
+    "combined_host_tests_passed": 18,
+    "full_compatible_regression_passed": 277,
+    "full_compatible_regression_seconds": 307.51,
+    "ruff": "passed",
+    "mypy_host_modules": "passed_12"
+  },
+  "exact_asset_blocker": {
+    "path": "E:\\AI_Models\\AtomicChat__Qwen3.8-27B-GGUF__ca10ebceb188\\Qwen3.8-27B-AD-IQ2_S.tokenizer-projection.gguf",
+    "expected_sha256": "7047272e809b62b5c68b6427a349cba78b2f45109de04350d48f0338db68eef3",
+    "exists": false
+  },
+  "claim_limits": [
+    "apparatus_fact_not_behavioral_evidence",
+    "compatible_tokenizer_is_not_exact_asset_qualification",
+    "live_gpu_robustness_unmeasured",
+    "no_experiment_selected"
+  ],
+  "next_operation": "restore_exact_tokenizer_projection_and_rerun_provider_free_qualification",
+  "gpu_operation_selected": false
+}

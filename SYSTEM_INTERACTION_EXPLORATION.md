@@ -2,8 +2,11 @@
 
 Date: 2026-08-28
 
-Status: governing direction through E84; E84 qualifies the refactored host
-mechanics offline without adding behavioral evidence. E69 produced the first positive
+Status: governing direction through E85; E84 qualifies the event-driven host
+core offline and E85 hardens its live request/exposure, rejection, reopen,
+resource, checkpoint-chain, and review seams provider-free. Exact live
+qualification is blocked by the outage-related loss of the frozen tokenizer
+projection. Neither stage adds behavioral evidence. E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, while E70 showed that the causal unit also includes
 artifact persistence, construction timing/granularity, and action transport.
@@ -47,7 +50,19 @@ twelve completed actor calls for literal transcript review; the host records
 recurrence but does not classify a loop. The complete result and claim limits
 are in `E84_HOST_RUNTIME_REFACTOR_RESULT.md`.
 
-No new system interaction is yet selected. The next design must use the new
+E85 completes a bounded live-readiness hardening pass at apparatus commit
+`cc78d3b4c7162c6d3615696defd68e9790ee04ea`. The final provider payload is mechanically bound to the composed
+packet and exact result/state exposures; ordinary rejection is nonterminal
+evidence; reopen authority comes from the original result lifecycle; finish
+reason, reserves, total budget, execution manifest, and checkpoint parentage
+are frozen; and review output exposes literal request/action/candidate/custody
+evidence. All 277 tests pass with a compatible Qwen3.8 tokenizer, but the exact
+locked tokenizer projection is absent after the power outage. No runtime lock
+was weakened or substituted, so the host is code-qualified provider-free but
+not exactly live-qualified. See `E85_HOST_LIVE_HARDENING_RESULT.md`.
+
+No new system interaction is yet selected. The next operation is exact asset
+restoration and provider-free requalification. Any later design must use the new
 path, preserve common relief regardless of semantic activation, count delivery
 only after completed model exposure, allow authentic model pacing within a
 provisional sixty-call ceiling, and keep qualitative progress/loop judgment at

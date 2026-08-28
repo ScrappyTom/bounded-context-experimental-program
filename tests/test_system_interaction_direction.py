@@ -17,7 +17,7 @@ class SystemInteractionDirectionTests(unittest.TestCase):
 
     def test_unit_is_whole_configuration_not_component(self):
         self.assertEqual(
-            "e84_host_refactor_qualified_next_interaction_design_unselected",
+            "e85_host_live_seams_provider_free_qualified_exact_tokenizer_asset_blocked",
             self.contract["status"],
         )
         self.assertEqual(

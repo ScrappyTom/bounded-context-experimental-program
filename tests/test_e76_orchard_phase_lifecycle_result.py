@@ -55,9 +55,9 @@ class E76OrchardPhaseLifecycleResultTests(unittest.TestCase):
         roadmap = (ROOT / "STRUCTURED_EXPLORATION_ROADMAP.md").read_text(
             encoding="utf-8"
         )
-        self.assertIn("current program synthesis through E84", reconciliation)
+        self.assertIn("current program synthesis through E85", reconciliation)
         self.assertIn("bounded exact causal tail", reconciliation)
-        self.assertIn("governing direction through E84", system)
+        self.assertIn("governing direction through E85", system)
         self.assertIn("Do not tune Orchard", system)
         self.assertIn("updated through E81", roadmap)
 

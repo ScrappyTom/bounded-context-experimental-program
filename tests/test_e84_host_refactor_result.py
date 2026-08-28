@@ -28,12 +28,17 @@ def test_governing_contract_records_refactor_and_keeps_interaction_unit() -> Non
     )
     refactor = contract["active_host_runtime_refactor"]
     assert contract["unit_of_analysis"] == "whole_configuration_trajectory"
-    assert refactor["status"] == "offline_refactor_qualified"
-    assert refactor["verification"]["full_tests_passed"] == 266
+    assert (
+        refactor["status"]
+        == "provider_free_live_seams_qualified_exact_locked_asset_blocked"
+    )
+    assert refactor["verification"]["e84_full_tests_passed"] == 266
+    assert refactor["verification"]["e85_full_compatible_regression_passed"] == 277
+    assert refactor["exact_live_qualification"] is False
     assert refactor["gpu_operation_selected"] is False
     assert (
         refactor["next_operation"]
-        == "offline_whole_interaction_experiment_design_on_refactored_host"
+        == "restore_exact_tokenizer_projection_and_rerun_provider_free_qualification"
     )
 
 

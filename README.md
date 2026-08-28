@@ -52,17 +52,24 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
-The offline host-runtime refactor is qualified at apparatus acceptance commit
-[`67ee6de`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/67ee6dee1748d03065ccb3d69ac92eb197dec531).
-The selected future path now uses one replayable acquired/pending/delivered/
-external state machine, immutable task configuration, exact-body
-deduplication, semantic-gate-free first-fit relief, replaceable exact candidate
-state, check currentness, one-shot provider custody, and resumable twelve-call
-review tranches. All 266 apparatus tests pass, and frozen E83 replays as six
-delivered sources plus pending TRANSIT/COMMS. See [E84](E84_HOST_RUNTIME_REFACTOR_RESULT.md)
+The host-runtime refactor has completed its bounded live-seam hardening at
+apparatus commit
+[`cc78d3b`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/cc78d3b4c7162c6d3615696defd68e9790ee04ea).
+E85 adds exact final-request/exposure binding, nonterminal rejection custody,
+native lifecycle reopen, frozen finish-reason admission, execution-manifest and
+resource bindings, parent-chained tranches, and investigator-ready mechanical
+review evidence. Eleven new adversarial tests, the focused suites, Ruff, and
+mypy pass. A full 277-test regression passes with a locally available
+tokenizer-compatible Qwen3.8 model.
+
+Exact live qualification is nevertheless blocked: the power outage removed
+the tokenizer projection frozen by path and SHA-256 in the model lock. The
+compatible model was injected only into the test process and did not alter any
+lock or sealed result; it is regression evidence, not a substitute identity.
+See [E85](E85_HOST_LIVE_HARDENING_RESULT.md), [E84](E84_HOST_RUNTIME_REFACTOR_RESULT.md),
 and the [host refactor handoff](HOST_RUNTIME_REFACTOR_HANDOFF.md). Historical
-runners remain frozen. The next work is offline whole-interaction experiment
-design on the refactored path; no GPU operation is selected.
+runners remain frozen. The next eligible operation is exact tokenizer-asset
+restoration and provider-free requalification, not a GPU experiment.
 
 E83 closes the Trellis artifact-centered lifecycle route at result commit
 [`0941d87`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/0941d877610f9d8e2e4518dbb6e51010b54f0e16).
