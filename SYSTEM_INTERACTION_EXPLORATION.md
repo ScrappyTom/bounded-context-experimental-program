@@ -37,6 +37,15 @@ E82's pending-result visibility accounting.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
+## Apparatus pause after E83
+
+No new system interaction is currently selected. Before another comparison,
+the host must be simplified so offline and live execution use one delivery
+state machine, active packets cannot duplicate identical exact bodies, capacity
+relief is independent of semantic/source-count gates, and long trajectories
+can pause every twelve actor calls for literal transcript review. The complete
+handoff and acceptance criteria are in `HOST_RUNTIME_REFACTOR_HANDOFF.md`.
+
 ## Decision
 
 The next research unit is a **whole bounded-work configuration operating over

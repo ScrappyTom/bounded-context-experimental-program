@@ -1,10 +1,47 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
-  "date": "2026-08-27",
-  "status": "e81_keystone_event_triggered_continuation_valid_nonactivation_closed",
+  "date": "2026-08-28",
+  "status": "e83_trellis_closed_gpu_paused_for_host_runtime_refactor",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "prospectively_frozen_condition_specific_live_event",
+  "active_host_runtime_refactor": {
+    "status": "review_and_refactor_before_next_gpu_experiment",
+    "triggering_result": "E83_TRELLIS_PRESSURE_SCREEN_RESULT.md",
+    "governing_handoff": "HOST_RUNTIME_REFACTOR_HANDOFF.md",
+    "problem": "offline_and_live_paths_did_not_share_one_pending_to_delivered_transition_law",
+    "delivery_states": [
+      "acquired",
+      "pending",
+      "delivered_resident",
+      "delivered_external"
+    ],
+    "host_ownership": [
+      "exact_custody",
+      "canonical_identity",
+      "delivery_state",
+      "exact_deduplication",
+      "token_accounting_and_response_reserve",
+      "strictly_positive_mechanical_relief",
+      "candidate_effect_check_currentness",
+      "checkpoint_and_resource_accounting"
+    ],
+    "model_ownership": [
+      "information_demand",
+      "acquisition_pacing",
+      "construction",
+      "repair",
+      "closure_proposal"
+    ],
+    "review_defaults_not_frozen": {
+      "actor_calls_per_tranche": 12,
+      "maximum_actor_calls": 60,
+      "attempts_per_call": 1,
+      "retries": 0,
+      "automatic_loop_classification": false
+    },
+    "gpu_operation_selected": false
+  },
   "closed_first_interaction": {
     "axis_a": "source_bound_semantic_residue_after_exact_body_demotion",
     "axis_b": "incremental_exact_task_native_work_product",

@@ -50,6 +50,14 @@ The detailed learned-first narrative for every phase is
 
 ## Executive disposition
 
+GPU experimentation is paused. E83 exposed a host modularity problem: offline
+preflight and live execution did not share one delivery-state transition law.
+The apparatus review/refactor in `HOST_RUNTIME_REFACTOR_HANDOFF.md` is now the
+active work. It separates acquired, pending, delivered-resident, and delivered-
+external state; prevents duplicate exact bodies; removes semantic gates from
+ordinary capacity relief; and introduces resumable twelve-call investigator
+checkpoints within a provisional sixty-call horizon.
+
 The unresolved program capability remains bounded evidence-to-work integration, not more
 exact-residency tuning or standalone semantic-carrier qualification. The
 strongest provisional lifecycle hypothesis is:

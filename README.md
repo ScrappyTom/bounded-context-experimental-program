@@ -52,6 +52,16 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
+Live experimentation is paused for a host-runtime review and refactor. E83
+showed that offline and live paths encoded delivery visibility differently,
+while the current runner family also mixes task configuration, global module
+mutation, prompt construction, custody, capacity policy, activation, and
+sealing. The next work is to establish one shared acquired/pending/delivered/
+resident/external state machine, exact deduplication, and resumable twelve-call
+review tranches before another GPU study. See the
+[host runtime refactor handoff](HOST_RUNTIME_REFACTOR_HANDOFF.md). No next GPU
+operation is selected.
+
 E83 closes the Trellis artifact-centered lifecycle route at result commit
 [`0941d87`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/0941d877610f9d8e2e4518dbb6e51010b54f0e16).
 The common screen made seven valid batch reads and reached a real 409-token
