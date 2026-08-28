@@ -2,7 +2,7 @@
 
 Date: 2026-08-28
 
-Status: governing direction through E82; E69 produced the first positive
+Status: governing direction through E83; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, while E70 showed that the causal unit also includes
 artifact persistence, construction timing/granularity, and action transport.
@@ -14,9 +14,9 @@ the full phase-conditional configuration to Orchard: P1 reaches repair effect
 uptake and current recheck while F0 stops before repair, but P1 then repeats one
 exact read four times. E77 confirms the broader action-transport/causal boundary
 across independent worlds and qualifies a bounded mechanical frame plus
-uniquely bound repair offline. The active boundary is fresh-world whole-system
-transfer through repair, recheck, readiness, and closure—not another isolated
-memory object. E78 qualifies that transfer apparatus offline in Keystone and
+uniquely bound repair offline. The subsequent boundary was fresh-world whole-
+system transfer through repair, recheck, readiness, and closure—not another
+isolated memory object. E78 qualifies that transfer apparatus offline in Keystone and
 freezes only the treatment-free pressure screen; actor use of bounded causal
 continuity remains unmeasured. E79 then reaches authentic Keystone pressure
 before the frozen evidence-breadth gate: eight sources/domains were delivered,
@@ -30,7 +30,10 @@ selects the next whole-system unit: a fresh Trellis artifact-centered lifecycle
 comparison. Both arms retain exact matrix and incremental decision work; A1
 alone adds a fallible temporary anchored scaffold during construction, then
 demotes it for a common verification/repair frame. Offline qualification
-passes; no live Trellis call has been authorized.
+passed prospectively, but E83's live screen reached pressure with only six
+delivered sources/domains; two more were pending. The frozen eight/eight fork
+did not qualify, no treatment ran, and Trellis is closed. E83 also supersedes
+E82's pending-result visibility accounting.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 

@@ -52,15 +52,26 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
-E82 opens a fresh artifact-centered lifecycle transfer in Trellis at apparatus
+E83 closes the Trellis artifact-centered lifecycle route at result commit
+[`0941d87`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/0941d877610f9d8e2e4518dbb6e51010b54f0e16).
+The common screen made seven valid batch reads and reached a real 409-token
+pending-result overflow, with one positive relief substitution available. But
+only six sources/domains were model-visible against the frozen eight/eight
+gate; TRANSIT and COMMS were pending rather than delivered. No A0/A1 fork or
+semantic treatment existed. The live run also exposed an E82 Stage 0 accounting
+error: its offline projection counted a newly acquired pending result as visible
+before a later invocation. See [E83](E83_TRELLIS_PRESSURE_SCREEN_RESULT.md).
+
+E82 opened the fresh artifact-centered lifecycle transfer in Trellis at apparatus
 commit [`6eba6ba`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/6eba6badd5bfbebdf931a8374d99687c17d4347b).
 Both viable configurations share exact custody, first-fit relief, reopen, an
 exact evidence-to-requirement matrix, incremental decision sections,
 candidate-bound feedback, targeted repair, recheck, and external readiness.
 A1 alone adds a temporary requirement-coupled anchored scaffold during
-construction and removes it for verification. Provider-free Stage 0 passes the
-complete lifecycle and projects pressure after ten delivered sources. Only the
-common treatment-free pressure screen is frozen; it is not authorized. See
+construction and removes it for verification. Provider-free Stage 0 passed the
+complete lifecycle mechanically, but its pressure projection incorrectly
+treated pending source evidence as already delivered. That activation claim is
+superseded by E83. See
 [E82](E82_TRELLIS_ARTIFACT_CENTERED_STAGE0.md) and the
 [transfer plan](NEXT_SYSTEM_INTERACTION_ARTIFACT_CENTERED_LIFECYCLE_TRANSFER.md).
 

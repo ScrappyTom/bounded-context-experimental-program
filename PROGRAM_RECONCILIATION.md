@@ -1,15 +1,16 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-28
-Status: current program synthesis through E82; E69 produced the first positive
+Status: current program synthesis through E83; E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
 among semantic residue, exact artifacts, construction timing/granularity, and
 action transport. E72 then shows that retaining the same fixed scaffold through
 verification shortens the reachable feedback loop and does not protect
 relationship fidelity; removing it helps but append-only verification history
-still exhausts context before closure. The active route is fresh-world transfer
-of a phase-conditional scaffold/artifact/current-verification lifecycle. The
+still exhausts context before closure. Orchard, Keystone, and Trellis then
+explored fresh-world transfer of scaffold/artifact/current-verification
+lifecycles without earning a new promoted system. The
 earlier acquisition-to-construction advantage remains a compound transfer
 question rather than a register-only effect. E73 qualified the fresh Orchard
 whole-lifecycle apparatus offline, E74 realized and audited its authentic live
@@ -38,14 +39,18 @@ lifecycles: A0 uses an exact evidence matrix plus incremental decision, while
 A1 adds temporary requirement-coupled anchored scaffolding during construction
 and removes it for verification. Provider-free Stage 0 passes pressure geometry
 and the complete check/repair/recheck/closure path; only the common pressure
-screen is frozen and it remains unauthorized.
+screen was frozen. E83 ran it: seven valid batch actions created authentic
+pressure, but only six sources/domains were visible against the eight/eight
+gate, while TRANSIT/COMMS remained pending. No A0/A1 fork existed. E83 also
+corrects E82's offline visibility accounting, which had counted a current
+pending result as already delivered. Trellis is closed.
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
 
 ## Executive disposition
 
-The active program phase is bounded evidence-to-work integration, not more
+The unresolved program capability remains bounded evidence-to-work integration, not more
 exact-residency tuning or standalone semantic-carrier qualification. The
 strongest provisional lifecycle hypothesis is:
 

@@ -2,8 +2,8 @@
 
 Date: 2026-08-28
 
-Status: offline Stage 0 passed; treatment-free pressure screen frozen but not
-authorized
+Status: closed at the treatment-free pressure screen; the frozen eight-source
+interaction gate was not reached, so no A0/A1 fork exists
 
 ## Research question
 
@@ -72,16 +72,12 @@ No repair or retry is allowed. The actor continues after every maintenance
 outcome. Transport yield and semantic quality are measured inside the
 trajectory rather than used as an all-or-nothing gate.
 
-## Execution
+## Execution disposition
 
-1. Run the separately authorized treatment-free pressure screen from apparatus
-   commit `6eba6badd5bfbebdf931a8374d99687c17d4347b`.
-2. Audit exact custody, source coverage, overflow, candidate state, and relief.
-3. Only if the fork qualifies, freeze A0/A1 against that exact handoff and
-   request separate GPU authorization.
-4. Continue both systems through verification and closure or a frozen terminal
-   resource, with equal actor budgets and separately charged A1 maintenance.
-5. Perform transcript-level qualitative analysis in addition to scoring.
+The authorized screen completed. Exact pressure occurred after seven valid
+batch reads, but only six sources/domains were model-visible; TRANSIT and COMMS
+were still pending. The frozen gate required eight. No measured runner was
+frozen and no A0/A1 continuation is authorized. See E83.
 
 ## Interpretation
 

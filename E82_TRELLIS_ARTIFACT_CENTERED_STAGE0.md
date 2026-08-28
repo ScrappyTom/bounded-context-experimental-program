@@ -2,10 +2,11 @@
 
 Date: 2026-08-28
 
-Disposition: provider-free qualification passed; treatment-free pressure screen
-frozen at apparatus commit
+Disposition: historically passed provider-free qualification; its pending-
+result visibility conclusion is superseded by E83; the live screen is complete
+and the Trellis route is closed. The screen was frozen at apparatus commit
 [`6eba6ba`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/6eba6badd5bfbebdf931a8374d99687c17d4347b)
-but not GPU-authorized
+and later separately GPU-authorized.
 
 ## Why this is the successor to Keystone
 
@@ -65,9 +66,10 @@ The deterministic Stage 0 receipt records zero model calls and establishes:
 8. a current recheck passes and submission mechanics complete; and
 9. the full legacy suite passes 176 tests, with five new Trellis tests passing.
 
-The offline pressure path is an activation argument, not behavioral evidence.
-The next eligible operation is the separately authorized treatment-free live
-pressure screen. Its common prefix contains no scaffold or treatment.
+The offline pressure path was an activation argument, not behavioral evidence.
+E83 later showed that this projection counted its current pending result as
+model-visible before a later invocation. That activation conclusion is
+superseded; the exact Stage 0 receipt remains preserved historically.
 
 ## Claim limits
 
