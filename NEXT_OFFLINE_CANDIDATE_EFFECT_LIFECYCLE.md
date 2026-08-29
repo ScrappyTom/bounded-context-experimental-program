@@ -66,4 +66,3 @@ Complete offline design, implementation, adversarial tests, exact E96 replay,
 and a provider-free full lifecycle. Then stop for review. A live run requires a
 new frozen commit and explicit authorization. Do not continue E96 from its
 capacity-blocked checkpoint under a changed policy.
-
