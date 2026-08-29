@@ -1,0 +1,31 @@
+{
+  "apparatus_commit": "a7c7686977661dcd7adebc1da78a78aa2b423ff5",
+  "apparatus_repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0",
+  "claim_limits": [
+    "apparatus_fact_not_behavioral_evidence",
+    "live_gpu_provider_behavior_unmeasured",
+    "no_experiment_selected"
+  ],
+  "date": "2026-08-28",
+  "disposition": "exact_provider_free_host_qualification_passed",
+  "gpu_operation_selected": false,
+  "locked_full_model": {
+    "bytes": 11141912032,
+    "path": "E:\\AI_Models\\AtomicChat__Qwen3.8-27B-GGUF__ca10ebceb188\\Qwen3.8-27B-AD-IQ2_S.gguf",
+    "sha256": "d416fa422c9035605c778f60d90a94b288c38b4f9ec2126b58ef938ce8d5f716",
+    "verified": true
+  },
+  "model_calls": 0,
+  "schema": "e86-host-locked-asset-restoration-result-v0",
+  "serialized_tokens": 0,
+  "stage_type": "apparatus",
+  "verification": {
+    "asset_resolution_tests_passed": 3,
+    "direct_e83_ordinary_prompt_tokens": 21401,
+    "direct_e83_relief_prompt_tokens": 18785,
+    "direct_e83_relief_result_ids": ["RESULT-001"],
+    "full_exact_regression_passed": 280,
+    "full_exact_regression_seconds": 299.79,
+    "provider_calls": 0
+  }
+}

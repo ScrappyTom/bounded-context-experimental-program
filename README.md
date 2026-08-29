@@ -52,24 +52,30 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
-The host-runtime refactor has completed its bounded live-seam hardening at
-apparatus commit
+The host-runtime refactor is now exactly qualified provider-free at apparatus
+commit
+[`a7c7686`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/a7c7686977661dcd7adebc1da78a78aa2b423ff5).
+E86 restored the immutable full Qwen3.8 model already named by the frozen lock,
+verified its 11,141,912,032 bytes and exact SHA-256, and removed the accidental
+sparse-projection dependency. The direct E83 replay reproduces 21,401 ordinary
+tokens, `RESULT-001` relief, and 18,785 treated tokens; all 280 repository tests
+pass without an injected substitute.
+
+The bounded live-seam hardening was completed at apparatus commit
 [`cc78d3b`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/cc78d3b4c7162c6d3615696defd68e9790ee04ea).
 E85 adds exact final-request/exposure binding, nonterminal rejection custody,
 native lifecycle reopen, frozen finish-reason admission, execution-manifest and
 resource bindings, parent-chained tranches, and investigator-ready mechanical
 review evidence. Eleven new adversarial tests, the focused suites, Ruff, and
-mypy pass. A full 277-test regression passes with a locally available
-tokenizer-compatible Qwen3.8 model.
-
-Exact live qualification is nevertheless blocked: the power outage removed
-the tokenizer projection frozen by path and SHA-256 in the model lock. The
-compatible model was injected only into the test process and did not alter any
-lock or sealed result; it is regression evidence, not a substitute identity.
-See [E85](E85_HOST_LIVE_HARDENING_RESULT.md), [E84](E84_HOST_RUNTIME_REFACTOR_RESULT.md),
-and the [host refactor handoff](HOST_RUNTIME_REFACTOR_HANDOFF.md). Historical
-runners remain frozen. The next eligible operation is exact tokenizer-asset
-restoration and provider-free requalification, not a GPU experiment.
+mypy pass. Its initial 277-test regression used a compatible local tokenizer
+only as provisional evidence; E86 supersedes that qualification limit with the
+exact locked asset and 280-test regression. See
+[E86](E86_HOST_LOCKED_ASSET_RESTORATION_RESULT.md),
+[E85](E85_HOST_LIVE_HARDENING_RESULT.md),
+[E84](E84_HOST_RUNTIME_REFACTOR_RESULT.md), and the
+[host refactor handoff](HOST_RUNTIME_REFACTOR_HANDOFF.md). Historical runners
+remain frozen. No GPU/provider call occurred during E86 and no behavioral
+experiment is selected by asset restoration alone.
 
 E83 closes the Trellis artifact-centered lifecycle route at result commit
 [`0941d87`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/0941d877610f9d8e2e4518dbb6e51010b54f0e16).

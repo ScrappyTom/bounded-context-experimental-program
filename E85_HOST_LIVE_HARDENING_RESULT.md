@@ -2,6 +2,10 @@
 
 Date: 2026-08-28
 
+Historical checkpoint note: E86 subsequently resolved the asset blocker below
+by restoring the immutable full model already named by the frozen lock. See
+`E86_HOST_LOCKED_ASSET_RESTORATION_RESULT.md`.
+
 Apparatus commit:
 `cc78d3b4c7162c6d3615696defd68e9790ee04ea`
 
@@ -64,7 +68,8 @@ custody/review telemetry.
 
 ## Exact asset blocker
 
-The power outage removed the tokenizer projection frozen in the model lock:
+The tokenizer projection frozen in the model lock was found missing after the
+power outage:
 
 ```text
 E:\AI_Models\AtomicChat__Qwen3.8-27B-GGUF__ca10ebceb188\Qwen3.8-27B-AD-IQ2_S.tokenizer-projection.gguf

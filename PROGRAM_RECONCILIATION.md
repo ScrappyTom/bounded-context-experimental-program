@@ -1,12 +1,13 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-28
-Status: current program synthesis through E85; E84 closes the E83 host
+Status: current program synthesis through E86; E84 closes the E83 host
 modularity blocker offline and E85 hardens the final request, rejection,
-reopen, resource, checkpoint-chain, and review seams provider-free. Exact
-locked-asset qualification remains blocked because the frozen tokenizer
-projection is absent after the power outage. These are apparatus facts, not
-behavioral evidence. E69 produced the first positive
+reopen, resource, checkpoint-chain, and review seams provider-free. E86
+restores the immutable full model already named by the frozen lock, removes the
+transient sparse-projection dependency, and exactly qualifies the tokenizer
+path, direct E83 replay, and 280-test regression provider-free. These are
+apparatus facts, not behavioral evidence. E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
 among semantic residue, exact artifacts, construction timing/granularity, and
@@ -74,20 +75,22 @@ now transitions the original externally delivered result rather than creating
 a new wrapper. Prospective total budget, finish-reason admission, checkpoint
 parentage, and attempt/completion/failure accounting are mechanical.
 
-The adversarial suite passes 11 tests, the combined host suite passes 18,
-Ruff/mypy pass, and a full tokenizer-compatible regression passes all 277
-tests. However, the exact tokenizer projection recorded in the model lock is
-missing. A different local Qwen3.8 GGUF reproduced the E83 count/relief case
-and supported the full regression only through an in-process test override; it
-does not satisfy the frozen identity contract. The refactor is therefore
-provider-free code-qualified but not exactly live-qualified.
+The adversarial suite passes 11 tests and the combined host suite passes 18;
+Ruff and mypy pass. E86 then resolves E85's asset limit. The historical sparse
+projection was a transient copy of an in-progress download, not a reproducible
+immutable artifact. The exact full model already named by the same lock was
+restored from its pinned revision and verified at 11,141,912,032 bytes with
+SHA-256 `d416fa422c9035605c778f60d90a94b288c38b4f9ec2126b58ef938ce8d5f716`.
+The tokenizer resolver now accepts only a hash-verified projection or that
+hash-verified full model. Direct E83 replay reproduces 21,401 ordinary tokens,
+`RESULT-001` relief, and an 18,785-token feasible packet; all 280 tests pass
+without an injected substitute.
 
 Historical global-mutating runners remain frozen and may not be reused for new
-live work. No GPU operation is selected. The next eligible operation is
-restoration and SHA-256 verification of the exact tokenizer projection,
-followed by direct E83 replay and full provider-free regression on that locked
-asset. Only after that gate may a fresh whole-configuration experiment be
-designed and separately authorized.
+live work. The refactored host is exactly qualified provider-free. E86 made no
+GPU/provider call, establishes no behavioral utility, and does not itself
+select a new experiment. Any live whole-configuration study still requires a
+fresh frozen design and separate authorization.
 
 The unresolved program capability remains bounded evidence-to-work integration, not more
 exact-residency tuning or standalone semantic-carrier qualification. The

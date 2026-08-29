@@ -2,11 +2,12 @@
 
 Date: 2026-08-28
 
-Status: governing direction through E85; E84 qualifies the event-driven host
+Status: governing direction through E86; E84 qualifies the event-driven host
 core offline and E85 hardens its live request/exposure, rejection, reopen,
-resource, checkpoint-chain, and review seams provider-free. Exact live
-qualification is blocked by the outage-related loss of the frozen tokenizer
-projection. Neither stage adds behavioral evidence. E69 produced the first positive
+resource, checkpoint-chain, and review seams provider-free. E86 restores the
+immutable full model already named by the frozen lock and exactly qualifies
+provider-free tokenization, E83 replay, and the 280-test regression without a
+substitute. None of these stages adds behavioral evidence. E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, while E70 showed that the causal unit also includes
 artifact persistence, construction timing/granularity, and action transport.
@@ -56,13 +57,15 @@ packet and exact result/state exposures; ordinary rejection is nonterminal
 evidence; reopen authority comes from the original result lifecycle; finish
 reason, reserves, total budget, execution manifest, and checkpoint parentage
 are frozen; and review output exposes literal request/action/candidate/custody
-evidence. All 277 tests pass with a compatible Qwen3.8 tokenizer, but the exact
-locked tokenizer projection is absent after the power outage. No runtime lock
-was weakened or substituted, so the host is code-qualified provider-free but
-not exactly live-qualified. See `E85_HOST_LIVE_HARDENING_RESULT.md`.
+evidence. All 277 tests passed provisionally with a compatible Qwen3.8
+tokenizer. E86 then restores and verifies the exact full model already named by
+the same frozen lock, adds a hash-verified full-model tokenizer fallback,
+reproduces the exact E83 packet geometry, and passes all 280 tests without a
+substitute. See `E85_HOST_LIVE_HARDENING_RESULT.md` and
+`E86_HOST_LOCKED_ASSET_RESTORATION_RESULT.md`.
 
-No new system interaction is yet selected. The next operation is exact asset
-restoration and provider-free requalification. Any later design must use the new
+No new system interaction is yet selected. The host is ready for a separately
+designed and authorized live study. Any later design must use the new
 path, preserve common relief regardless of semantic activation, count delivery
 only after completed model exposure, allow authentic model pacing within a
 provisional sixty-call ceiling, and keep qualitative progress/loop judgment at
