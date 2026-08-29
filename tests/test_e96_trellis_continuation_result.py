@@ -29,19 +29,22 @@ def test_e96_records_joint_signal_and_terminal_effect_lifecycle() -> None:
     assert value["automatic_gpu_successor"] is False
 
 
-def test_next_work_is_offline_whole_lifecycle_not_another_continuation() -> None:
+def test_selected_offline_work_completed_without_another_continuation() -> None:
     plan = (ROOT / "NEXT_OFFLINE_CANDIDATE_EFFECT_LIFECYCLE.md").read_text(
         encoding="utf-8"
     )
-    assert "no GPU operation selected or" in plan
+    assert "no GPU/provider call occurred" in plan
     assert "construction-to-verification interaction" in plan
     assert "pending effect remains exact and non-droppable" in plan
     assert "Do not continue E96" in plan
+    assert "completed at E97" in plan
     contract = json.loads(
         (ROOT / "SYSTEM_INTERACTION_EXPLORATION.json").read_text(encoding="utf-8")
     )
     boundary = contract["current_program_boundary"]
-    assert boundary["stage"] == "E96"
-    assert boundary["status"] == "offline_effect_lifecycle_design_selected"
+    assert boundary["stage"] == "E97"
+    assert boundary["status"] == (
+        "offline_candidate_causal_history_qualified_live_successor_unselected"
+    )
     assert boundary["gpu_operation_selected"] is False
     assert boundary["gpu_operation_authorized"] is False

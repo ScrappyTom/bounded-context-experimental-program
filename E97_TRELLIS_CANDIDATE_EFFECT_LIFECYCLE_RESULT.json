@@ -1,0 +1,43 @@
+{
+  "stage": "E97",
+  "date": "2026-08-29",
+  "repository": "ScrappyTom/qwen38-artifact-coupled-integration-scout-v0",
+  "result_commit": "15b7f57e1042194d3cdf859b2650a213c8a93a77",
+  "stage_type": "offline_apparatus_qualification",
+  "donor": {
+    "stage": "E96",
+    "checkpoint_sha256": "1be26e7d366f4c6f14c1f5975cb70c317768b0702fd36a53b1cc1f224546b955",
+    "historical_live_prompt_tokens": 21041,
+    "preterminal_offline_prompt_tokens": 21023,
+    "prompt_allowance": 20992,
+    "historical_result_unchanged": true
+  },
+  "bounded_projection": {
+    "offline_prompt_tokens": 19116,
+    "headroom_tokens": 1876,
+    "externalized_delivered_result_ids": [
+      "RESULT-013",
+      "RESULT-014",
+      "RESULT-015",
+      "RESULT-016",
+      "RESULT-017"
+    ],
+    "pending_exact_result_id": "RESULT-018",
+    "applied_action_receipts": 5,
+    "applied_effect_receipts": 5,
+    "exact_effect_hashes_preserved": true,
+    "semantic_uptake_inferred": false
+  },
+  "qualification": {
+    "focused_tests_passed": 5,
+    "full_repository_tests_passed": 303,
+    "full_repository_seconds": 422.95,
+    "ruff_passed": true,
+    "mypy_passed": true,
+    "gpu_provider_calls": 0
+  },
+  "claim": "delivered applied mutation action/effect pairs can leave model-facing residency after exact delivery and candidate-lineage proof while pending effects remain exact",
+  "remaining_limit": "a new complete-document mutation and its pending effect must fit once before the lifecycle can compact them",
+  "live_actor_utility": "untested",
+  "automatic_successor": false
+}

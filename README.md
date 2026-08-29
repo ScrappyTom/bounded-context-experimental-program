@@ -52,6 +52,24 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
+E97 completes the selected offline candidate causal-history work at apparatus
+commit
+[`15b7f57`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/15b7f57e1042194d3cdf859b2650a213c8a93a77).
+The future-only host policy compacts an old mutation action/effect pair only
+after completed delivery and exact candidate-lineage proof. Exact bytes remain
+externally custodied, pending `RESULT-018` remains exact, and semantic uptake is
+not inferred. At the exact E96 event prefix, the locked offline packet falls
+from 21,023 to 19,116 tokens, leaving 1,876 tokens of headroom. Five focused
+tests, Ruff, mypy, and all 303 apparatus tests pass; no GPU/provider call
+occurred. See
+[E97](E97_TRELLIS_CANDIDATE_EFFECT_LIFECYCLE_RESULT.md).
+
+This closes the offline repair, not the whole agent problem. It bounds applied
+causal history but cannot shrink a brand-new full-document action before its
+pending effect crosses a later model call. Incremental artifact action geometry
+and whole-lifecycle actor utility remain necessary. No live successor is
+selected or authorized.
+
 E96 records the completed Trellis continuation at apparatus result commit
 [`ef90d6d`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/ef90d6d7f80b838fd03fb54e57d61f20f98a00d0).
 V0 delivered the final catalog result and then repeated the complete twelve-read
@@ -69,11 +87,10 @@ externalized and all effect bodies non-relief-eligible, the next verification
 packet was 49 tokens over the prompt allowance and stopped before provider I/O.
 See [E96](E96_TRELLIS_REFACTORED_INTERACTION_CONTINUATION_RESULT.md).
 
-The selected next step is offline
-[candidate-effect lifecycle work](NEXT_OFFLINE_CANDIDATE_EFFECT_LIFECYCLE.md):
-preserve every effect exactly and audibly outside the prompt while bounding the
-model-facing latest-effect/currentness state. This is a whole-lifecycle repair
-needed to reach verification, not another isolated memory-format experiment.
+The selected offline
+[candidate-effect lifecycle work](NEXT_OFFLINE_CANDIDATE_EFFECT_LIFECYCLE.md)
+is now complete at E97. It preserved every effect exactly, bounded applied
+action/effect history, and retained the latest pending effect/currentness state.
 No GPU successor is selected or authorized.
 
 The host-runtime refactor has now passed its smallest integrated live smoke at

@@ -1744,3 +1744,28 @@ Disposition: **LR/AF** — strong local whole-configuration
 acquisition-to-construction signal, negative semantic-fidelity and
 effect-lifecycle findings, no useful completion. The exact route is closed;
 offline bounded effect/currentness lifecycle work is selected.
+
+# E97 — bounded applied candidate causal history
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@15b7f57e1042194d3cdf859b2650a213c8a93a77`
+
+The future-only host lifecycle replays the exact pre-terminal E96 V1 event
+prefix and mechanically compacts five delivered candidate mutation
+action/effect pairs. Pending `RESULT-018` and its causal action remain exact.
+Every exact effect hash is preserved, older effects remain reopenable, and the
+replaceable current-effect projection explicitly declines to infer semantic
+uptake.
+
+The locked offline packet changes from 21,023 to 19,116 tokens against a
+20,992-token allowance. Five focused tests, Ruff, mypy, and the 303-test full
+apparatus regression pass. Zero GPU/provider calls occurred.
+
+The result does not make a new oversized complete-document mutation fit before
+delivery, establish actor effect uptake, or demonstrate verification/repair
+utility. The changed core manifest correctly prevents current-head code from
+claiming identity with the old sealed execution package.
+
+Disposition: **AF/NQ** — bounded applied causal history is qualified as
+mechanical future-path infrastructure. Live utility is untested; no automatic
+successor is selected.

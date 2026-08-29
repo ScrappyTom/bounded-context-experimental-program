@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-29",
-  "status": "e96_continuation_complete_positive_construction_signal_effect_lifecycle_blocked",
+  "status": "e97_offline_candidate_causal_history_qualified_live_utility_unselected",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "prospectively_frozen_condition_specific_live_event",
@@ -83,9 +83,26 @@
       "e92_full_result_regression_passed": 283,
       "e92_pending_result_first_delivered_call": 8,
       "e92_next_pending_result_id": "RESULT-008",
-      "e92_runtime_released": true
+      "e92_runtime_released": true,
+      "e97_candidate_lifecycle_focused_tests_passed": 5,
+      "e97_full_regression_passed": 303,
+      "e97_gpu_provider_calls": 0
     },
-    "next_operation": "none_selected_after_qualified_checkpoint",
+    "candidate_causal_history": {
+      "stage": "E97",
+      "result_commit": "15b7f57e1042194d3cdf859b2650a213c8a93a77",
+      "status": "offline_future_path_qualified",
+      "historical_live_packet_tokens_unchanged": 21041,
+      "preterminal_offline_packet_tokens": 21023,
+      "bounded_offline_packet_tokens": 19116,
+      "prompt_allowance": 20992,
+      "delivered_action_effect_pairs_compacted": 5,
+      "pending_effect_retained_exact": "RESULT-018",
+      "semantic_uptake_inferred": false,
+      "historical_execution_manifest_reused": false,
+      "live_actor_utility_tested": false
+    },
+    "next_operation": "none_selected_after_offline_candidate_lifecycle_qualification",
     "gpu_operation_selected": false,
     "gpu_operation_authorized": false,
     "maximum_selected_model_calls": 0,
@@ -162,22 +179,25 @@
       "useful_completion_count": 0
     },
     "next_offline_work": {
-      "status": "selected_offline_no_gpu_authorization",
+      "status": "completed_offline_no_gpu_calls",
       "document": "NEXT_OFFLINE_CANDIDATE_EFFECT_LIFECYCLE.md",
+      "result_document": "E97_TRELLIS_CANDIDATE_EFFECT_LIFECYCLE_RESULT.md",
+      "result_commit": "15b7f57e1042194d3cdf859b2650a213c8a93a77",
       "boundary": "bounded_exact_candidate_effect_uptake_and_currentness",
       "semantic_policy_change": false,
       "automatic_live_successor": false
     }
   },
   "current_program_boundary": {
-    "stage": "E96",
-    "status": "offline_effect_lifecycle_design_selected",
-    "result_document": "E96_TRELLIS_REFACTORED_INTERACTION_CONTINUATION_RESULT.md",
-    "result_commit": "ef90d6d7f80b838fd03fb54e57d61f20f98a00d0",
+    "stage": "E97",
+    "status": "offline_candidate_causal_history_qualified_live_successor_unselected",
+    "result_document": "E97_TRELLIS_CANDIDATE_EFFECT_LIFECYCLE_RESULT.md",
+    "result_commit": "15b7f57e1042194d3cdf859b2650a213c8a93a77",
     "supported_interaction": "temporary_provenance_scaffold_x_exact_incremental_artifact_changed_acquisition_into_construction",
     "semantic_failure": "same_source_replacement_losses_propagated_into_not_ready_artifact",
-    "mechanical_failure": "append_only_non_relief_eligible_candidate_effects_blocked_verification",
-    "next_document": "NEXT_OFFLINE_CANDIDATE_EFFECT_LIFECYCLE.md",
+    "mechanical_result": "delivered_applied_mutation_action_effect_pairs_can_be_bounded_after_exact_lineage_proof",
+    "remaining_transport_limit": "new_complete_document_action_and_pending_effect_must_fit_once_before_compaction",
+    "next_document": null,
     "gpu_operation_selected": false,
     "gpu_operation_authorized": false
   },

@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-29
-Status: current program synthesis through E96; E84 closes the E83 host
+Status: current program synthesis through E97; E84 closes the E83 host
 modularity blocker offline and E85 hardens the final request, rejection,
 reopen, resource, checkpoint-chain, and review seams provider-free. E86
 restores the immutable full model already named by the frozen lock, removes the
@@ -30,6 +30,13 @@ because six non-relief-eligible candidate effects accumulated beside the
 complete current candidate. The result is a positive construction interaction,
 a negative semantic-fidelity result, and a negative effect-lifecycle result—not
 useful completion or a register-only effect.
+E97 then closes the selected offline effect-lifecycle repair. Exact replay
+shows that the active burden was not only six effect bodies: large causal
+assistant mutation actions also duplicated the exact current artifact. A
+future-only host transition now bounds each delivered applied action/effect
+pair after exact lineage proof, leaves pending effects exact, and makes no
+semantic-uptake claim. It restores offline E96 packet feasibility from 21,023
+to 19,116 tokens, passes 303 repository tests, and makes zero provider calls.
 E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
@@ -94,6 +101,30 @@ capacity before any check. The selected next activity is the offline bounded
 effect-lifecycle design in `NEXT_OFFLINE_CANDIDATE_EFFECT_LIFECYCLE.md`. It is
 part of the complete construction-to-verification system and introduces no new
 semantic treatment. No live run is selected.
+
+## E97 program update
+
+E97 completes that offline work and sharpens the construction-to-verification
+model. The durable exact current candidate can safely replace the prompt
+residency of older applied mutation actions and effect bodies only after:
+
+- a completed invocation delivered the effect;
+- the exact before/after chain ends at the current candidate; and
+- the causal assistant action is hash-bound to the effect's acquired call.
+
+This is host-mechanical lifecycle management, not semantic compression. It
+preserves exact action/effect bytes in external chronology, provides compact
+receipts, retains the pending update exactly, and exposes a bounded mechanical
+current-effect record with semantic uptake explicitly unasserted.
+
+The result also prevents an overclaim. Before delivery, a new global artifact
+action and its pending effect must still fit once. The host cannot solve that
+transport boundary after the fact. Whole-system viability therefore depends on
+the interaction among incremental artifact actions, bounded applied causal
+history, current check state, repair, and review cadence.
+
+E97 is offline apparatus evidence. It does not establish live Qwen effect
+uptake or select an E96 retry. The next live question remains unselected.
 
 ## Executive disposition
 

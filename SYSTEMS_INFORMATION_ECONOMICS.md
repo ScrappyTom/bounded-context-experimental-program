@@ -1178,3 +1178,41 @@ L1 charge. If the later comparison runs, marginal L1 accounting begins at the
 separately charged maintenance call and must include resident register cost,
 cache effects, induced recovery, candidate changes, verification, repair,
 closure, and external readiness.
+
+## E97: current artifacts can retire applied causal payloads, but only after delivery
+
+E96 exposed a later lifecycle duplication. The exact current candidate already
+contained six cumulative mutations, yet the active prompt also carried their
+assistant mutation actions and effect results. The effect bodies were small;
+some assistant actions carried large artifact sections. The economic stock was
+therefore not simply “six effects” but three overlapping representations:
+
+```text
+exact current artifact
++ historical mutation action payloads
++ historical mutation effect payloads
+```
+
+E97 qualifies a mechanical substitution rule. After a completed model call has
+delivered an effect and the exact effect chain ends at the exact current
+candidate, both the applied action and effect may become compact model-facing
+receipts. Exact bytes and chronology remain externally custodied, the effect is
+reopenable, and a bounded current-effect object records mechanical currentness
+without claiming semantic uptake.
+
+At the authentic E96 V1 event prefix, five delivered action/effect pairs were
+eligible and pending `RESULT-018` was not. The locked offline prompt fell from
+21,023 to 19,116 tokens, leaving 1,876 tokens against the prompt allowance.
+This is a direct reduction in resident duplication, not a semantic-value claim.
+
+The timing condition is economically important. A newly emitted global
+artifact action and its pending effect must coexist for one later invocation
+before the substitution rule can fire. If that pair itself exceeds the
+one-call envelope, post-delivery compaction cannot rescue it. The complete
+system therefore still needs an action geometry whose increments fit the
+response and next-prompt channels. Exact incremental artifact work and bounded
+applied-history lifecycle are complements, not substitutes.
+
+E97 used no provider call. Its return is qualified only as restored mechanical
+option value: a later live decision can physically occur. Whether Qwen uses
+that opportunity for verification, repair, or closure remains unmeasured.

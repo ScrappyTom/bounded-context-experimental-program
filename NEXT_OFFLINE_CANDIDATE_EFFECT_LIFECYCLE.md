@@ -2,8 +2,9 @@
 
 Date: 2026-08-29
 
-Status: selected offline systems design; no GPU operation selected or
-authorized.
+Status: completed at E97; no GPU/provider call occurred and no live successor
+is selected or authorized. See
+`E97_TRELLIS_CANDIDATE_EFFECT_LIFECYCLE_RESULT.md`.
 
 ## Trigger
 
@@ -31,6 +32,11 @@ The host preserves externally:
 - result acquisition and delivery events;
 - exact chronology and reopen handles; and
 - whether a completed actor request actually exposed each effect.
+
+E97 additionally showed that the causal assistant mutation action must share
+the lifecycle. Its text can duplicate the exact current artifact just as the
+effect body duplicates current candidate state. Applied action/effect pairs are
+therefore bounded together after the same delivery and lineage proof.
 
 The model-facing packet contains:
 
@@ -66,3 +72,8 @@ Complete offline design, implementation, adversarial tests, exact E96 replay,
 and a provider-free full lifecycle. Then stop for review. A live run requires a
 new frozen commit and explicit authorization. Do not continue E96 from its
 capacity-blocked checkpoint under a changed policy.
+
+This stopping rule has been met. The authentic offline replay changes 21,023
+tokens to 19,116 while retaining pending `RESULT-018` exactly; five focused and
+303 full-repository tests pass. The route is closed at E97 pending selection of
+a new whole-system live question.

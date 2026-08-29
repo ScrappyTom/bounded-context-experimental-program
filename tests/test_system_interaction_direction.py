@@ -17,7 +17,7 @@ class SystemInteractionDirectionTests(unittest.TestCase):
 
     def test_unit_is_whole_configuration_not_component(self):
         self.assertEqual(
-            "e96_continuation_complete_positive_construction_signal_effect_lifecycle_blocked",
+            "e97_offline_candidate_causal_history_qualified_live_utility_unselected",
             self.contract["status"],
         )
         self.assertEqual(
@@ -60,9 +60,15 @@ class SystemInteractionDirectionTests(unittest.TestCase):
             selected["selected_continuation"]["result_commit"],
         )
         self.assertEqual(
-            "selected_offline_no_gpu_authorization",
+            "completed_offline_no_gpu_calls",
             selected["next_offline_work"]["status"],
         )
+        lifecycle = self.contract["active_host_runtime_refactor"][
+            "candidate_causal_history"
+        ]
+        self.assertEqual("E97", lifecycle["stage"])
+        self.assertEqual(19_116, lifecycle["bounded_offline_packet_tokens"])
+        self.assertFalse(lifecycle["semantic_uptake_inferred"])
 
     def test_closed_scout_measured_interaction_and_successor_are_explicit(self):
         closed = self.contract["closed_first_interaction"]

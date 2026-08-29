@@ -2,7 +2,7 @@
 
 Date: 2026-08-29
 
-Status: updated through E96; Solace produced a positive acquisition-to-
+Status: updated through E97; Solace produced a positive acquisition-to-
 construction interaction and a negative fixed-scaffold verification result.
 Orchard transfers the phase-conditional system: bounded current verification
 enables repair effect uptake and recheck where fixed append-only state stops,
@@ -30,6 +30,10 @@ V0 repeats all acquisition, while V1 immediately accumulates exact task work.
 The V1 artifact remains incomplete and its mutation effects exhaust the active
 packet before verification. Offline bounded effect/currentness lifecycle work
 is selected; no live successor is authorized.
+E97 completes that offline work: delivered applied mutation action/effect pairs
+can be compacted after exact lineage proof while a pending effect remains exact.
+The locked offline E96 event prefix becomes feasible at 19,116 tokens. This is
+apparatus qualification, not live uptake evidence, and no successor is selected.
 
 ## Research-phase reset
 
@@ -73,6 +77,24 @@ state should remain model-facing once the full current candidate already
 contains older mutations. This is required to restore the complete
 construction-to-verification interaction. It is not a third E96 tranche, a
 semantic prompt tune, or a selected GPU operation.
+
+That work is now complete at E97. The resulting mechanism bounds the complete
+applied causal pair—assistant mutation action plus effect—rather than only the
+effect body. It is promoted only as mechanical infrastructure for a future
+whole-system scout.
+
+The next high-ROI live question has not yet been selected. Selection should
+compare viable complete configurations and must preserve:
+
+- incremental exact artifact mutation, so a new response need not carry a
+  complete artifact when the one-call transport envelope is tight;
+- exact pending-result delivery;
+- bounded applied causal history after delivery;
+- candidate-bound current check, targeted repair, and current recheck; and
+- periodic transcript review without automatic host judgment of looping.
+
+Do not spend the next run re-demonstrating offline packet feasibility or
+continuing the sealed E96 checkpoint under changed code.
 
 ## Current terrain update through E72
 

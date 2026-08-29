@@ -2,7 +2,7 @@
 
 Date: 2026-08-29
 
-Status: governing direction through E96; E84 qualifies the event-driven host
+Status: governing direction through E97; E84 qualifies the event-driven host
 core offline and E85 hardens its live request/exposure, rejection, reopen,
 resource, checkpoint-chain, and review seams provider-free. E86 restores the
 immutable full model already named by the frozen lock and exactly qualifies
@@ -66,6 +66,19 @@ unreachable when append-only non-relief-eligible mutation effects coexist with
 the full current candidate. The active offline boundary is exact candidate-
 effect uptake/currentness across the construction-to-verification transition,
 not another scaffold prompt or checkpoint continuation.
+
+E97 completes that offline boundary. The host can compact a delivered applied
+mutation's exact assistant action and exact effect body after the effect has
+crossed a completed invocation and its exact lineage ends at the current
+candidate. Pending effects remain exact; external custody and effect reopen are
+preserved; semantic uptake is explicitly not inferred. The authentic E96 event
+prefix becomes feasible offline at 19,116 tokens. This is a new future-path
+execution package, not a regrading or continuation of sealed E96.
+
+The unresolved systems question moves downstream again: can a live actor use
+incremental artifact actions, bounded applied causal history, current check
+state, and repair/recheck opportunities to reach better work before another
+resource becomes binding? No live configuration is selected by E97 itself.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
