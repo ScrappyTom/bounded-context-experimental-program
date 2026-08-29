@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
-  "date": "2026-08-28",
-  "status": "e92_host_live_smoke_v2_qualified_checkpoint_pause",
+  "date": "2026-08-29",
+  "status": "e93_whole_system_stage0_qualified_live_unauthorized",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "prospectively_frozen_condition_specific_live_event",
@@ -89,6 +89,43 @@
     "gpu_operation_selected": false,
     "gpu_operation_authorized": false,
     "maximum_selected_model_calls": 0,
+    "automatic_continuation": false
+  },
+  "selected_whole_system_interaction": {
+    "stage": "E93",
+    "apparatus_commit": "381e44c3a48305a4dd04651b34860a0956309c09",
+    "run_id": "2026-08-29-trellis-refactored-interaction-tranche-v0",
+    "fresh_trajectory": true,
+    "configurations": [
+      "V0_EXACT_ARTIFACT",
+      "V1_TEMPORARY_PROVENANCE_SCAFFOLD"
+    ],
+    "common_functions": [
+      "exact_custody",
+      "actor_selected_evidence_ingress",
+      "deterministic_first_fit_relief",
+      "exact_reopen",
+      "incremental_exact_artifact",
+      "candidate_effect_check_currentness",
+      "bounded_repair",
+      "checkpoint_resume",
+      "current_recheck",
+      "submission_proposal"
+    ],
+    "treatment_only_functions": [
+      "charged_fallible_anchored_maintenance_during_construction",
+      "mechanical_scaffold_demotion_at_verification"
+    ],
+    "checkpoint_actor_calls_per_configuration": 12,
+    "maximum_actor_calls_total": 24,
+    "maximum_maintenance_calls_total": 12,
+    "maximum_provider_calls_total": 36,
+    "maximum_serialized_tokens_total": 900000,
+    "attempts_per_call": 1,
+    "retries": 0,
+    "provider_free_regression_tests_passed": 290,
+    "live_authorized": false,
+    "causal_unit": "whole_evolving_configuration",
     "automatic_continuation": false
   },
   "closed_first_interaction": {

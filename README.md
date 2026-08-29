@@ -52,6 +52,24 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
+E93 freezes the first complete whole-system consumer of the refactored host at
+apparatus commit
+[`381e44c`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/381e44c3a48305a4dd04651b34860a0956309c09).
+Both fresh Trellis configurations passed a scripted provider-free lifecycle
+through authentic pressure, exact candidate mutations, checkpoint/resume, a
+candidate-bound failing check, uniquely bound repair, effect uptake, current
+passing recheck, and submission proposal. V0 uses exact evidence plus exact
+incremental artifacts. V1 adds charged, fallible anchored maintenance during
+construction and demotes the temporary scaffold at verification. The complete
+290-test regression, Ruff, and mypy pass.
+
+This does not establish Qwen utility. It qualifies the interaction apparatus
+and freezes one first live checkpoint tranche: at most twelve actor calls per
+configuration, with V0 then V1, fresh servers, literal transcript review, and
+no automatic continuation. The causal unit is the whole configuration, not an
+isolated scaffold. GPU execution remains unauthorized. See
+[E93](E93_TRELLIS_REFACTORED_INTERACTION_STAGE0.md).
+
 The host-runtime refactor has now passed its smallest integrated live smoke at
 apparatus freeze commit
 [`3afd9e2`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/3afd9e269abb437512ea961772b43f4a12ea0f30),
@@ -94,7 +112,8 @@ exact locked asset and 280-test regression. See
 [host refactor handoff](HOST_RUNTIME_REFACTOR_HANDOFF.md). Historical runners
 remain frozen. No GPU/provider call occurred during E87 Stage 0. The selected
 one-call smoke is an apparatus qualification, not a behavioral experiment. No
-continuation is selected or authorized by E92.
+continuation was selected by E92; E93 subsequently selected a separate fresh-
+trajectory whole-system tranche, which remains unauthorized.
 
 E83 closes the Trellis artifact-centered lifecycle route at result commit
 [`0941d87`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/0941d877610f9d8e2e4518dbb6e51010b54f0e16).

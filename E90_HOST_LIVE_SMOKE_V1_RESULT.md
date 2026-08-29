@@ -18,7 +18,7 @@ exact-equality gate stopped before completion I/O and released the server.
 
 Two additional fresh-server diagnostics reproduced the split. Offline and
 live paths rendered identical 49,518-byte prompts with SHA-256
-`fdc87d49f9b66200343f38af6beb5ceeabc6367162126b58efb97fc875a88bcf695`.
+`fdc87d49f9b66200343f38af6beb5ceeabc6367162124efb97fc875a88bcf695`.
 The ordinary packet's 21,401 token IDs were identical. The relieved paths first
 diverged at token index 2,580 and later reconverged. This rules out different
 messages, model bytes, receipt selection, or a simple extra BOS token.

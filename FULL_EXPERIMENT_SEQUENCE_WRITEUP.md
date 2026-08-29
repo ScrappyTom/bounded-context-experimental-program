@@ -2121,3 +2121,97 @@ about repair continuity. Under the frozen stop rule, Keystone is closed. No
 same-world retry, trigger adjustment, maintenance-carrier tune, or replacement
 research mechanism is selected. The donor-preserving product path remains
 separate.
+
+# 74. Trellis exposes a host delivery-accounting defect before treatment
+
+E82 designed a fresh artifact-centered comparison in Trellis. Both prospective
+arms shared exact evidence, an evidence-to-requirement matrix, incremental
+decision sections, candidate-bound checks, repair, recheck, and external
+readiness; A1 alone added temporary anchored scaffolding during construction.
+Provider-free fixtures traversed the intended lifecycle.
+
+E83 then ran only the common pressure screen. Seven valid batch reads created a
+real pending-result overflow, but only six sources had crossed a completed
+model invocation. TRANSIT and COMMS were acquired and pending, not delivered.
+The frozen eight-source gate therefore did not qualify and no semantic arm
+ran. The screen exposed a deeper host defect: the offline projection had
+treated pending evidence as model-visible. That historical Trellis route was
+closed rather than repaired in place.
+
+# 75. The host becomes a separately governed refactor subproject
+
+E84 replaced the monolithic experimental path with one event-driven kernel for
+acquired, pending, delivered-resident, delivered-external, and reopened exact
+results. Packet construction became a pure projection over that state. Exact
+body deduplication, deterministic first-fit relief, replaceable current
+candidate state, check currentness, one-shot provider custody, and twelve-call
+checkpoint/resume became common infrastructure.
+
+Frozen E83 replay now reports six delivered sources and pending
+TRANSIT/COMMS. It does not activate an interaction based on projected future
+delivery. The host may know that a pending result would complete a requirement,
+but activation occurs only after the completed invocation actually exposes it
+to the actor.
+
+# 76. Live hardening and immutable model restoration
+
+E85 bound the final provider request to the exact packet, state exposures,
+reserves, execution manifest, and result identities. Failed calls cannot commit
+delivery. Truncation and invalid actions remain exact nonterminal evidence.
+Reopen uses the original result lifecycle, and checkpoint parentage, total
+budget, finish-reason admission, and literal review evidence are mechanical.
+
+The power outage had removed a transient sparse tokenizer projection named by
+the old lock. E86 established that this projection had been copied from an
+in-progress download and was not reproducible immutable evidence. It restored
+the exact full model already named by the pinned repository revision, verified
+its 11,141,912,032 bytes and SHA-256, added a hash-verified full-model tokenizer
+fallback, and passed the 280-test regression. No substitute model entered the
+frozen identity.
+
+# 77. Three bounded live-smoke attempts reach one qualified vertical slice
+
+E87 froze a one-call smoke at the authentic E83 pressure boundary. E88 stopped
+v0 before provider I/O because another authorized job occupied the GPU. E89/E90
+then reached the live runtime but stopped before completion because the
+running server counted the byte-identical relieved prompt at 18,786 tokens,
+while the offline tokenizer counted 18,785. Both stopped runs consumed zero
+model calls.
+
+E91 froze those two exact projections separately rather than adding a
+tolerance. E92 completed the one-call path. Deterministic relief externalized
+only RESULT-001; actual usage confirmed 18,786 prompt tokens. Completed call 8
+delivered pending RESULT-007. Qwen coherently requested the remaining
+TRANSIT/COMMS ranges, the host admitted that action, acquired RESULT-008 as
+pending, and produced a sealed checkpoint before releasing the runtime.
+
+This qualified one live vertical slice through capacity, request binding,
+delivery, action admission, acquisition, checkpoint, and cleanup. It did not
+exercise mutation, check/repair, reopen, long-horizon robustness, or task
+utility.
+
+# 78. E93 returns the apparatus to a complete interaction question
+
+E93 freezes a new fresh-trajectory Trellis scout over the refactored host. It
+does not resume E83. V0 and V1 share exact custody, ordinary evidence demand,
+common first-fit relief and reopen, exact incremental artifacts,
+candidate/effect/check bindings, bounded repair, checkpoint/resume, current
+recheck, and submission proposal. V1 alone adds charged, fallible anchored
+semantic maintenance when source results are actually externalized during
+construction; the scaffold is replaced by a compact custody receipt at
+verification and has no readiness authority.
+
+Provider-free fixtures carry both complete configurations from twelve-source
+acquisition through authentic repeated pressure, artifact mutations, a
+twelve-call checkpoint and exact hydration, failing current check, uniquely
+bound repair, effect uptake, passing recheck, and submission proposal. V0 uses
+19 actor attempts and 317,677 fixture tokens. V1 uses the same actor attempts
+plus ten maintenance attempts and 359,098 fixture tokens. The 290-test
+regression, Ruff, and mypy pass.
+
+Those paths are scripted apparatus facts, not model behavior. The selected
+live unit is a twelve-actor-call checkpoint tranche in each configuration,
+with literal qualitative review before any continuation. The causal unit is
+the whole evolving configuration: semantic recency, artifact growth, action
+granularity, exact turnover, effects, and later demand can all interact. No GPU
+call is authorized by Stage 0.

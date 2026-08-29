@@ -1,8 +1,8 @@
 # Structured exploration roadmap
 
-Date: 2026-08-27
+Date: 2026-08-29
 
-Status: updated through E81; Solace produced a positive acquisition-to-
+Status: updated through E93; Solace produced a positive acquisition-to-
 construction interaction and a negative fixed-scaffold verification result.
 Orchard transfers the phase-conditional system: bounded current verification
 enables repair effect uptake and recheck where fixed append-only state stops,
@@ -17,7 +17,12 @@ the mismatch between count-based activation and live complete-source ingress.
 E80 retired that count gate and qualified one event-triggered common
 continuation plus conditional V0/V1 fork. E81 ran the common continuation, but
 complete source coverage still produced no task work, so the lifecycle event
-never occurred and Keystone closed without a branch.
+never occurred and Keystone closed without a branch. E82/E83 then exposed a
+host delivery-accounting defect at an otherwise authentic Trellis pressure
+boundary. E84-E92 refactored and live-qualified the shared event, capacity,
+delivery, action, pending-result, checkpoint, and seal path. E93 now freezes a
+fresh whole-system Trellis comparison over that host rather than another seam
+test.
 
 ## Research-phase reset
 
@@ -45,6 +50,30 @@ single mechanism.
 The program will be exact about what happened and provisional about why it
 happened, what conceptual role a representation played, and which mechanism
 should follow.
+
+## Current route after the host refactor
+
+E93 is the first selected whole-system consumer of the refactored host. It is
+not a continuation of E83 and does not isolate a single component. The two
+fresh Trellis configurations jointly exercise evidence ingress, authentic
+pressure, exact result turnover and reopen, exact incremental task work,
+candidate/effect/check currentness, bounded repair, checkpoint/resume, recheck,
+and submission proposal. V1 additionally pays for fallible anchored semantic
+maintenance during construction and demotes that scaffold at verification.
+
+The first live unit is deliberately a checkpointed interaction tranche:
+twelve actor calls per configuration, V0 then V1, with a fresh runtime for each
+configuration. The host records exact recurrence, visibility, mutations,
+effects, and checks. It does not semantically decide that work is looping,
+ready, or incomplete. At the checkpoint, transcript review asks how the entire
+configuration changed demand, artifact accumulation, effect uptake, and the
+location of the bottleneck. Any continuation needs new authorization; any
+policy change creates a new experiment.
+
+Provider-free qualification establishes only that both configurations can
+mechanically traverse the full lifecycle. It supplies no Qwen utility result.
+The next high-ROI evidence is therefore the frozen live interaction tranche,
+not another tokenizer, packet, carrier, or host-seam test.
 
 ## Current terrain update through E72
 

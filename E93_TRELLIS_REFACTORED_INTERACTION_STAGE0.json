@@ -1,0 +1,48 @@
+{
+  "schema": "e93-trellis-refactored-interaction-stage0-v0",
+  "apparatus_commit": "381e44c3a48305a4dd04651b34860a0956309c09",
+  "run_id": "2026-08-29-trellis-refactored-interaction-tranche-v0",
+  "status": "provider_free_qualified_live_unauthorized",
+  "model_calls": 0,
+  "configurations": [
+    "V0_EXACT_ARTIFACT",
+    "V1_TEMPORARY_PROVENANCE_SCAFFOLD"
+  ],
+  "provider_free_receipts": {
+    "V0_EXACT_ARTIFACT": {
+      "actor_calls": 19,
+      "maintenance_calls": 0,
+      "serialized_tokens": 317677,
+      "relief_events": 9,
+      "candidate_state_versions": 4,
+      "final_current_check_passed": true,
+      "submission_recorded": true
+    },
+    "V1_TEMPORARY_PROVENANCE_SCAFFOLD": {
+      "actor_calls": 19,
+      "maintenance_calls": 10,
+      "serialized_tokens": 359098,
+      "relief_events": 10,
+      "candidate_state_versions": 4,
+      "final_register_claims": 4,
+      "scaffold_demoted_at_verification": true,
+      "final_current_check_passed": true,
+      "submission_recorded": true
+    }
+  },
+  "regression_tests_passed": 290,
+  "live_authorization_limits": {
+    "maximum_actor_calls": 24,
+    "maximum_maintenance_calls": 12,
+    "maximum_provider_calls": 36,
+    "maximum_serialized_tokens": 900000,
+    "attempts_per_call": 1,
+    "retries": 0
+  },
+  "claim_limits": [
+    "Provider-free scripted paths are apparatus evidence, not Qwen behavior.",
+    "The live causal unit is the whole configuration, not the scaffold alone.",
+    "The first live tranche pauses after twelve actor calls per configuration.",
+    "Cross-world transfer remains required after any positive Trellis signal."
+  ]
+}

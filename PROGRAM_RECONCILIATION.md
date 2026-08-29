@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
-Date: 2026-08-28
-Status: current program synthesis through E92; E84 closes the E83 host
+Date: 2026-08-29
+Status: current program synthesis through E93; E84 closes the E83 host
 modularity blocker offline and E85 hardens the final request, rejection,
 reopen, resource, checkpoint-chain, and review seams provider-free. E86
 restores the immutable full model already named by the frozen lock, removes the
@@ -13,7 +13,13 @@ review, release, and seal. E88 and E90 each stop safely before provider I/O;
 E91 freezes the corrected v2 exact offline/live tokenizer projections. E92
 records the qualified one-call live path and mandatory checkpoint. The pre-run
 282-test suite and post-result 283-test suite pass. These are apparatus facts,
-not behavioral evidence. E69 produced the first positive
+not behavioral evidence. E93 then composes the refactored host into a fresh
+whole-system Trellis comparison: both configurations retain common exact
+pressure, incremental artifact, effect, check, repair, and checkpoint
+lifecycles; V1 alone adds charged temporary provenance scaffolding during
+construction and demotes it for verification. The full 290-test regression and
+both provider-free lifecycle fixtures pass. Live utility remains unmeasured.
+E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
 among semantic residue, exact artifacts, construction timing/granularity, and
@@ -55,14 +61,16 @@ screen was frozen. E83 ran it: seven valid batch actions created authentic
 pressure, but only six sources/domains were visible against the eight/eight
 gate, while TRANSIT/COMMS remained pending. No A0/A1 fork existed. E83 also
 corrects E82's offline visibility accounting, which had counted a current
-pending result as already delivered. Trellis is closed.
+pending result as already delivered. That historical E83 route is closed; E93
+is a new fresh-trajectory Trellis route over the refactored host, not a retry
+or reinterpretation of E83.
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
 
 ## Executive disposition
 
-The E83 host modularity blocker is closed for offline planning. E84 implements
+The E83 host modularity blocker is closed. E84 implements
 and qualifies one append-only acquired/pending/delivered-resident/delivered-
 external kernel, pure packet projection, exact-body deduplication, common
 first-fit relief, replaceable current candidate, check currentness, one-shot
@@ -124,9 +132,11 @@ verified. One model call and 18,860 serialized tokens were used.
 
 Historical global-mutating runners remain frozen and may not be reused for new
 live work. The refactored host is now qualified through one exact live call.
-E92 establishes no behavioral utility and cannot continue automatically. Any
-continuation or later whole-configuration study requires separate design and
-authorization.
+E92 establishes no behavioral utility and cannot continue automatically. E93
+separately designs and freezes a fresh whole-configuration study at apparatus
+commit `381e44c3a48305a4dd04651b34860a0956309c09`. Its provider-free fixtures
+exercise the complete lifecycle and its first live twelve-call checkpoint per
+configuration remains unauthorized.
 
 The unresolved program capability remains bounded evidence-to-work integration, not more
 exact-residency tuning or standalone semantic-carrier qualification. The
@@ -145,7 +155,9 @@ Trellis was designed to test that whole interaction on a fresh task, without
 assuming that semantic residue is permanent memory or that expression quality
 predicts trajectory utility. E83 stopped before the interaction fork because
 the host disagreed with the frozen delivery lifecycle; E84 repairs and
-qualifies that host path but supplies no missing behavioral comparison.
+qualifies that host path but supplies no missing behavioral comparison. E93
+therefore starts new Trellis trajectories under the repaired host rather than
+continuing, repairing, or reinterpreting the sealed E83 screen.
 
 The program has enough local mechanism evidence to stop searching the current
 donor trajectories for a slightly better exact layout, eviction prompt, digest format,

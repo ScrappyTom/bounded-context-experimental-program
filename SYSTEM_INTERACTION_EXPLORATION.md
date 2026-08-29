@@ -1,8 +1,8 @@
 # System-interaction exploration
 
-Date: 2026-08-28
+Date: 2026-08-29
 
-Status: governing direction through E92; E84 qualifies the event-driven host
+Status: governing direction through E93; E84 qualifies the event-driven host
 core offline and E85 hardens its live request/exposure, rejection, reopen,
 resource, checkpoint-chain, and review seams provider-free. E86 restores the
 immutable full model already named by the frozen lock and exactly qualifies
@@ -46,8 +46,15 @@ alone adds a fallible temporary anchored scaffold during construction, then
 demotes it for a common verification/repair frame. Offline qualification
 passed prospectively, but E83's live screen reached pressure with only six
 delivered sources/domains; two more were pending. The frozen eight/eight fork
-did not qualify, no treatment ran, and Trellis is closed. E83 also supersedes
-E82's pending-result visibility accounting.
+did not qualify, no treatment ran, and that historical E83 route is closed.
+E83 also supersedes E82's pending-result visibility accounting. After the host
+refactor and E92 live seam qualification, E93 selects a fresh-trajectory
+Trellis whole-system scout. Both configurations share exact pressure relief,
+reopen, incremental artifact work, candidate/effect/check binding, bounded
+repair, checkpoint/resume, recheck, and submission proposal. V1 alone adds a
+charged, fallible provenance scaffold during construction and mechanically
+demotes it for verification. Provider-free qualification reaches the complete
+lifecycle; live utility remains unmeasured.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -73,12 +80,15 @@ reproduces the exact E83 packet geometry, and passes all 280 tests without a
 substitute. See `E85_HOST_LIVE_HARDENING_RESULT.md` and
 `E86_HOST_LOCKED_ASSET_RESTORATION_RESULT.md`.
 
-No new system interaction is yet selected. The v2 one-call apparatus smoke is
-complete and closed. Any later design must use the new
-path, preserve common relief regardless of semantic activation, count delivery
-only after completed model exposure, allow authentic model pacing within a
-provisional sixty-call ceiling, and keep qualitative progress/loop judgment at
-the checkpoint rather than in host policy.
+The v2 one-call apparatus smoke is complete and closed. E93 selects the first
+whole-system use of the refactored path rather than another seam test. It uses
+fresh Trellis trajectories and two viable configurations, preserves common
+relief regardless of semantic activation, and counts delivery only after a
+completed model exposure. Each configuration must pause after twelve actor
+calls for literal transcript review. The host records recurrence and exact
+effects but does not decide that the actor is looping or ready. Continuation
+requires separate authorization, and any policy change starts a new
+experiment.
 
 ## Decision
 
@@ -1420,8 +1430,8 @@ continuity could matter, despite 27 pre-treatment calls and 300,754 serialized
 tokens. The frozen stop rule therefore closes Keystone rather than retuning
 activation or semantic transport.
 
-No successor research configuration is currently selected. This is deliberate
-stopping discipline, not a return to component isolation. Any later research
-route must be justified by a new cross-system interaction boundary, not by the
+At the E81 checkpoint no successor configuration was selected. That stopping
+decision remains valid for Keystone: no later route may be justified by the
 logical availability of another Keystone continuation, register budget, or
-trigger variant.
+trigger variant. E93 is instead a fresh cross-system interaction selected only
+after the Trellis host defect was refactored and live-qualified.

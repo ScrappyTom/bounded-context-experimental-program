@@ -1580,3 +1580,103 @@ Disposition: **AF/NQ/B** — code-level live seams are provider-free qualified;
 exact locked-asset qualification is blocked. No behavioral evidence, live GPU
 readiness, or architecture promotion follows. The only eligible next operation
 is exact tokenizer restoration and provider-free requalification.
+
+# E86 — immutable model restoration
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@a7c7686977661dcd7adebc1da78a78aa2b423ff5`
+
+The exact full model already named by the frozen repository/revision lock was
+restored and verified at 11,141,912,032 bytes with SHA-256
+`d416fa422c9035605c778f60d90a94b288c38b4f9ec2126b58ef938ce8d5f716`.
+The historical sparse projection was identified as a transient copy of an
+in-progress download, not a reproducible immutable artifact. Exact E83 packet
+geometry and the 280-test regression pass provider-free.
+
+Disposition: **AF/NQ** — the asset blocker is closed without substituting a
+different model. No live behavior or task utility was measured.
+
+# E87 — one-call live-smoke freeze
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@fbc1db052051b23cfb8667780eab0a9939dee11a`
+
+One integrated call at the authentic E83 pressure boundary was frozen with
+exact result relief, request/delivery binding, action admission, pending-result
+acquisition, checkpoint, seal, and release. No call occurred in Stage 0.
+
+Disposition: **AF/NQ** — prospective apparatus only.
+
+# E88 — live-smoke v0 environmental stop
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@fbc1db052051b23cfb8667780eab0a9939dee11a`
+
+The run stopped before provider I/O because another authorized GPU job was
+active. The sealed run records zero model calls, attempts, and retries.
+
+Disposition: **AF/NQ** — resource-contention evidence only; v0 is closed.
+
+# E89 — live-smoke v1 freeze
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@a92577d64612a6a5f7c623e02de89eb527b47017`
+
+The unchanged one-call design was frozen under a new run ID after the GPU
+became available. No model call occurred during Stage 0.
+
+Disposition: **AF/NQ** — prospective apparatus only.
+
+# E90 — exact offline/live tokenizer split
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@a92577d64612a6a5f7c623e02de89eb527b47017`
+
+All live gates passed, but the byte-identical relieved packet measured 18,785
+tokens offline and 18,786 in the running server. The exact-equality gate
+stopped before completion I/O. Two fresh-server diagnostics reproduced the
+split. Zero model calls occurred.
+
+Disposition: **AF/NQ** — exact runtime-projection evidence; no tolerance or
+behavioral inference was introduced.
+
+# E91 — dual exact-projection live-smoke freeze
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@3afd9e269abb437512ea961772b43f4a12ea0f30`
+
+The one-call smoke was refrozen with 18,785 as the offline projection and
+18,786 as the live capacity authority for identical prompt bytes. The relief
+choice, request, and all other limits remained unchanged.
+
+Disposition: **AF/NQ** — prospective apparatus only.
+
+# E92 — qualified one-call refactored-host live slice
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@eddb5d6f8095a931701642542d94face46b7057b`
+
+One completed call confirmed actual usage of 18,786 prompt tokens, delivered
+pending RESULT-007, admitted Qwen's coherent remaining TRANSIT/COMMS read,
+acquired RESULT-008 as pending, checkpointed, sealed, and released the runtime.
+No mutation, check, repair, reopen, readiness, or task utility was exercised.
+
+Disposition: **LR/AF/NQ** — live apparatus vertical slice with one literal
+acquisition-continuity observation; not an agent-capability result.
+
+# E93 — refactored-host Trellis whole-system Stage 0
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@381e44c3a48305a4dd04651b34860a0956309c09`
+
+V0 and V1 provider-free fixtures traverse authentic repeated pressure,
+incremental candidate work, checkpoint/hydration, current failing check,
+uniquely bound repair, effect uptake, passing current recheck, and submission
+proposal. V1's semantic maintenance remains outside the host core, is charged
+and fallible, and is demoted at verification. The full 290-test regression,
+Ruff, and mypy pass.
+
+Disposition: **AF/NQ** — the first live twelve-call checkpoint tranche is
+frozen but unauthorized. Scripted fixtures do not establish Qwen utility, and
+the live causal unit is the complete configuration rather than the scaffold
+alone.

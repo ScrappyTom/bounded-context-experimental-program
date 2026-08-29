@@ -17,7 +17,7 @@ class SystemInteractionDirectionTests(unittest.TestCase):
 
     def test_unit_is_whole_configuration_not_component(self):
         self.assertEqual(
-            "e92_host_live_smoke_v2_qualified_checkpoint_pause",
+            "e93_whole_system_stage0_qualified_live_unauthorized",
             self.contract["status"],
         )
         self.assertEqual(
@@ -34,6 +34,17 @@ class SystemInteractionDirectionTests(unittest.TestCase):
             "component_ablation_waits_for_joint_configuration_signal",
             self.contract["non_isolation_rules"],
         )
+
+        selected = self.contract["selected_whole_system_interaction"]
+        self.assertEqual("E93", selected["stage"])
+        self.assertEqual(
+            "whole_evolving_configuration", selected["causal_unit"]
+        )
+        self.assertEqual(24, selected["maximum_actor_calls_total"])
+        self.assertEqual(12, selected["maximum_maintenance_calls_total"])
+        self.assertEqual(36, selected["maximum_provider_calls_total"])
+        self.assertFalse(selected["live_authorized"])
+        self.assertFalse(selected["automatic_continuation"])
 
     def test_closed_scout_measured_interaction_and_successor_are_explicit(self):
         closed = self.contract["closed_first_interaction"]
