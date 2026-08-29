@@ -10,20 +10,21 @@ and exact tokenizer behavior qualified provider-free at
 frozen and provider-free qualified at
 `fbc1db052051b23cfb8667780eab0a9939dee11a`; v0 environmental stop and v1 exact
 tokenizer-projection stop sealed; corrected v2 frozen at
-`3afd9e269abb437512ea961772b43f4a12ea0f30`
+`3afd9e269abb437512ea961772b43f4a12ea0f30` and live-qualified at
+`eddb5d6f8095a931701642542d94face46b7057b`
 
 Results: see `E84_HOST_RUNTIME_REFACTOR_RESULT.md`,
 `E85_HOST_LIVE_HARDENING_RESULT.md`, and
 `E86_HOST_LOCKED_ASSET_RESTORATION_RESULT.md`, and
 `E87_HOST_LIVE_SMOKE_STAGE0.md`, `E88_HOST_LIVE_SMOKE_V0_RESULT.md`,
-`E89_HOST_LIVE_SMOKE_V1_STAGE0.md`, `E90_HOST_LIVE_SMOKE_V1_RESULT.md`, and
-`E91_HOST_LIVE_SMOKE_V2_STAGE0.md`. The hardened path passes 11
+`E89_HOST_LIVE_SMOKE_V1_STAGE0.md`, `E90_HOST_LIVE_SMOKE_V1_RESULT.md`,
+`E91_HOST_LIVE_SMOKE_V2_STAGE0.md`, and
+`E92_HOST_LIVE_SMOKE_V2_RESULT.md`. The hardened path passes 11
 adversarial tests, 18 combined host tests, lint, isolated type checking, exact
 E83 replay, and a complete 282-test regression against the hash-verified full
-model named by the frozen lock. Live tokenizer and server diagnostics used the
-GPU but no completion/provider call occurred. Historical runners remain frozen.
-The only selected GPU operation is the separately authorization-gated one-call
-E91 v2 host smoke; it is not a behavioral experiment.
+model named by the frozen lock. The E92 smoke used exactly one completion call,
+qualified, and stopped at its checkpoint. Historical runners remain frozen.
+No continuation or behavioral experiment is selected or authorized.
 
 ## Why the program is pausing
 

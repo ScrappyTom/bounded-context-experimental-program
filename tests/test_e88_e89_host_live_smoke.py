@@ -55,3 +55,22 @@ def test_v2_freezes_distinct_exact_offline_and_live_projections() -> None:
     assert stage["maximum_serialized_tokens"] == 30_000
     assert stage["attempts_per_call"] == 1
     assert stage["retries"] == 0
+    assert stage["status"] == "completed_by_e92_qualified_checkpoint_pause"
+
+
+def test_v2_result_records_qualified_single_call_live_path() -> None:
+    result = json.loads(
+        (ROOT / "E92_HOST_LIVE_SMOKE_V2_RESULT.json").read_text(encoding="utf-8")
+    )
+    assert result["apparatus_freeze_commit"] == "3afd9e269abb437512ea961772b43f4a12ea0f30"
+    assert result["apparatus_result_commit"] == "eddb5d6f8095a931701642542d94face46b7057b"
+    assert result["qualified"] is True
+    assert result["model_calls"] == 1
+    assert result["provider_attempts"] == 1
+    assert result["retries"] == 0
+    assert result["live_prompt_tokens"] == 18_786
+    assert result["completion_tokens"] == 74
+    assert result["pending_result_first_delivered_call"] == 8
+    assert result["next_pending_result_id"] == "RESULT-008"
+    assert result["candidate_changed"] is False
+    assert result["runtime_released"] is True

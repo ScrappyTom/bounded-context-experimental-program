@@ -22,5 +22,5 @@
   "run_id": "2026-08-28-host-refactor-live-smoke-v2",
   "schema": "e91-host-live-smoke-v2-stage0-v0",
   "scope": "host_refactor_live_smoke_v2",
-  "status": "frozen_provider_free_qualified_pending_external_gpu_authorization"
+  "status": "completed_by_e92_qualified_checkpoint_pause"
 }

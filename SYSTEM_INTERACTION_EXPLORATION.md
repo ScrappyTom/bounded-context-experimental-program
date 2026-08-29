@@ -2,7 +2,7 @@
 
 Date: 2026-08-28
 
-Status: governing direction through E91; E84 qualifies the event-driven host
+Status: governing direction through E92; E84 qualifies the event-driven host
 core offline and E85 hardens its live request/exposure, rejection, reopen,
 resource, checkpoint-chain, and review seams provider-free. E86 restores the
 immutable full model already named by the frozen lock and exactly qualifies
@@ -14,7 +14,9 @@ before provider I/O because another authorized GPU job was active. E90 records
 that v1 passed every live runtime gate but stopped before completion I/O on a
 stable one-token offline/live tokenizer-projection difference. E91 freezes the
 two exact projections separately under v2. Neither stopped run consumed a model
-call. E69 produced the first positive
+call. E92 completes the one-call live qualification: exact pressure relief,
+pending delivery, valid actor action, new pending result, checkpoint, seal, and
+runtime release all passed. E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, while E70 showed that the causal unit also includes
 artifact persistence, construction timing/granularity, and action transport.
@@ -71,9 +73,8 @@ reproduces the exact E83 packet geometry, and passes all 280 tests without a
 substitute. See `E85_HOST_LIVE_HARDENING_RESULT.md` and
 `E86_HOST_LOCKED_ASSET_RESTORATION_RESULT.md`.
 
-No new system interaction is yet selected. The host is ready for the separately
-authorization-gated one-call v2 apparatus smoke before any later live study. Any later
-design must use the new
+No new system interaction is yet selected. The v2 one-call apparatus smoke is
+complete and closed. Any later design must use the new
 path, preserve common relief regardless of semantic activation, count delivery
 only after completed model exposure, allow authentic model pacing within a
 provisional sixty-call ceiling, and keep qualitative progress/loop judgment at

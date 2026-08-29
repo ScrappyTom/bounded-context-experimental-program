@@ -1,0 +1,23 @@
+{
+  "accepted_action": "read_batch_TRANSIT_61_94_COMMS_61_94",
+  "apparatus_freeze_commit": "3afd9e269abb437512ea961772b43f4a12ea0f30",
+  "apparatus_result_commit": "eddb5d6f8095a931701642542d94face46b7057b",
+  "candidate_changed": false,
+  "completion_tokens": 74,
+  "disposition": "checkpoint_pause",
+  "failed_invocations": 0,
+  "live_prompt_tokens": 18786,
+  "model_calls": 1,
+  "next_pending_result_id": "RESULT-008",
+  "pending_result_first_delivered_call": 8,
+  "provider_attempts": 1,
+  "qualified": true,
+  "relief_result_ids": ["RESULT-001"],
+  "retries": 0,
+  "run_id": "2026-08-28-host-refactor-live-smoke-v2",
+  "run_seal_sha256": "2eb130f3ed5d1cea7c399bbf018c7b15e618624b20f31e8eec421ac9cda021d3",
+  "runtime_released": true,
+  "schema": "e92-host-live-smoke-v2-result-v0",
+  "serialized_tokens": 18860,
+  "status": "qualified_checkpoint_pause"
+}

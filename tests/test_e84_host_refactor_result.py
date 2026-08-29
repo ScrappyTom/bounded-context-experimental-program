@@ -28,17 +28,14 @@ def test_governing_contract_records_refactor_and_keeps_interaction_unit() -> Non
     )
     refactor = contract["active_host_runtime_refactor"]
     assert contract["unit_of_analysis"] == "whole_configuration_trajectory"
-    assert refactor["status"] == "exact_provider_free_qualified"
+    assert refactor["status"] == "one_call_live_qualified_checkpoint_pause"
     assert refactor["verification"]["e84_full_tests_passed"] == 266
     assert refactor["verification"]["e85_full_compatible_regression_passed"] == 277
     assert refactor["exact_provider_free_qualification"] is True
-    assert refactor["live_gpu_provider_qualification"] is False
-    assert refactor["gpu_operation_selected"] is True
+    assert refactor["live_gpu_provider_qualification"] is True
+    assert refactor["gpu_operation_selected"] is False
     assert refactor["gpu_operation_authorized"] is False
-    assert (
-        refactor["next_operation"]
-        == "separately_authorized_one_call_integrated_host_live_smoke"
-    )
+    assert refactor["next_operation"] == "none_selected_after_qualified_checkpoint"
 
 
 def test_narrative_preserves_claim_limits_and_host_model_investigator_split() -> None:

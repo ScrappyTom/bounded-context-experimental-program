@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-28
-Status: current program synthesis through E91; E84 closes the E83 host
+Status: current program synthesis through E92; E84 closes the E83 host
 modularity blocker offline and E85 hardens the final request, rejection,
 reopen, resource, checkpoint-chain, and review seams provider-free. E86
 restores the immutable full model already named by the frozen lock, removes the
@@ -10,9 +10,10 @@ path, direct E83 replay, and 280-test regression provider-free. E87 freezes and
 provider-free qualifies the smallest integrated live test: one pressure-
 relieved invocation delivering pending `RESULT-007`, followed by checkpoint,
 review, release, and seal. E88 and E90 each stop safely before provider I/O;
-E91 freezes the corrected v2 exact offline/live tokenizer projections. All 282
-tests pass. The live call remains separately authorization-gated. These are
-apparatus facts, not behavioral evidence. E69 produced the first positive
+E91 freezes the corrected v2 exact offline/live tokenizer projections. E92
+records the qualified one-call live path and mandatory checkpoint. The pre-run
+282-test suite and post-result 283-test suite pass. These are apparatus facts,
+not behavioral evidence. E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
 among semantic residue, exact artifacts, construction timing/granularity, and
@@ -115,13 +116,17 @@ The gate stopped before completion I/O; two fresh-server diagnostics reproduced
 the split over identical 49,518 prompt bytes. Provider attempts and model calls
 remained zero. E91 freezes v2 at apparatus commit
 `3afd9e269abb437512ea961772b43f4a12ea0f30`, with separate exact 18,785 offline
-and 18,786 live relieved counts. V2 remains separately authorization-gated.
+and 18,786 live relieved counts. E92 records the authorized result at apparatus
+commit `eddb5d6f8095a931701642542d94face46b7057b`: call 8 delivered
+`RESULT-007`, Qwen requested TRANSIT/COMMS 61–94, the host admitted the action
+and acquired `RESULT-008` as pending, and checkpoint, seal, and runtime release
+verified. One model call and 18,860 serialized tokens were used.
 
 Historical global-mutating runners remain frozen and may not be reused for new
-live work. The refactored host is exactly qualified provider-free. E91 selects
-only a one-call integrated host smoke; it made no GPU/provider call, establishes
-no behavioral utility, and cannot continue automatically. The live smoke and
-any later whole-configuration study each require separate authorization.
+live work. The refactored host is now qualified through one exact live call.
+E92 establishes no behavioral utility and cannot continue automatically. Any
+continuation or later whole-configuration study requires separate design and
+authorization.
 
 The unresolved program capability remains bounded evidence-to-work integration, not more
 exact-residency tuning or standalone semantic-carrier qualification. The
