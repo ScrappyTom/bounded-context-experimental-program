@@ -3,7 +3,7 @@
 Date: 2026-08-29
 
 Apparatus commit:
-`381e44c3a48305a4dd04651b34860a0956309c09`
+`381e44c9eb3c3c10a793903155c2482f5f8c570f`
 
 Run ID:
 `2026-08-29-trellis-refactored-interaction-tranche-v0`

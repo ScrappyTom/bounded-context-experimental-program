@@ -1,6 +1,6 @@
 {
   "schema": "e93-trellis-refactored-interaction-stage0-v0",
-  "apparatus_commit": "381e44c3a48305a4dd04651b34860a0956309c09",
+  "apparatus_commit": "381e44c9eb3c3c10a793903155c2482f5f8c570f",
   "run_id": "2026-08-29-trellis-refactored-interaction-tranche-v0",
   "status": "provider_free_qualified_live_unauthorized",
   "model_calls": 0,

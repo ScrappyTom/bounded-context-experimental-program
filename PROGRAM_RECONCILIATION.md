@@ -134,7 +134,7 @@ Historical global-mutating runners remain frozen and may not be reused for new
 live work. The refactored host is now qualified through one exact live call.
 E92 establishes no behavioral utility and cannot continue automatically. E93
 separately designs and freezes a fresh whole-configuration study at apparatus
-commit `381e44c3a48305a4dd04651b34860a0956309c09`. Its provider-free fixtures
+commit `381e44c9eb3c3c10a793903155c2482f5f8c570f`. Its provider-free fixtures
 exercise the complete lifecycle and its first live twelve-call checkpoint per
 configuration remains unauthorized.
 

@@ -5,7 +5,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-COMMIT = "381e44c3a48305a4dd04651b34860a0956309c09"
+COMMIT = "381e44c9eb3c3c10a793903155c2482f5f8c570f"
 
 
 def test_e93_stage0_is_provider_free_and_live_unauthorized() -> None:

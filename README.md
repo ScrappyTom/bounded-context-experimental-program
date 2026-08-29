@@ -54,7 +54,7 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 E93 freezes the first complete whole-system consumer of the refactored host at
 apparatus commit
-[`381e44c`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/381e44c3a48305a4dd04651b34860a0956309c09).
+[`381e44c`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/381e44c9eb3c3c10a793903155c2482f5f8c570f).
 Both fresh Trellis configurations passed a scripted provider-free lifecycle
 through authentic pressure, exact candidate mutations, checkpoint/resume, a
 candidate-bound failing check, uniquely bound repair, effect uptake, current

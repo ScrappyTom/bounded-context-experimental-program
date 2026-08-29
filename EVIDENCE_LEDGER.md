@@ -1667,7 +1667,7 @@ acquisition-continuity observation; not an agent-capability result.
 # E93 — refactored-host Trellis whole-system Stage 0
 
 Source:
-`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@381e44c3a48305a4dd04651b34860a0956309c09`
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@381e44c9eb3c3c10a793903155c2482f5f8c570f`
 
 V0 and V1 provider-free fixtures traverse authentic repeated pressure,
 incremental candidate work, checkpoint/hydration, current failing check,
