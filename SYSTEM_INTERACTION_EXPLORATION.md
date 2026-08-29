@@ -2,7 +2,7 @@
 
 Date: 2026-08-29
 
-Status: governing direction through E93; E84 qualifies the event-driven host
+Status: governing direction through E95; E84 qualifies the event-driven host
 core offline and E85 hardens its live request/exposure, rejection, reopen,
 resource, checkpoint-chain, and review seams provider-free. E86 restores the
 immutable full model already named by the frozen lock and exactly qualifies
@@ -54,7 +54,12 @@ reopen, incremental artifact work, candidate/effect/check binding, bounded
 repair, checkpoint/resume, recheck, and submission proposal. V1 alone adds a
 charged, fallible provenance scaffold during construction and mechanically
 demotes it for verification. Provider-free qualification reaches the complete
-lifecycle; live utility remains unmeasured.
+lifecycle. E94 executes the first live checkpoint: both actors perform the same
+twelve catalog reads and make no artifact change, while V1 pays for a grounded
+but partly lossy semantic register. `RESULT-012` remains pending in both arms,
+so no complete-catalog construction decision has occurred. E95 freezes an
+unchanged checkpoint continuation; it does not repair the treatment discovered
+at E94.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 
@@ -80,15 +85,14 @@ reproduces the exact E83 packet geometry, and passes all 280 tests without a
 substitute. See `E85_HOST_LIVE_HARDENING_RESULT.md` and
 `E86_HOST_LOCKED_ASSET_RESTORATION_RESULT.md`.
 
-The v2 one-call apparatus smoke is complete and closed. E93 selects the first
-whole-system use of the refactored path rather than another seam test. It uses
-fresh Trellis trajectories and two viable configurations, preserves common
-relief regardless of semantic activation, and counts delivery only after a
-completed model exposure. Each configuration must pause after twelve actor
-calls for literal transcript review. The host records recurrence and exact
-effects but does not decide that the actor is looping or ready. Continuation
-requires separate authorization, and any policy change starts a new
-experiment.
+The v2 one-call apparatus smoke is complete and closed. E93 selected the first
+whole-system use of the refactored path rather than another seam test. E94's
+literal checkpoint review shows coherent but identical catalog traversal and a
+safe, costly, partly lossy treatment register. E95 keeps the systems unchanged
+and resumes the exact parent checkpoints. This is required for causal
+continuity: fixing source-slot replacement before observing construction would
+turn the second tranche into a different treatment. Continuation requires
+separate authorization, and any policy change starts a new experiment.
 
 ## Decision
 

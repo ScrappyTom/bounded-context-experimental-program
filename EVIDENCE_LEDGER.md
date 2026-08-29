@@ -1,6 +1,6 @@
 # Evidence ledger
 
-Date: 2026-08-27
+Date: 2026-08-29
 
 This ledger separates mechanical facts, local results, candidate hypotheses,
 and untested mechanisms. Links identify immutable result commits; the linked
@@ -1680,3 +1680,39 @@ Disposition: **AF/NQ** — the first live twelve-call checkpoint tranche is
 frozen but unauthorized. Scripted fixtures do not establish Qwen utility, and
 the live causal unit is the complete configuration rather than the scaffold
 alone.
+
+# E94 — first live whole-system checkpoint
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@0626259773f1411272566caa1b4a00c83e70e606`
+
+Both configurations made the same twelve bounded catalog reads, delivered
+eleven results, and acquired RESULT-012 as pending. Neither changed the exact
+candidate, reopened evidence, checked, repaired, or submitted. The host
+qualified repeated pressure relief and exact checkpoint custody live.
+
+V1 paid for six grounded maintenance calls and admitted twenty claims over
+time, with ten left in the final register. Same-source replacement sometimes
+discarded important early authority, threshold, capacity, and reserve facts in
+favor of low-value later-chunk rows. V1 used 30,826 more serialized tokens,
+lost cache reuse, and externalized two more exact results without an observed
+behavioral difference during catalog traversal.
+
+Disposition: **LR/AF/NQ** — scaffold expression and safe admission are local
+positives; acquisition-phase economics and same-source replacement are local
+negatives. Construction utility is untested because the final catalog result
+has not crossed an actor invocation.
+
+# E95 — unchanged exact-checkpoint continuation Stage 0
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@18e17806e906d57943ab9b7461def708084d69b1`
+
+The exact E94 checkpoints hydrate provider-free and can traverse the common
+mutation, failed-check, bound-repair, passing-recheck, and closure path. The
+selected continuation changes no policy and cannot repair E94's semantic loss.
+It exists to deliver pending RESULT-012 and observe the first post-catalog
+decisions through one further review checkpoint.
+
+Disposition: **AF/NQ** — live continuation is frozen but unauthorized. No
+third tranche is automatic.

@@ -52,23 +52,24 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
-E93 freezes the first complete whole-system consumer of the refactored host at
-apparatus commit
-[`381e44c`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/381e44c9eb3c3c10a793903155c2482f5f8c570f).
-Both fresh Trellis configurations passed a scripted provider-free lifecycle
-through authentic pressure, exact candidate mutations, checkpoint/resume, a
-candidate-bound failing check, uniquely bound repair, effect uptake, current
-passing recheck, and submission proposal. V0 uses exact evidence plus exact
-incremental artifacts. V1 adds charged, fallible anchored maintenance during
-construction and demotes the temporary scaffold at verification. The complete
-290-test regression, Ruff, and mypy pass.
+E94 records the first live whole-system checkpoint at apparatus result commit
+[`0626259`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/0626259773f1411272566caa1b4a00c83e70e606).
+Both actors made the same twelve catalog-traversal reads and left the final
+`RESULT-012` pending. Neither changed the candidate. V1's six grounded
+maintenance calls were safe but cost 31,578 serialized tokens, reduced cache
+reuse, externalized two additional exact results, and sometimes replaced
+important early source facts with low-value later-chunk rows. The scaffold was
+active but had no observed behavioral effect before catalog completion; its
+construction utility remains untested. See
+[E94](E94_TRELLIS_REFACTORED_INTERACTION_TRANCHE_RESULT.md).
 
-This does not establish Qwen utility. It qualifies the interaction apparatus
-and freezes one first live checkpoint tranche: at most twelve actor calls per
-configuration, with V0 then V1, fresh servers, literal transcript review, and
-no automatic continuation. The causal unit is the whole configuration, not an
-isolated scaffold. GPU execution remains unauthorized. See
-[E93](E93_TRELLIS_REFACTORED_INTERACTION_STAGE0.md).
+E95 therefore freezes an unchanged exact-checkpoint continuation rather than a
+scaffold repair. It delivers the pending final source pair and observes each
+whole configuration's first post-acquisition decisions through a second
+twelve-call checkpoint or earlier terminal state. Provider-free resume and the
+common mutation/check/repair/recheck/closure path pass. The continuation is not
+GPU-authorized; its apparatus commit must be quoted in a separate authorization.
+See [E95](E95_TRELLIS_REFACTORED_INTERACTION_CONTINUATION_STAGE0.md).
 
 The host-runtime refactor has now passed its smallest integrated live smoke at
 apparatus freeze commit

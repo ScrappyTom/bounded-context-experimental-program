@@ -45,3 +45,5 @@ def test_e93_keeps_host_and_semantic_layer_ownership_separate() -> None:
         in selected["treatment_only_functions"]
     )
     assert selected["live_authorized"] is False
+    assert selected["first_checkpoint_result"]["stage"] == "E94"
+    assert selected["selected_continuation"]["policy_change"] is False

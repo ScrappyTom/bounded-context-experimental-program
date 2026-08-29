@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-29",
-  "status": "e93_whole_system_stage0_qualified_live_unauthorized",
+  "status": "e95_checkpoint_continuation_stage0_qualified_live_unauthorized",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "prospectively_frozen_condition_specific_live_event",
@@ -92,7 +92,7 @@
     "automatic_continuation": false
   },
   "selected_whole_system_interaction": {
-    "stage": "E93",
+    "stage": "E95",
     "apparatus_commit": "381e44c9eb3c3c10a793903155c2482f5f8c570f",
     "run_id": "2026-08-29-trellis-refactored-interaction-tranche-v0",
     "fresh_trajectory": true,
@@ -123,10 +123,35 @@
     "maximum_serialized_tokens_total": 900000,
     "attempts_per_call": 1,
     "retries": 0,
-    "provider_free_regression_tests_passed": 290,
+    "provider_free_regression_tests_passed": 295,
     "live_authorized": false,
     "causal_unit": "whole_evolving_configuration",
-    "automatic_continuation": false
+    "automatic_continuation": false,
+    "first_checkpoint_result": {
+      "stage": "E94",
+      "result_commit": "0626259773f1411272566caa1b4a00c83e70e606",
+      "actor_calls": 24,
+      "maintenance_calls": 6,
+      "provider_calls": 30,
+      "serialized_tokens": 379972,
+      "identical_catalog_traversal_actions_per_cell": 12,
+      "pending_result_id": "RESULT-012",
+      "candidate_mutations": 0,
+      "scaffold_grounded": true,
+      "same_source_replacement_semantically_lossy": true,
+      "downstream_utility_measured": false
+    },
+    "selected_continuation": {
+      "apparatus_commit": "18e17806e906d57943ab9b7461def708084d69b1",
+      "run_id": "2026-08-29-trellis-refactored-interaction-continuation-v0",
+      "policy_change": false,
+      "maximum_additional_actor_calls": 24,
+      "maximum_additional_maintenance_calls": 6,
+      "maximum_additional_provider_calls": 30,
+      "maximum_additional_serialized_tokens": 520028,
+      "live_authorized": false,
+      "automatic_third_tranche": false
+    }
   },
   "closed_first_interaction": {
     "axis_a": "source_bound_semantic_residue_after_exact_body_demotion",

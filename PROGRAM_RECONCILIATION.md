@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-29
-Status: current program synthesis through E93; E84 closes the E83 host
+Status: current program synthesis through E95; E84 closes the E83 host
 modularity blocker offline and E85 hardens the final request, rejection,
 reopen, resource, checkpoint-chain, and review seams provider-free. E86
 restores the immutable full model already named by the frozen lock, removes the
@@ -18,7 +18,13 @@ whole-system Trellis comparison: both configurations retain common exact
 pressure, incremental artifact, effect, check, repair, and checkpoint
 lifecycles; V1 alone adds charged temporary provenance scaffolding during
 construction and demotes it for verification. The full 290-test regression and
-both provider-free lifecycle fixtures pass. Live utility remains unmeasured.
+both provider-free lifecycle fixtures pass. E94 then executes the first live
+checkpoint. Both arms make the same twelve catalog reads, leave `RESULT-012`
+pending, and retain the initial candidate. V1's six maintenance calls are
+grounded and admitted, but add cost, reduce cache reuse, externalize more exact
+evidence, and reveal semantically lossy same-source chunk replacement. E95
+freezes an unchanged exact-checkpoint continuation so the comparison can reach
+its first complete-catalog decision; live continuation remains unauthorized.
 E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction

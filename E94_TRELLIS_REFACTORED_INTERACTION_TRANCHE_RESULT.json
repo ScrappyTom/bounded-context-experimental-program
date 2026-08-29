@@ -1,0 +1,52 @@
+{
+  "schema": "e94-trellis-refactored-interaction-tranche-result-v0",
+  "date": "2026-08-29",
+  "status": "qualified_checkpoint_no_useful_completion",
+  "freeze_commit": "381e44c9eb3c3c10a793903155c2482f5f8c570f",
+  "result_commit": "0626259773f1411272566caa1b4a00c83e70e606",
+  "run_id": "2026-08-29-trellis-refactored-interaction-tranche-v0",
+  "actual": {
+    "actor_calls": 24,
+    "maintenance_calls": 6,
+    "provider_calls": 30,
+    "serialized_tokens": 379972,
+    "retries": 0
+  },
+  "common_behavior": {
+    "identical_actor_actions": 12,
+    "delivered_results": 11,
+    "pending_result_id": "RESULT-012",
+    "candidate_mutations": 0,
+    "reopens": 0,
+    "action_rejections": 0,
+    "checks": 0,
+    "submissions": 0
+  },
+  "cells": {
+    "V0_EXACT_ARTIFACT": {
+      "serialized_tokens": 174573,
+      "maintenance_calls": 0,
+      "externalized_results": 5,
+      "relief_events": 4,
+      "evaluation_passed": false
+    },
+    "V1_TEMPORARY_PROVENANCE_SCAFFOLD": {
+      "serialized_tokens": 205399,
+      "maintenance_calls": 6,
+      "maintenance_serialized_tokens": 31578,
+      "claims_admitted_over_time": 20,
+      "final_register_claims": 10,
+      "externalized_results": 7,
+      "relief_events": 6,
+      "evaluation_passed": false
+    }
+  },
+  "disposition": {
+    "mechanical_host": "qualified_for_repeated_live_pressure_and_checkpoint",
+    "scaffold_safety": "local_positive",
+    "scaffold_behavioral_effect": "none_observed_during_catalog_traversal",
+    "scaffold_economics": "local_negative_before_post_catalog_decision",
+    "same_source_replacement": "semantically_lossy_local_negative",
+    "downstream_utility": "untested"
+  }
+}

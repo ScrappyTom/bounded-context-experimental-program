@@ -2215,3 +2215,44 @@ with literal qualitative review before any continuation. The causal unit is
 the whole evolving configuration: semantic recency, artifact growth, action
 granularity, exact turnover, effects, and later demand can all interact. No GPU
 call is authorized by Stage 0.
+
+# 79. E94 reaches a valid acquisition checkpoint but not construction
+
+The authorized E94 tranche ran both fresh configurations for twelve actor
+calls. Their actions were identical: each read both halves of the same six
+source pairs in catalog order. Eleven exact results crossed completed actor
+invocations; the twelfth was acquired by call 12 and remained pending. Neither
+actor mutated its evidence ledger or decision, reopened evidence, checked,
+repaired, or submitted.
+
+This is not evidence that the semantic scaffold was inert. V1 ran six
+maintenance calls after exact source externalizations, admitted twenty grounded
+claims over time, and exposed a ten-claim final register. It is evidence that
+the scaffold did not displace a strongly cued catalog-completion policy during
+the measured acquisition horizon.
+
+The literal transcripts also expose a lifecycle defect in the frozen semantic
+system. Each new chunk replaced earlier claims for the same source. That
+sometimes converted high-value governing facts into low-value tail-table rows.
+The scaffold was therefore materially safe but not cumulatively faithful under
+its chunk-coupled replacement cadence.
+
+The treatment cost 205,399 serialized tokens versus V0's 174,573, reduced
+prefix-cache reuse, and forced two additional exact result externalizations.
+Those costs produced no artifact benefit yet. Because neither actor received a
+complete-catalog decision, construction utility remains genuinely unmeasured.
+
+# 80. E95 preserves the systems to observe the post-catalog transition
+
+The checkpoint review does not justify repairing V1 mid-comparison. Doing so
+would confound later construction behavior with a new replacement policy. E95
+therefore resumes the exact sealed checkpoints unchanged. The next completed
+invocation delivers RESULT-012 and is the first actor decision with the full
+catalog history available through exact resident bodies, receipts, and—only in
+V1—the frozen semantic register.
+
+Provider-free qualification verifies exact checkpoint hydration and the shared
+candidate/check/repair/recheck/closure lifecycle from action 13 onward. The
+live continuation remains separately authorized, bounded to one additional
+twelve-call tranche per arm, and must stop for another literal review or an
+earlier terminal/resource disposition.

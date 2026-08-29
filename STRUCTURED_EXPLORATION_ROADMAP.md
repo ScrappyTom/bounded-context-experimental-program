@@ -2,7 +2,7 @@
 
 Date: 2026-08-29
 
-Status: updated through E93; Solace produced a positive acquisition-to-
+Status: updated through E95; Solace produced a positive acquisition-to-
 construction interaction and a negative fixed-scaffold verification result.
 Orchard transfers the phase-conditional system: bounded current verification
 enables repair effect uptake and recheck where fixed append-only state stops,
@@ -20,9 +20,12 @@ complete source coverage still produced no task work, so the lifecycle event
 never occurred and Keystone closed without a branch. E82/E83 then exposed a
 host delivery-accounting defect at an otherwise authentic Trellis pressure
 boundary. E84-E92 refactored and live-qualified the shared event, capacity,
-delivery, action, pending-result, checkpoint, and seal path. E93 now freezes a
-fresh whole-system Trellis comparison over that host rather than another seam
-test.
+delivery, action, pending-result, checkpoint, and seal path. E93 froze a fresh
+whole-system Trellis comparison over that host. E94's first checkpoint shows
+identical catalog traversal and no construction in either arm; V1's grounded
+scaffold adds cost and exhibits lossy same-source replacement. E95 preserves
+the exact configurations for one post-catalog continuation rather than tuning
+the scaffold before its construction utility is observed.
 
 ## Research-phase reset
 
@@ -51,29 +54,21 @@ The program will be exact about what happened and provisional about why it
 happened, what conceptual role a representation played, and which mechanism
 should follow.
 
-## Current route after the host refactor
+## Current route after the first interaction checkpoint
 
-E93 is the first selected whole-system consumer of the refactored host. It is
-not a continuation of E83 and does not isolate a single component. The two
-fresh Trellis configurations jointly exercise evidence ingress, authentic
-pressure, exact result turnover and reopen, exact incremental task work,
-candidate/effect/check currentness, bounded repair, checkpoint/resume, recheck,
-and submission proposal. V1 additionally pays for fallible anchored semantic
-maintenance during construction and demotes that scaffold at verification.
+E94 establishes that the refactored host can carry both whole systems through
+repeated authentic pressure to a clean review boundary. Before the catalog is
+complete, however, the two actors make the same reads and neither constructs.
+The treatment register is grounded but expensive, costs cache and exact
+residency, and loses some important earlier facts through same-source
+replacement.
 
-The first live unit is deliberately a checkpointed interaction tranche:
-twelve actor calls per configuration, V0 then V1, with a fresh runtime for each
-configuration. The host records exact recurrence, visibility, mutations,
-effects, and checks. It does not semantically decide that work is looping,
-ready, or incomplete. At the checkpoint, transcript review asks how the entire
-configuration changed demand, artifact accumulation, effect uptake, and the
-location of the bottleneck. Any continuation needs new authorization; any
-policy change creates a new experiment.
-
-Provider-free qualification establishes only that both configurations can
-mechanically traverse the full lifecycle. It supplies no Qwen utility result.
-The next high-ROI evidence is therefore the frozen live interaction tranche,
-not another tokenizer, packet, carrier, or host-seam test.
+The high-ROI question is now the transition after pending RESULT-012 becomes
+visible. E95 resumes the exact checkpoints with no treatment repair. This
+preserves the only valid comparison of whether the complete frozen
+configuration changes construction timing, granularity, reopen demand, or
+artifact accumulation. The second checkpoint again requires qualitative
+review; any policy change or further continuation requires a new experiment.
 
 ## Current terrain update through E72
 
