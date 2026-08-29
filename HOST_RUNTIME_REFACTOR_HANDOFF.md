@@ -6,15 +6,19 @@ Status: offline core accepted at `67ee6dee1748d03065ccb3d69ac92eb197dec531`;
 bounded live seams hardened provider-free at
 `cc78d3b4c7162c6d3615696defd68e9790ee04ea`; immutable locked model restored
 and exact tokenizer behavior qualified provider-free at
-`a7c7686977661dcd7adebc1da78a78aa2b423ff5`
+`a7c7686977661dcd7adebc1da78a78aa2b423ff5`; one-call integrated live smoke
+frozen and provider-free qualified at
+`fbc1db052051b23cfb8667780eab0a9939dee11a`
 
 Results: see `E84_HOST_RUNTIME_REFACTOR_RESULT.md`,
 `E85_HOST_LIVE_HARDENING_RESULT.md`, and
-`E86_HOST_LOCKED_ASSET_RESTORATION_RESULT.md`. The hardened path passes 11
+`E86_HOST_LOCKED_ASSET_RESTORATION_RESULT.md`, and
+`E87_HOST_LIVE_SMOKE_STAGE0.md`. The hardened path passes 11
 adversarial tests, 18 combined host tests, lint, isolated type checking, exact
-E83 replay, and a complete 280-test regression against the hash-verified full
+E83 replay, and a complete 282-test regression against the hash-verified full
 model named by the frozen lock. No GPU/provider call occurred. Historical
-runners remain frozen and no next GPU operation is selected.
+runners remain frozen. The only selected GPU operation is the separately
+authorized one-call E87 host smoke; it is not a behavioral experiment.
 
 ## Why the program is pausing
 

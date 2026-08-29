@@ -1,13 +1,16 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-28
-Status: current program synthesis through E86; E84 closes the E83 host
+Status: current program synthesis through E87; E84 closes the E83 host
 modularity blocker offline and E85 hardens the final request, rejection,
 reopen, resource, checkpoint-chain, and review seams provider-free. E86
 restores the immutable full model already named by the frozen lock, removes the
 transient sparse-projection dependency, and exactly qualifies the tokenizer
-path, direct E83 replay, and 280-test regression provider-free. These are
-apparatus facts, not behavioral evidence. E69 produced the first positive
+path, direct E83 replay, and 280-test regression provider-free. E87 freezes and
+provider-free qualifies the smallest integrated live test: one pressure-
+relieved invocation delivering pending `RESULT-007`, followed by checkpoint,
+review, release, and seal. All 282 tests pass. The live call remains separately
+authorization-gated. These are apparatus facts, not behavioral evidence. E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
 among semantic residue, exact artifacts, construction timing/granularity, and
@@ -86,11 +89,22 @@ hash-verified full model. Direct E83 replay reproduces 21,401 ordinary tokens,
 `RESULT-001` relief, and an 18,785-token feasible packet; all 280 tests pass
 without an injected substitute.
 
+E87 now freezes the first integrated live qualification at apparatus commit
+`fbc1db052051b23cfb8667780eab0a9939dee11a`. It resumes the exact E83 state,
+verifies the 21,401-token ordinary packet and deterministic `RESULT-001`
+substitution to 18,785 tokens, then permits one completed call 8 carrying
+pending `RESULT-007`. The launcher also binds the exact model/runtime assets,
+historical parent checkpoint, request exposure, raw provider custody, action
+disposition, new checkpoint/review, process release, and seal. It is limited to
+one attempt, zero retries, 30,000 serialized tokens, and no continuation. Two
+focused smoke tests, 44 host tests, lint, type checking, direct replay, and all
+282 repository tests pass provider-free.
+
 Historical global-mutating runners remain frozen and may not be reused for new
-live work. The refactored host is exactly qualified provider-free. E86 made no
-GPU/provider call, establishes no behavioral utility, and does not itself
-select a new experiment. Any live whole-configuration study still requires a
-fresh frozen design and separate authorization.
+live work. The refactored host is exactly qualified provider-free. E87 selects
+only a one-call integrated host smoke; it made no GPU/provider call, establishes
+no behavioral utility, and cannot continue automatically. The live smoke and
+any later whole-configuration study each require separate authorization.
 
 The unresolved program capability remains bounded evidence-to-work integration, not more
 exact-residency tuning or standalone semantic-carrier qualification. The

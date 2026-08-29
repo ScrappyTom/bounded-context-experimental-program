@@ -17,7 +17,7 @@ class SystemInteractionDirectionTests(unittest.TestCase):
 
     def test_unit_is_whole_configuration_not_component(self):
         self.assertEqual(
-            "e86_host_exact_provider_free_qualified_no_live_study_selected",
+            "e87_host_live_smoke_frozen_pending_external_authorization",
             self.contract["status"],
         )
         self.assertEqual(

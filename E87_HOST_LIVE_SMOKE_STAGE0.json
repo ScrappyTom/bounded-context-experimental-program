@@ -1,0 +1,29 @@
+{
+  "apparatus_commit": "fbc1db052051b23cfb8667780eab0a9939dee11a",
+  "attempts_per_call": 1,
+  "claim_limit": "integrated_live_host_path_only_not_behavioral_or_utility_evidence",
+  "maximum_model_calls": 1,
+  "maximum_serialized_tokens": 30000,
+  "offline_verification": {
+    "direct_e83_replay_passed": true,
+    "full_tests_passed": 282,
+    "host_tests_passed": 44,
+    "live_smoke_tests_passed": 2,
+    "mypy_host_modules_passed": 13,
+    "ruff_passed": true,
+    "selected_runtime_asset_hashes_passed": true
+  },
+  "parent_boundary": {
+    "ordinary_prompt_tokens": 21401,
+    "pending_result_id": "RESULT-007",
+    "relief_prompt_tokens": 18785,
+    "relief_result_ids": [
+      "RESULT-001"
+    ]
+  },
+  "retries": 0,
+  "run_id": "2026-08-28-host-refactor-live-smoke-v0",
+  "schema": "e87-host-live-smoke-stage0-v0",
+  "scope": "host_refactor_live_smoke_v0",
+  "status": "frozen_provider_free_qualified_pending_external_gpu_authorization"
+}

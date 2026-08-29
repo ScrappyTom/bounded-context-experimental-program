@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-28",
-  "status": "e86_host_exact_provider_free_qualified_no_live_study_selected",
+  "status": "e87_host_live_smoke_frozen_pending_external_authorization",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "prospectively_frozen_condition_specific_live_event",
@@ -16,6 +16,9 @@
     "live_hardening_result": "E85_HOST_LIVE_HARDENING_RESULT.md",
     "asset_restoration_commit": "a7c7686977661dcd7adebc1da78a78aa2b423ff5",
     "asset_restoration_result": "E86_HOST_LOCKED_ASSET_RESTORATION_RESULT.md",
+    "live_smoke_commit": "fbc1db052051b23cfb8667780eab0a9939dee11a",
+    "live_smoke_result": "E87_HOST_LIVE_SMOKE_STAGE0.md",
+    "live_smoke_run_id": "2026-08-28-host-refactor-live-smoke-v0",
     "exact_tokenizer_projection_present": false,
     "exact_locked_full_model_present": true,
     "exact_provider_free_qualification": true,
@@ -59,11 +62,17 @@
       "e85_full_compatible_regression_passed": 277,
       "e86_asset_resolution_tests_passed": 3,
       "e86_full_exact_regression_passed": 280,
+      "e87_full_exact_regression_passed": 282,
+      "e87_host_tests_passed": 44,
+      "e87_live_smoke_tests_passed": 2,
       "exact_locked_asset_regression_passed": true,
       "model_calls": 0
     },
-    "next_operation": "select_and_freeze_a_whole_configuration_live_study_or_gpu_qualification",
-    "gpu_operation_selected": false
+    "next_operation": "separately_authorized_one_call_integrated_host_live_smoke",
+    "gpu_operation_selected": true,
+    "gpu_operation_authorized": false,
+    "maximum_selected_model_calls": 1,
+    "automatic_continuation": false
   },
   "closed_first_interaction": {
     "axis_a": "source_bound_semantic_residue_after_exact_body_demotion",

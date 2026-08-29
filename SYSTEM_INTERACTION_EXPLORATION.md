@@ -2,12 +2,14 @@
 
 Date: 2026-08-28
 
-Status: governing direction through E86; E84 qualifies the event-driven host
+Status: governing direction through E87; E84 qualifies the event-driven host
 core offline and E85 hardens its live request/exposure, rejection, reopen,
 resource, checkpoint-chain, and review seams provider-free. E86 restores the
 immutable full model already named by the frozen lock and exactly qualifies
 provider-free tokenization, E83 replay, and the 280-test regression without a
-substitute. None of these stages adds behavioral evidence. E69 produced the first positive
+substitute. E87 freezes and qualifies provider-free a single integrated live
+host call at the authentic E83 pressure boundary; it has not run and cannot add
+behavioral evidence until separately authorized. E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, while E70 showed that the causal unit also includes
 artifact persistence, construction timing/granularity, and action transport.
