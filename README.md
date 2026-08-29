@@ -54,7 +54,7 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 E98 freezes the first donor-derived, lifecycle-complete use of E97 at apparatus
 commit
-[`520d823`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/520d82380be3498b2330093535995342a9811de7).
+[`520d823`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/520d8237e42e313fb014ad146aefb4c51feb8a3e).
 The exact E96 V1 state is migrated rather than falsely resumed under changed
 code; its terminal event, checkpoint, candidate, and inherited 29 calls/350,510
 serialized tokens remain bound. Pending `RESULT-018` stays exact while five

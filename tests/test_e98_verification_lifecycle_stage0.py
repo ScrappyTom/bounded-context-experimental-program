@@ -18,7 +18,7 @@ def test_e98_freezes_donor_derived_lifecycle_without_authorization() -> None:
 
     scout = contract["active_host_runtime_refactor"]["selected_lifecycle_scout"]
     assert scout["apparatus_commit"] == (
-        "520d82380be3498b2330093535995342a9811de7"
+        "520d8237e42e313fb014ad146aefb4c51feb8a3e"
     )
     assert scout["donor_closure_readiness"] == "not_ready"
     assert scout["inherited_provider_attempts"] == 29

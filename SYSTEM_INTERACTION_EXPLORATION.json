@@ -107,7 +107,7 @@
     },
     "selected_lifecycle_scout": {
       "stage": "E98",
-      "apparatus_commit": "520d82380be3498b2330093535995342a9811de7",
+      "apparatus_commit": "520d8237e42e313fb014ad146aefb4c51feb8a3e",
       "run_id": "2026-08-29-trellis-e97-verification-lifecycle-scout-v0",
       "configuration": "V1_E97_DONOR_DERIVED_LIFECYCLE",
       "donor_checkpoint_sha256": "1be26e7d366f4c6f14c1f5975cb70c317768b0702fd36a53b1cc1f224546b955",
@@ -219,7 +219,7 @@
     "stage": "E98",
     "status": "donor_derived_lifecycle_scout_frozen_awaiting_authorization",
     "result_document": "E98_TRELLIS_E97_VERIFICATION_LIFECYCLE_STAGE0.md",
-    "result_commit": "520d82380be3498b2330093535995342a9811de7",
+    "result_commit": "520d8237e42e313fb014ad146aefb4c51feb8a3e",
     "supported_interaction": "temporary_provenance_scaffold_x_exact_incremental_artifact_x_bounded_applied_history_reaches_provider_free_verification_repair_recheck_and_closure",
     "semantic_failure": "same_source_replacement_losses_propagated_into_not_ready_artifact",
     "mechanical_result": "delivered_applied_mutation_action_effect_pairs_can_be_bounded_after_exact_lineage_proof",

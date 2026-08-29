@@ -3,7 +3,7 @@
 Date: 2026-08-29
 
 Source apparatus commit:
-[`520d82380be3498b2330093535995342a9811de7`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/520d82380be3498b2330093535995342a9811de7)
+[`520d8237e42e313fb014ad146aefb4c51feb8a3e`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/520d8237e42e313fb014ad146aefb4c51feb8a3e)
 
 ## Program question
 
