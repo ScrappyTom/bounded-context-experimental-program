@@ -52,23 +52,24 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
-E97 completes the selected offline candidate causal-history work at apparatus
+E98 freezes the first donor-derived, lifecycle-complete use of E97 at apparatus
 commit
-[`15b7f57`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/15b7f57e1042194d3cdf859b2650a213c8a93a77).
-The future-only host policy compacts an old mutation action/effect pair only
-after completed delivery and exact candidate-lineage proof. Exact bytes remain
-externally custodied, pending `RESULT-018` remains exact, and semantic uptake is
-not inferred. At the exact E96 event prefix, the locked offline packet falls
-from 21,023 to 19,116 tokens, leaving 1,876 tokens of headroom. Five focused
-tests, Ruff, mypy, and all 303 apparatus tests pass; no GPU/provider call
-occurred. See
-[E97](E97_TRELLIS_CANDIDATE_EFFECT_LIFECYCLE_RESULT.md).
+[`520d823`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/520d82380be3498b2330093535995342a9811de7).
+The exact E96 V1 state is migrated rather than falsely resumed under changed
+code; its terminal event, checkpoint, candidate, and inherited 29 calls/350,510
+serialized tokens remain bound. Pending `RESULT-018` stays exact while five
+delivered applied mutation pairs are compacted. The donor candidate is frozen
+`not_ready` before behavior. Provider-free qualification then crosses pending
+effect delivery, construction completion, a failing current check, six bounded
+repairs, a passing current recheck, and closure across an exact checkpoint.
+Raw evaluator output remains exact externally while the actor receives bounded
+candidate-linked findings. All 307 apparatus tests pass. See
+[E98](E98_TRELLIS_E97_VERIFICATION_LIFECYCLE_STAGE0.md).
 
-This closes the offline repair, not the whole agent problem. It bounds applied
-causal history but cannot shrink a brand-new full-document action before its
-pending effect crosses a later model call. Incremental artifact action geometry
-and whole-lifecycle actor utility remain necessary. No live successor is
-selected or authorized.
+The live scout is selected but not authorized. It pauses after at most six new
+actor calls even though its total ceiling is eighteen. Packet fit is not a win;
+the measured question is whether Qwen remains oriented, uses current feedback,
+repairs the exact artifact, rechecks the changed version, and stops correctly.
 
 E96 records the completed Trellis continuation at apparatus result commit
 [`ef90d6d`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/ef90d6d7f80b838fd03fb54e57d61f20f98a00d0).
@@ -91,7 +92,8 @@ The selected offline
 [candidate-effect lifecycle work](NEXT_OFFLINE_CANDIDATE_EFFECT_LIFECYCLE.md)
 is now complete at E97. It preserved every effect exactly, bounded applied
 action/effect history, and retained the latest pending effect/currentness state.
-No GPU successor is selected or authorized.
+E98 selects its first behavioral use as the donor-derived lifecycle scout
+described above. That GPU operation is not yet authorized.
 
 The host-runtime refactor has now passed its smallest integrated live smoke at
 apparatus freeze commit

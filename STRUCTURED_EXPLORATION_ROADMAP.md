@@ -2,7 +2,7 @@
 
 Date: 2026-08-29
 
-Status: updated through E97; Solace produced a positive acquisition-to-
+Status: updated through E98; Solace produced a positive acquisition-to-
 construction interaction and a negative fixed-scaffold verification result.
 Orchard transfers the phase-conditional system: bounded current verification
 enables repair effect uptake and recheck where fixed append-only state stops,
@@ -33,7 +33,9 @@ is selected; no live successor is authorized.
 E97 completes that offline work: delivered applied mutation action/effect pairs
 can be compacted after exact lineage proof while a pending effect remains exact.
 The locked offline E96 event prefix becomes feasible at 19,116 tokens. This is
-apparatus qualification, not live uptake evidence, and no successor is selected.
+apparatus qualification, not live uptake evidence. E98 now freezes the
+donor-derived whole-lifecycle scout that can supply that evidence. It is
+selected, separately bounded, and not yet authorized.
 
 ## Research-phase reset
 
@@ -83,8 +85,10 @@ applied causal pair—assistant mutation action plus effect—rather than only t
 effect body. It is promoted only as mechanical infrastructure for a future
 whole-system scout.
 
-The next high-ROI live question has not yet been selected. Selection should
-compare viable complete configurations and must preserve:
+E98 selects the next high-ROI live question. It does not compare another
+receipt schema or continue E96 under changed code. It imports the exact
+preterminal donor under a new manifest and observes one complete viable
+configuration. The scout preserves:
 
 - incremental exact artifact mutation, so a new response need not carry a
   complete artifact when the one-call transport envelope is tight;
@@ -93,8 +97,11 @@ compare viable complete configurations and must preserve:
 - candidate-bound current check, targeted repair, and current recheck; and
 - periodic transcript review without automatic host judgment of looping.
 
-Do not spend the next run re-demonstrating offline packet feasibility or
-continuing the sealed E96 checkpoint under changed code.
+The first review is mandatory after at most six new actor calls. The review is
+descriptive: it may authorize the unchanged remainder or stop the study, but a
+policy change starts a new experiment. Do not spend the run re-demonstrating
+offline packet feasibility, reinterpret the imported state as an E96 retry, or
+score a fitting packet as task success.
 
 ## Current terrain update through E72
 

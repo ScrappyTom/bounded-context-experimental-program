@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-29
-Status: current program synthesis through E97; E84 closes the E83 host
+Status: current program synthesis through E98; E84 closes the E83 host
 modularity blocker offline and E85 hardens the final request, rejection,
 reopen, resource, checkpoint-chain, and review seams provider-free. E86
 restores the immutable full model already named by the frozen lock, removes the
@@ -37,6 +37,14 @@ future-only host transition now bounds each delivered applied action/effect
 pair after exact lineage proof, leaves pending effects exact, and makes no
 semantic-uptake claim. It restores offline E96 packet feasibility from 21,023
 to 19,116 tokens, passes 303 repository tests, and makes zero provider calls.
+E98 selects the resulting behavioral question without pretending to resume the
+old execution manifest. It hash-binds and migrates the exact E96 preterminal
+state into the E97 lifecycle, carries forward all 29 provider attempts and
+350,510 serialized tokens, freezes the donor candidate as `not_ready`, and
+qualifies the complete provider-free path from pending-effect delivery through
+current check, targeted repair, current recheck, and closure. The live scout is
+frozen with a mandatory review after at most six additional actor calls. It is
+selected but not authorized.
 E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
@@ -124,7 +132,48 @@ the interaction among incremental artifact actions, bounded applied causal
 history, current check state, repair, and review cadence.
 
 E97 is offline apparatus evidence. It does not establish live Qwen effect
-uptake or select an E96 retry. The next live question remains unselected.
+uptake. E98 therefore does not reuse the sealed E96 execution manifest or call
+the new route a retry. It imports the exact preterminal state under a new
+manifest and preserves the historical terminal capacity event as excluded
+lineage evidence.
+
+## E98 program update
+
+E98 freezes the first lifecycle-complete behavioral use of E97. The selected
+configuration is one donor-derived whole system, not a receipt ablation:
+
+> exact inherited evidence and artifact
+> + E97 bounded applied action/effect history
+> + exact pending effect
+> + candidate-bound current check
+> + bounded section repair
+> + current recheck
+> + readiness and closure governance
+
+The donor is independently frozen as `not_ready`: it has 904 words, lacks the
+sixth required section, and fails all eight substantive requirement groups.
+The actor-visible check is a bounded mechanical projection of the exact raw
+evaluator result. The raw output remains externally custodied; the projection
+adds no semantic repair and exists so verification feedback does not itself
+recreate the capacity failure being studied.
+
+Provider-free qualification reaches delivery of `RESULT-018`, completes the
+missing section, initiates a current check, applies six section repairs,
+obtains a passing current recheck, and proposes submission. That scripted path
+establishes reachability only. It does not predict Qwen behavior or make the
+donor ready before live work.
+
+The selected live run retains all inherited cost and permits at most 18 actor
+calls, one maintenance call, 19 provider calls, and 450,000 additional
+serialized tokens. It pauses for transcript review after at most six new actor
+calls. One attempt per call and zero retries remain frozen. No GPU/provider call
+has occurred and no continuation is automatic.
+
+The supported future claim is deliberately narrow: whether this complete
+configuration can cross the authentic construction-to-verification boundary
+and improve exact candidate quality. A result cannot isolate E97, explain why
+V1 constructed earlier, or promote the architecture from one donor-derived
+trajectory.
 
 ## Executive disposition
 

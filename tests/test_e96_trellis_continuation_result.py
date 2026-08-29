@@ -41,10 +41,10 @@ def test_selected_offline_work_completed_without_another_continuation() -> None:
     contract = json.loads(
         (ROOT / "SYSTEM_INTERACTION_EXPLORATION.json").read_text(encoding="utf-8")
     )
+    lifecycle = contract["active_host_runtime_refactor"]["candidate_causal_history"]
+    assert lifecycle["stage"] == "E97"
+    assert lifecycle["status"] == "offline_future_path_qualified"
     boundary = contract["current_program_boundary"]
-    assert boundary["stage"] == "E97"
-    assert boundary["status"] == (
-        "offline_candidate_causal_history_qualified_live_successor_unselected"
-    )
-    assert boundary["gpu_operation_selected"] is False
+    assert boundary["stage"] == "E98"
+    assert boundary["gpu_operation_selected"] is True
     assert boundary["gpu_operation_authorized"] is False

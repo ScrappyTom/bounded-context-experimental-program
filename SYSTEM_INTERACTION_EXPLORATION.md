@@ -2,7 +2,7 @@
 
 Date: 2026-08-29
 
-Status: governing direction through E97; E84 qualifies the event-driven host
+Status: governing direction through E98; E84 qualifies the event-driven host
 core offline and E85 hardens its live request/exposure, rejection, reopen,
 resource, checkpoint-chain, and review seams provider-free. E86 restores the
 immutable full model already named by the frozen lock and exactly qualifies
@@ -78,7 +78,12 @@ execution package, not a regrading or continuation of sealed E96.
 The unresolved systems question moves downstream again: can a live actor use
 incremental artifact actions, bounded applied causal history, current check
 state, and repair/recheck opportunities to reach better work before another
-resource becomes binding? No live configuration is selected by E97 itself.
+resource becomes binding? E98 now selects that whole-lifecycle observation from
+an exact donor-derived state under a new execution manifest. It retains the
+inherited costs, freezes the donor as not ready, and includes effect uptake,
+current checking, targeted section repair, current recheck, readiness, and
+closure in one bounded horizon. The live operation is selected but not yet
+authorized, and its first review occurs after at most six new actor calls.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 

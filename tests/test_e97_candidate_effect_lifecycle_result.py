@@ -29,17 +29,22 @@ def test_e97_records_bounded_applied_causal_history_without_utility_claim() -> N
     assert value["automatic_successor"] is False
 
 
-def test_e97_updates_governing_system_scope_without_selecting_gpu() -> None:
+def test_e97_remains_qualified_infrastructure_under_selected_e98_scout() -> None:
     contract = json.loads(
         (ROOT / "SYSTEM_INTERACTION_EXPLORATION.json").read_text(
             encoding="utf-8"
         )
     )
+    lifecycle = contract["active_host_runtime_refactor"]["candidate_causal_history"]
+    assert lifecycle["stage"] == "E97"
+    assert lifecycle["status"] == "offline_future_path_qualified"
     boundary = contract["current_program_boundary"]
-    assert boundary["stage"] == "E97"
-    assert boundary["gpu_operation_selected"] is False
+    assert boundary["stage"] == "E98"
+    assert boundary["gpu_operation_selected"] is True
     assert boundary["gpu_operation_authorized"] is False
-    assert boundary["next_document"] is None
+    assert boundary["next_document"] == (
+        "E98_TRELLIS_E97_VERIFICATION_LIFECYCLE_STAGE0.md"
+    )
     result = (ROOT / "E97_TRELLIS_CANDIDATE_EFFECT_LIFECYCLE_RESULT.md").read_text(
         encoding="utf-8"
     )
