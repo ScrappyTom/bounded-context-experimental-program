@@ -27,3 +27,31 @@ def test_v1_freeze_has_new_identity_and_unchanged_limits() -> None:
     assert stage["maximum_serialized_tokens"] == 30_000
     assert stage["attempts_per_call"] == 1
     assert stage["retries"] == 0
+    assert stage["status"] == "completed_by_e90_pre_provider_live_tokenizer_projection_mismatch"
+
+
+def test_v1_result_preserves_exact_pre_provider_projection_stop() -> None:
+    result = json.loads(
+        (ROOT / "E90_HOST_LIVE_SMOKE_V1_RESULT.json").read_text(encoding="utf-8")
+    )
+    assert result["apparatus_commit"] == "a92577d64612a6a5f7c623e02de89eb527b47017"
+    assert result["offline_relief_prompt_tokens"] == 18_785
+    assert result["live_relief_prompt_tokens"] == 18_786
+    assert result["provider_attempts"] == 0
+    assert result["model_calls"] == 0
+    assert result["retries"] == 0
+
+
+def test_v2_freezes_distinct_exact_offline_and_live_projections() -> None:
+    stage = json.loads(
+        (ROOT / "E91_HOST_LIVE_SMOKE_V2_STAGE0.json").read_text(encoding="utf-8")
+    )
+    assert stage["apparatus_commit"] == "3afd9e269abb437512ea961772b43f4a12ea0f30"
+    assert stage["run_id"] == "2026-08-28-host-refactor-live-smoke-v2"
+    assert stage["scope"] == "host_refactor_live_smoke_v2"
+    assert stage["parent_boundary"]["offline_relief_prompt_tokens"] == 18_785
+    assert stage["parent_boundary"]["live_relief_prompt_tokens"] == 18_786
+    assert stage["maximum_model_calls"] == 1
+    assert stage["maximum_serialized_tokens"] == 30_000
+    assert stage["attempts_per_call"] == 1
+    assert stage["retries"] == 0

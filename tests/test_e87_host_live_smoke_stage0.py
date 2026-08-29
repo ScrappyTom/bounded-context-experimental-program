@@ -30,7 +30,7 @@ def test_e87_remains_nonbehavioral_and_authorization_gated() -> None:
         (ROOT / "SYSTEM_INTERACTION_EXPLORATION.json").read_text(encoding="utf-8")
     )
     host = system["active_host_runtime_refactor"]
-    assert host["live_smoke_commit"] == "a92577d64612a6a5f7c623e02de89eb527b47017"
+    assert host["live_smoke_commit"] == "3afd9e269abb437512ea961772b43f4a12ea0f30"
     assert host["gpu_operation_selected"] is True
     assert host["gpu_operation_authorized"] is False
     assert host["automatic_continuation"] is False

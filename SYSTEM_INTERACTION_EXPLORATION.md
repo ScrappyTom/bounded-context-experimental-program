@@ -2,7 +2,7 @@
 
 Date: 2026-08-28
 
-Status: governing direction through E89; E84 qualifies the event-driven host
+Status: governing direction through E91; E84 qualifies the event-driven host
 core offline and E85 hardens its live request/exposure, rejection, reopen,
 resource, checkpoint-chain, and review seams provider-free. E86 restores the
 immutable full model already named by the frozen lock and exactly qualifies
@@ -10,8 +10,11 @@ provider-free tokenization, E83 replay, and the 280-test regression without a
 substitute. E87 freezes and qualifies provider-free a single integrated live
 host call at the authentic E83 pressure boundary; it has not run and cannot add
 behavioral evidence until separately authorized. E88 records that v0 stopped
-before provider I/O because another authorized GPU job was active; E89 refreezes
-the unchanged one-call design under v1. E69 produced the first positive
+before provider I/O because another authorized GPU job was active. E90 records
+that v1 passed every live runtime gate but stopped before completion I/O on a
+stable one-token offline/live tokenizer-projection difference. E91 freezes the
+two exact projections separately under v2. Neither stopped run consumed a model
+call. E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, while E70 showed that the causal unit also includes
 artifact persistence, construction timing/granularity, and action transport.
@@ -68,8 +71,9 @@ reproduces the exact E83 packet geometry, and passes all 280 tests without a
 substitute. See `E85_HOST_LIVE_HARDENING_RESULT.md` and
 `E86_HOST_LOCKED_ASSET_RESTORATION_RESULT.md`.
 
-No new system interaction is yet selected. The host is ready for a separately
-designed and authorized live study. Any later design must use the new
+No new system interaction is yet selected. The host is ready for the separately
+authorization-gated one-call v2 apparatus smoke before any later live study. Any later
+design must use the new
 path, preserve common relief regardless of semantic activation, count delivery
 only after completed model exposure, allow authentic model pacing within a
 provisional sixty-call ceiling, and keep qualitative progress/loop judgment at

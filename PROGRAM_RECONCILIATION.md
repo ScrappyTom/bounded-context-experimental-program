@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-28
-Status: current program synthesis through E89; E84 closes the E83 host
+Status: current program synthesis through E91; E84 closes the E83 host
 modularity blocker offline and E85 hardens the final request, rejection,
 reopen, resource, checkpoint-chain, and review seams provider-free. E86
 restores the immutable full model already named by the frozen lock, removes the
@@ -9,8 +9,10 @@ transient sparse-projection dependency, and exactly qualifies the tokenizer
 path, direct E83 replay, and 280-test regression provider-free. E87 freezes and
 provider-free qualifies the smallest integrated live test: one pressure-
 relieved invocation delivering pending `RESULT-007`, followed by checkpoint,
-review, release, and seal. All 282 tests pass. The live call remains separately
-authorization-gated. These are apparatus facts, not behavioral evidence. E69 produced the first positive
+review, release, and seal. E88 and E90 each stop safely before provider I/O;
+E91 freezes the corrected v2 exact offline/live tokenizer projections. All 282
+tests pass. The live call remains separately authorization-gated. These are
+apparatus facts, not behavioral evidence. E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
 among semantic residue, exact artifacts, construction timing/granularity, and
@@ -104,12 +106,19 @@ E88 records the authorized v0 launch. Exact asset verification passed, but the
 fresh-runtime gate found an active Franken Agent `llama-server` using nearly
 all VRAM and stopped before provider I/O. The other process was not altered.
 Provider attempts, model calls, and retries were zero, and the v0 run was
-sealed. E89 freezes the unchanged one-call design under v1 at apparatus commit
+sealed. E89 froze the unchanged one-call design under v1 at apparatus commit
 `a92577d64612a6a5f7c623e02de89eb527b47017` after the other job released the
-GPU. V1 remains separately authorization-gated.
+GPU. E90 records its authorized launch: every live runtime gate passed, the
+ordinary packet reproduced 21,401 tokens, and the relieved prompt was counted
+as 18,786 live tokens rather than the exact 18,785-token offline projection.
+The gate stopped before completion I/O; two fresh-server diagnostics reproduced
+the split over identical 49,518 prompt bytes. Provider attempts and model calls
+remained zero. E91 freezes v2 at apparatus commit
+`3afd9e269abb437512ea961772b43f4a12ea0f30`, with separate exact 18,785 offline
+and 18,786 live relieved counts. V2 remains separately authorization-gated.
 
 Historical global-mutating runners remain frozen and may not be reused for new
-live work. The refactored host is exactly qualified provider-free. E87 selects
+live work. The refactored host is exactly qualified provider-free. E91 selects
 only a one-call integrated host smoke; it made no GPU/provider call, establishes
 no behavioral utility, and cannot continue automatically. The live smoke and
 any later whole-configuration study each require separate authorization.

@@ -17,7 +17,7 @@ class SystemInteractionDirectionTests(unittest.TestCase):
 
     def test_unit_is_whole_configuration_not_component(self):
         self.assertEqual(
-            "e89_host_live_smoke_v1_frozen_pending_external_authorization",
+            "e91_host_live_smoke_v2_frozen_pending_external_authorization",
             self.contract["status"],
         )
         self.assertEqual(

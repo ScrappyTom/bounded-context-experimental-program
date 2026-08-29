@@ -54,16 +54,19 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 The host-runtime refactor is now refrozen for its smallest integrated live smoke
 at apparatus commit
-[`a92577d`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/a92577d64612a6a5f7c623e02de89eb527b47017).
+[`3afd9e2`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/3afd9e269abb437512ea961772b43f4a12ea0f30).
 E86 restored the immutable full Qwen3.8 model already named by the frozen lock,
 verified its 11,141,912,032 bytes and exact SHA-256, and removed the accidental
 sparse-projection dependency. E87 binds a one-call launcher to the authentic
 E83 boundary: 21,401 ordinary tokens, `RESULT-001` relief, 18,785 treated
-tokens, and pending `RESULT-007` delivery on call 8. All 282 apparatus tests
-pass. E88 records that v0 stopped before provider I/O because a separate active
-GPU job occupied the device; zero model calls were consumed. The unchanged v1
-run is frozen by E89 and requires separate authorization bound to its exact
-apparatus commit.
+offline tokens, and pending `RESULT-007` delivery on call 8. All 282 apparatus
+tests pass. E88 records that v0 stopped before provider I/O because a separate
+active GPU job occupied the device. E90 records that authorized v1 passed the
+live runtime gates but stopped before completion I/O because the running server
+counted the byte-identical relieved packet at 18,786 tokens. Two fresh-server
+diagnostics reproduced the exact 18,785-offline/18,786-live split. Both runs
+consumed zero model calls. E91 freezes both exact projections under v2 and
+requires separate authorization bound to its exact apparatus commit.
 
 The bounded live-seam hardening was completed at apparatus commit
 [`cc78d3b`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/cc78d3b4c7162c6d3615696defd68e9790ee04ea).
@@ -74,6 +77,8 @@ review evidence. Eleven new adversarial tests, the focused suites, Ruff, and
 mypy pass. Its initial 277-test regression used a compatible local tokenizer
 only as provisional evidence; E86 supersedes that qualification limit with the
 exact locked asset and 280-test regression. See
+[E91](E91_HOST_LIVE_SMOKE_V2_STAGE0.md),
+[E90](E90_HOST_LIVE_SMOKE_V1_RESULT.md),
 [E89](E89_HOST_LIVE_SMOKE_V1_STAGE0.md),
 [E88](E88_HOST_LIVE_SMOKE_V0_RESULT.md),
 [E87](E87_HOST_LIVE_SMOKE_STAGE0.md),

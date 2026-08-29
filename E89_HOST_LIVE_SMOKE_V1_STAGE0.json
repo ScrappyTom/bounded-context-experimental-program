@@ -7,5 +7,5 @@
   "run_id": "2026-08-28-host-refactor-live-smoke-v1",
   "schema": "e89-host-live-smoke-v1-stage0-v0",
   "scope": "host_refactor_live_smoke_v1",
-  "status": "frozen_provider_free_qualified_pending_external_gpu_authorization"
+  "status": "completed_by_e90_pre_provider_live_tokenizer_projection_mismatch"
 }
