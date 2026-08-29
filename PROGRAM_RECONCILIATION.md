@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-29
-Status: current program synthesis through E98; E84 closes the E83 host
+Status: current program synthesis through E100; E84 closes the E83 host
 modularity blocker offline and E85 hardens the final request, rejection,
 reopen, resource, checkpoint-chain, and review seams provider-free. E86
 restores the immutable full model already named by the frozen lock, removes the
@@ -42,9 +42,15 @@ old execution manifest. It hash-binds and migrates the exact E96 preterminal
 state into the E97 lifecycle, carries forward all 29 provider attempts and
 350,510 serialized tokens, freezes the donor candidate as `not_ready`, and
 qualifies the complete provider-free path from pending-effect delivery through
-current check, targeted repair, current recheck, and closure. The live scout is
-frozen with a mandatory review after at most six additional actor calls. It is
-selected but not authorized.
+current check, targeted repair, current recheck, and closure. E99 runs its
+first live tranche: pending-effect delivery, another bounded mutation, and
+verification entry succeed, but the route is then censored by construction-only
+readable guidance despite a verification-capable response schema and by full
+prompt residency of two rejected 4,096-token responses. E100 freezes only those
+apparatus repairs from the original donor, replays the exact failure to a
+feasible 16,335-token next packet, and requalifies the complete provider-free
+lifecycle. The repaired live route is selected with a mandatory review after
+at most six additional actor calls. It is not authorized.
 E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
@@ -174,6 +180,68 @@ configuration can cross the authentic construction-to-verification boundary
 and improve exact candidate quality. A result cannot isolate E97, explain why
 V1 constructed earlier, or promote the architecture from one donor-derived
 trajectory.
+
+## E99 program update
+
+E99 is a real but apparatus-censored live result. The causal sequence is:
+
+> pending effect delivered
+> + exact current artifact
+> → missing sixth section admitted
+> → verification phase entered
+> → two unadmitted 4,096-token global repair drafts
+> → exact draft recurrence
+> → rejected-output chronology blocks the next packet
+
+The candidate grew from 904 to 1,145 words and gained the ordered heading
+contract, but all eight substantive relation groups still failed and readiness
+remained `not_ready`. No check, admitted repair, recheck, or submission occurred.
+
+The corrected interface finding separates machine syntax from readable
+guidance. The response JSON schema permitted `run_check` and
+`replace_artifact_section`; natural-language messages still supplied only the
+construction contract. The repair attempts were schema-valid in action type
+but lacked an explained verification workflow and current diagnostic evidence.
+
+The second censor was lifecycle-specific. Each rejected response remained
+exactly custodied and also remained fully prompt-resident despite producing no
+admitted action or world transition. The compact rejection observation was
+added rather than substituted. After two failures the projected prompt was
+23,811 tokens. E97 had already removed the old applied mutation duplication it
+was designed to remove.
+
+The supported behavioral result is narrow: E97 enabled effect delivery, one
+further incremental mutation, and verification entry. Verification utility is
+untested. The sealed E99 terminal is closed and is not resumed under repaired
+code.
+
+## E100 program update
+
+E100 repairs the two exact censoring seams without changing the task policy or
+adding semantic assistance.
+
+At verification entry the host now exposes an exact replaceable phase contract
+that supersedes construction guidance and explains current check, bounded
+repair, effect uptake, current recheck, and closure discipline. A scripted
+provider-free action is eligible only when it appears in both the response
+schema and readable phase contract.
+
+After an unaccepted finish reason, the raw assistant response remains exact in
+provider custody and append-only event history. Its ordinary prompt projection
+becomes a hash-bound receipt stating that no action or world transition was
+admitted. The host does not summarize, repair, or retry the content.
+
+The exact sealed E99 calls 19–22 replay to two receipts and a feasible
+16,335-token next packet, 4,657 below the prompt allowance. The full scripted
+lifecycle again reaches failing check, six bounded repairs, passing current
+recheck, and completion in eleven actor calls. The full 315-test regression,
+targeted Ruff, and targeted Mypy pass; zero provider calls occurred.
+
+The repaired route starts from the original E96 donor, not E99. It keeps the
+same 18 actor, one maintenance, 19 provider, and 450,000-token limits with a
+review after at most six actor calls. Offline completion proves transport and
+reachability only. A live positive remains donor-derived and earns transfer,
+not architecture promotion.
 
 ## Executive disposition
 

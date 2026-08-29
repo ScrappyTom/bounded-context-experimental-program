@@ -2,7 +2,7 @@
 
 Date: 2026-08-29
 
-Status: updated through E98; Solace produced a positive acquisition-to-
+Status: updated through E100; Solace produced a positive acquisition-to-
 construction interaction and a negative fixed-scaffold verification result.
 Orchard transfers the phase-conditional system: bounded current verification
 enables repair effect uptake and recheck where fixed append-only state stops,
@@ -32,10 +32,13 @@ packet before verification. Offline bounded effect/currentness lifecycle work
 is selected; no live successor is authorized.
 E97 completes that offline work: delivered applied mutation action/effect pairs
 can be compacted after exact lineage proof while a pending effect remains exact.
-The locked offline E96 event prefix becomes feasible at 19,116 tokens. This is
-apparatus qualification, not live uptake evidence. E98 now freezes the
-donor-derived whole-lifecycle scout that can supply that evidence. It is
-selected, separately bounded, and not yet authorized.
+The locked offline E96 event prefix becomes feasible at 19,116 tokens. E98
+froze the donor-derived whole-lifecycle scout. E99 delivered its pending effect,
+admitted another section, and entered verification, but split machine/readable
+phase guidance plus full residency of two rejected outputs censored the route
+before a check. E100 repairs only those apparatus seams and replays the exact
+failure to a feasible 16,335-token next packet. The repaired donor-derived
+scout is selected, separately bounded, and not yet authorized.
 
 ## Research-phase reset
 
@@ -85,7 +88,7 @@ applied causal pair—assistant mutation action plus effect—rather than only t
 effect body. It is promoted only as mechanical infrastructure for a future
 whole-system scout.
 
-E98 selects the next high-ROI live question. It does not compare another
+E98 selected the next high-ROI live question. It did not compare another
 receipt schema or continue E96 under changed code. It imports the exact
 preterminal donor under a new manifest and observes one complete viable
 configuration. The scout preserves:
@@ -97,7 +100,12 @@ configuration. The scout preserves:
 - candidate-bound current check, targeted repair, and current recheck; and
 - periodic transcript review without automatic host judgment of looping.
 
-The first review is mandatory after at most six new actor calls. The review is
+E99 answered only the first part: effect uptake, another bounded mutation, and
+verification entry were reachable, but no current check occurred. E100 starts
+again from the original donor with readable/schema phase alignment and bounded
+rejected-response projection. It does not resume E99 or repair model output.
+
+The first review remains mandatory after at most six new actor calls. The review is
 descriptive: it may authorize the unchanged remainder or stop the study, but a
 policy change starts a new experiment. Do not spend the run re-demonstrating
 offline packet feasibility, reinterpret the imported state as an E96 retry, or

@@ -97,7 +97,9 @@ means literal local behavior with a material apparatus qualification.
 | E81 | LR/AF/NQ | Keystone event-triggered common continuation | E81 delivered all fourteen sources under exact custody/relief, but ten maintenance plus eight actor calls left the candidate empty. Maintenance admitted 8/48 claims across three sources and no relationships; the actor then reacquired MANDATE and TRACK. | Valid nonactivation: no V0/V1 branch or treatment decision occurred. Corrected whole pre-treatment cost is 27 calls/300,754 tokens. Keystone closes; bounded-causal utility remains untested. | [result and qualitative audit](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/133bd274e930806634006ed7644b25c4b553dab8) |
 | E96 | LR/AF | Trellis refactored-host continuation | V0 repeated the complete twelve-read catalog after full delivery and made no work. V1 immediately wrote a twelve-source ledger and five decision sections across six exact mutations without reopen, then stopped before verification when six non-relief-eligible mutation effects co-resided with the full current candidate. | One task and one trajectory per configuration; whole-configuration interaction, not register-only causality. V1 remained not ready, scaffold replacement losses entered the artifact, and neither arm reached useful completion. | [continuation result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/ef90d6d7f80b838fd03fb54e57d61f20f98a00d0) |
 | E97 | AF/NQ | bounded applied candidate causal history | Exact lineage permits five delivered applied mutation actions and effects to leave full prompt residency while pending `RESULT-018` remains exact. The provider-free packet falls from 21,023 to 19,116 tokens and preserves every exact action/effect externally. | Mechanical future-path qualification only. It does not infer semantic uptake, make a new oversized action fit, or establish live verification utility. | [lifecycle result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/15b7f57e1042194d3cdf859b2650a213c8a93a77) |
-| E98 | AF/NQ | donor-derived E97 verification-lifecycle Stage 0 | The exact E96 preterminal state is hash-bound into a new manifest with inherited costs, independently frozen `not_ready` status, E97 history compaction, bounded current checks, section repair, current recheck, and closure. The provider-free path completes in eleven actor calls and the 307-test regression passes. | Reachability only; zero provider calls. The selected live scout is donor-derived, pauses after at most six actor calls, and awaits explicit authorization. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/520d8237e42e313fb014ad146aefb4c51feb8a3e) |
+| E98 | AF/NQ | donor-derived E97 verification-lifecycle Stage 0 | The exact E96 preterminal state is hash-bound into a new manifest with inherited costs, independently frozen `not_ready` status, E97 history compaction, bounded current checks, section repair, current recheck, and closure. The provider-free path completes in eleven actor calls and the 307-test regression passes. | Reachability only; zero provider calls. The separately authorized live use became E99 and is preserved as an apparatus-censored result. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/520d8237e42e313fb014ad146aefb4c51feb8a3e) |
+| E99 | LR/AF/NQ | donor-derived E97 verification-lifecycle live result | Pending `RESULT-018` crossed a completed call, Qwen admitted the missing sixth section, and it entered verification. Two 4,096-token unadmitted global repair drafts then recurred exactly and remained prompt-resident, blocking the prospective next packet at 23,811 tokens. | The response schema allowed verification actions but readable messages remained construction-only; no current check ran. Local effect-uptake/phase-entry positive, verification utility untested, sealed route closed. | [corrected result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/554bf496f0ea6a12881d0ab730e800d045cb36b2) |
+| E100 | AF/NQ | repaired donor-derived verification-lifecycle Stage 0 | A replaceable readable verification contract is aligned with the response schema, and unadmitted rejected responses retain exact external custody while bounded hash receipts remain prompt-resident. Exact E99 replay leaves a feasible 16,335-token next packet; the full provider-free lifecycle completes and 315 tests pass. | Apparatus reachability only; zero provider calls. The new route restarts from the original donor, pauses after at most six actor calls, and awaits explicit authorization. | [Stage 0](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/76091fc5885d25d31becccbb0edb8fc6a3681bac) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
@@ -1801,7 +1803,45 @@ The selected live scout permits 18 actor calls, one maintenance call, 19 total
 provider calls, and 450,000 additional serialized tokens, with one attempt per
 call, zero retries, and mandatory review after at most six actor calls.
 
-Disposition: **AF/NQ** — complete lifecycle reachability is qualified and a
-donor-derived behavioral scout is selected but not authorized. A positive
-result would earn fresh-world transfer, not isolate E97 or promote the full
-architecture.
+Disposition: **AF/NQ** — complete lifecycle reachability was qualified. Its
+separately authorized live use is recorded at E99 and does not isolate E97 or
+promote the full architecture.
+
+# E99 — live verification-lifecycle apparatus censor
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@554bf496f0ea6a12881d0ab730e800d045cb36b2`
+
+Four live actor calls delivered pending `RESULT-018`, admitted the missing
+sixth section, and entered verification. The candidate grew to 1,145 words but
+remained `not_ready` with all eight substantive groups failing.
+
+No check ran. The response schema permitted verification actions, while the
+readable messages still supplied only construction guidance. Two whole-
+document repair drafts exhausted 4,096 completion tokens each; call 22 repeated
+all 18,963 call-21 characters before truncating again. Both exact rejected
+bodies remained prompt-resident beside their rejection results, producing a
+23,811-token prospective packet and safe capacity stop.
+
+Disposition: **LR/AF/NQ** — E97 locally enabled effect delivery, one further
+mutation, and phase entry. Verification utility was censored and remains
+untested. The sealed run is closed.
+
+# E100 — repaired verification-lifecycle Stage 0
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@76091fc5885d25d31becccbb0edb8fc6a3681bac`
+
+The new route begins again from the original E96 donor. At phase transition, a
+replaceable exact verification contract supersedes construction guidance and
+aligns readable instructions with the response schema. Rejected responses keep
+their exact raw provider/event custody but become hash-bound receipts in prompt
+projection after no action or world transition is admitted.
+
+Exact replay of E99 calls 19–22 now leaves a feasible 16,335-token next packet.
+The full provider-free lifecycle reaches a failing current check, six bounded
+repairs, a passing current recheck, and completion in eleven actor calls. All
+315 tests plus targeted Ruff and Mypy pass. Zero provider calls occurred.
+
+Disposition: **AF/NQ** — repaired lifecycle reachability is qualified. The live
+route is selected but unauthorized and remains donor-derived.

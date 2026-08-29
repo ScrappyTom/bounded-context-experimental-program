@@ -33,10 +33,10 @@ def test_governing_contract_records_refactor_and_keeps_interaction_unit() -> Non
     assert refactor["verification"]["e85_full_compatible_regression_passed"] == 277
     assert refactor["exact_provider_free_qualification"] is True
     assert refactor["live_gpu_provider_qualification"] is True
-    assert refactor["gpu_operation_selected"] is False
+    assert refactor["gpu_operation_selected"] is True
     assert refactor["gpu_operation_authorized"] is False
     assert refactor["next_operation"] == (
-        "none_selected_after_offline_candidate_lifecycle_qualification"
+        "e100_repaired_donor_lifecycle_scout_v1"
     )
 
 

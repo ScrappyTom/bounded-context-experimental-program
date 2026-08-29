@@ -1,0 +1,38 @@
+{
+  "schema": "e100-trellis-repaired-verification-lifecycle-stage0-v0",
+  "date": "2026-08-29",
+  "apparatus_commit": "76091fc5885d25d31becccbb0edb8fc6a3681bac",
+  "run_id": "2026-08-29-trellis-e99-verification-lifecycle-scout-v1",
+  "configuration": "V1_E97_REPAIRED_DONOR_DERIVED_LIFECYCLE",
+  "provider_calls": 0,
+  "repairs": {
+    "readable_phase_contract_aligned_with_response_schema": true,
+    "rejected_response_raw_custody_preserved": true,
+    "rejected_response_prompt_receipt_bounded": true,
+    "semantic_summary_or_retry_added": false
+  },
+  "provider_free_lifecycle": {
+    "actor_calls": 11,
+    "maintenance_calls": 0,
+    "serialized_tokens": 214965,
+    "failing_current_check": true,
+    "bounded_repairs": 6,
+    "passing_current_recheck": true,
+    "terminal": "completed"
+  },
+  "sealed_failure_replay": {
+    "source_stage": "E99",
+    "rejected_response_receipts": 2,
+    "raw_rejected_bodies_model_resident": false,
+    "prospective_prompt_tokens": 16335,
+    "prompt_allowance": 20992,
+    "feasible": true
+  },
+  "qualification": {
+    "full_repository_tests_passed": 315,
+    "ruff_passed": true,
+    "mypy_passed": true
+  },
+  "live_authorized": false,
+  "automatic_continuation": false
+}

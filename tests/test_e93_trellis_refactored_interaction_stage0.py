@@ -34,7 +34,8 @@ def test_e93_keeps_host_and_semantic_layer_ownership_separate() -> None:
     )
     host = contract["active_host_runtime_refactor"]
     selected = contract["selected_whole_system_interaction"]
-    assert host["gpu_operation_selected"] is False
+    assert host["gpu_operation_selected"] is True
+    assert host["gpu_operation_authorized"] is False
     assert selected["configurations"] == [
         "V0_EXACT_ARTIFACT",
         "V1_TEMPORARY_PROVENANCE_SCAFFOLD",

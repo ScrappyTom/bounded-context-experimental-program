@@ -17,7 +17,7 @@ class SystemInteractionDirectionTests(unittest.TestCase):
 
     def test_unit_is_whole_configuration_not_component(self):
         self.assertEqual(
-            "e98_donor_lifecycle_scout_selected_awaiting_authorization",
+            "e100_repaired_donor_lifecycle_scout_selected_awaiting_authorization",
             self.contract["status"],
         )
         self.assertEqual(
@@ -72,9 +72,16 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         scout = self.contract["active_host_runtime_refactor"][
             "selected_lifecycle_scout"
         ]
-        self.assertEqual("E98", scout["stage"])
+        self.assertEqual("E100", scout["stage"])
+        self.assertEqual(
+            "76091fc5885d25d31becccbb0edb8fc6a3681bac",
+            scout["apparatus_commit"],
+        )
         self.assertEqual(19, scout["maximum_additional_provider_calls"])
         self.assertEqual(6, scout["mandatory_review_after_actor_calls"])
+        self.assertTrue(scout["readable_phase_contract_aligned"])
+        self.assertTrue(scout["rejected_response_prompt_receipts"])
+        self.assertEqual(16_335, scout["sealed_e99_replay_next_prompt_tokens"])
         self.assertFalse(scout["live_authorized"])
 
     def test_closed_scout_measured_interaction_and_successor_are_explicit(self):

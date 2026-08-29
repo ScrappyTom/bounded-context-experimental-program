@@ -38,10 +38,10 @@ The earlier whole-method policy and governance contracts remain historical in
 [MANDATORY_EXPERIMENTAL_GOVERNANCE.md](MANDATORY_EXPERIMENTAL_GOVERNANCE.md).
 The learned-first narrative covering the full experiment sequence is
 [FULL_EXPERIMENT_SEQUENCE_WRITEUP.md](FULL_EXPERIMENT_SEQUENCE_WRITEUP.md).
-The machine aggregate and recomputation receipt are
+The historical machine aggregate through E81 and its recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
-The current 68 experiment commit bindings are resolved through the named local
+Its 68 experiment commit bindings are resolved through the named local
 Git repositories in
 [PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json](PROGRAM_STAGE_COMMIT_BINDING_RECEIPT.json).
 The completed S3 treatment contract is preserved in
@@ -52,24 +52,32 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
-E98 freezes the first donor-derived, lifecycle-complete use of E97 at apparatus
-commit
-[`520d823`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/520d8237e42e313fb014ad146aefb4c51feb8a3e).
-The exact E96 V1 state is migrated rather than falsely resumed under changed
-code; its terminal event, checkpoint, candidate, and inherited 29 calls/350,510
-serialized tokens remain bound. Pending `RESULT-018` stays exact while five
-delivered applied mutation pairs are compacted. The donor candidate is frozen
-`not_ready` before behavior. Provider-free qualification then crosses pending
-effect delivery, construction completion, a failing current check, six bounded
-repairs, a passing current recheck, and closure across an exact checkpoint.
-Raw evaluator output remains exact externally while the actor receives bounded
-candidate-linked findings. All 307 apparatus tests pass. See
-[E98](E98_TRELLIS_E97_VERIFICATION_LIFECYCLE_STAGE0.md).
+E99 records the first live donor-derived use of E97. It delivered pending
+`RESULT-018`, admitted one further bounded section, and entered verification,
+but no check ran. The response schema had verification actions while the
+readable prompt still described only construction. Two 4,096-token unadmitted
+repair drafts then remained fully prompt-resident, the second repeated all
+18,963 characters of the first, and the next packet stopped at 23,811 tokens.
+The candidate remained independently `not_ready`. This is a narrow local
+effect-uptake/phase-entry positive and a live apparatus censor, not a negative
+verification verdict. See
+[E99](E99_TRELLIS_E97_VERIFICATION_LIFECYCLE_RESULT.md).
 
-The live scout is selected but not authorized. It pauses after at most six new
-actor calls even though its total ceiling is eighteen. Packet fit is not a win;
-the measured question is whether Qwen remains oriented, uses current feedback,
-repairs the exact artifact, rechecks the changed version, and stops correctly.
+E100 freezes the repaired route at apparatus commit
+[`76091fc`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/76091fc5885d25d31becccbb0edb8fc6a3681bac).
+It starts again from the original E96 donor rather than resuming E99. A
+replaceable exact verification contract aligns readable guidance with the JSON
+schema, and rejected responses retain exact external custody while only a
+hash-bound receipt remains prompt-resident. The complete provider-free
+lifecycle passes in eleven actor calls. Exact replay of E99 calls 19–22 leaves
+a feasible 16,335-token next packet, and all 315 apparatus tests pass. See
+[E100](E100_TRELLIS_REPAIRED_VERIFICATION_LIFECYCLE_STAGE0.md).
+
+The repaired live scout is selected but not authorized. It retains the same
+18-call ceiling and pauses after at most six new actor calls. The measured
+question remains whether Qwen uses current feedback to improve the exact
+artifact, rechecks the changed version, and stops correctly—not whether the
+packet merely fits.
 
 E96 records the completed Trellis continuation at apparatus result commit
 [`ef90d6d`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/ef90d6d7f80b838fd03fb54e57d61f20f98a00d0).
@@ -92,8 +100,9 @@ The selected offline
 [candidate-effect lifecycle work](NEXT_OFFLINE_CANDIDATE_EFFECT_LIFECYCLE.md)
 is now complete at E97. It preserved every effect exactly, bounded applied
 action/effect history, and retained the latest pending effect/currentness state.
-E98 selects its first behavioral use as the donor-derived lifecycle scout
-described above. That GPU operation is not yet authorized.
+E99 supplied its first behavioral use but was censored by the phase-guidance
+and rejected-response residency faults described above. E100 repairs only those
+apparatus seams and awaits separate authorization.
 
 The host-runtime refactor has now passed its smallest integrated live smoke at
 apparatus freeze commit

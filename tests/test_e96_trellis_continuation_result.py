@@ -45,6 +45,6 @@ def test_selected_offline_work_completed_without_another_continuation() -> None:
     assert lifecycle["stage"] == "E97"
     assert lifecycle["status"] == "offline_future_path_qualified"
     boundary = contract["current_program_boundary"]
-    assert boundary["stage"] == "E98"
+    assert boundary["stage"] == "E100"
     assert boundary["gpu_operation_selected"] is True
     assert boundary["gpu_operation_authorized"] is False

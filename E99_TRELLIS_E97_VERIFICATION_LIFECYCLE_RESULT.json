@@ -1,0 +1,52 @@
+{
+  "schema": "e99-trellis-e97-verification-lifecycle-result-v0",
+  "date": "2026-08-29",
+  "status": "sealed_live_apparatus_censored",
+  "freeze_commit": "520d8237e42e313fb014ad146aefb4c51feb8a3e",
+  "corrected_result_commit": "554bf496f0ea6a12881d0ab730e800d045cb36b2",
+  "run_id": "2026-08-29-trellis-e97-verification-lifecycle-scout-v0",
+  "configuration": "V1_E97_DONOR_DERIVED_LIFECYCLE",
+  "actual_additional": {
+    "actor_calls": 4,
+    "maintenance_calls": 0,
+    "provider_calls": 4,
+    "serialized_tokens": 82646,
+    "attempts_per_call": 1,
+    "retries": 0
+  },
+  "terminal": {
+    "code": "capacity_blocked",
+    "prospective_prompt_tokens": 23811,
+    "prompt_allowance": 20992,
+    "runtime_released": true,
+    "seal_verified": true
+  },
+  "candidate": {
+    "words_before": 904,
+    "words_after": 1145,
+    "ordered_heading_contract_passed": true,
+    "decision_source_breadth": 8,
+    "substantive_groups_passed": 0,
+    "closure_readiness": "not_ready",
+    "submitted": false
+  },
+  "behavior": {
+    "pending_result_delivered": true,
+    "incremental_candidate_mutation_admitted": true,
+    "verification_phase_entered": true,
+    "current_check_run": false,
+    "admitted_repair": false,
+    "current_recheck": false,
+    "call_21_completion_tokens": 4096,
+    "call_22_completion_tokens": 4096,
+    "call_22_exact_prefix_recurrence_chars": 18963
+  },
+  "apparatus_censor": {
+    "verification_actions_allowed_by_response_schema": true,
+    "readable_verification_contract_present": false,
+    "full_rejected_responses_remained_prompt_resident": true,
+    "compact_rejection_results_also_present": true
+  },
+  "claim": "E97 made the post-construction boundary reachable far enough for pending-effect delivery, one further mutation, and verification entry; verification utility remained untested because split phase guidance and unbounded rejected-response residency censored the route",
+  "automatic_successor": false
+}
