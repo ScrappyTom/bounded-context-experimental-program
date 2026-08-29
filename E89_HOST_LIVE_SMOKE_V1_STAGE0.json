@@ -1,0 +1,11 @@
+{
+  "apparatus_commit": "a92577d64612a6a5f7c623e02de89eb527b47017",
+  "attempts_per_call": 1,
+  "maximum_model_calls": 1,
+  "maximum_serialized_tokens": 30000,
+  "retries": 0,
+  "run_id": "2026-08-28-host-refactor-live-smoke-v1",
+  "schema": "e89-host-live-smoke-v1-stage0-v0",
+  "scope": "host_refactor_live_smoke_v1",
+  "status": "frozen_provider_free_qualified_pending_external_gpu_authorization"
+}

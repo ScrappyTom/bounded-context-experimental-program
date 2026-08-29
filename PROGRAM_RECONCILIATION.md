@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-28
-Status: current program synthesis through E87; E84 closes the E83 host
+Status: current program synthesis through E89; E84 closes the E83 host
 modularity blocker offline and E85 hardens the final request, rejection,
 reopen, resource, checkpoint-chain, and review seams provider-free. E86
 restores the immutable full model already named by the frozen lock, removes the
@@ -99,6 +99,14 @@ disposition, new checkpoint/review, process release, and seal. It is limited to
 one attempt, zero retries, 30,000 serialized tokens, and no continuation. Two
 focused smoke tests, 44 host tests, lint, type checking, direct replay, and all
 282 repository tests pass provider-free.
+
+E88 records the authorized v0 launch. Exact asset verification passed, but the
+fresh-runtime gate found an active Franken Agent `llama-server` using nearly
+all VRAM and stopped before provider I/O. The other process was not altered.
+Provider attempts, model calls, and retries were zero, and the v0 run was
+sealed. E89 freezes the unchanged one-call design under v1 at apparatus commit
+`a92577d64612a6a5f7c623e02de89eb527b47017` after the other job released the
+GPU. V1 remains separately authorization-gated.
 
 Historical global-mutating runners remain frozen and may not be reused for new
 live work. The refactored host is exactly qualified provider-free. E87 selects

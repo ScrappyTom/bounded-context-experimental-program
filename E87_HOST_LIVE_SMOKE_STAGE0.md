@@ -7,8 +7,8 @@ Apparatus commit:
 
 Run ID: `2026-08-28-host-refactor-live-smoke-v0`
 
-Disposition: frozen and provider-free qualified; one live GPU/model call is
-eligible only after separate exact authorization bound to the apparatus commit.
+Disposition: Stage 0 qualified and was authorized; E88 records a sealed
+pre-provider environmental stop with zero model calls. The v0 run ID is closed.
 
 ## Why this stage exists
 

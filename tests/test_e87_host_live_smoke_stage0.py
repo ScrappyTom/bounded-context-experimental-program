@@ -24,13 +24,13 @@ def test_e87_remains_nonbehavioral_and_authorization_gated() -> None:
     stage = json.loads(
         (ROOT / "E87_HOST_LIVE_SMOKE_STAGE0.json").read_text(encoding="utf-8")
     )
-    assert stage["status"].endswith("pending_external_gpu_authorization")
+    assert stage["status"] == "completed_by_e88_pre_provider_environment_block"
     assert "not_behavioral_or_utility_evidence" in stage["claim_limit"]
     system = json.loads(
         (ROOT / "SYSTEM_INTERACTION_EXPLORATION.json").read_text(encoding="utf-8")
     )
     host = system["active_host_runtime_refactor"]
-    assert host["live_smoke_commit"] == APPARATUS_COMMIT
+    assert host["live_smoke_commit"] == "a92577d64612a6a5f7c623e02de89eb527b47017"
     assert host["gpu_operation_selected"] is True
     assert host["gpu_operation_authorized"] is False
     assert host["automatic_continuation"] is False
