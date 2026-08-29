@@ -52,24 +52,29 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
-E94 records the first live whole-system checkpoint at apparatus result commit
-[`0626259`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/0626259773f1411272566caa1b4a00c83e70e606).
-Both actors made the same twelve catalog-traversal reads and left the final
-`RESULT-012` pending. Neither changed the candidate. V1's six grounded
-maintenance calls were safe but cost 31,578 serialized tokens, reduced cache
-reuse, externalized two additional exact results, and sometimes replaced
-important early source facts with low-value later-chunk rows. The scaffold was
-active but had no observed behavioral effect before catalog completion; its
-construction utility remains untested. See
-[E94](E94_TRELLIS_REFACTORED_INTERACTION_TRANCHE_RESULT.md).
+E96 records the completed Trellis continuation at apparatus result commit
+[`ef90d6d`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/ef90d6d7f80b838fd03fb54e57d61f20f98a00d0).
+V0 delivered the final catalog result and then repeated the complete twelve-read
+catalog in the same order, reaching 24 actor calls without changing the
+artifact. V1 immediately wrote a twelve-source evidence ledger and five exact
+decision sections across six mutations, with no raw-source reopen. The whole V1
+configuration therefore produced a strong local acquisition-to-construction
+signal; this is not a register-only causal claim.
 
-E95 therefore freezes an unchanged exact-checkpoint continuation rather than a
-scaffold repair. It delivers the pending final source pair and observes each
-whole configuration's first post-acquisition decisions through a second
-twelve-call checkpoint or earlier terminal state. Provider-free resume and the
-common mutation/check/repair/recheck/closure path pass. The continuation is not
-GPU-authorized; its apparatus commit must be quoted in a separate authorization.
-See [E95](E95_TRELLIS_REFACTORED_INTERACTION_CONTINUATION_STAGE0.md).
+Neither arm completed. V1's same-source scaffold replacement had discarded
+important governing relations, and those selection losses entered the exact
+artifact. The host then retained five delivered and one pending exact mutation
+effect beside the complete current candidate. With every source body already
+externalized and all effect bodies non-relief-eligible, the next verification
+packet was 49 tokens over the prompt allowance and stopped before provider I/O.
+See [E96](E96_TRELLIS_REFACTORED_INTERACTION_CONTINUATION_RESULT.md).
+
+The selected next step is offline
+[candidate-effect lifecycle work](NEXT_OFFLINE_CANDIDATE_EFFECT_LIFECYCLE.md):
+preserve every effect exactly and audibly outside the prompt while bounding the
+model-facing latest-effect/currentness state. This is a whole-lifecycle repair
+needed to reach verification, not another isolated memory-format experiment.
+No GPU successor is selected or authorized.
 
 The host-runtime refactor has now passed its smallest integrated live smoke at
 apparatus freeze commit

@@ -2,7 +2,7 @@
 
 Date: 2026-08-29
 
-Status: updated through E95; Solace produced a positive acquisition-to-
+Status: updated through E96; Solace produced a positive acquisition-to-
 construction interaction and a negative fixed-scaffold verification result.
 Orchard transfers the phase-conditional system: bounded current verification
 enables repair effect uptake and recheck where fixed append-only state stops,
@@ -25,7 +25,11 @@ whole-system Trellis comparison over that host. E94's first checkpoint shows
 identical catalog traversal and no construction in either arm; V1's grounded
 scaffold adds cost and exhibits lossy same-source replacement. E95 preserves
 the exact configurations for one post-catalog continuation rather than tuning
-the scaffold before its construction utility is observed.
+the scaffold before its construction utility is observed. E96 now observes it:
+V0 repeats all acquisition, while V1 immediately accumulates exact task work.
+The V1 artifact remains incomplete and its mutation effects exhaust the active
+packet before verification. Offline bounded effect/currentness lifecycle work
+is selected; no live successor is authorized.
 
 ## Research-phase reset
 
@@ -54,21 +58,21 @@ The program will be exact about what happened and provisional about why it
 happened, what conceptual role a representation played, and which mechanism
 should follow.
 
-## Current route after the first interaction checkpoint
+## Current route after the Trellis continuation
 
-E94 establishes that the refactored host can carry both whole systems through
-repeated authentic pressure to a clean review boundary. Before the catalog is
-complete, however, the two actors make the same reads and neither constructs.
-The treatment register is grounded but expensive, costs cache and exact
-residency, and loses some important earlier facts through same-source
-replacement.
+E96 answers the post-catalog question. V0 restarts the catalog and creates no
+work. V1 immediately creates a twelve-source ledger and five exact decision
+sections, establishing a strong local whole-configuration construction signal.
+The signal comes with two costs: lossy scaffold selection enters the durable
+artifact, and append-only mutation effects exhaust prompt capacity before the
+first check.
 
-The high-ROI question is now the transition after pending RESULT-012 becomes
-visible. E95 resumes the exact checkpoints with no treatment repair. This
-preserves the only valid comparison of whether the complete frozen
-configuration changes construction timing, granularity, reopen demand, or
-artifact accumulation. The second checkpoint again requires qualitative
-review; any policy change or further continuation requires a new experiment.
+The high-ROI work is now offline host lifecycle design. Exact mutation history
+stays externally custodied, but only the pending or current effect/currentness
+state should remain model-facing once the full current candidate already
+contains older mutations. This is required to restore the complete
+construction-to-verification interaction. It is not a third E96 tranche, a
+semantic prompt tune, or a selected GPU operation.
 
 ## Current terrain update through E72
 
@@ -946,3 +950,24 @@ system never reached repair. No next research experiment or GPU operation is
 selected. Any later route must begin from a new whole-system interaction
 question with prospective reachability and downstream artifact/evaluation
 opportunity.
+
+## E96 route update
+
+The refactored Trellis continuation is complete. It supplies the compound
+interaction signal that E94 could not yet expose:
+
+- V0 repeats the full catalog after complete delivery and still creates no
+  task work;
+- V1 immediately converts bounded semantic/evidence state into an exact ledger
+  and five incremental sections;
+- V1's scaffold selection losses propagate into those exact artifacts; and
+- six append-only candidate effects beside the full current candidate exhaust
+  the prompt before verification.
+
+The roadmap therefore does not select another scaffold carrier or a longer
+checkpoint continuation. It selects an offline whole-lifecycle repair:
+candidate effects stay exact and auditable externally, pending delivery remains
+strict, and the model-facing effect/currentness state becomes replaceable after
+delivery. The next live system must still include construction, effect uptake,
+current check, repair, recheck, readiness, and external adjudication. No GPU
+operation is currently selected or authorized.

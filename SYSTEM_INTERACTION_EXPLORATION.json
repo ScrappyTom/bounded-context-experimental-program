@@ -1,7 +1,7 @@
 {
   "schema_version": "system-interaction-exploration-contract-v1",
   "date": "2026-08-29",
-  "status": "e95_checkpoint_continuation_stage0_qualified_live_unauthorized",
+  "status": "e96_continuation_complete_positive_construction_signal_effect_lifecycle_blocked",
   "unit_of_analysis": "whole_configuration_trajectory",
   "e37_role": "low_pressure_reference_not_interaction_result",
   "required_activation": "prospectively_frozen_condition_specific_live_event",
@@ -92,7 +92,7 @@
     "automatic_continuation": false
   },
   "selected_whole_system_interaction": {
-    "stage": "E95",
+    "stage": "E96",
     "apparatus_commit": "381e44c9eb3c3c10a793903155c2482f5f8c570f",
     "run_id": "2026-08-29-trellis-refactored-interaction-tranche-v0",
     "fresh_trajectory": true,
@@ -124,7 +124,7 @@
     "attempts_per_call": 1,
     "retries": 0,
     "provider_free_regression_tests_passed": 295,
-    "live_authorized": false,
+    "live_authorized": true,
     "causal_unit": "whole_evolving_configuration",
     "automatic_continuation": false,
     "first_checkpoint_result": {
@@ -149,9 +149,37 @@
       "maximum_additional_maintenance_calls": 6,
       "maximum_additional_provider_calls": 30,
       "maximum_additional_serialized_tokens": 520028,
-      "live_authorized": false,
-      "automatic_third_tranche": false
+      "live_authorized": true,
+      "automatic_third_tranche": false,
+      "result_commit": "ef90d6d7f80b838fd03fb54e57d61f20f98a00d0",
+      "actual_additional_actor_calls": 18,
+      "actual_additional_maintenance_calls": 5,
+      "actual_additional_provider_calls": 23,
+      "actual_additional_serialized_tokens": 383176,
+      "V0_disposition": "checkpoint_pause_after_complete_catalog_replay",
+      "V1_disposition": "capacity_blocked_after_six_candidate_mutations",
+      "V1_closure_readiness": "not_ready",
+      "useful_completion_count": 0
+    },
+    "next_offline_work": {
+      "status": "selected_offline_no_gpu_authorization",
+      "document": "NEXT_OFFLINE_CANDIDATE_EFFECT_LIFECYCLE.md",
+      "boundary": "bounded_exact_candidate_effect_uptake_and_currentness",
+      "semantic_policy_change": false,
+      "automatic_live_successor": false
     }
+  },
+  "current_program_boundary": {
+    "stage": "E96",
+    "status": "offline_effect_lifecycle_design_selected",
+    "result_document": "E96_TRELLIS_REFACTORED_INTERACTION_CONTINUATION_RESULT.md",
+    "result_commit": "ef90d6d7f80b838fd03fb54e57d61f20f98a00d0",
+    "supported_interaction": "temporary_provenance_scaffold_x_exact_incremental_artifact_changed_acquisition_into_construction",
+    "semantic_failure": "same_source_replacement_losses_propagated_into_not_ready_artifact",
+    "mechanical_failure": "append_only_non_relief_eligible_candidate_effects_blocked_verification",
+    "next_document": "NEXT_OFFLINE_CANDIDATE_EFFECT_LIFECYCLE.md",
+    "gpu_operation_selected": false,
+    "gpu_operation_authorized": false
   },
   "closed_first_interaction": {
     "axis_a": "source_bound_semantic_residue_after_exact_body_demotion",

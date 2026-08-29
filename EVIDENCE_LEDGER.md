@@ -95,6 +95,7 @@ means literal local behavior with a material apparatus qualification.
 | E79 | LR/AF/NQ | Keystone treatment-free pressure screen | Nine complete-source reads delivered eight sources and left CYBER pending at 22,267 prompt tokens; one first-fit substitution restored feasibility, but the frozen ten-source/domain gate was not reached and the candidate remained empty. | Authentic pressure and relief only; no maintenance, construction, or causal treatment. | [screen result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/eacafe5e4b46fcb3ffbadd90e9823d16796f6f4e) |
 | E80 | AF/NQ | Keystone event-triggered continuation qualification | The count gate was retired; exact parent restoration, common relief, pending delivery, lifecycle-event activation, branch cloning, bound repair, budgets, and authorization-gated runner passed provider-free. | Zero calls; trigger reachability and utility unmeasured. | [preflight](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/c443f39fca414303c6f3b4efdfa94ba0b06a37b7) |
 | E81 | LR/AF/NQ | Keystone event-triggered common continuation | E81 delivered all fourteen sources under exact custody/relief, but ten maintenance plus eight actor calls left the candidate empty. Maintenance admitted 8/48 claims across three sources and no relationships; the actor then reacquired MANDATE and TRACK. | Valid nonactivation: no V0/V1 branch or treatment decision occurred. Corrected whole pre-treatment cost is 27 calls/300,754 tokens. Keystone closes; bounded-causal utility remains untested. | [result and qualitative audit](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/133bd274e930806634006ed7644b25c4b553dab8) |
+| E96 | LR/AF | Trellis refactored-host continuation | V0 repeated the complete twelve-read catalog after full delivery and made no work. V1 immediately wrote a twelve-source ledger and five decision sections across six exact mutations without reopen, then stopped before verification when six non-relief-eligible mutation effects co-resided with the full current candidate. | One task and one trajectory per configuration; whole-configuration interaction, not register-only causality. V1 remained not ready, scaffold replacement losses entered the artifact, and neither arm reached useful completion. | [continuation result](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/ef90d6d7f80b838fd03fb54e57d61f20f98a00d0) |
 | H01 | LR | recurrent exact-current-state replacement | Mechanical replacement can recurrently carry bounded observations/effects without resident construction chronology. | Bounded local substrate only; state selection and orientation remain unresolved. | E08–E09 |
 | H02 | IN | bounded working note | The tested additive, one-shot freeform-note formulation did not establish benefit: note expression failed in one case and exact-result absorption failed in the other. | Does not disconfirm bounded notes generally; constrained note output, replacement semantics, or hybrid residency would be different treatments. | E09–E10 |
 | H03 | LR | model-managed exact residency | Passive optional controls were not used before censoring. A later forced maintenance mode made selection reachable and feasible, but both managers over-released and both subsequent actors immediately requested a released source; useful next-decision preservation was 0/2. | Two interfaces and one task/world. The forced treatment tested one-shot release selection, not persistent workspace negotiation or every economic objective. | E19, E33–E34 |
@@ -1716,3 +1717,30 @@ decisions through one further review checkpoint.
 
 Disposition: **AF/NQ** — live continuation is frozen but unauthorized. No
 third tranche is automatic.
+
+# E96 — Trellis continuation exposes construction and effect-lifecycle coupling
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@ef90d6d7f80b838fd03fb54e57d61f20f98a00d0`
+
+V0 delivered pending RESULT-012 and then repeated the exact twelve-action
+catalog traversal. It reached 24 cumulative actor calls with no artifact
+mutation, check, or submission.
+
+V1 changed action category immediately. It created a 472-word exact evidence
+ledger covering twelve sources and five decision sections across six candidate
+transitions, with no raw-source reopen. The final 904-word decision remained
+not ready and omitted important requirement relationships that its lossy
+same-source scaffold no longer represented.
+
+The next V1 packet required 21,041 prompt tokens against a 20,992-token
+allowance. All ordinary source bodies were external, but five delivered and one
+pending candidate-effect bodies were non-relief-eligible beside the complete
+current candidate. The host stopped before provider I/O. The sealed continuation
+used 18 actor, five maintenance, 23 provider calls and 383,176 serialized tokens
+within authorization; 298 apparatus tests pass.
+
+Disposition: **LR/AF** — strong local whole-configuration
+acquisition-to-construction signal, negative semantic-fidelity and
+effect-lifecycle findings, no useful completion. The exact route is closed;
+offline bounded effect/currentness lifecycle work is selected.

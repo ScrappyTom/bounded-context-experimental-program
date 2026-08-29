@@ -2,7 +2,7 @@
 
 Date: 2026-08-29
 
-Status: governing direction through E95; E84 qualifies the event-driven host
+Status: governing direction through E96; E84 qualifies the event-driven host
 core offline and E85 hardens its live request/exposure, rejection, reopen,
 resource, checkpoint-chain, and review seams provider-free. E86 restores the
 immutable full model already named by the frozen lock and exactly qualifies
@@ -59,7 +59,13 @@ twelve catalog reads and make no artifact change, while V1 pays for a grounded
 but partly lossy semantic register. `RESULT-012` remains pending in both arms,
 so no complete-catalog construction decision has occurred. E95 freezes an
 unchanged checkpoint continuation; it does not repair the treatment discovered
-at E94.
+at E94. E96 completes that continuation. V0 replays the full catalog, while V1
+immediately accumulates an exact ledger and five decision sections. The same V1
+path also capitalizes semantic selection loss and makes verification
+unreachable when append-only non-relief-eligible mutation effects coexist with
+the full current candidate. The active offline boundary is exact candidate-
+effect uptake/currentness across the construction-to-verification transition,
+not another scaffold prompt or checkpoint continuation.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 

@@ -17,7 +17,7 @@ class SystemInteractionDirectionTests(unittest.TestCase):
 
     def test_unit_is_whole_configuration_not_component(self):
         self.assertEqual(
-            "e95_checkpoint_continuation_stage0_qualified_live_unauthorized",
+            "e96_continuation_complete_positive_construction_signal_effect_lifecycle_blocked",
             self.contract["status"],
         )
         self.assertEqual(
@@ -36,14 +36,14 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         )
 
         selected = self.contract["selected_whole_system_interaction"]
-        self.assertEqual("E95", selected["stage"])
+        self.assertEqual("E96", selected["stage"])
         self.assertEqual(
             "whole_evolving_configuration", selected["causal_unit"]
         )
         self.assertEqual(24, selected["maximum_actor_calls_total"])
         self.assertEqual(12, selected["maximum_maintenance_calls_total"])
         self.assertEqual(36, selected["maximum_provider_calls_total"])
-        self.assertFalse(selected["live_authorized"])
+        self.assertTrue(selected["live_authorized"])
         self.assertFalse(selected["automatic_continuation"])
         self.assertEqual(
             "0626259773f1411272566caa1b4a00c83e70e606",
@@ -54,7 +54,15 @@ class SystemInteractionDirectionTests(unittest.TestCase):
                 "same_source_replacement_semantically_lossy"
             ]
         )
-        self.assertFalse(selected["selected_continuation"]["live_authorized"])
+        self.assertTrue(selected["selected_continuation"]["live_authorized"])
+        self.assertEqual(
+            "ef90d6d7f80b838fd03fb54e57d61f20f98a00d0",
+            selected["selected_continuation"]["result_commit"],
+        )
+        self.assertEqual(
+            "selected_offline_no_gpu_authorization",
+            selected["next_offline_work"]["status"],
+        )
 
     def test_closed_scout_measured_interaction_and_successor_are_explicit(self):
         closed = self.contract["closed_first_interaction"]

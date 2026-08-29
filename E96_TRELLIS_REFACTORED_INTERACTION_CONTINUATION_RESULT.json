@@ -1,0 +1,43 @@
+{
+  "schema": "e96-trellis-refactored-interaction-continuation-result-v0",
+  "date": "2026-08-29",
+  "status": "valid_sealed_whole_system_result_no_useful_completion",
+  "freeze_commit": "18e17806e906d57943ab9b7461def708084d69b1",
+  "result_commit": "ef90d6d7f80b838fd03fb54e57d61f20f98a00d0",
+  "run_id": "2026-08-29-trellis-refactored-interaction-continuation-v0",
+  "actual_additional": {
+    "actor_calls": 18,
+    "maintenance_calls": 5,
+    "provider_calls": 23,
+    "serialized_tokens": 383176,
+    "attempts_per_call": 1,
+    "retries": 0
+  },
+  "V0": {
+    "disposition": "checkpoint_pause",
+    "cumulative_actor_calls": 24,
+    "catalog_replay_actions": 12,
+    "candidate_transitions": 0,
+    "useful_completion": false
+  },
+  "V1": {
+    "disposition": "capacity_blocked",
+    "cumulative_actor_calls": 18,
+    "cumulative_maintenance_calls": 11,
+    "candidate_transitions": 6,
+    "ledger_words": 472,
+    "ledger_source_count": 12,
+    "decision_words": 904,
+    "decision_source_count": 8,
+    "closure_readiness": "not_ready",
+    "next_prompt_tokens": 21041,
+    "prompt_allowance": 20992,
+    "delivered_resident_candidate_effects": 5,
+    "pending_candidate_effects": 1,
+    "positive_relief_candidates": 0,
+    "useful_completion": false
+  },
+  "causal_unit": "whole_evolving_configuration",
+  "next_offline_boundary": "bounded_exact_candidate_effect_uptake_and_currentness_lifecycle",
+  "automatic_gpu_successor": false
+}

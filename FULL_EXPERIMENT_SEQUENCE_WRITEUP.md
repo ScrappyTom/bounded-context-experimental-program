@@ -1,10 +1,11 @@
 # What we learned: the full bounded-context experimental sequence
 
-Date: 2026-08-25
+Date: 2026-08-29
 
-Status: evidence-bounded program narrative through E81; the latest route used
-the sealed Keystone pressure prefix and an exact lifecycle event rather than a
-source-count threshold
+Status: evidence-bounded program narrative through E96; the latest Trellis
+continuation produced a positive acquisition-to-construction interaction and
+then exposed semantic-selection and candidate-effect lifecycle failures before
+verification
 
 ## What we learned
 
@@ -2256,3 +2257,50 @@ candidate/check/repair/recheck/closure lifecycle from action 13 onward. The
 live continuation remains separately authorized, bounded to one additional
 twelve-call tranche per arm, and must stop for another literal review or an
 earlier terminal/resource disposition.
+
+# 81. E96 converts evidence in V1 and repeats acquisition in V0
+
+E96 resumed both exact checkpoints unchanged. V0 delivered the final pending
+catalog result and then repeated all twelve original source reads in the same
+order. After 24 cumulative actor decisions it had made no artifact mutation,
+check, or submission. Exact external custody preserved availability, but not an
+action-ready sense that the evidence had already been consumed.
+
+V1 made a qualitatively different first post-catalog decision. It wrote a
+472-word evidence ledger covering all twelve sources, then added five decision
+sections across five more admitted mutations. No raw source was reopened. The
+semantic scaffold, exact ledger, incremental artifact affordances, recent
+maintenance state, and resulting prompt evolution jointly shifted the system
+from acquisition to cumulative work.
+
+This was not useful completion. The same-source replacement lifecycle had
+discarded important governing values in favor of grounded later table rows.
+The exact ledger and decision consequently preserved incomplete requirement
+relations. The candidate was adjudicated not ready.
+
+The host then exposed another lifecycle interaction. Every mutation created an
+exact candidate-effect result. Five delivered effects and one pending effect
+remained non-relief-eligible beside the complete current candidate. With all
+ordinary source results already externalized, call 19 projected to 21,041
+prompt tokens against a 20,992-token allowance and stopped before provider I/O.
+Construction had become possible, but verification had become physically
+unreachable.
+
+E96 therefore produces three coupled findings:
+
+```text
+no semantic/work residue
+→ full catalog replay
+
+temporary semantic residue + exact artifact
+→ early cumulative construction
+
+lossy semantic selection + append-only exact effects
+→ incomplete artifact + verification capacity failure
+```
+
+The next work is offline and host-mechanical: preserve every effect in exact
+external custody while bounding the model-facing latest-effect/currentness
+projection once the complete current candidate already contains older effects.
+This repairs the construction-to-verification lifecycle; it does not authorize
+another E96 continuation or a new GPU call.

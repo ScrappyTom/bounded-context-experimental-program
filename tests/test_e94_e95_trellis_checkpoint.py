@@ -44,7 +44,7 @@ def test_e95_continues_exact_system_without_repair() -> None:
     )
     selected = contract["selected_whole_system_interaction"]
     continuation = selected["selected_continuation"]
-    assert selected["stage"] == "E95"
+    assert selected["stage"] == "E96"
     assert continuation["apparatus_commit"] == (
         "18e17806e906d57943ab9b7461def708084d69b1"
     )
@@ -53,4 +53,8 @@ def test_e95_continues_exact_system_without_repair() -> None:
     assert continuation["maximum_additional_maintenance_calls"] == 6
     assert continuation["maximum_additional_provider_calls"] == 30
     assert continuation["maximum_additional_serialized_tokens"] == 520028
-    assert continuation["live_authorized"] is False
+    assert continuation["live_authorized"] is True
+    assert continuation["result_commit"] == (
+        "ef90d6d7f80b838fd03fb54e57d61f20f98a00d0"
+    )
+    assert continuation["useful_completion_count"] == 0

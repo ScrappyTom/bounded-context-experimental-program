@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-29
-Status: current program synthesis through E95; E84 closes the E83 host
+Status: current program synthesis through E96; E84 closes the E83 host
 modularity blocker offline and E85 hardens the final request, rejection,
 reopen, resource, checkpoint-chain, and review seams provider-free. E86
 restores the immutable full model already named by the frozen lock, removes the
@@ -23,8 +23,13 @@ checkpoint. Both arms make the same twelve catalog reads, leave `RESULT-012`
 pending, and retain the initial candidate. V1's six maintenance calls are
 grounded and admitted, but add cost, reduce cache reuse, externalize more exact
 evidence, and reveal semantically lossy same-source chunk replacement. E95
-freezes an unchanged exact-checkpoint continuation so the comparison can reach
-its first complete-catalog decision; live continuation remains unauthorized.
+froze an unchanged exact-checkpoint continuation. E96 ran it: V0 repeated the
+entire catalog without work, while V1 immediately created an exact evidence
+ledger and five decision sections. V1 remained not ready and then stopped
+because six non-relief-eligible candidate effects accumulated beside the
+complete current candidate. The result is a positive construction interaction,
+a negative semantic-fidelity result, and a negative effect-lifecycle result—not
+useful completion or a register-only effect.
 E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
@@ -73,6 +78,22 @@ or reinterpretation of E83.
 
 The detailed learned-first narrative for every phase is
 `FULL_EXPERIMENT_SEQUENCE_WRITEUP.md`.
+
+## E96 program update
+
+E96 closes the unchanged Trellis continuation. The literal contrast is not
+“memory versus no memory.” V0 had exact custody and receipts yet restarted the
+entire catalog. V1 had a lossy but grounded scaffold, an exact evidence ledger,
+incremental artifact operations, and recent maintenance exposure; together
+they induced six admitted artifact mutations without source reopen.
+
+This is the strongest fresh Trellis acquisition-to-construction signal, but it
+is not completion. The scaffold's replacement losses shaped an incomplete
+artifact, and append-only candidate effects then consumed the remaining packet
+capacity before any check. The selected next activity is the offline bounded
+effect-lifecycle design in `NEXT_OFFLINE_CANDIDATE_EFFECT_LIFECYCLE.md`. It is
+part of the complete construction-to-verification system and introduces no new
+semantic treatment. No live run is selected.
 
 ## Executive disposition
 
