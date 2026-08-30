@@ -2,7 +2,7 @@
 
 Date: 2026-08-29
 
-Status: updated through E100; Solace produced a positive acquisition-to-
+Status: updated through E102; Solace produced a positive acquisition-to-
 construction interaction and a negative fixed-scaffold verification result.
 Orchard transfers the phase-conditional system: bounded current verification
 enables repair effect uptake and recheck where fixed append-only state stops,
@@ -105,7 +105,13 @@ verification entry were reachable, but no current check occurred. E100 starts
 again from the original donor with readable/schema phase alignment and bounded
 rejected-response projection. It does not resume E99 or repair model output.
 
-The first review remains mandatory after at most six new actor calls. The review is
+E101 completes that first review. The actor entered verification, used current
+feedback, recovered from an exact section-version rejection, admitted one
+bounded repair, and rechecked without looping, but the artifact remains not
+ready. E102 freezes an unchanged-policy exact-checkpoint continuation for at
+most six further actor calls. It is selected but not authorized.
+
+The first review was mandatory after at most six new actor calls. The review is
 descriptive: it may authorize the unchanged remainder or stop the study, but a
 policy change starts a new experiment. Do not spend the run re-demonstrating
 offline packet feasibility, reinterpret the imported state as an E96 retry, or

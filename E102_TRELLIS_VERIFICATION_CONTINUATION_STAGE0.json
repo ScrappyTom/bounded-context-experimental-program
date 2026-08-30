@@ -1,0 +1,32 @@
+{
+  "schema": "e102-trellis-verification-continuation-stage0-v1",
+  "date": "2026-08-30",
+  "apparatus_commit": "97d84493ef72d271410ae590f6ead7e86c2b551a",
+  "run_id": "2026-08-30-trellis-e99-verification-lifecycle-continuation-v1",
+  "status": "provider_free_exact_resume_qualified_awaiting_authorization",
+  "parent_checkpoint_sha256": "4395a0bfa3de1d676040373e35944b93fb7d2b326bd23f9ae4eb8faed3b5d4a6",
+  "provider_free_probe": {
+    "prompt_tokens": 19247,
+    "prompt_limit": 20992,
+    "pending_result_delivered": "RESULT-024",
+    "action": "run_check",
+    "accepted": true,
+    "candidate_unchanged": true
+  },
+  "qualification": {
+    "full_repository_tests_passed": 318,
+    "ruff_passed": true,
+    "mypy_passed": true,
+    "gpu_provider_calls": 0
+  },
+  "limits": {
+    "maximum_actor_calls": 6,
+    "maximum_maintenance_calls": 1,
+    "maximum_provider_calls": 7,
+    "maximum_serialized_tokens": 338802,
+    "attempts_per_call": 1,
+    "retries": 0
+  },
+  "live_authorized": false,
+  "automatic_continuation": false
+}

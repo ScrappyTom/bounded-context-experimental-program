@@ -52,6 +52,21 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
+E101 records the repaired scout's mandatory live checkpoint. Across six actor
+calls, Qwen completed construction, entered verification, ran a current check,
+recovered from an exact section-version rejection, admitted one bounded repair,
+and rechecked the changed candidate without looping. The artifact remains
+`not_ready`, with only one of eight substantive groups met. See
+[E101](E101_TRELLIS_REPAIRED_VERIFICATION_CHECKPOINT_RESULT.md).
+
+E102 freezes unchanged-policy exact-checkpoint continuation at apparatus
+commit
+[`97d8449`](https://github.com/ScrappyTom/qwen38-artifact-coupled-integration-scout-v0/commit/97d84493ef72d271410ae590f6ead7e86c2b551a).
+Provider-free resume delivers pending current check `RESULT-024` in a feasible
+19,247-token packet; all 318 apparatus tests pass. The six-call continuation
+tranche is selected but not authorized. See
+[E102](E102_TRELLIS_VERIFICATION_CONTINUATION_STAGE0.md).
+
 E99 records the first live donor-derived use of E97. It delivered pending
 `RESULT-018`, admitted one further bounded section, and entered verification,
 but no check ran. The response schema had verification actions while the

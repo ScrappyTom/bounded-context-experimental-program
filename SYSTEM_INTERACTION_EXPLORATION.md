@@ -2,7 +2,7 @@
 
 Date: 2026-08-29
 
-Status: governing direction through E100; E84 qualifies the event-driven host
+Status: governing direction through E102; E84 qualifies the event-driven host
 core offline and E85 hardens its live request/exposure, rejection, reopen,
 resource, checkpoint-chain, and review seams provider-free. E86 restores the
 immutable full model already named by the frozen lock and exactly qualifies
@@ -89,6 +89,12 @@ donor. Exact E99 replay now leaves a feasible 16,335-token packet, and the
 complete provider-free path passes. The repaired live operation is selected
 but not authorized, and its first review occurs after at most six new actor
 calls.
+
+E101 then supplies the first repaired live checkpoint: Qwen enters
+verification, uses current checking, recovers from a section-version rejection,
+admits one bounded repair, and rechecks the changed candidate without looping.
+The artifact remains not ready. E102 freezes unchanged-policy exact-checkpoint
+continuation; the next six-call tranche is selected but not authorized.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 

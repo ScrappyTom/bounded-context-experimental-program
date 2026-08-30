@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-29
-Status: current program synthesis through E100; E84 closes the E83 host
+Status: current program synthesis through E102; E84 closes the E83 host
 modularity blocker offline and E85 hardens the final request, rejection,
 reopen, resource, checkpoint-chain, and review seams provider-free. E86
 restores the immutable full model already named by the frozen lock, removes the
@@ -242,6 +242,26 @@ same 18 actor, one maintenance, 19 provider, and 450,000-token limits with a
 review after at most six actor calls. Offline completion proves transport and
 reachability only. A live positive remains donor-derived and earns transfer,
 not architecture promotion.
+
+## E101/E102 program update
+
+E101 shows that the repaired interface changed the live systems boundary, not
+just offline packet fit. Qwen used the readable verification contract to run a
+current check and issue a bounded section repair. Its first optimistic section
+hash was stale, but the exact rejection exposed the current hash; Qwen retained
+the repair content, corrected the binding, admitted the mutation, and rechecked
+the changed candidate. This is coherent feedback uptake without looping.
+
+Quality remains far from completion. Only authority passes; heat, power, water,
+clinic/shelter, transit/comms, supply/labor, and currentness still fail. The
+artifact also has a model-authored missing newline at one section boundary.
+Fewer calls or successful phase entry are therefore not scored as completion.
+
+The frozen live launcher had no resume command beyond its mandatory checkpoint.
+E102 adds only exact checkpoint hydration and a bounded continuation launcher.
+The unchanged state exposes pending check `RESULT-024` in a 19,247-token
+provider-free packet; all 318 tests pass. A further live tranche requires a new
+commit-bound authorization and pauses again after at most six calls.
 
 ## Executive disposition
 

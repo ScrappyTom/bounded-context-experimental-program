@@ -50,17 +50,17 @@ def test_e100_freezes_only_the_repaired_route_without_live_authorization() -> No
     assert value["live_authorized"] is False
 
 
-def test_current_boundary_points_to_e100_and_preserves_e99_as_history() -> None:
+def test_current_boundary_preserves_e100_and_e99_as_history() -> None:
     contract = json.loads(
         (ROOT / "SYSTEM_INTERACTION_EXPLORATION.json").read_text(encoding="utf-8")
     )
     boundary = contract["current_program_boundary"]
-    assert boundary["stage"] == "E100"
+    assert boundary["stage"] == "E102"
     assert boundary["result_commit"] == (
-        "76091fc5885d25d31becccbb0edb8fc6a3681bac"
+        "97d84493ef72d271410ae590f6ead7e86c2b551a"
     )
     assert boundary["live_predecessor_result"] == (
-        "E99_TRELLIS_E97_VERIFICATION_LIFECYCLE_RESULT.md"
+        "E101_TRELLIS_REPAIRED_VERIFICATION_CHECKPOINT_RESULT.md"
     )
     assert boundary["gpu_operation_selected"] is True
     assert boundary["gpu_operation_authorized"] is False
@@ -68,7 +68,7 @@ def test_current_boundary_points_to_e100_and_preserves_e99_as_history() -> None:
     live = contract["active_host_runtime_refactor"]["e99_live_lifecycle_result"]
     assert live["sealed_route_resumed"] is False
     selected = contract["active_host_runtime_refactor"]["selected_lifecycle_scout"]
-    assert selected["stage"] == "E100"
+    assert selected["stage"] == "E102"
     assert selected["run_id"] == (
-        "2026-08-29-trellis-e99-verification-lifecycle-scout-v1"
+        "2026-08-30-trellis-e99-verification-lifecycle-continuation-v1"
     )

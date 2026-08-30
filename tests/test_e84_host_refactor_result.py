@@ -36,7 +36,7 @@ def test_governing_contract_records_refactor_and_keeps_interaction_unit() -> Non
     assert refactor["gpu_operation_selected"] is True
     assert refactor["gpu_operation_authorized"] is False
     assert refactor["next_operation"] == (
-        "e100_repaired_donor_lifecycle_scout_v1"
+        "e102_exact_checkpoint_continuation_v1"
     )
 
 
