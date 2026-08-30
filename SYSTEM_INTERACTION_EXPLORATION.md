@@ -2,7 +2,7 @@
 
 Date: 2026-08-30
 
-Status: governing direction through E103; E84 qualifies the event-driven host
+Status: governing direction through E104; E84 qualifies the event-driven host
 core offline and E85 hardens its live request/exposure, rejection, reopen,
 resource, checkpoint-chain, and review seams provider-free. E86 restores the
 immutable full model already named by the frozen lock and exactly qualifies
@@ -98,7 +98,17 @@ continuation. E103 executes two calls: exact rejection feedback is used
 coherently, but unsafe section-boundary semantics corrupt the artifact and the
 pending effect cannot enter a 21,318-token next packet. The active work is now
 offline reconciliation of artifact-boundary correctness and verification-state
-turnover. The corrupted route is closed and no GPU operation is authorized.
+turnover. E104 completes that work: exact current verification can replace
+duplicate resident check bodies only after exact result/candidate/projection
+binding, while pending effects remain exact and all check bytes remain
+reopenable. The E103 packet becomes feasible provider-free, but the corrupted
+route remains closed and no GPU operation is authorized.
+
+The next systems question is behavioral and lifecycle-complete, not another
+receipt variant: on a clean prospectively frozen trajectory, does the combined
+system retain orientation after check turnover and proceed through effect
+uptake, current check, bounded repair, current recheck, and correct closure or
+explicit incomplete stop? No such live run is selected yet.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 

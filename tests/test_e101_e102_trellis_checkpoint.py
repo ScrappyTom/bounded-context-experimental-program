@@ -37,7 +37,7 @@ def test_e102_freeze_remains_historical_after_e103_execution() -> None:
     contract = json.loads(
         (ROOT / "SYSTEM_INTERACTION_EXPLORATION.json").read_text(encoding="utf-8")
     )
-    assert contract["current_program_boundary"]["stage"] == "E103"
+    assert contract["current_program_boundary"]["stage"] == "E104"
     assert contract["current_program_boundary"]["gpu_operation_selected"] is False
     scout = contract["active_host_runtime_refactor"]["selected_lifecycle_scout"]
     assert scout["stage"] == "E102"

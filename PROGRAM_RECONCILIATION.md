@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-30
-Status: current program synthesis through E103; E84 closes the E83 host
+Status: current program synthesis through E104; E84 closes the E83 host
 modularity blocker offline and E85 hardens the final request, rejection,
 reopen, resource, checkpoint-chain, and review seams provider-free. E86
 restores the immutable full model already named by the frozen lock, removes the
@@ -56,8 +56,13 @@ E103 runs that continuation for two calls: exact rejection feedback is used
 coherently, but unsafe section-boundary semantics corrupt the artifact and the
 pending repair effect is then blocked by a 326-token verification-history
 deficit. The sealed donor is closed. Prospective transport/evaluator hardening
-and a no-GPU verification-residency reconciliation are selected; no live
-operation is authorized.
+and a no-GPU verification-residency reconciliation are selected. E104 completes
+that reconciliation: complete check bodies duplicated the replaceable current
+verification state; exact result/candidate/projection binding now permits only
+delivered represented checks to become reopenable receipts. The E103 boundary
+projects at 20,548 offline tokens with pending `RESULT-026` still exact. The
+provider-free lifecycle reaches passing recheck and submission, but no sealed
+uncorrupted donor checkpoint exists and no live operation is authorized.
 E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
@@ -296,6 +301,38 @@ The route is closed and will not resume from the corrupted candidate. The next
 stage is an offline, role-by-role verification residency audit. It may use only
 delivery, currentness, lineage, action disposition, phase identity, and exact
 custody—not host judgments of semantic importance.
+
+## E104 program update
+
+E104 identifies an exact verification-specific duplication. The latest check
+projection was present both in complete delivered `RESULT-024` and in the
+replaceable `current_verification_frame`; older `RESULT-021` also remained
+resident. Their exact offline marginal costs were approximately 912 and 899
+tokens against a 326-token historical live deficit.
+
+The prospective host transition requires the verification slot to bind the
+exact result ID, result hash, evaluated candidate hash, check-projection hash,
+complete findings, and reopen action. Only after the represented check has
+crossed a completed invocation may it or an older delivered check leave full
+residency. The host infers neither semantic uptake nor reduced importance.
+
+At the exact pre-terminal E103 state, the bound packet grows to 21,522 offline
+tokens before turnover and falls to 20,548 after `RESULT-021` and `RESULT-024`
+become receipts. Pending `RESULT-026` remains exact. Applying the observed
+17-token live/offline difference still leaves 427 projected tokens, but that is
+not a live qualification.
+
+The donor-derived fixture stop rule fired: clean version-007 artifact bytes are
+preserved, but no sealed checkpoint exists at that state; the next sealed
+checkpoint already carries the version-008 heading corruption. The program did
+not synthesize a checkpoint from mismatched historical pieces. A separate
+provider-free lifecycle qualifies exact turnover, reopen, repair, passing
+recheck, and submission. All 328 tests pass.
+
+E104 is mechanical infrastructure evidence. The next live evidence, if later
+selected, must come from a new clean prospectively frozen whole-lifecycle Stage
+0 under the corrected transport and E104 host. E103 remains closed, and no GPU
+operation is authorized.
 
 ## Executive disposition
 

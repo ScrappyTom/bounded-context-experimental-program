@@ -2,8 +2,8 @@
 
 Date: 2026-08-30
 
-Status: selected no-GPU systems audit after E103. No live continuation is
-authorized or eligible.
+Status: completed as E104. No live continuation is authorized or eligible.
+See `E104_VERIFICATION_RESIDENCY_RECONCILIATION.md`.
 
 ## Why this work exists
 
@@ -94,3 +94,16 @@ loop remains unreachable.
 - recommendation to freeze a new whole-lifecycle scout or stop.
 
 No GPU use is part of this stage.
+
+## Completion disposition
+
+- A/B complete: section transport and evaluator fixes are prospective and
+  versioned; the exact call-27 packet was reconstructed by role.
+- C complete: only exact check turnover was selected. It projects feasibility
+  without touching pending effects, rejections, or phase state.
+- D stopped on donor eligibility: version-007 candidate bytes are clean, but
+  no sealed checkpoint exists there. A separate provider-free lifecycle fixture
+  qualifies mechanics without pretending to be donor-derived.
+- Exact check reopen, binding tamper failure, passing recheck, and correct
+  provider-free closure are tested.
+- No architecture promotion or GPU authorization follows.

@@ -52,7 +52,23 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
-E103 closes the authorized E102 continuation after two normal actor calls. Qwen
+E104 completes the selected no-GPU verification-residency reconciliation.
+The blocked E103 packet duplicated delivered check findings in complete check
+bodies and the replaceable current-verification state. A prospective exact
+binding now permits only delivered checks represented by that state to become
+reopenable receipts. At the E103 boundary, `RESULT-021` and `RESULT-024` turn
+over while pending `RESULT-026` remains exact; the packet projects at 20,548
+offline tokens, 444 below allowance. A provider-free full lifecycle reaches
+passing recheck and submission, all 328 tests pass, and zero model calls were
+made. The historical route remains closed because its candidate is corrupted
+and no sealed uncorrupted checkpoint exists. See
+[E104](E104_VERIFICATION_RESIDENCY_RECONCILIATION.md).
+
+No live run is selected. The next eligible live route would require a new,
+prospectively frozen clean whole-lifecycle Stage 0 under the corrected artifact
+transport and E104 host; it is not an E103 continuation.
+
+E103 closed the authorized E102 continuation after two normal actor calls. Qwen
 used the pending current check to propose a targeted authority/currentness
 repair, absorbed an exact section-hash rejection, and repeated the same repair
 with the corrected hash. The accepted mutation exposed a host section-boundary
@@ -67,9 +83,9 @@ turnover—not construction-effect duplication—as the next capacity boundary.
 The run is sealed and closed. See
 [E103](E103_TRELLIS_VERIFICATION_CONTINUATION_RESULT.md).
 
-The selected successor is the no-GPU
-[verification residency reconciliation](NEXT_OFFLINE_VERIFICATION_RESIDENCY_RECONCILIATION.md).
-No live continuation is authorized or eligible.
+Its selected no-GPU
+[verification residency reconciliation](NEXT_OFFLINE_VERIFICATION_RESIDENCY_RECONCILIATION.md)
+is complete as E104. No live continuation is authorized or eligible.
 
 E101 records the repaired scout's mandatory live checkpoint. Across six actor
 calls, Qwen completed construction, entered verification, ran a current check,

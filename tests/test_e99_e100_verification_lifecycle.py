@@ -55,9 +55,9 @@ def test_current_boundary_preserves_e100_and_e99_as_history() -> None:
         (ROOT / "SYSTEM_INTERACTION_EXPLORATION.json").read_text(encoding="utf-8")
     )
     boundary = contract["current_program_boundary"]
-    assert boundary["stage"] == "E103"
+    assert boundary["stage"] == "E104"
     assert boundary["result_document"] == (
-        "E103_TRELLIS_VERIFICATION_CONTINUATION_RESULT.md"
+        "E104_VERIFICATION_RESIDENCY_RECONCILIATION.md"
     )
     assert boundary["live_predecessor_result"] == (
         "E103_TRELLIS_VERIFICATION_CONTINUATION_RESULT.md"

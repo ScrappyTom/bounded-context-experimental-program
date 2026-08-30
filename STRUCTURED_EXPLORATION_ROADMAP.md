@@ -2,7 +2,7 @@
 
 Date: 2026-08-30
 
-Status: updated through E103; Solace produced a positive acquisition-to-
+Status: updated through E104; Solace produced a positive acquisition-to-
 construction interaction and a negative fixed-scaffold verification result.
 Orchard transfers the phase-conditional system: bounded current verification
 enables repair effect uptake and recheck where fixed append-only state stops,
@@ -38,7 +38,10 @@ admitted another section, and entered verification, but split machine/readable
 phase guidance plus full residency of two rejected outputs censored the route
 before a check. E100 repairs only those apparatus seams and replays the exact
 failure to a feasible 16,335-token next packet. The repaired donor-derived
-scout is selected, separately bounded, and not yet authorized.
+scout then reached a current check and targeted repair, but E103 closed after a
+host boundary corruption and duplicate verification residency blocked the next
+pending effect. E104 fixes only the mechanical verification-residency
+duplication provider-free. No live successor is selected.
 
 ## Research-phase reset
 
@@ -1037,3 +1040,19 @@ artifact mutation boundary
 
 Only host-mechanical relations may change residency. The audit cannot rank
 semantic importance or infer model understanding. No GPU operation is selected.
+
+## E104 route update
+
+The offline reconciliation is complete. The E103 packet carried the latest
+candidate-bound check twice: once as a full delivered result and again inside
+the replaceable current-verification state. Under exact result, candidate, and
+projection bindings, delivered `RESULT-021` and `RESULT-024` can become exact
+reopenable receipts while pending `RESULT-026` remains exact. The reconstructed
+packet falls to 20,548 tokens, leaving 444 tokens of offline headroom (427 if
+the observed 17-token live delta repeats).
+
+This is mechanical infrastructure, not live utility evidence. The clean v007
+artifact has no sealed checkpoint, while the next sealed checkpoint is already
+corrupted, so no donor state was invented and E103 remains closed. Any future
+live work requires a clean, prospectively frozen whole-lifecycle Stage 0 with
+correct section transport and the E104 rule. No GPU operation is selected.

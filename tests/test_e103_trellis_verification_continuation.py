@@ -23,10 +23,10 @@ def test_e103_records_closed_corrupted_route_and_offline_successor() -> None:
     assert result["prompt_allowance"] == 20_992
     assert result["artifact_boundary_corrupted"] is True
     assert result["route_closed"] is True
-    assert boundary["stage"] == "E103"
+    assert boundary["stage"] == "E104"
     assert boundary["gpu_operation_selected"] is False
-    assert boundary["next_document"] == (
-        "NEXT_OFFLINE_VERIFICATION_RESIDENCY_RECONCILIATION.md"
+    assert boundary["live_predecessor_result"] == (
+        "E103_TRELLIS_VERIFICATION_CONTINUATION_RESULT.md"
     )
 
 
