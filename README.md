@@ -38,6 +38,9 @@ The earlier whole-method policy and governance contracts remain historical in
 [MANDATORY_EXPERIMENTAL_GOVERNANCE.md](MANDATORY_EXPERIMENTAL_GOVERNANCE.md).
 The learned-first narrative covering the full experiment sequence is
 [FULL_EXPERIMENT_SEQUENCE_WRITEUP.md](FULL_EXPERIMENT_SEQUENCE_WRITEUP.md).
+The restart-oriented summary of where the program has been, where it is paused,
+and where it is going is
+[PROJECT_PAUSE_HANDOFF_2026-08-30.md](PROJECT_PAUSE_HANDOFF_2026-08-30.md).
 The historical machine aggregate through E81 and its recomputation receipt are
 [PROGRAM_STAGE_AGGREGATE.json](PROGRAM_STAGE_AGGREGATE.json) and
 [PROGRAM_STAGE_AGGREGATE_RECEIPT.json](PROGRAM_STAGE_AGGREGATE_RECEIPT.json).
@@ -51,6 +54,11 @@ Each measured experiment remains a separately frozen, auditable repository.
 Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
+
+The project is deliberately paused by the owner. E107 remains frozen but is not
+GPU-authorized; no live continuation or automatic successor may run during the
+pause. The exact restart state and checklist are in the
+[project pause handoff](PROJECT_PAUSE_HANDOFF_2026-08-30.md).
 
 E106 records the first clean prospective live checkpoint. Across 12 actor and
 six maintenance calls, Qwen completed a coherent, non-recurrent sweep of the
