@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
-Date: 2026-08-29
-Status: current program synthesis through E102; E84 closes the E83 host
+Date: 2026-08-30
+Status: current program synthesis through E103; E84 closes the E83 host
 modularity blocker offline and E85 hardens the final request, rejection,
 reopen, resource, checkpoint-chain, and review seams provider-free. E86
 restores the immutable full model already named by the frozen lock, removes the
@@ -50,7 +50,14 @@ prompt residency of two rejected 4,096-token responses. E100 freezes only those
 apparatus repairs from the original donor, replays the exact failure to a
 feasible 16,335-token next packet, and requalifies the complete provider-free
 lifecycle. The repaired live route is selected with a mandatory review after
-at most six additional actor calls. It is not authorized.
+at most six additional actor calls. E101 reaches check, bounded repair, and
+current recheck without looping; E102 freezes exact-checkpoint continuation.
+E103 runs that continuation for two calls: exact rejection feedback is used
+coherently, but unsafe section-boundary semantics corrupt the artifact and the
+pending repair effect is then blocked by a 326-token verification-history
+deficit. The sealed donor is closed. Prospective transport/evaluator hardening
+and a no-GPU verification-residency reconciliation are selected; no live
+operation is authorized.
 E69 produced the first positive
 whole-trajectory signal for anchored semantic persistence coupled to exact
 incremental task work, and E70 reconciled that signal as a compound interaction
@@ -262,6 +269,33 @@ E102 adds only exact checkpoint hydration and a bounded continuation launcher.
 The unchanged state exposes pending check `RESULT-024` in a 19,247-token
 provider-free packet; all 318 tests pass. A further live tranche requires a new
 commit-bound authorization and pauses again after at most six calls.
+
+## E103 program update
+
+The unchanged-policy continuation made two coherent decisions. Qwen proposed a
+targeted authority/currentness replacement from the delivered check, received a
+`section_version_mismatch`, and repeated the same semantic repair with the
+exact current section hash. The second action was admitted.
+
+That admission exposed a host mutation-boundary defect. The parent artifact's
+heat heading had already been glued to the authority paragraph. The section
+parser therefore treated heat as authority content; the new replacement
+deleted it and then glued the power heading. The final candidate fell to 871
+words and eight cited sources and remained `not_ready`. A separate frozen T08
+regex also falsely rejected the candidate's literal "independent authorized
+acceptance" relation; a versioned prospective correction passes T08 but does
+not change the negative overall disposition.
+
+Call 27 then required 21,318 prompt tokens against 20,992. The pending effect
+remained undelivered even though ten actor calls and 298,937 serialized tokens
+remained. E97 had bounded applied construction history, but exact phase, check,
+rejection, candidate, and pending-effect state rebuilt a capacity burden during
+verification.
+
+The route is closed and will not resume from the corrupted candidate. The next
+stage is an offline, role-by-role verification residency audit. It may use only
+delivery, currentness, lineage, action disposition, phase identity, and exact
+custody—not host judgments of semantic importance.
 
 ## Executive disposition
 

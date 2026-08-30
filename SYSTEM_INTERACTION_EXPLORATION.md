@@ -1,8 +1,8 @@
 # System-interaction exploration
 
-Date: 2026-08-29
+Date: 2026-08-30
 
-Status: governing direction through E102; E84 qualifies the event-driven host
+Status: governing direction through E103; E84 qualifies the event-driven host
 core offline and E85 hardens its live request/exposure, rejection, reopen,
 resource, checkpoint-chain, and review seams provider-free. E86 restores the
 immutable full model already named by the frozen lock and exactly qualifies
@@ -94,7 +94,11 @@ E101 then supplies the first repaired live checkpoint: Qwen enters
 verification, uses current checking, recovers from a section-version rejection,
 admits one bounded repair, and rechecks the changed candidate without looping.
 The artifact remains not ready. E102 freezes unchanged-policy exact-checkpoint
-continuation; the next six-call tranche is selected but not authorized.
+continuation. E103 executes two calls: exact rejection feedback is used
+coherently, but unsafe section-boundary semantics corrupt the artifact and the
+pending effect cannot enter a 21,318-token next packet. The active work is now
+offline reconciliation of artifact-boundary correctness and verification-state
+turnover. The corrupted route is closed and no GPU operation is authorized.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 

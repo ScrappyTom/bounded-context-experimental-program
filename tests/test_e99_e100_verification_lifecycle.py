@@ -55,14 +55,14 @@ def test_current_boundary_preserves_e100_and_e99_as_history() -> None:
         (ROOT / "SYSTEM_INTERACTION_EXPLORATION.json").read_text(encoding="utf-8")
     )
     boundary = contract["current_program_boundary"]
-    assert boundary["stage"] == "E102"
-    assert boundary["result_commit"] == (
-        "97d84493ef72d271410ae590f6ead7e86c2b551a"
+    assert boundary["stage"] == "E103"
+    assert boundary["result_document"] == (
+        "E103_TRELLIS_VERIFICATION_CONTINUATION_RESULT.md"
     )
     assert boundary["live_predecessor_result"] == (
-        "E101_TRELLIS_REPAIRED_VERIFICATION_CHECKPOINT_RESULT.md"
+        "E103_TRELLIS_VERIFICATION_CONTINUATION_RESULT.md"
     )
-    assert boundary["gpu_operation_selected"] is True
+    assert boundary["gpu_operation_selected"] is False
     assert boundary["gpu_operation_authorized"] is False
 
     live = contract["active_host_runtime_refactor"]["e99_live_lifecycle_result"]

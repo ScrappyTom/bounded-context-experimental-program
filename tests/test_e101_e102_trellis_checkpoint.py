@@ -22,7 +22,7 @@ def test_e101_records_coherent_but_incomplete_live_checkpoint() -> None:
     assert value["candidate"]["closure_readiness"] == "not_ready"
 
 
-def test_e102_selects_unauthorized_exact_checkpoint_resume() -> None:
+def test_e102_freeze_remains_historical_after_e103_execution() -> None:
     value = json.loads(
         (ROOT / "E102_TRELLIS_VERIFICATION_CONTINUATION_STAGE0.json").read_text(
             encoding="utf-8"
@@ -37,8 +37,12 @@ def test_e102_selects_unauthorized_exact_checkpoint_resume() -> None:
     contract = json.loads(
         (ROOT / "SYSTEM_INTERACTION_EXPLORATION.json").read_text(encoding="utf-8")
     )
-    assert contract["current_program_boundary"]["stage"] == "E102"
+    assert contract["current_program_boundary"]["stage"] == "E103"
+    assert contract["current_program_boundary"]["gpu_operation_selected"] is False
     scout = contract["active_host_runtime_refactor"]["selected_lifecycle_scout"]
     assert scout["stage"] == "E102"
     assert scout["maximum_additional_actor_calls"] == 6
-    assert scout["live_authorized"] is False
+    assert scout["live_authorized"] is True
+    result = contract["active_host_runtime_refactor"]["e103_live_continuation_result"]
+    assert result["actor_calls"] == 2
+    assert result["terminal"] == "capacity_blocked"

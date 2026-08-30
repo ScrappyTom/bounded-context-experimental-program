@@ -1832,7 +1832,7 @@ untested. The sealed run is closed.
 # E100 — repaired verification-lifecycle Stage 0
 
 Source:
-`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@76091fc5885d25d31becccbb0edb8fc6a3681bac`
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@97d84493ef72d271410ae590f6ead7e86c2b551a`
 
 The new route begins again from the original E96 donor. At phase transition, a
 replaceable exact verification contract supersedes construction guidance and
@@ -1847,3 +1847,53 @@ repairs, a passing current recheck, and completion in eleven actor calls. All
 
 Disposition: **AF/NQ** — repaired lifecycle reachability is qualified. The live
 route is selected but unauthorized and remains donor-derived.
+
+# E101 — repaired verification lifecycle live checkpoint
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@76091fc5885d25d31becccbb0edb8fc6a3681bac`
+
+Six live actor calls crossed pending construction effect into verification,
+ran a current check, recovered from an exact section-version rejection,
+admitted one bounded repair, and ran a changed-candidate check. No loop or
+submission occurred. The candidate remained `not_ready`: 1,041 words, nine
+decision sources, T01 met, and T02–T08 failing under the frozen evaluator.
+
+Disposition: **LR/NQ** — coherent feedback-loop reachability, no useful
+completion. Exact-checkpoint continuation was frozen separately as E102.
+
+# E102 — exact-checkpoint continuation Stage 0
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@97d84493ef72d271410ae590f6ead7e86c2b551a`
+
+Provider-free checkpoint hydration preserved exact event, candidate, pending
+check, and economic state. Pending `RESULT-024` entered a feasible 19,247-token
+packet and the action/check/repair/recheck path qualified. All 318 then-current
+apparatus tests passed. Zero provider calls occurred.
+
+Disposition: **AF/NQ** — continuation reachability only. Its authorized live
+result is E103.
+
+# E103 — verification continuation exposes mutation and residency faults
+
+Source:
+`ScrappyTom/qwen38-artifact-coupled-integration-scout-v0@13833edaed66634a2f8318d8f747b9f6acd66019`;
+frozen execution commit
+`97d84493ef72d271410ae590f6ead7e86c2b551a`.
+
+Two normal actor calls used the current check, recovered from an exact section-
+hash rejection, and admitted a targeted repair. A host section-boundary defect
+then deleted the hidden heat section and glued the power heading. The resulting
+871-word, eight-source candidate remained `not_ready`. The frozen evaluator
+also contained a T08 word-order false negative; correcting it prospectively
+does not alter the overall failure.
+
+The pending repair effect could not enter call 27: 21,318 prompt tokens versus
+20,992 allowed. Ten actor calls and 298,937 serialized tokens remained. The run
+sealed and released normally.
+
+Disposition: **LR/AF/NQ** — exact rejection feedback uptake is locally
+positive; artifact transport and verification-residency utility are negative.
+The corrupted route is closed. No-GPU verification-residency reconciliation is
+selected.

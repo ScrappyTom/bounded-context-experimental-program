@@ -39,11 +39,11 @@ def test_e97_remains_qualified_infrastructure_under_selected_repaired_scout() ->
     assert lifecycle["stage"] == "E97"
     assert lifecycle["status"] == "offline_future_path_qualified"
     boundary = contract["current_program_boundary"]
-    assert boundary["stage"] == "E102"
-    assert boundary["gpu_operation_selected"] is True
+    assert boundary["stage"] == "E103"
+    assert boundary["gpu_operation_selected"] is False
     assert boundary["gpu_operation_authorized"] is False
     assert boundary["next_document"] == (
-        "E102_TRELLIS_VERIFICATION_CONTINUATION_STAGE0.md"
+        "NEXT_OFFLINE_VERIFICATION_RESIDENCY_RECONCILIATION.md"
     )
     result = (ROOT / "E97_TRELLIS_CANDIDATE_EFFECT_LIFECYCLE_RESULT.md").read_text(
         encoding="utf-8"

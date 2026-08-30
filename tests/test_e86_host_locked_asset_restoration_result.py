@@ -53,5 +53,5 @@ def test_governing_contract_marks_only_provider_free_exact_qualification() -> No
     assert refactor["exact_locked_full_model_present"] is True
     assert refactor["exact_provider_free_qualification"] is True
     assert refactor["live_gpu_provider_qualification"] is True
-    assert refactor["gpu_operation_selected"] is True
+    assert refactor["gpu_operation_selected"] is False
     assert refactor["gpu_operation_authorized"] is False

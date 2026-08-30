@@ -52,6 +52,25 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
+E103 closes the authorized E102 continuation after two normal actor calls. Qwen
+used the pending current check to propose a targeted authority/currentness
+repair, absorbed an exact section-hash rejection, and repeated the same repair
+with the corrected hash. The accepted mutation exposed a host section-boundary
+fault: a previously glued heat heading was inside the authority span and was
+deleted, then the power heading was glued in turn. The candidate became
+structurally worse and remains `not_ready`.
+
+The new repair effect remained pending because call 27 required 21,318 prompt
+tokens against 20,992 allowed. Only 326 tokens were missing, while ten actor
+calls and 298,937 serialized tokens remained. This exposes verification-state
+turnover—not construction-effect duplication—as the next capacity boundary.
+The run is sealed and closed. See
+[E103](E103_TRELLIS_VERIFICATION_CONTINUATION_RESULT.md).
+
+The selected successor is the no-GPU
+[verification residency reconciliation](NEXT_OFFLINE_VERIFICATION_RESIDENCY_RECONCILIATION.md).
+No live continuation is authorized or eligible.
+
 E101 records the repaired scout's mandatory live checkpoint. Across six actor
 calls, Qwen completed construction, entered verification, ran a current check,
 recovered from an exact section-version rejection, admitted one bounded repair,

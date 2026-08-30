@@ -17,7 +17,7 @@ class SystemInteractionDirectionTests(unittest.TestCase):
 
     def test_unit_is_whole_configuration_not_component(self):
         self.assertEqual(
-            "e102_exact_checkpoint_continuation_selected_awaiting_authorization",
+            "e103_closed_offline_verification_residency_reconciliation_selected",
             self.contract["status"],
         )
         self.assertEqual(
@@ -82,7 +82,12 @@ class SystemInteractionDirectionTests(unittest.TestCase):
         self.assertTrue(scout["readable_phase_contract_aligned"])
         self.assertTrue(scout["rejected_response_prompt_receipts"])
         self.assertEqual(19_247, scout["sealed_e99_replay_next_prompt_tokens"])
-        self.assertFalse(scout["live_authorized"])
+        self.assertTrue(scout["live_authorized"])
+        result = self.contract["active_host_runtime_refactor"][
+            "e103_live_continuation_result"
+        ]
+        self.assertEqual("capacity_blocked", result["terminal"])
+        self.assertTrue(result["route_closed"])
 
     def test_closed_scout_measured_interaction_and_successor_are_explicit(self):
         closed = self.contract["closed_first_interaction"]

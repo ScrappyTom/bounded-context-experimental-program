@@ -1,8 +1,8 @@
 # Structured exploration roadmap
 
-Date: 2026-08-29
+Date: 2026-08-30
 
-Status: updated through E102; Solace produced a positive acquisition-to-
+Status: updated through E103; Solace produced a positive acquisition-to-
 construction interaction and a negative fixed-scaffold verification result.
 Orchard transfers the phase-conditional system: bounded current verification
 enables repair effect uptake and recheck where fixed append-only state stops,
@@ -1014,3 +1014,26 @@ strict, and the model-facing effect/currentness state becomes replaceable after
 delivery. The next live system must still include construction, effect uptake,
 current check, repair, recheck, readiness, and external adjudication. No GPU
 operation is currently selected or authorized.
+
+## E103 route update
+
+The donor-derived verification route is closed. It did not fail because Qwen
+looped: the actor used a current check, proposed a bounded repair, and corrected
+an exact section binding after rejection. It failed because the host's section
+operation did not protect Markdown boundaries and because verification-phase
+exact bodies rebuilt a capacity deficit around the next pending effect.
+
+The next unit is therefore offline systems reconciliation, not a longer
+continuation or a new semantic carrier. It jointly audits:
+
+```text
+artifact mutation boundary
+× evaluator contract
+× current/stale check lifecycle
+× resolved rejection lifecycle
+× pending effect delivery
+× exact reopen custody
+```
+
+Only host-mechanical relations may change residency. The audit cannot rank
+semantic importance or infer model understanding. No GPU operation is selected.

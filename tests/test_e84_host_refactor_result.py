@@ -33,11 +33,9 @@ def test_governing_contract_records_refactor_and_keeps_interaction_unit() -> Non
     assert refactor["verification"]["e85_full_compatible_regression_passed"] == 277
     assert refactor["exact_provider_free_qualification"] is True
     assert refactor["live_gpu_provider_qualification"] is True
-    assert refactor["gpu_operation_selected"] is True
+    assert refactor["gpu_operation_selected"] is False
     assert refactor["gpu_operation_authorized"] is False
-    assert refactor["next_operation"] == (
-        "e102_exact_checkpoint_continuation_v1"
-    )
+    assert refactor["next_operation"] == "offline_verification_residency_reconciliation"
 
 
 def test_narrative_preserves_claim_limits_and_host_model_investigator_split() -> None:
