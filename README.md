@@ -52,6 +52,21 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
+E105 freezes the clean prospective whole-lifecycle route requested after E104.
+It does not resume E103. The provider-free system starts from the original
+Trellis seed and composes corrected section transport, temporary anchored
+scaffolding, exact incremental work, E97 effect turnover, E104 check turnover,
+current verification, bounded repair, and independent readiness. It completes
+failed check → repair → passing recheck → externally ready → submission in 19
+actor and 7 maintenance calls across two exact checkpoints; all 333 apparatus
+tests pass and no GPU/model call occurred. See
+[E105](E105_TRELLIS_CLEAN_WHOLE_LIFECYCLE_STAGE0.md).
+
+The first live tranche is selected at apparatus commit
+`fc5acada791bc53dc3562e3f3e2e0b62c1f367a0`: at most 12 actor and 6
+maintenance calls, 18 provider calls, and 400,000 serialized tokens, with
+mandatory review and no automatic continuation. It is not GPU-authorized.
+
 E104 completes the selected no-GPU verification-residency reconciliation.
 The blocked E103 packet duplicated delivered check findings in complete check
 bodies and the replaceable current-verification state. A prospective exact
@@ -64,9 +79,8 @@ made. The historical route remains closed because its candidate is corrupted
 and no sealed uncorrupted checkpoint exists. See
 [E104](E104_VERIFICATION_RESIDENCY_RECONCILIATION.md).
 
-No live run is selected. The next eligible live route would require a new,
-prospectively frozen clean whole-lifecycle Stage 0 under the corrected artifact
-transport and E104 host; it is not an E103 continuation.
+That required clean whole-lifecycle Stage 0 is now E105. It remains distinct
+from E103 and requires separate authorization.
 
 E103 closed the authorized E102 continuation after two normal actor calls. Qwen
 used the pending current check to propose a targeted authority/currentness

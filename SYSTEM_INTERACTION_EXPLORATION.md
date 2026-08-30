@@ -2,7 +2,7 @@
 
 Date: 2026-08-30
 
-Status: governing direction through E104; E84 qualifies the event-driven host
+Status: governing direction through E105; E84 qualifies the event-driven host
 core offline and E85 hardens its live request/exposure, rejection, reopen,
 resource, checkpoint-chain, and review seams provider-free. E86 restores the
 immutable full model already named by the frozen lock and exactly qualifies
@@ -108,7 +108,14 @@ The next systems question is behavioral and lifecycle-complete, not another
 receipt variant: on a clean prospectively frozen trajectory, does the combined
 system retain orientation after check turnover and proceed through effect
 uptake, current check, bounded repair, current recheck, and correct closure or
-explicit incomplete stop? No such live run is selected yet.
+explicit incomplete stop? E105 now qualifies that clean system provider-free
+and selects only its first review tranche. The experiment begins from the
+original task seed and does not resume E103. Its causal unit is the whole
+evolving configuration: temporary scaffold, exact artifact, action transport,
+E97 effects, E104 checks, verification, repair, external readiness, and
+checkpoint policy. The fixture proves reachability only. The live tranche
+remains unauthorized, stops at 12 actor calls or an earlier terminal, and
+cannot continue automatically.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 

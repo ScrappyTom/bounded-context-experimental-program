@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-30
-Status: current program synthesis through E104; E84 closes the E83 host
+Status: current program synthesis through E105; E84 closes the E83 host
 modularity blocker offline and E85 hardens the final request, rejection,
 reopen, resource, checkpoint-chain, and review seams provider-free. E86
 restores the immutable full model already named by the frozen lock, removes the
@@ -333,6 +333,30 @@ E104 is mechanical infrastructure evidence. The next live evidence, if later
 selected, must come from a new clean prospectively frozen whole-lifecycle Stage
 0 under the corrected transport and E104 host. E103 remains closed, and no GPU
 operation is authorized.
+
+## E105 program update
+
+The clean prospective whole-lifecycle Stage 0 is now qualified. It does not
+repair E103 or combine artifact bytes with later state. It begins from the
+original Trellis seed and composes the corrected section operation, temporary
+anchored construction scaffold, exact incremental artifact, E97 applied-effect
+turnover, E104 delivered-check turnover, current candidate/check binding,
+bounded repair, and external readiness.
+
+The provider-free configuration completes in 19 actor and seven maintenance
+calls across two exact checkpoints. It exercises seven relief events, a failed
+current check, bounded repair, passing recheck, and submission. Three delivered
+applied effects and the delivered failed check leave full residency under exact
+bindings. All six headings remain intact. The external rule marks the initial
+candidate `not_ready` and the final exact candidate `ready`; neither submission
+nor model-authored state is readiness evidence. All 333 apparatus tests pass.
+
+This is apparatus reachability, not behavioral utility. The first live tranche
+is selected at apparatus commit
+`fc5acada791bc53dc3562e3f3e2e0b62c1f367a0` for at most 12 actor and six
+maintenance calls, with mandatory qualitative/mechanical review and no
+automatic continuation. It remains unauthorized pending explicit commit-bound
+GPU authority.
 
 ## Executive disposition
 

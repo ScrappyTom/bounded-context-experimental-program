@@ -2,7 +2,7 @@
 
 Date: 2026-08-30
 
-Status: updated through E104; Solace produced a positive acquisition-to-
+Status: updated through E105; Solace produced a positive acquisition-to-
 construction interaction and a negative fixed-scaffold verification result.
 Orchard transfers the phase-conditional system: bounded current verification
 enables repair effect uptake and recheck where fixed append-only state stops,
@@ -1056,3 +1056,19 @@ artifact has no sealed checkpoint, while the next sealed checkpoint is already
 corrupted, so no donor state was invented and E103 remains closed. Any future
 live work requires a clean, prospectively frozen whole-lifecycle Stage 0 with
 correct section transport and the E104 rule. No GPU operation is selected.
+
+## E105 route update
+
+The clean prospectively frozen route now exists. It starts from the original
+Trellis task seed and composes the corrected section transport, temporary
+anchored construction scaffold, exact incremental artifact, E97 effect
+turnover, E104 check turnover, bounded repair, and an external readiness rule.
+The provider-free fixture completes the entire lifecycle in 19 actor and seven
+maintenance calls across two checkpoints, with fail → repair → pass → externally
+ready → submit and no heading corruption.
+
+The first live tranche is the selected next operation, but it is not
+authorized. It is bounded to 12 actor and six maintenance calls, one attempt
+per call, zero retries, mandatory transcript-level review, and no automatic
+continuation. A checkpoint is not useful completion, and provider-free success
+does not predict live semantic quality.

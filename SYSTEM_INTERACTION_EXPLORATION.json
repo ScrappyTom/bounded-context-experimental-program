@@ -210,10 +210,36 @@
       "donor_checkpoint_eligible": false,
       "live_behavioral_utility_measured": false
     },
-    "next_operation": "fresh_whole_lifecycle_stage0_not_selected",
-    "gpu_operation_selected": false,
+    "e105_clean_whole_lifecycle_stage0": {
+      "stage": "E105",
+      "apparatus_commit": "fc5acada791bc53dc3562e3f3e2e0b62c1f367a0",
+      "run_id": "2026-08-30-trellis-clean-whole-lifecycle-v0",
+      "configuration": "V1_CLEAN_PROSPECTIVE_LIFECYCLE",
+      "historical_checkpoint_imported": false,
+      "provider_free_actor_calls": 19,
+      "provider_free_maintenance_calls": 7,
+      "provider_free_provider_calls": 26,
+      "provider_free_serialized_tokens": 343119,
+      "provider_free_relief_events": 7,
+      "provider_free_check_sequence": [
+        false,
+        true
+      ],
+      "provider_free_final_readiness": "ready",
+      "provider_free_submitted": true,
+      "full_repository_tests_passed": 333,
+      "first_live_maximum_actor_calls": 12,
+      "first_live_maximum_maintenance_calls": 6,
+      "first_live_maximum_provider_calls": 18,
+      "first_live_maximum_serialized_tokens": 400000,
+      "mandatory_review": true,
+      "automatic_continuation": false,
+      "live_authorized": false
+    },
+    "next_operation": "trellis_clean_whole_lifecycle_initial_tranche",
+    "gpu_operation_selected": true,
     "gpu_operation_authorized": false,
-    "maximum_selected_model_calls": 0,
+    "maximum_selected_model_calls": 18,
     "automatic_continuation": false
   },
   "selected_whole_system_interaction": {
@@ -297,18 +323,18 @@
     }
   },
   "current_program_boundary": {
-    "stage": "E104",
-    "status": "offline_verification_residency_reconciled_no_live_successor_selected",
-    "result_document": "E104_VERIFICATION_RESIDENCY_RECONCILIATION.md",
-    "result_commit": "b548a4d246e3261da69d913a00c73c5171eefc78",
-    "supported_interaction": "exact_candidate_bound_verification_state_can_replace_duplicate_delivered_check_bodies_while_preserving_exact_reopen",
-    "semantic_failure": "same_source_replacement_losses_remain_in_the_not_ready_live_artifact",
-    "mechanical_result": "check_turnover_restores_provider_free_pending_effect_feasibility_without_compacting_pending_state",
+    "stage": "E105",
+    "status": "clean_whole_lifecycle_stage0_qualified_live_tranche_selected_not_authorized",
+    "result_document": "E105_TRELLIS_CLEAN_WHOLE_LIFECYCLE_STAGE0.md",
+    "result_commit": "fc5acada791bc53dc3562e3f3e2e0b62c1f367a0",
+    "supported_interaction": "provider_free_clean_system_reaches_pressure_scaffolded_construction_current_check_repair_recheck_external_readiness_and_submission",
+    "semantic_failure": "live_Qwen_scaffold_quality_pacing_repair_and_closure_remain_unmeasured",
+    "mechanical_result": "corrected_section_transport_E97_effect_turnover_and_E104_check_turnover_compose_across_exact_checkpoint_resume",
     "live_predecessor_result": "E103_TRELLIS_VERIFICATION_CONTINUATION_RESULT.md",
     "live_predecessor_terminal": "capacity_blocked_not_ready_structurally_corrupted_candidate",
-    "remaining_transport_limit": "live_orientation_repair_recheck_and_closure_under_the_prospective_rule_are_unmeasured",
-    "next_document": null,
-    "gpu_operation_selected": false,
+    "remaining_transport_limit": "first_live_tranche_requires_exact_commit_bound_authorization_and_mandatory_review",
+    "next_document": "E105_TRELLIS_CLEAN_WHOLE_LIFECYCLE_STAGE0.md",
+    "gpu_operation_selected": true,
     "gpu_operation_authorized": false
   },
   "closed_first_interaction": {
