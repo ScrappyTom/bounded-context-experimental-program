@@ -1,7 +1,7 @@
 # Program reconciliation: what was planned, what was learned, and what remains
 
 Date: 2026-08-30
-Status: current program synthesis through E105; E84 closes the E83 host
+Status: current program synthesis through E107; E84 closes the E83 host
 modularity blocker offline and E85 hardens the final request, rejection,
 reopen, resource, checkpoint-chain, and review seams provider-free. E86
 restores the immutable full model already named by the frozen lock, removes the
@@ -357,6 +357,51 @@ is selected at apparatus commit
 maintenance calls, with mandatory qualitative/mechanical review and no
 automatic continuation. It remains unauthorized pending explicit commit-bound
 GPU authority.
+
+## E106 program update
+
+The clean first live tranche completed its mandatory twelve-call checkpoint
+without a malformed action, retry, recurrence, reopen, or host failure. Qwen
+requested every half of all twelve Trellis sources in a stable pairwise order.
+The final LINEAGE/REVIEW result remains pending, so the run paused before the
+first decision with the complete catalog delivered.
+
+Repeated pressure relief and six anchored maintenance calls remained live as
+one system. Seven source results became exact receipts; four remain resident;
+the twelfth is pending. Twenty claims were admitted over time, but the bounded
+same-source replacement lifecycle left ten current claims and again displaced
+important governing relations with later table rows. The scaffold was
+actor-visible for calls 8–12 but did not change Qwen's acquisition plan.
+
+This is neither useful completion nor an acquisition-loop negative. It is a
+clean whole-system checkpoint:
+
+```text
+purposeful exact acquisition
+× repeated first-fit relief
+× safe but selectively lossy semantic residue
+× unchanged exact candidate
+→ pending final evidence before the first post-catalog decision
+```
+
+The program will not repair the observed scaffold or add a construction cue.
+Doing so would replace the evolving configuration after observing its state.
+
+## E107 program update
+
+The exact E106 checkpoint continuation is frozen at apparatus commit
+`d62a7594e4703453bd990e1e7df06daf3422c04c`. Provider-free hydration preserves
+the live checkpoint, including pending `RESULT-012` and the actual lossy
+ten-claim scaffold. The remaining host path reaches ready submission in seven
+additional actor and three maintenance calls, within the proposed tranche
+limits.
+
+That is apparatus reachability only. The selected live question is whether
+Qwen's first post-catalog decisions create incremental exact work, repeat
+evidence demand, capitalize scaffold losses, and eventually reach current
+verification and correct stopping. The continuation permits twelve additional
+actor and six maintenance calls, one attempt per call, zero retries, mandatory
+review, and no automatic continuation. It is frozen but not authorized.
 
 ## Executive disposition
 

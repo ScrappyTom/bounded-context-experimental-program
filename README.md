@@ -52,20 +52,31 @@ Adding a candidate mechanism here does not authorize or promote it.
 
 ## Current route
 
-E105 freezes the clean prospective whole-lifecycle route requested after E104.
-It does not resume E103. The provider-free system starts from the original
-Trellis seed and composes corrected section transport, temporary anchored
-scaffolding, exact incremental work, E97 effect turnover, E104 check turnover,
-current verification, bounded repair, and independent readiness. It completes
-failed check → repair → passing recheck → externally ready → submission in 19
-actor and 7 maintenance calls across two exact checkpoints; all 333 apparatus
-tests pass and no GPU/model call occurred. See
-[E105](E105_TRELLIS_CLEAN_WHOLE_LIFECYCLE_STAGE0.md).
+E106 records the first clean prospective live checkpoint. Across 12 actor and
+six maintenance calls, Qwen completed a coherent, non-recurrent sweep of the
+twelve-source catalog while repeated exact pressure relief kept every call
+feasible. The final source result remains pending, so the checkpoint occurs
+one decision before the first true post-catalog construction opportunity. The
+candidate is unchanged and independently `not_ready`.
 
-The first live tranche is selected at apparatus commit
-`fc5acada791bc53dc3562e3f3e2e0b62c1f367a0`: at most 12 actor and 6
-maintenance calls, 18 provider calls, and 400,000 serialized tokens, with
-mandatory review and no automatic continuation. It is not GPU-authorized.
+The live semantic path worked mechanically but repeated its known selection
+failure: twenty grounded claims entered across time, while same-source
+replacement left ten current claims and displaced stronger authority,
+threshold, capacity, duration, and gate relations with later table rows. The
+scaffold was visible from call 8 onward but did not disrupt or accelerate the
+catalog plan. See [E106](E106_TRELLIS_CLEAN_WHOLE_LIFECYCLE_CHECKPOINT_RESULT.md).
+
+E107 freezes an unchanged exact-checkpoint continuation at apparatus commit
+`d62a7594e4703453bd990e1e7df06daf3422c04c`. Provider-free hydration preserves
+the actual lossy scaffold and pending `RESULT-012`; the remaining host path can
+reach ready submission within seven actor and three maintenance calls. The
+selected live tranche permits at most 12 additional actor and six maintenance
+calls, 18 provider calls, and 400,000 serialized tokens, with mandatory review
+and no automatic continuation. It is not GPU-authorized. See
+[E107](E107_TRELLIS_CLEAN_WHOLE_LIFECYCLE_CONTINUATION_STAGE0.md).
+
+E105 remains the provider-free clean whole-lifecycle qualification that began
+this route. See [E105](E105_TRELLIS_CLEAN_WHOLE_LIFECYCLE_STAGE0.md).
 
 E104 completes the selected no-GPU verification-residency reconciliation.
 The blocked E103 packet duplicated delivered check findings in complete check

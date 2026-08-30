@@ -35,7 +35,9 @@ def test_governing_contract_records_refactor_and_keeps_interaction_unit() -> Non
     assert refactor["live_gpu_provider_qualification"] is True
     assert refactor["gpu_operation_selected"] is True
     assert refactor["gpu_operation_authorized"] is False
-    assert refactor["next_operation"] == "trellis_clean_whole_lifecycle_initial_tranche"
+    assert refactor["next_operation"] == (
+        "trellis_clean_whole_lifecycle_exact_checkpoint_continuation"
+    )
 
 
 def test_narrative_preserves_claim_limits_and_host_model_investigator_split() -> None:

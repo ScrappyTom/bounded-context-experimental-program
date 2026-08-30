@@ -2,7 +2,7 @@
 
 Date: 2026-08-30
 
-Status: governing direction through E105; E84 qualifies the event-driven host
+Status: governing direction through E107; E84 qualifies the event-driven host
 core offline and E85 hardens its live request/exposure, rejection, reopen,
 resource, checkpoint-chain, and review seams provider-free. E86 restores the
 immutable full model already named by the frozen lock and exactly qualifies
@@ -116,6 +116,28 @@ E97 effects, E104 checks, verification, repair, external readiness, and
 checkpoint policy. The fixture proves reachability only. The live tranche
 remains unauthorized, stops at 12 actor calls or an earlier terminal, and
 cannot continue automatically.
+
+E106 completes that tranche. The actor makes twelve coherent pairwise reads,
+repeated relief externalizes seven old results, and six maintenance calls leave
+a grounded but selectively lossy ten-claim scaffold. The final source result is
+pending, the exact candidate is unchanged, and no recurrence occurs. The pause
+therefore precedes rather than answers the acquisition-to-construction
+question.
+
+E107 freezes the unchanged exact-checkpoint continuation. Its interaction unit
+is the actual intermediate system—not a repaired scaffold or new cue:
+
+```text
+pending final exact evidence
+× current fallible scaffold
+× exact incremental artifact affordances
+× first-fit pressure lifecycle
+→ first post-catalog construction/reacquisition decision
+→ effects, check, repair, recheck, and stopping if reached
+```
+
+Provider-free continuation qualifies reachability. Live behavior remains
+unmeasured and no GPU call is authorized.
 
 Machine-readable guardrails: `SYSTEM_INTERACTION_EXPLORATION.json`
 

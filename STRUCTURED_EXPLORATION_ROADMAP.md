@@ -2,7 +2,7 @@
 
 Date: 2026-08-30
 
-Status: updated through E105; Solace produced a positive acquisition-to-
+Status: updated through E107; Solace produced a positive acquisition-to-
 construction interaction and a negative fixed-scaffold verification result.
 Orchard transfers the phase-conditional system: bounded current verification
 enables repair effect uptake and recheck where fixed append-only state stops,
@@ -1072,3 +1072,30 @@ authorized. It is bounded to 12 actor and six maintenance calls, one attempt
 per call, zero retries, mandatory transcript-level review, and no automatic
 continuation. A checkpoint is not useful completion, and provider-free success
 does not predict live semantic quality.
+
+## E106 route update
+
+The clean first tranche is complete. It did not reach construction, but it also
+did not loop. Qwen used all twelve actor calls for novel, valid pairwise reads
+that cover the complete source catalog; the final result is pending and has not
+entered a model decision. Repeated relief externalized seven exact bodies, and
+no body was reopened.
+
+The six live maintenance calls were mechanically successful and materially
+safe, yet their replace-per-source lifecycle again preferred later table rows
+over earlier governing rules. The current register is therefore a genuine but
+selectively weak information state. Changing it now would abandon the
+whole-configuration trajectory before observing its downstream consequences.
+
+## E107 route update
+
+An unchanged exact-checkpoint continuation is frozen. Provider-free replay from
+the live checkpoint reaches completion within seven actor and three maintenance
+calls, which qualifies transport and lifecycle reachability only. The live
+continuation remains bounded to twelve actor and six maintenance calls and must
+stop for review or any earlier terminal.
+
+The route's next evidence must be behavioral: construction versus recurrence,
+artifact incorporation versus correction of the lossy scaffold, exact effect
+uptake, and verification/closure if reached. No additional semantic carrier,
+host rule, phase cue, or scaffold repair is selected.

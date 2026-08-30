@@ -30,10 +30,12 @@ def test_e104_records_exact_check_turnover_without_live_claim() -> None:
     assert result["donor_checkpoint_eligible"] is False
     assert result["live_behavioral_utility_measured"] is False
 
-    assert boundary["stage"] == "E105"
+    assert boundary["stage"] == "E107"
     assert boundary["gpu_operation_selected"] is True
     assert boundary["gpu_operation_authorized"] is False
-    assert boundary["next_document"] == "E105_TRELLIS_CLEAN_WHOLE_LIFECYCLE_STAGE0.md"
+    assert boundary["next_document"] == (
+        "E107_TRELLIS_CLEAN_WHOLE_LIFECYCLE_CONTINUATION_STAGE0.md"
+    )
 
 
 def test_e104_narrative_preserves_scope_and_donor_stop_rule() -> None:

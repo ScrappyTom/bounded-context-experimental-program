@@ -32,7 +32,7 @@ def test_e105_selects_clean_unauthorized_review_tranche() -> None:
     assert result["automatic_continuation"] is False
     assert result["live_authorized"] is False
 
-    assert boundary["stage"] == "E105"
+    assert boundary["stage"] == "E107"
     assert boundary["gpu_operation_selected"] is True
     assert boundary["gpu_operation_authorized"] is False
 

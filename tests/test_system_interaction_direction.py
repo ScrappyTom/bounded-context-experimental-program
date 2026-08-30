@@ -17,7 +17,7 @@ class SystemInteractionDirectionTests(unittest.TestCase):
 
     def test_unit_is_whole_configuration_not_component(self):
         self.assertEqual(
-            "e103_closed_offline_verification_residency_reconciliation_selected",
+            "e107_exact_checkpoint_continuation_selected_not_authorized",
             self.contract["status"],
         )
         self.assertEqual(
